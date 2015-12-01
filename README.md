@@ -4,7 +4,7 @@ In this repo, I'm using the TREC 2005 training dataset as the training set for m
 
 There are the steps I need to go through from text-mining biomedical literature before seeing the results, as summarized in this chart: 
 
-![Work flow](images/Textminig_flowchart.png)
+![Work flow](/images/Textmining_flowchart.png)
 
 Blue blocks indicate some kind of raw/intermediate/final data and green are the processes.  
 
