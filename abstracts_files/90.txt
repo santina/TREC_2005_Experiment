@@ -1,0 +1,3746 @@
+DR1: IEEE Trans Nanobioscience. 2003 Dec;2(4):193-201. 
+
+A novel approach for high-quality microarray processing using third-dye array
+visualization technology.
+
+Wang X, Jiang N, Feng X, Xie Y, Tonellato PJ, Ghosh S, Hessner MJ.
+
+Max McGee National Research Center for Juvenile Diabetes, Department of
+Pediatrics, Medical College of Wisconsin, Milwaukee, WI 53226, USA.
+xujing@mcw.edu
+
+Historically, microarray image processing has been technically challenging in
+obtaining quality gene expression data. After hybridization of Cy3- and
+Cy5-labeled samples, images are collected and processed to obtain gene
+expression ratio measurements for each of the elements on the array. The
+hybridization process often brings in contaminating noise, which can make
+correct identification of the signal difficult. In addition, spot intensity
+levels are highly variable due to the expression differences of different genes,
+and weak spots are often difficult to detect. These conditions are further
+complicated by inherent irregularities in spot position, shape, and size
+commonly found on high-density microarrays, making image processing an often
+labor-intensive task that is difficult to reliably automate. We previously
+reported a novel third-dye array visualization (TDAV) technology that allows
+prehybridization visualization and quality control of printed arrays. Here, we
+present a new microarray image processing approach utilizing TDAV. By
+incorporating the third-dye image, we show that overall quality of the
+microarray data is significantly improved, and automation of processing is
+feasible and reliable. Furthermore, we demonstrate use of the third-dye image to
+better quality control microarray image analysis. Both the principle and
+implementation of the approach are presented in detail, with experimental
+results.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 15376909 [PubMed - indexed for MEDLINE]
+
+
+
+PR2: J Bioinform Comput Biol. 2003 Oct;1(3):541-86. 
+
+Computational strategies for analyzing data in gene expression microarray
+experiments.
+
+Aittokallio T, Kurki M, Nevalainen O, Nikula T, West A, Lahesmaa R.
+
+Department of Computational Biology, University of Tokyo, 5-1-5 Kashiwanoha,
+Kashiwa-Shi, Chiba 277-8562, Japan. jun@gi.k.u-tokyo.ac.jp
+
+Microarray analysis has become a widely used method for generating gene
+expression data on a genomic scale. Microarrays have been enthusiastically
+applied in many fields of biological research, even though several open
+questions remain about the analysis of such data. A wide range of approaches are
+available for computational analysis, but no general consensus exists as to
+standard for microarray data analysis protocol. Consequently, the choice of data
+analysis technique is a crucial element depending both on the data and on the
+goals of the experiment. Therefore, basic understanding of bioinformatics is
+required for optimal experimental design and meaningful interpretation of the
+results. This review summarizes some of the common themes in DNA microarray data
+analysis, including data normalization and detection of differential expression.
+Algorithms are demonstrated by analyzing cDNA microarray data from an experiment
+monitoring gene expression in T helper cells. Several computational biology
+strategies, along with their relative merits, are overviewed and potential areas
+for additional research discussed. The goal of the review is to provide a
+computational framework for applying and evaluating such bioinformatics
+strategies. Solid knowledge of microarray informatics contributes to the
+implementation of more efficient computational protocols for the given data
+obtained through microarray experiments.
+
+Publication Types:
+    Review
+
+PMID: 15290769 [PubMed - indexed for MEDLINE]
+
+
+
+NR3: Brief Funct Genomic Proteomic. 2003 Apr;2(1):31-6. 
+
+Strategies for microarray analysis of limiting amounts of RNA.
+
+Livesey FJ.
+
+Wellcome Trust/Cancer Research UK Institute, Cambridge, UK. rick@welc.cam.ac.uk
+
+One of the critical limitations of current microarray technologies for use in
+expression analyses is the relatively large amount of input RNA required to
+generate labelled cDNA populations for array analysis. In situations where RNA
+is limiting, the options for expression profiling are to increase cDNA labelling
+and hybridisation efficiency, or to use an amplification strategy to generate
+enough RNA/cDNA for use with a standard labelling method. Sample amplification
+approaches must preserve the representation of the relative abundances of the
+different RNAs within the starting population and must also be highly
+reproducible. This review evaluates current signal and sample amplification
+technologies, including those that can be used to generate labelled cDNA
+populations for array analysis from as little as a single cell.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 15239941 [PubMed - indexed for MEDLINE]
+
+
+
+NR4: Brief Funct Genomic Proteomic. 2003 Apr;2(1):7-20. 
+
+Comment in:
+    Brief Funct Genomic Proteomic. 2003 Apr;2(1):4-6.
+
+Resource and hardware options for microarray-based experimentation.
+
+Affara NA.
+
+Department of Pathology, University of Cambridge, UK. na106@cam.ac.uk
+
+DNA microarray technology permits the study of biological systems and processes
+on a genome-wide scale. Arrays based on cDNA clones, oligonucleotides and
+genomic clones have been developed for investigations of gene expression,
+genetic analysis and genomic changes associated with disease. Over the past 3-4
+years, microarrays have become more widely available to the research community.
+This has occurred through increased commercial availability of custom and
+generic arrays and the development of robotic equipment that has enabled array
+printing and analysis facilities to be established in academic research
+institutions. This brief review examines the public and commercial resources,
+the microarray fabrication and data capture and analysis equipment currently
+available to the user.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 15239939 [PubMed - indexed for MEDLINE]
+
+
+
+PR5: Appl Bioinformatics. 2003;2(4):241-4. 
+
+MicroPreP: a cDNA microarray data pre-processing framework.
+
+van Hijum SA, Garcia de la Nava J, Trelles O, Kok J, Kuipers OP.
+
+Molecular Genetics, University of Groningen, Groningen Biomolecular Sciences and
+Biotechnology Institute, Haren, The Netherlands. s.a.f.t.van.hijum@biol.rug.nl
+
+The user-friendly MicroPreP framework was developed to transform raw intensity
+data from cDNA microarrays into high-quality data. The main features of this
+software are: LOWESS normalisation; merging of DNA microarray data from changing
+slide versions; outlier detection; and slide quality assessment.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 15130795 [PubMed - indexed for MEDLINE]
+
+
+
+PR6: Appl Bioinformatics. 2003;2(4):219-28. 
+
+Clinically validated benchmarking of normalisation techniques for two-colour
+oligonucleotide spotted microarray slides.
+
+Listgarten J, Graham K, Damaraju S, Cass C, Mackey J, Zanke B.
+
+PolyomX Program, Cross Cancer Institute, University of Alberta, Alberta Cancer
+Board, Edmonton, AB, Canada. jenn@cs.toronto.ca
+
+Acquisition of microarray data is prone to systematic errors. A correction,
+called normalisation, must be applied to the data before further analysis is
+performed. With many normalisation techniques published and in use, the best way
+of executing this correction remains an open question. In this study, a variety
+of single-slide normalisation techniques, and different parameter settings for
+these techniques, were compared over many replicated microarray experiments.
+Different normalisation techniques were assessed through the distribution of the
+standard deviation of replicates from one biological sample across different
+slides. It is shown that local normalisation outperformed global normalisation,
+and intensity-based 'LOWESS' outperformed trimmed mean and median normalisation
+techniques. Overall, the top performing normalisation technique was a
+print-tip-based LOWESS with zero robust iterations. Lastly, we validated this
+evaluation methodology by examining the ability to predict oestrogen
+receptor-positive and -negative breast cancer samples with data that had been
+normalised using different techniques.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 15130793 [PubMed - indexed for MEDLINE]
+
+
+
+NR7: Appl Bioinformatics. 2003;2(4):197-208. 
+
+Overcoming confounded controls in the analysis of gene expression data from
+microarray experiments.
+
+Bhattacharya S, Long D, Lyons-Weiler J.
+
+Center for Biomedical Informatics, University of Pittsburgh, Pittsburgh, PA
+15232, USA.
+
+A potential limitation of data from microarray experiments exists when improper
+control samples are used. In cancer research, comparisons of tumour expression
+profiles to those from normal samples is challenging due to tissue heterogeneity
+(mixed cell populations). A specific example exists in a published colon cancer
+dataset, in which tissue heterogeneity was reported among the normal samples. In
+this paper, we show how to overcome or avoid the problem of using normal samples
+that do not derive from the same tissue of origin as the tumour. We advocate an
+exploratory unsupervised bootstrap analysis that can reveal unexpected and
+undesired, but strongly supported, clusters of samples that reflect tissue
+differences instead of tumour versus normal differences. All of the algorithms
+used in the analysis, including the maximum difference subset algorithm,
+unsupervised bootstrap analysis, pooled variance t-test for finding
+differentially expressed genes and the jackknife to reduce false positives, are
+incorporated into our online Gene Expression Data Analyzer ( http://
+bioinformatics.upmc.edu/GE2/GEDA.html ).
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 15130791 [PubMed - indexed for MEDLINE]
+
+
+
+PR8: Appl Bioinformatics. 2003;2(4):193-5. 
+
+Profound normalisation challenges remain in the analysis of data from microarray
+experiments.
+
+Lyons-Weiler J.
+
+Publication Types:
+    Editorial
+
+PMID: 15130790 [PubMed - indexed for MEDLINE]
+
+
+
+DR9: Biotechnol Bioeng. 2003 Dec 30;84(7):795-800. 
+
+Maintaining data integrity in microarray data management.
+
+Grant GR, Manduchi E, Pizarro A, Stoeckert CJ Jr.
+
+Penn Center for Bioinformatics (PCBI), University of Pennsylvania, 1429 Blockley
+Hall, 423 Guardian Drive, Philadelphia, Pennsylvania 19104-6021, USA.
+ggrant@grant.org
+
+Gene expression microarrays are a relatively new technology, dating back just a
+few years, yet they have already become a very widely used tool in biology, and
+have evolved to a wide range of applications well beyond their original design
+intent. However, while the use of microarrays has expanded, and the issues of
+performance optimization have been intensively studied, the fundamental issue of
+data integrity management has largely been ignored. Now that performance has
+improved so greatly, the shortcomings of data integrity control methods
+constitute a greater percent of the stumbling blocks for investigators.
+Microarray data are cumbersome, and the rule up to this point has mostly been
+one of hands-on transformations, leading to human errors which often have
+dramatic consequences. We show in this review that the time lost on such
+mistakes is enormous and dramatically affects results; therefore, mistakes
+should be mitigated in any way possible. We outline the scope of the data
+integrity issue, to survey some of the most common and dangerous data
+transformations, and their shortcomings. To illustrate, we review some case
+studies. We then look at the work done by the research community on this issue
+(which admittedly is meager up to this point). Some data integrity issues are
+always going to be difficult, while others will become easier-one of our goals
+is to expedite the use of integrity control methods. Finally, we present some
+preliminary guidelines and some specific approaches that we believe should be
+the focus of future research. Copyright 2003 Wiley Periodicals, Inc.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 14708120 [PubMed - indexed for MEDLINE]
+
+
+
+DR10: Ann N Y Acad Sci. 2003 Nov;1005:284-7. 
+
+The design of a gene chip for functional immunological studies on a high-quality
+control platform.
+
+Waukau J, Jailwala P, Wang Y, Khoo HJ, Ghosh S, Wang X, Hessner MJ.
+
+Max McGee National Research Center for Juvenile Diabetes, Department of
+Pediatrics, Medical College and Children's Hospital of Wisconsin, Milwaukee,
+Wisconsin 53226, USA.
+
+We have created an immunology-related microarray chip containing primarily known
+genes with well-studied functional properties. By looking at known genes rather
+than expressed sequence tags, we hope to gain a better understanding of
+immunological pathways and how they work. The immunology gene chip contains
+genes from the following functional categories: T cell genes; B cell genes;
+dendritic cell genes; chemokine and cytokine genes; apoptosis genes; cell cycle
+genes; cell interaction genes; general hematology and immunology genes; and
+adhesion genes. We have also developed a novel three-color cDNA array platform
+in which arrays are directly visualized before hybridization, which allows us to
+select only high-quality chips for our experiments. In an effort to provide
+quantitative quality control for each array element as well as the entire chip,
+we have developed Matarray, a software package for image processing and data
+acquisition. With Matarray, we have built a quantitative data filtering and
+normalization scheme that has proved to be more efficient than the existing
+methods. The list of immunology chip genes is available from the authors.
+
+PMID: 14679077 [PubMed - indexed for MEDLINE]
+
+
+
+NR11: Anal Chem. 2003 Sep 1;75(17):4672-5. 
+
+Effects of atmospheric ozone on microarray data quality.
+
+Fare TL, Coffey EM, Dai H, He YD, Kessler DA, Kilian KA, Koch JE, LeProust E,
+Marton MJ, Meyer MR, Stoughton RB, Tokiwa GY, Wang Y.
+
+Rosetta Inpharmatics LLC, 12040 115th Avenue NE, Kirkland, Washington 98034,
+USA.
+
+A data anomaly was observed that affected the uniformity and reproducibility of
+fluorescent signal across DNA microarrays. Results from experimental sets
+designed to identify potential causes (from microarray production to array
+scanning) indicated that the anomaly was linked to a batch process; further work
+allowed us to localize the effect to the posthybridization array stringency
+washes. Ozone levels were monitored and highly correlated with the batch effect.
+Controlled exposures of microarrays to ozone confirmed this factor as the root
+cause, and we present data that show susceptibility of a class of cyanine dyes
+(e.g., Cy5, Alexa 647) to ozone levels as low as 5-10 ppb for periods as short
+as 10-30 s. Other cyanine dyes (e.g., Cy3, Alexa 555) were not significantly
+affected until higher ozone levels (> 100 ppb). To address this environmental
+effect, laboratory ozone levels should be kept below 2 ppb (e.g., with filters
+in HVAC) to achieve high quality microarray data.
+
+PMID: 14632079 [PubMed - indexed for MEDLINE]
+
+
+
+NR12: Bioinformatics. 2003 Nov 1;19(16):2088-96. 
+
+A Bayesian missing value estimation method for gene expression profile data.
+
+Oba S, Sato MA, Takemasa I, Monden M, Matsubara K, Ishii S.
+
+Graduate School of Information Science, Nara Institute of Science and
+Technology, 8916-5 Takayama, Ikoma 630-0192, Japan.
+
+MOTIVATION: Gene expression profile analyses have been used in numerous studies
+covering a broad range of areas in biology. When unreliable measurements are
+excluded, missing values are introduced in gene expression profiles. Although
+existing multivariate analysis methods have difficulty with the treatment of
+missing values, this problem has received little attention. There are many
+options for dealing with missing values, each of which reaches drastically
+different results. Ignoring missing values is the simplest method and is
+frequently applied. This approach, however, has its flaws. In this article, we
+propose an estimation method for missing values, which is based on Bayesian
+principal component analysis (BPCA). Although the methodology that a
+probabilistic model and latent variables are estimated simultaneously within the
+framework of Bayes inference is not new in principle, actual BPCA implementation
+that makes it possible to estimate arbitrary missing variables is new in terms
+of statistical methodology. RESULTS: When applied to DNA microarray data from
+various experimental conditions, the BPCA method exhibited markedly better
+estimation ability than other recently proposed methods, such as singular value
+decomposition and K-nearest neighbors. While the estimation performance of
+existing methods depends on model parameters whose determination is difficult,
+our BPCA method is free from this difficulty. Accordingly, the BPCA method
+provides accurate and convenient estimation for missing values. AVAILABILITY:
+The software is available at http://hawaii.aist-nara.ac.jp/~shige-o/tools/.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 14594714 [PubMed - indexed for MEDLINE]
+
+
+
+DR13: Bioinformatics. 2003 Nov 1;19(16):2031-8. 
+
+A novel strategy for microarray quality control using Bayesian networks.
+
+Hautaniemi S, Edgren H, Vesanen P, Wolf M, Jarvinen AK, Yli-Harja O, Astola J,
+Kallioniemi O, Monni O.
+
+Institute of Signal Processing, Tampere University of Technology, PO Box 553,
+33101 Tampere, Finland. sampsa.hautaniemi@tut.fi
+
+MOTIVATION: High-throughput microarray technologies enable measurements of the
+expression levels of thousands of genes in parallel. However, microarray
+printing, hybridization and washing may create substantial variability in the
+quality of the data. As erroneous measurements may have a drastic impact on the
+results by disturbing the normalization schemes and by introducing expression
+patterns that lead to incorrect conclusions, it is crucial to discard low
+quality observations in the early phases of a microarray experiment. A typical
+microarray experiment consists of tens of thousands of spots on a microarray,
+making manual extraction of poor quality spots impossible. Thus, there is a need
+for a reliable and general microarray spot quality control strategy. RESULTS: We
+suggest a novel strategy for spot quality control by using Bayesian networks,
+which contain many appealing properties in the spot quality control context. We
+illustrate how a non-linear least squares based Gaussian fitting procedure can
+be used in order to extract features for a spot on a microarray. The features we
+used in this study are: spot intensity, size of the spot, roundness of the spot,
+alignment error, background intensity, background noise, and bleeding. We
+conclude that Bayesian networks are a reliable and useful model for microarray
+spot quality assessment. SUPPLEMENTARY INFORMATION:
+http://sigwww.cs.tut.fi/TICSP/SpotQuality/.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 14594707 [PubMed - indexed for MEDLINE]
+
+
+
+PR14: OMICS. 2003 Fall;7(3):227-34. 
+
+A software package for cDNA microarray data normalization and assessing
+confidence intervals.
+
+Hyduke DR, Rohlin L, Kao KC, Liao JC.
+
+Department of Chemical Engineering, University of California at Los Angeles,
+California, USA.
+
+DNA microarray data are affected by variations from a number of sources. Before
+these data can be used to infer biological information, the extent of these
+variations must be assessed. Here we describe an open source software package,
+lcDNA, that provides tools for filtering, normalizing, and assessing the
+statistical significance of cDNA microarray data. The program employs a
+hierarchical Bayesian model and Markov Chain Monte Carlo simulation to estimate
+gene-specific confidence intervals for each gene in a cDNA microarray data set.
+This program is designed to perform these primary analytical operations on data
+from two-channel spotted, or in situ synthesized, DNA microarrays.
+
+PMID: 14583113 [PubMed - indexed for MEDLINE]
+
+
+
+NR15: Biotechniques. 2003 Oct;35(4):828-35. 
+
+Optimizing stringency for expression microarrays.
+
+Korkola JE, Estep AL, Pejavar S, DeVries S, Jensen R, Waldman FM.
+
+University of California San Francisco, San Francisco, CA, USA.
+
+While several studies have reported methods to optimize expression microarray
+protocols, none have dealt directly with hybridization wash stringency. We
+designed a series of experiments to determine the optimal stringency conditions
+for microarray experiments, using reproducibility and magnitudes of log2
+(test/reference) ratio values as measures of quality. Low-stringency wash
+conditions of cell line hybridizations led to nonspecific binding, resulting in
+increased intensities, decreased magnitude of ratios, and poor reproducibility.
+Relatively high-stringency wash conditions were found to give the best
+reproducibility and large magnitude ratio changes, although increasing the
+stringency beyond this point led to lower magnitude ratios and poorer
+reproducibility. The expression levels of the ERBB2 oncogene in the BT474 versus
+MCF7 cell lines showed that high-stringency wash conditions gave the best
+agreement with real-time quantitative PCR, although the magnitude of the changes
+by microarray was smaller than for real-time quantitative PCR. Analysis of a
+series of cell lines washed at the optimized stringency indicated that the rank
+order of relative expression levels for ERBB2 microarray clones agreed well with
+the rank order of ERBB2 levels, as measured by quantitative PCR. These results
+indicate that the optimization of stringency conditions will improve microarray
+reproducibility and give more representative expression values.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 14579749 [PubMed - indexed for MEDLINE]
+
+
+
+NR16: Physiol Genomics. 2003 Dec 16;16(1):107-18. 
+
+Transcriptome profiling of a Saccharomyces cerevisiae mutant with a
+constitutively activated Ras/cAMP pathway.
+
+Jones DL, Petty J, Hoyle DC, Hayes A, Ragni E, Popolo L, Oliver SG, Stateva LI.
+
+Department of Biomolecular Sciences, University of Manchester Institute of
+Science and Technology, Manchester M60 1QD, United Kingdom.
+
+Often changes in gene expression levels have been considered significant only
+when above/below some arbitrarily chosen threshold. We investigated the effect
+of applying a purely statistical approach to microarray analysis and
+demonstrated that small changes in gene expression have biological significance.
+Whole genome microarray analysis of a pde2Delta mutant, constructed in the
+Saccharomyces cerevisiae reference strain FY23, revealed altered expression of
+approximately 11% of protein encoding genes. The mutant, characterized by
+constitutive activation of the Ras/cAMP pathway, has increased sensitivity to
+stress, reduced ability to assimilate nonfermentable carbon sources, and some
+cell wall integrity defects. Applying the Munich Information Centre for Protein
+Sequences (MIPS) functional categories revealed increased expression of genes
+related to ribosome biogenesis and downregulation of genes in the cell rescue,
+defense, cell death and aging category, suggesting a decreased response to
+stress conditions. A reduced level of gene expression in the unfolded protein
+response pathway (UPR) was observed. Cell wall genes whose expression was
+affected by this mutation were also identified. Several of the cAMP-responsive
+orphan genes, upon further investigation, revealed cell wall functions; others
+had previously unidentified phenotypes assigned to them. This investigation
+provides a statistical global transcriptome analysis of the cellular response to
+constitutive activation of the Ras/cAMP pathway.
+
+PMID: 14570984 [PubMed - indexed for MEDLINE]
+
+
+
+PR17: Bioinformatics. 2003 Sep 22;19(14):1846-8. 
+
+A tool-kit for cDNA microarray and promoter analysis.
+
+Shah NH, King DC, Shah PN, Fedoroff NV.
+
+The Huck Institute of Life Sciences and The Department of Biology, Pennsylvania
+State University, University Park, PA 16802, USA. nigam@psu.edu
+
+We describe two sets of programs for expediting routine tasks in analysis of
+cDNA microarray data and promoter sequences. The first set permits bad data
+points to be flagged with respect to a number of parameters and performs
+normalization in three different ways. It allows combining of result files into
+comprehensive data sets, evaluation of the quality of both technical and
+biological replicates and row and/or column standardization of data matrices.
+The second set supports mapping ESTs in the genome, identifying the
+corresponding genes and recovering their promoters, analyzing promoters for
+transcription factor binding sites, and visual representation of the results.
+The programs are designed primarily for Arabidopsis thaliana researchers, but
+can be adapted readily for other model systems. Availability and Supplementary
+information: http://www.personal.psu.edu/nhs109/Programs/
+
+PMID: 14512358 [PubMed - indexed for MEDLINE]
+
+
+
+PR18: Bioinformatics. 2003 Sep 22;19(14):1808-16. 
+
+Controlling false-negative errors in microarray differential expression
+analysis: a PRIM approach.
+
+Cole SW, Galic Z, Zack JA.
+
+Department of Medicine, Immunology, and Molecular Genetics, David Geffen School
+of Medicine at UCLA, Los Angeles, CA 90095-1678, USA. coles@ucla.edu
+
+MOTIVATION: Theoretical considerations suggest that current microarray screening
+algorithms may fail to detect many true differences in gene expression (Type II
+analytic errors). We assessed 'false negative' error rates in differential
+expression analyses by conventional linear statistical models (e.g. t-test),
+microarray-adapted variants (e.g. SAM, Cyber-T), and a novel strategy based on
+hold-out cross-validation. The latter approach employs the machine-learning
+algorithm Patient Rule Induction Method (PRIM) to infer minimum thresholds for
+reliable change in gene expression from Boolean conjunctions of fold-induction
+and raw fluorescence measurements. RESULTS: Monte Carlo analyses based on four
+empirical data sets show that conventional statistical models and their
+microarray-adapted variants overlook more than 50% of genes showing significant
+up-regulation. Conjoint PRIM prediction rules recover approximately twice as
+many differentially expressed transcripts while maintaining strong control over
+false-positive (Type I) errors. As a result, experimental replication rates
+increase and total analytic error rates decline. RT-PCR studies confirm that
+gene inductions detected by PRIM but overlooked by other methods represent true
+changes in mRNA levels. PRIM-based conjoint inference rules thus represent an
+improved strategy for high-sensitivity screening of DNA microarrays.
+AVAILABILITY: Freestanding JAVA application at
+http://microarray.crump.ucla.edu/focus
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 14512352 [PubMed - indexed for MEDLINE]
+
+
+
+NR19: Stem Cells. 2003;21(5):575-87. 
+
+Designing, testing, and validating a focused stem cell microarray for
+characterization of neural stem cells and progenitor cells.
+
+Luo Y, Cai J, Ginis I, Sun Y, Lee S, Yu SX, Hoke A, Rao M.
+
+Laboratory of Neurosciences, Gerontology Research Center, National Institute on
+Aging, Baltimore, Maryland, USA.
+
+Fetal neural stem cells (NSCs) have received great attention not only for their
+roles in normal development but also for their potential use in the treatment of
+neurodegenerative disorders. To develop a robust method of assessing the state
+of stem cells, we have designed, tested, and validated a rodent NSC array. This
+array consists of 260 genes that include cell type-specific markers for
+embryonic stem (ES) cells and neural progenitor cells as well as growth factors,
+cell cycle-related genes, and extracellular matrix molecules known to regulate
+NSC biology. The 500-bp polymerase chain reaction products amplified and
+validated by using gene-specific primers were arrayed along with positive
+controls. Blanks were included for quality control, and some genes were arrayed
+in duplicate. No cross-hybridization was detected. The quality of the arrays and
+their sensitivity were also examined by using probes prepared by conventional
+reverse transcriptase or by using amplified probes prepared by linear polymerase
+replication (LPR). Both methods showed good reproducibility, and probes prepared
+by LPR labeling appeared to detect expression of a larger proportion of
+expressed genes. Expression detected by either method could be verified by
+RT-PCR with high reproducibility. Using these stem cell chips, we have profiled
+liver, ES, and neural cells. The cell types could be readily distinguished from
+each other. Nine markers specific to mouse ES cells and 17 markers found in
+neural cells were verified as robust markers of the stem cell state. Thus, this
+focused neural stem array provides a convenient and useful tool for detection
+and assessment of NSCs and progenitor cells and can reliably distinguish them
+from other cell populations.
+
+Publication Types:
+    Validation Studies
+
+PMID: 12968112 [PubMed - indexed for MEDLINE]
+
+
+
+NR20: Bioinformatics. 2003 Sep 1;19(13):1620-7. 
+
+The effect of replication on gene expression microarray experiments.
+
+Pavlidis P, Li Q, Noble WS.
+
+Columbia Genome Center, Columbia University, 1150 St Nicholas Avenue, New York,
+NY 10032, USA. pp175@columbia.edu
+
+MOTIVATION: We examine the effect of replication on the detection of apparently
+differentially expressed genes in gene expression microarray experiments. Our
+analysis is based on a random sampling approach using real data sets from 16
+published studies. We consider both the ability to find genes that meet
+particular statistical criteria as well as the stability of the results in the
+face of changing levels of replication. RESULTS: While dependent on the data
+source, our findings suggest that stable results are typically not obtained
+until at least five biological replicates have been used. Conversely, for most
+studies, 10-15 replicates yield results that are quite stable, and there is less
+improvement in stability as the number of replicates is further increased. Our
+methods will be of use in evaluating existing data sets and in helping to design
+new studies.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12967957 [PubMed - indexed for MEDLINE]
+
+
+
+DR21: BMC Bioinformatics. 2003 Sep 10;4(1):40. 
+
+Probabilistic estimation of microarray data reliability and underlying gene
+expression.
+
+Bilke S, Breslin T, Sigvardsson M.
+
+Complex Systems Division, Department of Theoretical Physics, University of Lund,
+Solvegatan 14A, SE-223 62 Lund, Sweden. sven@thep.lu.se
+
+BACKGROUND: The availability of high throughput methods for measurement of mRNA
+concentrations makes the reliability of conclusions drawn from the data and
+global quality control of samples and hybridization important issues. We address
+these issues by an information theoretic approach, applied to discretized
+expression values in replicated gene expression data. RESULTS: Our approach
+yields a quantitative measure of two important parameter classes: First, the
+probability P(sigma|S) that a gene is in the biological state sigma in a certain
+variety, given its observed expression S in the samples of that variety. Second,
+sample specific error probabilities which serve as consistency indicators of the
+measured samples of each variety. The method and its limitations are tested on
+gene expression data for developing murine B-cells and a t-test is used as
+reference. On a set of known genes it performs better than the t-test despite
+the crude discretization into only two expression levels. The consistency
+indicators, i.e. the error probabilities, correlate well with variations in the
+biological material and thus prove efficient. CONCLUSIONS: The proposed method
+is effective in determining differential gene expression and sample reliability
+in replicated microarray data. Already at two discrete expression levels in each
+sample, it gives a good explanation of the data and is comparable to standard
+techniques.
+
+Publication Types:
+    Validation Studies
+
+PMID: 12967349 [PubMed - indexed for MEDLINE]
+
+
+
+DR22: BMC Bioinformatics. 2003 Sep 8;4(1):37. 
+
+Sex genes for genomic analysis in human brain: internal controls for comparison
+of probe level data extraction.
+
+Galfalvy HC, Erraji-Benchekroun L, Smyrniotopoulos P, Pavlidis P, Ellis SP, Mann
+JJ, Sibille E, Arango V.
+
+Department of Neuroscience, New York State Psychiatric Institute, New York, NY
+10032, USA. hanga@neuron.cpmc.columbia.edu
+
+BACKGROUND: Genomic studies of complex tissues pose unique analytical challenges
+for assessment of data quality, performance of statistical methods used for data
+extraction, and detection of differentially expressed genes. Ideally, to assess
+the accuracy of gene expression analysis methods, one needs a set of genes which
+are known to be differentially expressed in the samples and which can be used as
+a "gold standard". We introduce the idea of using sex-chromosome genes as an
+alternative to spiked-in control genes or simulations for assessment of
+microarray data and analysis methods. RESULTS: Expression of sex-chromosome
+genes were used as true internal biological controls to compare alternate
+probe-level data extraction algorithms (Microarray Suite 5.0 [MAS5.0], Model
+Based Expression Index [MBEI] and Robust Multi-array Average [RMA]), to assess
+microarray data quality and to establish some statistical guidelines for
+analyzing large-scale gene expression. These approaches were implemented on a
+large new dataset of human brain samples. RMA-generated gene expression values
+were markedly less variable and more reliable than MAS5.0 and MBEI-derived
+values. A statistical technique controlling the false discovery rate was applied
+to adjust for multiple testing, as an alternative to the Bonferroni method, and
+showed no evidence of false negative results. Fourteen probesets, representing
+nine Y- and two X-chromosome linked genes, displayed significant sex differences
+in brain prefrontal cortex gene expression. CONCLUSION: In this study, we have
+demonstrated the use of sex genes as true biological internal controls for
+genomic analysis of complex tissues, and suggested analytical guidelines for
+testing alternate oligonucleotide microarray data extraction protocols and for
+adjusting multiple statistical analysis of differentially expressed genes. Our
+results also provided evidence for sex differences in gene expression in the
+brain prefrontal cortex, supporting the notion of a putative direct role of
+sex-chromosome genes in differentiation and maintenance of sexual dimorphism of
+the central nervous system. Importantly, these analytical approaches are
+applicable to all microarray studies that include male and female human or
+animal subjects.
+
+PMID: 12962547 [PubMed - indexed for MEDLINE]
+
+
+
+PR23: Am J Pharmacogenomics. 2003;3(4):279-90. 
+
+Assessing the variability in GeneChip data.
+
+Huang S, Qian HR, Geringer C, Love C, Gelbert L, Bemis K.
+
+Genomic Informatics, Eli Lilly & Company, Indianapolis, Indiana 46285, USA.
+huang_shuguang@lilly.com
+
+INTRODUCTION: Oligonucleotide and cDNA microarray experiments are now common
+practice in biological science research. The goal of these experiments is
+generally to gain clues about the functions of genes by measuring how their
+expression levels rise and fall in response to changing experimental conditions.
+Measures of gene expression are affected, however, by a variety of factors. This
+paper introduces statistical methods to assess the variability of Affymetrix
+GeneChip data due to randomness. METHODS: The variation of Affymetrix's GeneChip
+signal data are quantified at both chip level and individual gene level,
+respectively, by the agreement study method and variance components method.
+Three agreement measurement methods are introduced to assess the variability
+among chips. Variation sources for gene expression data are decomposed into four
+categories: systematic experiment variation, treatment effect, biological
+variation, and chip variation. The focus of this paper is on evaluating and
+comparing the last two kinds of variations. RESULTS: Measurement of agreement
+and variance components methods were applied to an experimental data, and the
+calculation and interpretation were exemplified. The variability between
+biological samples were shown to exist and were assessed at both the chip level
+and individual gene level. Using the variance components method, it was found
+that the biological and chip variation are roughly comparable. The Statistical
+Analysis System (SAS) program for doing the agreement studies can be obtained
+from the correspondence author.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 12930160 [PubMed - indexed for MEDLINE]
+
+
+
+DR24: DNA Cell Biol. 2003 Jun;22(6):357-94. 
+
+The design and analysis of microarray experiments: applications in parasitology.
+
+Morrison DA, Ellis JT.
+
+Department of Parasitology (SWEPAR), National Veterinary Institute and Swedish
+University of Agricultural Sciences, Uppsala, Sweden.
+
+Microarray experiments can generate enormous amounts of data, but large datasets
+are usually inherently complex, and the relevant information they contain can be
+difficult to extract. For the practicing biologist, we provide an overview of
+what we believe to be the most important issues that need to be addressed when
+dealing with microarray data. In a microarray experiment we are simply trying to
+identify which genes are the most "interesting" in terms of our experimental
+question, and these will usually be those that are either overexpressed or
+underexpressed (upregulated or downregulated) under the experimental conditions.
+Analysis of the data to find these genes involves first preprocessing of the raw
+data for quality control, including filtering of the data (e.g., detection of
+outlying values) followed by standardization of the data (i.e., making the data
+uniformly comparable throughout the dataset). This is followed by the formal
+quantitative analysis of the data, which will involve either statistical
+hypothesis testing or multivariate pattern recognition. Statistical hypothesis
+testing is the usual approach to "class comparison," where several experimental
+groups are being directly compared. The best approach to this problem is to use
+analysis of variance, although issues related to multiple hypothesis testing and
+probability estimation still need to be evaluated. Pattern recognition can
+involve "class prediction," for which a range of supervised multivariate
+techniques are available, or "class discovery," for which an even broader range
+of unsupervised multivariate techniques have been developed. Each technique has
+its own limitations, which need to be kept in mind when making a choice from
+among them. To put these ideas in context, we provide a detailed examination of
+two specific examples of the analysis of microarray data, both from
+parasitology, covering many of the most important points raised.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12906732 [PubMed - indexed for MEDLINE]
+
+
+
+NR25: Mol Pathol. 2003 Aug;56(4):198-204. 
+
+Demystified...tissue microarray technology.
+
+Packeisen J, Korsching E, Herbst H, Boecker W, Buerger H.
+
+Department of Pathology, Klinikum Osnabrueck, 49076 Osnabrueck, Germany.
+
+Several "high throughput methods" have been introduced into research and routine
+laboratories during the past decade. Providing a new approach to the analysis of
+genomic alterations and RNA or protein expression patterns, these new techniques
+generate a plethora of new data in a relatively short time, and promise to
+deliver clues to the diagnosis and treatment of human cancer. Along with these
+revolutionary developments, new tools for the interpretation of these large sets
+of data became necessary and are now widely available. Tissue microarray (TMA)
+technology is one of these new tools. It is based on the idea of applying
+miniaturisation and a high throughput approach to the analysis of intact
+tissues. The potential and the scientific value of TMAs in modern research have
+been demonstrated in a logarithmically increasing number of studies. The
+spectrum for additional applications is widening rapidly, and comprises quality
+control in histotechnology, longterm tissue banking, and the continuing
+education of pathologists. This review covers the basic technical aspects of TMA
+production and discusses the current and potential future applications of TMA
+technology.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12890740 [PubMed - indexed for MEDLINE]
+
+
+
+PR26: Bioinformatics. 2003 Jul 22;19(11):1348-59. 
+
+Noise sampling method: an ANOVA approach allowing robust selection of
+differentially regulated genes measured by DNA microarrays.
+
+Draghici S, Kulaeva O, Hoff B, Petrov A, Shams S, Tainsky MA.
+
+Department of Computer Science, Wayne State University, 431 State Hall, Detroit,
+MI, 48202, USA. sod@cs.wayne.edu
+
+MOTIVATION: A crucial step in microarray data analysis is the selection of
+subsets of interesting genes from the initial set of genes. In many cases,
+especially when comparing a specific condition to a reference, the genes of
+interest are those which are differentially expressed. Two common methods for
+gene selection are: (a) selection by fold difference (at least n fold variation)
+and (b) selection by altered ratio (at least n standard deviations away from the
+mean ratio). RESULTS: The novel method proposed here is based on ANOVA and uses
+replicate spots to estimate an empirical distribution of the noise. The measured
+intensity range is divided in a number of intervals. A noise distribution is
+constructed for each such interval. Bootstrapping is used to map the desired
+confidence levels from the noise distribution corresponding to a given interval
+to the measured log ratios in that interval. If the method is applied on
+individual arrays having replicate spots, the method can calculate an overall
+width of the noise distribution which can be used as an indicator of the array
+quality. We compared this method with the fold change and unusual ratio method.
+We also discuss the relationship with an ANOVA model proposed by Churchill et
+al. In silico experiments were performed while controlling the degree of
+regulation as well as the amount of noise. Such experiments show the performance
+of the classical methods can be very unsatisfactory. We also compared the
+results of the 2-fold method with the results of the noise sampling method using
+pre and post immortalization cell lines derived from the MDAH041 fibroblasts
+hybridized on Affymetrix GeneChip arrays. The 2-fold method reported 198 genes
+as upregulated and 493 genes as downregulated. The noise sampling method
+reported 98 gene upregulated and 240 genes downregulated at the 99.99%
+confidence level. The methods agreed on 221 genes downregulated and 66 genes
+upregulated. Fourteen genes from the subset of genes reported by both methods
+were all confirmed by Q-RT-PCR. Alternative assays on various subsets of genes
+on which the two methods disagreed suggested that the noise sampling method is
+likely to provide fewer false positives.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12874046 [PubMed - indexed for MEDLINE]
+
+
+
+DR27: Bioinformatics. 2003 Jul 22;19(11):1341-7. 
+
+Quantitative quality control in microarray experiments and the application in
+data filtering, normalization and false positive rate prediction.
+
+Wang X, Hessner MJ, Wu Y, Pati N, Ghosh S.
+
+Max McGee National Research Center for Juvenile Diabetes, Department of
+Pediatrics, Medical College and Children's Hospital of Wisconsin, 8701 Watertown
+Plank Road, Milwaukee, WI 53226, USA. xujing@mcw.edu
+
+Data preprocessing including proper normalization and adequate quality control
+before complex data mining is crucial for studies using the cDNA microarray
+technology. We have developed a simple procedure that integrates data filtering
+and normalization with quantitative quality control of microarray experiments.
+Previously we have shown that data variability in a microarray experiment can be
+very well captured by a quality score q(com) that is defined for every spot, and
+the ratio distribution depends on q(com). Utilizing this knowledge, our
+data-filtering scheme allows the investigator to decide on the filtering
+stringency according to desired data variability, and our normalization
+procedure corrects the q(com)-dependent dye biases in terms of both the location
+and the spread of the ratio distribution. In addition, we propose a statistical
+model for false positive rate determination based on the design and the quality
+of a microarray experiment. The model predicts that a lower limit of 0.5 for the
+replicate concordance rate is needed in order to be certain of true positives.
+Our work demonstrates the importance and advantages of having a quantitative
+quality control scheme for microarrays.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12874045 [PubMed - indexed for MEDLINE]
+
+
+
+PR28: Bioinformatics. 2003 Jul 22;19(11):1325-32. 
+
+New normalization methods for cDNA microarray data.
+
+Wilson DL, Buckley MJ, Helliwell CA, Wilson IW.
+
+CSIRO Mathematical and Information Sciences, Locked Bag 17 North Ryde 1670 NSW,
+Australia. dwilson@gmp.usyd.edu.au
+
+MOTIVATION: The focus of this paper is on two new normalization methods for cDNA
+microarrays. After the image analysis has been performed on a microarray and
+before differentially expressed genes can be detected, some form of
+normalization must be applied to the microarrays. Normalization removes biases
+towards one or other of the fluorescent dyes used to label each mRNA sample
+allowing for proper evaluation of differential gene expression. RESULTS: The two
+normalization methods that we present here build on previously described
+non-linear normalization techniques. We extend these techniques by firstly
+introducing a normalization method that deals with smooth spatial trends in
+intensity across microarrays, an important issue that must be dealt with.
+Secondly we deal with normalization of a new type of cDNA microarray experiment
+that is coming into prevalence, the small scale specialty or 'boutique' array,
+where large proportions of the genes on the microarrays are expected to be
+highly differentially expressed. AVAILABILITY: The normalization methods
+described in this paper are available via http://www.pi.csiro.au/gena/ in a
+software suite called tRMA: tools for R Microarray Analysis upon request of the
+authors. Images and data used in this paper are also available via the same
+link.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12874043 [PubMed - indexed for MEDLINE]
+
+
+
+NR29: Biotechniques. 2003 Jul;35(1):164-8. 
+
+Automated evaluation and normalization of immunohistochemistry on tissue
+microarrays with a DNA microarray scanner.
+
+Haedicke W, Popper HH, Buck CR, Zatloukal K.
+
+Oridis Biomed, Graz, Austria.
+
+Hundreds of tissue samples may be assembled in a tissue microarray format for
+simultaneous immunostaining assessment of protein expression profiling. A DNA
+microarray two-color laser scanner was used for automated analysis of tissue
+microarray indirect immunofluorescence. On sections from both a human lung
+adenocarcinoma and a squamous cell carcinoma tissue microarray, fluorescence
+intensity for two epidermal growth factor receptors (EGFR and c-erbB2)
+correlates with diagnostic pathologic assessment, indicating that
+immunohistochemistry quantitation can be achieved. Importantly, double-label
+indirect immunofluorescence detection with the cDNA scanner demonstrates that
+one reference antigen can normalize tumor marker immunosignal for the cellular
+content of tissue microarray tissue cores. Therefore, DNA microarray scanners
+and associated image analysis software provide general and efficient analysis of
+tissue microarray immunostaining, including estimation of specific protein
+expression levels.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12866417 [PubMed - indexed for MEDLINE]
+
+
+
+PR30: Biotechniques. 2003 Jul;35(1):42-4, 46, 48. 
+
+Identification and correction of spurious spatial correlations in microarray
+data.
+
+Qian J, Kluger Y, Yu H, Gerstein M.
+
+Yale University, New Haven, CT, USA.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 12866403 [PubMed - indexed for MEDLINE]
+
+
+
+NR31: Bioinformatics. 2003 Jul 1;19(10):1236-42. 
+
+Estimating the occurrence of false positives and false negatives in microarray
+studies by approximating and partitioning the empirical distribution of
+p-values.
+
+Pounds S, Morris SW.
+
+Department of Biostatistics, St. Jude Children's Research Hospital, 332 N.
+Lauderdale St., Memphis, TN 38105-2794, USA. stanley.pounds@stjude.org
+
+MOTIVATION: The occurrence of false positives and false negatives in a
+microarray analysis could be easily estimated if the distribution of p-values
+were approximated and then expressed as a mixture of null and alternative
+densities. Essentially any distribution of p-values can be expressed as such a
+mixture by extracting a uniform density from it. RESULTS: The occurrence of
+false positives and false negatives in a microarray analysis could be easily
+estimated if the distribution of p-values were approximated and then expressed
+as a mixture of null and alternative densities. Essentially any distribution of
+p-values can be expressed as such a mixture by extracting a uniform density from
+it. AVAILABILITY: An S-plus function library is available from
+http://www.stjuderesearch.org/statistics.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12835267 [PubMed - indexed for MEDLINE]
+
+
+
+NR32: Methods Mol Biol. 2003;234:73-91. 
+
+Real-time polymerase chain reaction quantitation of relative expression of genes
+modulated by p53 using SYBR Green I.
+
+Stagliano KE, Carchman E, Deb S.
+
+Department of Biochemistry, Virginia Commonwealth University, Richmond, USA.
+
+Real-time quantitative polymerase chain reaction (QPCR) using the Roche
+LightCycler was used to verify the expression of asparagine synthetase (ASNS)
+identified by microarray analysis as a target of p53 transrepression and mutant
+p53 transactivation. A p53-null cell line derived from lung carcinoma, H1299,
+was infected with recombinant adenovirus expressing wild-type (WT) p53, mutant
+p53-D281G, or beta-galactosidase as a control. After 24 h of infection, RNA was
+harvested and used for microarray analysis. ASNS was one of several genes whose
+expression was down-regulated by WT p53 and up-regulated in the presence of
+mutant p53. Expression levels of ASNS were measured relative to an exogenously
+applied quality-control nucleic acid template. Real-time PCR product
+accumulation was monitored using the intercalating dye, SYBR Green I, which
+exhibits a higher fluorescence upon binding of double-stranded DNA. Relative
+gene expression was calculated using conditions at the early stages of PCR, when
+amplification was logarithmic and, thus, could be correlated to initial copy
+number of gene transcripts. ASNS was found to be down-regulated in the presence
+of WT p53 and up-regulated by mutant p53.
+
+PMID: 12824526 [PubMed - indexed for MEDLINE]
+
+
+
+NR33: Nucleic Acids Res. 2003 Jul 1;31(13):3477-82. 
+
+ExpressYourself: A modular platform for processing and visualizing microarray
+data.
+
+Luscombe NM, Royce TE, Bertone P, Echols N, Horak CE, Chang JT, Snyder M,
+Gerstein M.
+
+Department of Molecular Biophysics and Biochemistry, Yale University, 266
+Whitney Avenue, PO Box 208114, New Haven CT 06520-8114, USA.
+nicholas.luscombe@yale.edu
+
+DNA microarrays are widely used in biological research; by analyzing
+differential hybridization on a single microarray slide, one can detect changes
+in mRNA expression levels, increases in DNA copy numbers and the location of
+transcription factor binding sites on a genomic scale. Having performed the
+experiments, the major challenge is to process large, noisy datasets in order to
+identify the specific array elements that are significantly differentially
+hybridized. This normally requires aggregating different, often incompatible
+programs into a multi-step pipeline. Here we present ExpressYourself, a fully
+integrated platform for processing microarray data. In completely automated
+fashion, it will correct the background array signal, normalize the Cy5 and Cy3
+signals, score levels of differential hybridization, combine the results of
+replicate experiments, filter problematic regions of the array and assess the
+quality of individual and replicate experiments. ExpressYourself is designed
+with a highly modular architecture so various types of microarray analysis
+algorithms can readily be incorporated as they are developed; for example, the
+system currently implements several normalization methods, including those that
+simultaneously consider signal intensity and slide location. The processed data
+are presented using a web-based graphical interface to facilitate comparison
+with the original images of the array slides. In particular, Express Yourself is
+able to regenerate images of the original microarray after applying various
+steps of processing, which greatly facilities identification of
+position-specific artifacts. The program is freely available for use at
+http://bioinfo.mbb.yale.edu/expressyourself.
+
+PMID: 12824348 [PubMed - indexed for MEDLINE]
+
+
+
+DR34: Bioinformatics. 2003 Jun 12;19(9):1090-9. 
+
+Bagging to improve the accuracy of a clustering procedure.
+
+Dudoit S, Fridlyand J.
+
+Division of Biostatistics, School of Public Health, University of California,
+Berkeley, 140 Earl Warren Hall, 7360, Berkeley, CA 94720-7360, USA.
+sandrine@stat.berkeley.edu
+
+MOTIVATION: The microarray technology is increasingly being applied in
+biological and medical research to address a wide range of problems such as the
+classification of tumors. An important statistical question associated with
+tumor classification is the identification of new tumor classes using gene
+expression profiles. Essential aspects of this clustering problem include
+identifying accurate partitions of the tumor samples into clusters and assessing
+the confidence of cluster assignments for individual samples. RESULTS: Two new
+resampling methods, inspired from bagging in prediction, are proposed to improve
+and assess the accuracy of a given clustering procedure. In these ensemble
+methods, a partitioning clustering procedure is applied to bootstrap learning
+sets and the resulting multiple partitions are combined by voting or the
+creation of a new dissimilarity matrix. As in prediction, the motivation behind
+bagging is to reduce variability in the partitioning results via averaging. The
+performances of the new and existing methods were compared using simulated data
+and gene expression data from two recently published cancer microarray studies.
+The bagged clustering procedures were in general at least as accurate and often
+substantially more accurate than a single application of the partitioning
+clustering procedure. A valuable by-product of bagged clustering are the cluster
+votes which can be used to assess the confidence of cluster assignments for
+individual observations. SUPPLEMENTARY INFORMATION: For supplementary
+information on datasets, analyses, and software, consult
+http://www.stat.berkeley.edu/~sandrine and http://www.bioconductor.org.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12801869 [PubMed - indexed for MEDLINE]
+
+
+
+PR35: Bioinformatics. 2003 Jun 12;19(9):1046-54. 
+
+Modified nonparametric approaches to detecting differentially expressed genes in
+replicated microarray experiments.
+
+Zhao Y, Pan W.
+
+Division of Biostatistics, School of Public Health, University of Minnesota, MMC
+303, A460 Mayo Building, 420 Delaware Street SE, Minneapolis, MN 55455, USA.
+
+MOTIVATION: An important goal in analyzing microarray data is to determine which
+genes are differentially expressed across two kinds of tissue samples or samples
+obtained under two experimental conditions. Various parametric tests, such as
+the two-sample t-test, have been used, but their possibly too strong parametric
+assumptions or large sample justifications may not hold in practice. As
+alternatives, a class of three nonparametric statistical methods, including the
+empirical Bayes method of Efron et al. (2001), the significance analysis of
+microarray (SAM) method of Tusher et al. (2001) and the mixture model method
+(MMM) of Pan et al. (2001), have been proposed. All the three methods depend on
+constructing a test statistic and a so-called null statistic such that the null
+statistic's distribution can be used to approximate the null distribution of the
+test statistic. However, relatively little effort has been directed toward
+assessment of the performance or the underlying assumptions of the methods in
+constructing such test and null statistics. RESULTS: We point out a problem of a
+current method to construct the test and null statistics, which may lead to
+largely inflated Type I errors (i.e. false positives). We also propose two
+modifications that overcome the problem. In the context of MMM, the improved
+performance of the modified methods is demonstrated using simulated data. In
+addition, our numerical results also provide evidence to support the utility and
+effectiveness of MMM.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12801864 [PubMed - indexed for MEDLINE]
+
+
+
+DR36: Nucleic Acids Res. 2003 Jun 1;31(11):e60. 
+
+Use of a three-color cDNA microarray platform to measure and control
+support-bound probe for improved data quality and reproducibility.
+
+Hessner MJ, Wang X, Khan S, Meyer L, Schlicht M, Tackes J, Datta MW, Jacob HJ,
+Ghosh S.
+
+The Max McGee National Research Center for Juvenile Diabetes, Department of
+Pediatrics, The Medical College of Wisconsin and Children's Hospital of
+Wisconsin, 8701 Watertown Plank Road, Milwaukee, WI 53226, USA. mhessner@mcw.edu
+
+Construction methodologies for cDNA microarrays lack the ability to determine
+array integrity prior to hybridization, leaving the array itself a source of
+uncontrolled experimental variation. We solved this problem through development
+of a three-color cDNA array platform whereby printed probes are tagged with
+fluorescein and are compatible with Cy3 and Cy5 target labeling dyes when using
+confocal laser scanners possessing narrow bandwidths. Here we use this approach
+to: (i) develop a tracking system to monitor the printing of probe plates at
+predicted coordinates; (ii) define the quantity of immobilized probe necessary
+for quality hybridized array data to establish pre-hybridization array selection
+criteria; (iii) investigate factors that influence probe availability for
+hybridization; and (iv) explore the feasibility of hybridized data filtering
+using element fluorescein intensity. A direct and significant relationship (R2 =
+0.73, P < 0.001) between pre-hybridization average fluorescein intensity and
+subsequent hybridized replicate consistency was observed, illustrating that data
+quality can be improved by selecting arrays that meet defined pre-hybridization
+criteria. Furthermore, we demonstrate that our three-color approach provides a
+means to filter spots possessing insufficient bound probe from hybridized data
+sets to further improve data quality. Collectively, this strategy will improve
+microarray data and increase its utility as a sensitive screening tool.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 12771224 [PubMed - indexed for MEDLINE]
+
+
+
+NR37: Bioinformatics. 2003 May 22;19(8):973-80. 
+
+Fuzzy C-means method for clustering microarray data.
+
+Dembele D, Kastner P.
+
+Institut de Genetique et de Biologie Moleculaire et Cellulaire, CNRS-IMSERM-ULP,
+BP 10142, 67404 Illkirch Cedex, France. doulaye@titus.u-strasbg.fr
+
+MOTIVATION: Clustering analysis of data from DNA microarray hybridization
+studies is essential for identifying biologically relevant groups of genes.
+Partitional clustering methods such as K-means or self-organizing maps assign
+each gene to a single cluster. However, these methods do not provide information
+about the influence of a given gene for the overall shape of clusters. Here we
+apply a fuzzy partitioning method, Fuzzy C-means (FCM), to attribute cluster
+membership values to genes. RESULTS: A major problem in applying the FCM method
+for clustering microarray data is the choice of the fuzziness parameter m. We
+show that the commonly used value m = 2 is not appropriate for some data sets,
+and that optimal values for m vary widely from one data set to another. We
+propose an empirical method, based on the distribution of distances between
+genes in a given data set, to determine an adequate value for m. By setting
+threshold levels for the membership values, genes which are tigthly associated
+to a given cluster can be selected. Using a yeast cell cycle data set as an
+example, we show that this selection increases the overall biological
+significance of the genes within the cluster. AVAILABILITY: Supplementary text
+and Matlab functions are available at http://www-igbmc.u-strasbg.fr/fcm/
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12761060 [PubMed - indexed for MEDLINE]
+
+
+
+PR38: Bioinformatics. 2003 May 22;19(8):956-65. 
+
+Microarray standard data set and figures of merit for comparing data processing
+methods and experiment designs.
+
+He YD, Dai H, Schadt EE, Cavet G, Edwards SW, Stepaniants SB, Duenwald S,
+Kleinhanz R, Jones AR, Shoemaker DD, Stoughton RB.
+
+Rosetta Inpharmatics Inc., 12 040 115th Avenue Northeast, Kirkland, WA 98034,
+USA. yudong_he@merck.com
+
+MOTIVATION: There is a very large and growing level of effort toward improving
+the platforms, experiment designs, and data analysis methods for microarray
+expression profiling. Along with a growing richness in the approaches there is a
+growing confusion among most scientists as to how to make objective comparisons
+and choices between them for different applications. There is a need for a
+standard framework for the microarray community to compare and improve
+analytical and statistical methods. RESULTS: We report on a microarray data set
+comprising 204 in-situ synthesized oligonucleotide arrays, each hybridized with
+two-color cDNA samples derived from 20 different human tissues and cell lines.
+Design of the approximately 24 000 60mer oligonucleotides that report
+approximately 2500 known genes on the arrays, and design of the hybridization
+experiments, were carried out in a way that supports the performance assessment
+of alternative data processing approaches and of alternative experiment and
+array designs. We also propose standard figures of merit for success in
+detecting individual differential expression changes or expression levels, and
+for detecting similarities and differences in expression patterns across genes
+and experiments. We expect this data set and the proposed figures of merit will
+provide a standard framework for much of the microarray community to compare and
+improve many analytical and statistical methods relevant to microarray data
+analysis, including image processing, normalization, error modeling, combining
+of multiple reporters per gene, use of replicate experiments, and sample
+referencing schemes in measurements based on expression change.
+AVAILABILITY/SUPPLEMENTARY INFORMATION: Expression data and supplementary
+information are available at http://www.rii.com/publications/2003/HE_SDS.htm
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12761058 [PubMed - indexed for MEDLINE]
+
+
+
+NR39: Bioinformatics. 2003 May 22;19(8):944-51. 
+
+Corrected small-sample estimation of the Bayes error.
+
+Brun M, Sabbagh DL, Kim S, Dougherty ER.
+
+Department of Electrical Engineering, Texas A&M University, College Station, TX
+77840, USA.
+
+MOTIVATION: A major problem of pattern classification is estimation of the Bayes
+error when only small samples are available. One way to estimate the Bayes error
+is to design a classifier based on some classification rule applied to sample
+data, estimate the error of the designed classifier, and then use this estimate
+as an estimate of the Bayes error. Relative to the Bayes error, the expected
+error of the designed classifier is biased high, and this bias can be severe
+with small samples. RESULTS: This paper provides a correction for the bias by
+subtracting a term derived from the representation of the estimation error. It
+does so for Boolean classifiers, these being defined on binary features.
+Although the general theory applies to any Boolean classifier, a model is
+introduced to reduce the number of parameters. A key point is that the expected
+correction is conservative. Properties of the corrected estimate are studied via
+simulation. The correction applies to binary predictors because they are
+mathematically identical to Boolean classifiers. In this context the correction
+is adapted to the coefficient of determination, which has been used to measure
+nonlinear multivariate relations between genes and design genetic regulatory
+networks. An application using gene-expression data from a microarray experiment
+is provided on the website http://gspsnap.tamu.edu/smallsample/
+(user:'smallsample', password:'smallsample)').
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12761056 [PubMed - indexed for MEDLINE]
+
+
+
+NR40: Heart. 2003 Jun;89(6):597-604. 
+
+Microarray analysis: a novel research tool for cardiovascular scientists and
+physicians.
+
+Napoli C, Lerman LO, Sica V, Lerman A, Tajana G, de Nigris F.
+
+Department of Medicine, University of Naples, Italy. claunap@tin.it
+
+The massive increase in information on the human DNA sequence and the
+development of new technologies will have a profound impact on the diagnosis and
+treatment of cardiovascular diseases. The microarray is a micro-hybridisation
+based assay. The filter, called microchip or chip, is a special kind of membrane
+in which are spotted several thousands of oligonucleotides of cDNA fragments
+coding for known genes or expressed sequence tags. The resulting hybridisation
+signal on the chip is analysed by a fluorescent scanner and processed with a
+software package utilising the information on the oligonucleotide or cDNA map of
+the chip to generate a list of relative gene expression. Microarray technology
+can be used for many different purposes, most prominently to measure
+differential gene expression, variations in gene sequence (by analysing the
+genome of mutant phenotypes), or more recently, the entire binding site for
+transcription factors. Measurements of gene expression have the advantage of
+providing all available sequence information for any given experimental design
+and data interpretation in pursuit of biological understanding. This research
+tool will contribute to radically changing our understanding of cardiovascular
+diseases.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12748210 [PubMed - indexed for MEDLINE]
+
+
+
+PR41: Bioinformatics. 2003 May 1;19(7):825-33. 
+
+Non-linear normalization and background correction in one-channel cDNA
+microarray studies.
+
+Edwards D.
+
+Department of Biostatistics, Novo Nordisk, Bagsvaerd, Denmark.
+DEd@novonordisk.com
+
+MOTIVATION: Data from one-channel cDNA microarray studies may exhibit poor
+reproducibility due to spatial heterogeneity, non-linear array-to-array
+variation and problems in correcting for background. Uncorrected, these
+phenomena can give rise to misleading conclusions. RESULTS: Spatial
+heterogeneity may be corrected using two-dimensional loess smoothing (Colantuoni
+et al., 2002). Non-linear between-array variation may be corrected using an
+iterative application of one-dimensional loess smoothing. A method for
+background correction using a smoothing function rather than simple subtraction
+is described. These techniques promote within-array spatial uniformity and
+between-array reproducibility. Their application is illustrated using data from
+a study of the effects of an insulin sensitizer, rosiglitazone, on gene
+expression in white adipose tissue in diabetic db/db mice. They may also be
+useful with data from two-channel cDNA microarrays and from oligonucleotide
+arrays. AVAILABILITY: R functions for the methods described are available on
+request from the author.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12724292 [PubMed - indexed for MEDLINE]
+
+
+
+NR42: Bioinformatics. 2003 May 1;19(7):818-24. 
+
+Robust cluster analysis of microarray gene expression data with the number of
+clusters determined biologically.
+
+Bickel DR.
+
+Medical College of Georgia, Office of Biostatistics and Bioinformatics, 1120
+Fifteenth St, AE-3037 Augusta 30912-4900, USA. dbickel@mail.mcg.edu
+
+MOTIVATION: The success of each method of cluster analysis depends on how well
+its underlying model describes the patterns of expression. Outlier-resistant and
+distribution-insensitive clustering of genes are robust against violations of
+model assumptions. RESULTS: A measure of dissimilarity that combines advantages
+of the Euclidean distance and the correlation coefficient is introduced. The
+measure can be made robust using a rank order correlation coefficient. A robust
+graphical method of summarizing the results of cluster analysis and a biological
+method of determining the number of clusters are also presented. These methods
+are applied to a public data set, showing that rank-based methods perform better
+than log-based methods. AVAILABILITY: Software is available from
+http://www.davidbickel.com.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12724291 [PubMed - indexed for MEDLINE]
+
+
+
+NR43: Bioinformatics. 2003 May 1;19(7):803-10. 
+
+Statistical design of reverse dye microarrays.
+
+Dobbin K, Shih JH, Simon R.
+
+National Cancer Institute, Biometric Research Branch, 6130 Executive Blvd., MSC
+7434, Bethesda, MD 20892, USA. dobbinke@mail.nih.gov
+
+MOTIVATION: In cDNA microarray experiments all samples are labelled with either
+Cy3 dye or Cy5 dye. Certain genes exhibit dye bias-a tendency to bind more
+efficiently to one of the dyes. The common reference design avoids the problem
+of dye bias by running all arrays 'forward', so that the samples being compared
+are always labelled with the same dye. But comparison of samples labelled with
+different dyes is sometimes of interest. In these situations, it is necessary to
+run some arrays 'reverse'-with the dye labelling reversed-in order to correct
+for the dye bias. The design of these experiments will impact one's ability to
+identify genes that are differentially expressed in different tissues or
+conditions. We address the design issue of how many specimens are needed, how
+many forward and reverse labelled arrays to perform, and how to optimally assign
+Cy3 and Cy5 labels to the specimens. RESULTS: We consider three types of
+experiments for which some reverse labelling is needed: paired samples, samples
+from two predefined groups, and reference design data when comparison with the
+reference is of interest. We present simple probability models for the data,
+derive optimal estimators for relative gene expression, and compare the
+efficiency of the estimators for a range of designs. In each case, we present
+the optimal design and sample size formulas. We show that reverse labelling of
+individual arrays is generally not required.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12724289 [PubMed - indexed for MEDLINE]
+
+
+
+PR44: Methods Mol Biol. 2003;224:235-48. 
+
+Microarray databases: storage and retrieval of microarray data.
+
+Sherlock G, Ball CA.
+
+Department of Genetics, Stanford University School of Medicine, Palo Alto, CA,
+USA.
+
+PMID: 12710676 [PubMed - indexed for MEDLINE]
+
+
+
+PR45: Methods Mol Biol. 2003;224:111-36. 
+
+Statistical issues in cDNA microarray data analysis.
+
+Smyth GK, Yang YH, Speed T.
+
+Walter and Eliza Hall Institute of Medical Research, Melbourne, Australia.
+
+PMID: 12710670 [PubMed - indexed for MEDLINE]
+
+
+
+PR46: Biotechniques. 2003 Mar;Suppl:62-3. 
+
+QA/QC as a pressing need for microarray analysis: meeting report from CAMDA'02.
+
+Johnson K, Lin S.
+
+Duke University Medical Center, Durham, NC, USA.
+
+Publication Types:
+    Congresses
+
+PMID: 12664687 [PubMed - indexed for MEDLINE]
+
+
+
+NR47: Biotechniques. 2003 Mar;Suppl:55-61. 
+
+Assessing the functional bias of commercial microarrays using the onto-compare
+database.
+
+Draghici S, Khatri P, Shah A, Tainsky MA.
+
+Department of Computer Science, Wayne State University, Detroit, MI, USA.
+
+Microarrays are at the center of a revolution in biotechnology, allowing
+researchers to screen tens of thousands of genes simultaneously. Typically, they
+have been used in exploratory research to help formulate hypotheses. In most
+cases, this phase is followed by a more focused, hypothesis-driven stage in
+which certain specific biological processes and pathways are thought to be
+involved. Since a single biological process can still involve hundreds of genes,
+microarrays are still the preferred approach as proven by the availability of
+focused arrays from several manufacturers. Because focused arrays from different
+manufacturers use different sets of genes, each array will represent any given
+regulatory pathway to a different extent. We argue that a functional analysis of
+the arrays available should be the most important criterion used in the array
+selection. We developed Onto-Compare as a database that can provide this
+functionality, based on the Gene Ontology Consortium nomenclature. We used this
+tool to compare several arrays focused on apoptosis, oncogenes, and tumor
+suppressors. We considered arrays from BD Biosciences Clontech, PerkinElmer,
+Sigma-Genosys, and SuperArray. We showed that among the oncogene arrays, the
+PerkinElmer MICROMAX oncogene microarray has a better representation of
+oncogenesis, protein phosphorylation, and negative control of cell
+proliferation. The comparison of the apoptosis arrays showed that most
+apoptosis-related biological processes are equally well represented on the
+arrays considered. However, functional categories such as immune response,
+cell-cell signaling, cell-surface receptor linked signal transduction, and
+interleukins are better represented on the Sigma-Genoys Panorama human apoptosis
+array. At the same time, processes such as cell cycle control, oncogenesis, and
+negative control of cell proliferation are better represented on the BD
+Biosciences Clontech Atlas Select human apoptosis array.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12664686 [PubMed - indexed for MEDLINE]
+
+
+
+PR48: Biotechniques. 2003 Mar;Suppl:16-21. 
+
+Experimental design of DNA microarray experiments.
+
+Simon RM, Dobbin K.
+
+Biometric Research Branch, National Cancer Institute, Bethesda, MD, USA.
+
+PMID: 12664680 [PubMed - indexed for MEDLINE]
+
+
+
+NR49: Rinsho Byori. 2002 Nov;Suppl 123:19-29. 
+
+[Recent advances in molecular diagnostic tests]
+
+[Article in Japanese]
+
+Miyachi H.
+
+Department of Laboratory Medicine, Tokai University School of Medicine.
+
+Recent advances in molecular biotechnologies have facilitated laboratory use of
+molecular diagnostic tests. Automated systems for amplification and detection,
+and lately for extraction, of nucleic acid sequences have been developed. The
+automated systems have allowed improvement of not only assay efficiency but also
+quality control of the tests. The information on the genome sequence from the
+human genome project has been studied to elucidate functions of genes and
+proteins and the clinical significance of nucleic acid sequences with
+post-genomics such as expression profiling using DNA microarray, proteomics, and
+single nucleotide polymorphism analysis, in conjunction with bioinformatics. Now
+the challenge is the development and application of these new technologies as
+clinical diagnostic tools. Design of a diagnostic array or panel must be
+developed with defined sequences based on interpretation of a huge quantity of
+experimental data to meet clinical demands. There is a need for development of
+generally available instruments that are inexpensive, practical and more
+importantly reproducible and reliable.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12652786 [PubMed - indexed for MEDLINE]
+
+
+
+NR50: Nature. 2003 Mar 13;422(6928):233-7. 
+
+Biomedical informatics for proteomics.
+
+Boguski MS, McIntosh MW.
+
+Human Biology Division, Fred Hutchinson Cancer Research Center, 1100 Fairview
+Avenue North, PO Box 19024, Seattle, Washington 98109, USA. mboguski@fhcrc.org
+
+Success in proteomics depends upon careful study design and high-quality
+biological samples. Advanced information technologies, and also an ability to
+use existing knowledge to the full, will be crucial in making sense of the data.
+Despite its genome-scale potential, proteome analysis is at a much earlier stage
+of development than genomics and gene expression (microarray) studies.
+Fundamental issues involving biological variability, pre-analytic factors and
+analytical reproducibility remain to be resolved. Consequently, the analysis of
+proteomics data is currently informal and relies heavily on expert opinion.
+Databases and software tools developed for the analysis of molecular sequences
+and microarrays are helpful, but are limited owing to the unique attributes of
+proteomics data and differing research goals.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12634797 [PubMed - indexed for MEDLINE]
+
+
+
+NR51: Biotechniques. 2003 Feb;34(2):402-7. 
+
+Automated high-throughput probe production for DNA microarray analysis.
+
+Hoyt PR, Tack L, Jones BH, Van Dinther J, Staat S, Doktycz MJ.
+
+Life Sciences Division, Oak Ridge National Laboratory, P.O. Box 2008, MS 6123,
+Oak Ridge, TN 37831, USA. hoytpr@ornl.gov
+
+DNA microarrays have become an established tool for gene expression profiling.
+Construction of these microarrays using immobilized cDNAs is a common
+experimental strategy. However, this is extremely laborious, requiring the
+preparation of hundreds or thousands of cDNA probes. To minimize this initial
+bottleneck, we developed a comprehensive high-throughput robotic system to
+prepare DNA probes suitable for microarray analysis with minimal user
+intervention. We describe an automated system using the MultiPROBE Nucleic Acid
+Purification Workstation to provide the liquid handling and other functions
+needed to optimize this process. We were able to carry out fully automated
+plasmid cDNA isolation, PCR assay setup, and PCR purification and also to direct
+the characterization and tracking of DNA probes during processing. Protocols
+began with the initial preparation of a plasmid DNA archive of bacterial stocks
+in parallel 96-well plates (192 samples/run) and continued through to the
+dilution and reformatting of chip-ready DNA probes in 384-well format. These and
+other probe production procedures and additional instrument systems were used to
+process fully a set of mouse cDNA clones that were then validated by
+differential gene expression analysis.
+
+Publication Types:
+    Validation Studies
+
+PMID: 12613263 [PubMed - indexed for MEDLINE]
+
+
+
+NR52: Biotechniques. 2003 Feb;34(2):394-400. 
+
+RNA amplification strategies for cDNA microarray experiments.
+
+Wang J, Hu L, Hamilton SR, Coombes KR, Zhang W.
+
+University of Texas M.D. Anderson Cancer Center, Houston, TX, USA.
+
+The biological materials available for cDNA microarray studies are often
+limiting. Thus, protocols have been developed to amplify RNAs isolated from
+limited amounts of tissues or cells. RNA amplification by in vitro transcription
+is the most widely used among the available amplification protocols. Two means
+of generating a dsDNA template for the RNA polymerase are a combination of
+reverse transcription with conventional second-strand cDNA synthesis and a
+combination of the switch mechanism at the 5' end of RNA templates (SMART) with
+reverse transcription, followed by PCR. To date, there has been no systematic
+comparison of the efficiency of the two amplification strategies. In this study,
+we performed and analyzed a set of six microarray experiments involving the use
+of a "regular" (unamplified) microarray experimental protocol and two different
+RNA amplification protocols. Based on their ability to identify differentially
+expressed genes and assuming that the results from the regular protocol are
+correct, our analyses demonstrated that both amplification protocols achieved
+reproducible and reliable results. From the same amount of starting material,
+our results also indicated that more amplified RNA can be obtained using
+conventional second-strand cDNA synthesis than from the combination of SMART and
+PCR. When the critical issue is the amount of starting RNA, we recommend the
+conventional second-strand cDNA synthesis as the preferred amplification method.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12613262 [PubMed - indexed for MEDLINE]
+
+
+
+NR53: Biotechniques. 2003 Feb;34(2):386-8, 390, 392-3. 
+
+Probe generation directly from small numbers of cells for DNA microarray
+studies.
+
+Xiang CC, Chen M, Kozhich OA, Phan QN, Inman JM, Chen Y, Brownstein MJ.
+
+NIMH/NIH, Bethesda, MD, USA.
+
+Recently, we described a technique that allows us to prepare probes for
+expression profiling from 0.5-1 microgram RNA without template or signal
+amplification. However, we were unable to use this method to study cells
+harvested by needle biopsy, cell sorting, or laser capture microdissection. Here
+we give a new protocol for amplifying RNA with multiple reaction cycles and
+preparing fluorescent probes from approximately 10 cells. We use random 9-mers
+with a T3 RNA polymerase recognition sequence on the 5' end for every round of
+cDNA synthesis except the first. The latter is primed with oligo(dT) with a T7
+RNA polymerase recognition sequence on the 5' end. Results were highly
+reproducible and reliable, and the products generated using our method seemed
+comparable to those produced using the RiboAmp RNA kit when both were used to do
+two cycles of amplification. To test our method's utility, we lysed cells
+directly into reverse transcription buffer containing RNase inhibitor and
+performed three rounds of RNA amplification. The expression profiles of mouse C2
+and NIH 3T3 cells obtained with 11,232-element arrays using amplified RNAs were
+similar to those seen when probes were prepared from unamplified templates.
+
+Publication Types:
+    Evaluation Studies
+    Technical Report
+    Validation Studies
+
+PMID: 12613261 [PubMed - indexed for MEDLINE]
+
+
+
+NR54: Bioinformatics. 2003 Jan 22;19(2):283-4. 
+
+QuickLIMS: facilitating the data management for DNA-microarray fabrication.
+
+Kokocinski F, Wrobel G, Hahn M, Lichter P.
+
+Department of Molecular Genetics, Deutsches Krebsforschungszentrum INF 280,
+D-69120 Heidelberg, Germany. f.kokocinski@dkfz.de
+
+SUMMARY: QuickLIMS is a Microsoft Access-based laboratory information and
+management system, capable of processing all information for microarray
+production. The program's operational flow is protocol-based, dynamically
+adapting to changes of the process. It interacts with the laboratory robot and
+with other database systems over the network, and it represents a complete
+solution for the management of the entire manufacturing process. AVAILABILITY
+AND SUPPLEMENTARY INFORMATION:
+http://www.dkfz-heidelberg.de/kompl_genome/Other/QuickLims/index.html
+
+PMID: 12538251 [PubMed - indexed for MEDLINE]
+
+
+
+DR55: Bioinformatics. 2003 Jan 22;19(2):194-203. 
+
+Combinatorial image analysis of DNA microarray features.
+
+Glasbey CA, Ghazal P.
+
+Biomathematics and Statistics Scotland, JCMB, King's Buildings, Edinburgh EH9
+3JZ, Scotland, UK. chris@bioss.ac.uk
+
+MOTIVATION: DNA and protein microarrays have become an established leading-edge
+technology for large-scale analysis of gene and protein content and activity.
+Contact-printed microarrays has emerged as a relatively simple and cost
+effective method of choice but its reliability is especially susceptible to
+quality of pixel information obtained from digital scans of spotted features in
+the microarray image. RESULTS: We address the statistical computation
+requirements for optimizing data acquisition and processing of digital scans. We
+consider the use of median filters to reduce noise levels in images and top-hat
+filters to correct for trends in background values. We also consider, as
+alternative estimators of spot intensity, discs of fixed radius, proportions of
+histograms and k-means clustering, either with or without a square-root
+intensity transformation and background subtraction. We identify, using
+combinatoric procedures, optimal filter and estimator parameters, in achieving
+consistency among the replicates of a gene on each microarray. Our results,
+using test data from microarrays of HCMV, indicate that a highly effective
+approach for improving reliability and quality of microarray data is to apply a
+21 by 21 top-hat filter, then estimate spot intensity as the mean of the largest
+20% of pixel values in the target region, after a square-root transformation,
+and corrected for background, by subtracting the mean of the smallest 70% of
+pixel values. AVAILABILITY: Fortran90 subroutines implementing these methods are
+available from the authors, or at http://www.bioss.ac.uk/~chris.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12538239 [PubMed - indexed for MEDLINE]
+
+
+
+NR56: Nucleic Acids Res. 2003 Jan 1;31(1):97-100. 
+
+TRANSPATH: an integrated database on signal transduction and a tool for array
+analysis.
+
+Krull M, Voss N, Choi C, Pistor S, Potapov A, Wingender E.
+
+BIOBASE Biological Databases GmbH, Halchtersche Strasse 33, D-38304
+Wolfenbuttel, Germany. mkl@biobase.de
+
+TRANSPATH is a database system about gene regulatory networks that combines
+encyclopedic information on signal transduction with tools for visualization and
+analysis. The integration with TRANSFAC, a database about transcription factors
+and their DNA binding sites, provides the possibility to obtain complete
+signaling pathways from ligand to target genes and their products, which may
+themselves be involved in regulatory action. As of July 2002, the TRANSPATH
+Professional release 3.2 contains about 9800 molecules, >1800 genes and >11 400
+reactions collected from approximately 5000 references. With the ArrayAnalyzer,
+an integrated tool has been developed for evaluation of microarray data. It uses
+the TRANSPATH data set to identify key regulators in pathways connected with up-
+or down-regulated genes of the respective array. The key molecules and their
+surrounding networks can be viewed with the PathwayBuilder, a tool that offers
+four different modes of visualization. More information on TRANSPATH is
+available at http://www.biobase.de/pages/products/databases.html.
+
+PMID: 12519957 [PubMed - indexed for MEDLINE]
+
+
+
+PR57: Nucleic Acids Res. 2003 Jan 1;31(1):94-6. 
+
+The Stanford Microarray Database: data access and quality assessment tools.
+
+Gollub J, Ball CA, Binkley G, Demeter J, Finkelstein DB, Hebert JM,
+Hernandez-Boussard T, Jin H, Kaloper M, Matese JC, Schroeder M, Brown PO,
+Botstein D, Sherlock G.
+
+Department of Genetics, Center for Clinical Sciences Research, 269 Campus Drive,
+Room 2255b, Stanford University, Stanford, CA 94305-5163, USA.
+
+The Stanford Microarray Database (SMD;
+http://genome-www.stanford.edu/microarray/) serves as a microarray research
+database for Stanford investigators and their collaborators. In addition, SMD
+functions as a resource for the entire scientific community, by making freely
+available all of its source code and providing full public access to data
+published by SMD users, along with many tools to explore and analyze those data.
+SMD currently provides public access to data from 3500 microarrays, including
+data from 85 publications, and this total is increasing rapidly. In this
+article, we describe some of SMD's newer tools for accessing public data,
+assessing data quality and for data analysis.
+
+PMID: 12519956 [PubMed - indexed for MEDLINE]
+
+
+
+NR58: Bioinformatics. 2003 Jan;19(1):53-61. 
+
+Analysis of whole-genome microarray replicates using mixed models.
+
+Wernisch L, Kendall SL, Soneji S, Wietzorrek A, Parish T, Hinds J, Butcher PD,
+Stoker NG.
+
+School of Crystallography, Birkbeck College, London WC1E 7HX, UK.
+l.wernisch@bbk.ac.uk
+
+MOTIVATION: Microarray experiments are inherently noisy. Replication is the key
+to estimating realistic fold-changes despite such noise. In the analysis of the
+various sources of noise the dependency structure of the replication needs to be
+taken into account. RESULTS: We analyzed replicate data sets from a
+Mycobacterium tuberculosis trcS mutant in order to identify differentially
+expressed genes and suggest new methods for filtering and normalizing raw array
+data and for imputing missing values. Mixed ANOVA models are applied to quantify
+the various sources of error. Such analysis also allows us to determine the
+optimal number of samples and arrays. Significance values for differential
+expression are obtained by a hierarchical bootstrapping scheme on scaled
+residuals. Four highly upregulated genes, including bfrB, were analyzed further.
+We observed an artefact, where transcriptional readthrough from these genes led
+to apparent upregulation of adjacent genes. AVAILABILITY: All methods and data
+discussed are available in the package
+YASMAhttp://www.cryst.bbk.ac.uk/wernisch/yasma.html for the statistical data
+analysis system R (http://www.R-project.org).
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12499293 [PubMed - indexed for MEDLINE]
+
+
+
+NR59: Bioinformatics. 2003 Jan;19(1):45-52. 
+
+Evolutionary algorithms for finding optimal gene sets in microarray prediction.
+
+Deutsch JM.
+
+University of California, Santa Cruz, USA. josh@physics.ucsc.edu
+
+MOTIVATION: Microarray data has been shown recently to be efficacious in
+distinguishing closely related cell types that often appear in different forms
+of cancer, but is not yet practical clinically. However, the data might be used
+to construct a minimal set of marker genes that could then be used clinically by
+making antibody assays to diagnose a specific type of cancer. Here a replication
+algorithm is used for this purpose. It evolves an ensemble of predictors, all
+using different combinations of genes to generate a set of optimal predictors.
+RESULTS: We apply this method to the leukemia data of the Whitehead/MIT group
+that attempts to differentially diagnose two kinds of leukemia, and also to data
+of Khan et al. to distinguish four different kinds of childhood cancers. In the
+latter case we were able to reduce the number of genes needed from 96 to less
+than 15, while at the same time being able to classify all of their test data
+perfectly. We also apply this method to two other cases, Diffuse large B-cell
+lymphoma data (Shipp et al., 2002), and data of Ramaswamy et al. on multiclass
+diagnosis of 14 common tumor types. AVAILABILITY:
+http://stravinsky.ucsc.edu/josh/gesses/.
+
+PMID: 12499292 [PubMed - indexed for MEDLINE]
+
+
+
+NR60: Bioinformatics. 2002 Dec;18(12):1609-16. 
+
+Calculation of the minimum number of replicate spots required for detection of
+significant gene expression fold change in microarray experiments.
+
+Black MA, Doerge RW.
+
+Department of Statistics, Purdue University, West Lafayette, IN 47907,
+USA.blackma@stat.purdue.edu
+
+MOTIVATION: We present statistical methods for determining the number of per
+gene replicate spots required in microarray experiments. The purpose of these
+methods is to obtain an estimate of the sampling variability present in
+microarray data, and to determine the number of replicate spots required to
+achieve a high probability of detecting a significant fold change in gene
+expression, while maintaining a low error rate. Our approach is based on data
+from control microarrays, and involves the use of standard statistical
+estimation techniques. RESULTS: After analyzing two experimental data sets
+containing control array data, we were able to determine the statistical power
+available for the detection of significant differential expression given
+differing levels of replication. The inclusion of replicate spots on microarrays
+not only allows more accurate estimation of the variability present in an
+experiment, but more importantly increases the probability of detecting genes
+undergoing significant fold changes in expression, while substantially
+decreasing the probability of observing fold changes due to chance rather than
+true differential expression.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12490445 [PubMed - indexed for MEDLINE]
+
+
+
+NR61: Bioinformatics. 2002 Dec;18(12):1600-8. 
+
+Between-group analysis of microarray data.
+
+Culhane AC, Perriere G, Considine EC, Cotter TG, Higgins DG.
+
+Department of Biochemistry, University College Cork, Cork, Ireland.
+A.Culhane@ucc.ie
+
+MOTIVATION: Most supervised classification methods are limited by the
+requirement for more cases than variables. In microarray data the number of
+variables (genes) far exceeds the number of cases (arrays), and thus filtering
+and pre-selection of genes is required. We describe the application of Between
+Group Analysis (BGA) to the analysis of microarray data. A feature of BGA is
+that it can be used when the number of variables (genes) exceeds the number of
+cases (arrays). BGA is based on carrying out an ordination of groups of samples,
+using a standard method such as Correspondence Analysis (COA), rather than an
+ordination of the individual microarray samples. As such, it can be viewed as a
+method of carrying out COA with grouped data. RESULTS: We illustrate the power
+of the method using two cancer data sets. In both cases, we can quickly and
+accurately classify test samples from any number of specified a priori groups
+and identify the genes which characterize these groups. We obtained very high
+rates of correct classification, as determined by jack-knife or validation
+experiments with training and test sets. The results are comparable to those
+from other methods in terms of accuracy but the power and flexibility of BGA
+make it an especially attractive method for the analysis of microarray cancer
+data.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12490444 [PubMed - indexed for MEDLINE]
+
+
+
+NR62: Mod Pathol. 2002 Dec;15(12):1374-80. 
+
+Tissue microarrays are an effective quality assurance tool for diagnostic
+immunohistochemistry.
+
+Hsu FD, Nielsen TO, Alkushi A, Dupuis B, Huntsman D, Liu CL, van de Rijn M,
+Gilks CB.
+
+Department of Pathology and Genetic Pathology Evaluation Centre, Vancouver
+General Hospital and the University of British Columbia, Canada.
+
+There has been considerable variability in the reported results of
+immunohistochemical staining for some diagnostically relevant antigens. Our
+objectives in this study were to (1) use a multitumor tissue microarray with
+tissue from 351 cases received in our department, representing 16 normal tissues
+and 47 different tumor types, to compare immunohistochemical staining results in
+our laboratory with published data, using a panel of 22 antibodies; (2) assess
+interlaboratory variability of immunohistochemical staining for S-100 using this
+microarray; and (3) test the ability of hierarchical clustering analysis to
+group tumors by primary site, based on their immunostaining profile. Tissue
+microarrays consisting of duplicate 0.6-mm cores from blocks identified in the
+hospital archives were constructed and stained according to our usual protocols.
+Antibodies directed against the following antigens were used: B72.3, bcl-2,
+carcinoembryonic antigen, c-kit, pankeratin, CD 68, CD 99, CK 5/6, CK 7, CK
+8/18, CK19, CK 20, CK 22, epithelial membrane antigen, estrogen receptor,
+melan-A, p53, placental alkaline phosphatase, S-100, synaptophysin, thyroid
+transcription factor-1, and vimentin. Staining results on the array cases were
+compared with published results, and hierarchical clustering analysis was
+performed based on the immunohistochemical staining results. Unstained slides of
+the multitumor tissue microarray were sent to five other diagnostic
+immunohistochemistry laboratories and stained for S-100 protein. The staining
+results from the different laboratories were compared. Staining results using
+our current methods and samples from our laboratory were compatible with those
+described in the literature for most antigens. Placental alkaline phosphatase
+staining was not specific with our protocol, showing staining of a broad
+spectrum of different tumors; this finding initiated a review of our recent
+requests for placental alkaline phosphatase immunostaining and revealed two
+instances in which placental alkaline phosphatase positivity was incorrectly
+interpreted as evidence of a germ cell tumor. S-100 staining was less sensitive
+but more specific for the diagnosis of melanoma or neural tumor in our
+laboratory, compared to some published reports. Assessment of interlaboratory
+variability of S-100 immunostaining showed that there was more frequent staining
+of carcinomas in some laboratories, resulting in decreased specificity of S-100
+staining in distinguishing melanoma from carcinoma. Hierarchical clustering
+analysis showed a strong trend for tumors to cluster by tissue of origin, but
+there were significant exceptions. We conclude that multiple-tumor microarrays
+are an efficient method for assessing the sensitivity and specificity of
+staining with any antibody used diagnostically. As a tool for quality assurance,
+they offer the advantage of taking into account local differences in tissue
+fixation, processing, and staining. They also allow cost-effective assessment of
+interlaboratory variability in immunohistochemical staining. Results of
+hierarchical clustering analysis show the potential for panels of
+immunohistochemical stains to identify the primary site of metastatic carcinomas
+but also confirm the limitations of currently available antibodies in giving
+unequivocal tissue-specific staining patterns.
+
+PMID: 12481020 [PubMed - indexed for MEDLINE]
+
+
+
+PR63: Nat Genet. 2002 Dec;32 Suppl:509-14. 
+
+Post-analysis follow-up and validation of microarray experiments.
+
+Chuaqui RF, Bonner RF, Best CJ, Gillespie JW, Flaig MJ, Hewitt SM, Phillips JL,
+Krizman DB, Tangrea MA, Ahram M, Linehan WM, Knezevic V, Emmert-Buck MR.
+
+Pathogenetics Unit, Laboratory of Pathology and Urologic Oncology Branch, Center
+for Cancer Research, National Cancer Institute, Bethesda, Maryland 20892, USA.
+
+Measurement of gene-expression profiles using microarray technology is becoming
+increasingly popular among the biomedical research community. Although there has
+been great progress in this field, investigators are still confronted with a
+difficult question after completing their experiments: how to validate the large
+data sets that are generated? This review summarizes current approaches to
+verifying global expression results, discusses the caveats that must be
+considered, and describes some methods that are being developed to address
+outstanding problems.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12454646 [PubMed - indexed for MEDLINE]
+
+
+
+NR64: Nat Genet. 2002 Dec;32 Suppl:481-9. 
+
+Options available--from start to finish--for obtaining data from DNA microarrays
+II.
+
+Holloway AJ, van Laar RK, Tothill RW, Bowtell DD.
+
+The Ian Potter Foundation Centre for Cancer Genomics and Predictive Medicine and
+The Trescowthick Research Laboratories, Peter MacCallum Cancer Institute, Locked
+Bag 1, A'Beckett Street, Melbourne 8006, Victoria, Australia.
+
+Microarray technology has undergone a rapid evolution. With widespread interest
+in large-scale genomic research, an abundance of equipment and reagents have now
+become available and affordable to a large cross section of the scientific
+community. As protocols become more refined, careful investigators are able to
+obtain good quality microarray data quickly. In most recent times, however,
+perhaps one of the biggest obstacles researchers face is not the manufacture and
+use of microarrays at the bench, but storage and analysis of the array data.
+This review discusses the most recent equipment, reagents and protocols
+available to the researcher, as well as describing data analysis and storage
+options available from the evolving field of microarray informatics.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12454642 [PubMed - indexed for MEDLINE]
+
+
+
+NR65: Nat Genet. 2002 Dec;32 Suppl:474-9. 
+
+Medical applications of microarray technologies: a regulatory science
+perspective.
+
+Petricoin EF 3rd, Hackett JL, Lesko LJ, Puri RK, Gutman SI, Chumakov K, Woodcock
+J, Feigal DW Jr, Zoon KC, Sistare FD.
+
+Division of Therapeutic Products, Office of Therapeutics Research and Review,
+Center for Biologics Evaluation and Research, FDA, Bethesda, Maryland 20892,
+USA. petricoin@cber.fda.gov
+
+The potential medical applications of microarrays have generated much
+excitement, and some skepticism, within the biomedical community. Some
+researchers have suggested that within the decade microarrays will be routinely
+used in the selection, assessment, and quality control of the best drugs for
+pharmaceutical development, as well as for disease diagnosis and for monitoring
+desired and adverse outcomes of therapeutic interventions. Realizing this
+potential will be a challenge for the whole scientific community, as
+breakthroughs that show great promise at the bench often fail to meet the
+requirements of clinicians and regulatory scientists. The development of a
+cooperative framework among regulators, product sponsors, and technology experts
+will be essential for realizing the revolutionary promise that microarrays hold
+for drug development, regulatory science, medical practice and public health.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12454641 [PubMed - indexed for MEDLINE]
+
+
+
+NR66: Nat Genet. 2002 Dec;32 Suppl:469-73. 
+
+Microarray databases: standards and ontologies.
+
+Stoeckert CJ Jr, Causton HC, Ball CA.
+
+Center for Bioinformatics and Department of Genetics, University of
+Pennsylvania, 423 Guardian Drive, Philadelphia, Pennsylvania 19104-6021, USA.
+stoeckert@pcbi.upenn.edu
+
+A single microarray can provide information on the expression of tens of
+thousands of genes. The amount of information generated by a microarray-based
+experiment is sufficiently large that no single study can be expected to mine
+each nugget of scientific information. As a consequence, the scale and
+complexity of microarray experiments require that computer software programs do
+much of the data processing, storage, visualization, analysis and transfer. The
+adoption of common standards and ontologies for the management and sharing of
+microarray data is essential and will provide immediate benefit to the research
+community.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12454640 [PubMed - indexed for MEDLINE]
+
+
+
+NR67: Chem Res Toxicol. 2002 Nov;15(11):1380-6. 
+
+Analytical reproducibility in (1)H NMR-based metabonomic urinalysis.
+
+Keun HC, Ebbels TM, Antti H, Bollard ME, Beckonert O, Schlotterbeck G, Senn H,
+Niederhauser U, Holmes E, Lindon JC, Nicholson JK.
+
+Biological Chemistry, Biomedical Sciences, Faculty of Medicine, Imperial College
+of Science, Technology and Medicine, London, SW7 2AZ, UK. h.keun@ic.ac.uk
+
+Metabonomic analysis of biofluids and tissues utilizing high-resolution NMR
+spectroscopy and chemometric techniques has proven valuable in characterizing
+the biochemical response to toxicity for many xenobiotics. To assess the
+analytical reproducibility of metabonomic protocols, sample preparation and NMR
+data acquisition were performed at two sites (one using a 500 MHz and the other
+using a 600 MHz system) using two identical (split) sets of urine samples from
+an 8-day acute study of hydrazine toxicity in the rat. Despite the difference in
+spectrometer operating frequency, both datasets were extremely similar when
+analyzed using principal components analysis (PCA) and gave near-identical
+descriptions of the metabolic responses to hydrazine treatment. The main
+consistent difference between the datasets was related to the efficiency of
+water resonance suppression in the spectra. In a 4-PC model of both datasets
+combined, describing all systematic dose- and time-related variation (88% of the
+total variation), differences between the two datasets accounted for only 3% of
+the total modeled variance compared to ca. 15% for normal physiological
+(pre-dose) variation. Furthermore, <3% of spectra displayed distinct inter-site
+differences, and these were clearly identified as outliers in their respective
+dose-group PCA models. No samples produced clear outliers in both datasets,
+suggesting that the outliers observed did not reflect an unusual sample
+composition, but rather sporadic differences in sample preparation leading to,
+for example, very dilute samples. Estimations of the relative concentrations of
+citrate, hippurate, and taurine were in >95% correlation (r(2)) between sites,
+with an analytical error comparable to normal physiological variation in
+concentration (4-8%). The excellent analytical reproducibility and robustness of
+metabonomic techniques demonstrated here are highly competitive compared to the
+best proteomic analyses and are in significant contrast to genomic microarray
+platforms, both of which are complementary techniques for predictive and
+mechanistic toxicology. These results have implications for the quantitative
+interpretation of metabonomic data, and the establishment of quality control
+criteria for both regulatory agencies and for integrating data obtained at
+different sites.
+
+PMID: 12437328 [PubMed - indexed for MEDLINE]
+
+
+
+NR68: Am J Clin Pathol. 2002 Nov;118(5):675-82. 
+
+Comment in:
+    Am J Clin Pathol. 2002 Nov;118(5):669-71.
+
+Tissue array technology for testing interlaboratory and interobserver
+reproducibility of immunohistochemical estrogen receptor analysis in a large
+multicenter trial.
+
+von Wasielewski R, Mengel M, Wiese B, Rudiger T, Muller-Hermelink HK, Kreipe H.
+
+Institute of Pathology, Hannover Medical School, Germany.
+
+Semiquantitative immunohistochemical assessment of estrogen receptor (ER) is
+used to predict the likelihood of response to antiestrogen therapy in breast
+carcinoma. If semiquantitative immunohistochemical analysis leads to therapeutic
+decisions, the importance of standardization and quality control increases. ER
+assessment reproducibility was studied among 172 laboratories using tissue
+microarray slides with 20 tissue spots negative and 10 tissue spots expressing
+ER at low, medium, or high levels. More than 80% of the laboratories
+demonstrated ER positivity in the medium- and high-expressing tissue spots, but
+only about 43% succeeded with tissue spots with low expression. Poor
+interlaboratory agreement was based on insufficient retrieval efficacy as shown
+by additional tests using autoclave pretreatment. The immunohistochemical scores
+used to quantify therapeutic target molecules remain inconclusive as long as
+progress toward standardized immunohistochemical procedures and evaluation is
+not achieved. Tissue microarray technology has proved its suitability for
+large-scale immunohistochemical trials, giving rise to new dimensions in control
+assessment.
+
+Publication Types:
+    Multicenter Study
+
+PMID: 12428786 [PubMed - indexed for MEDLINE]
+
+
+
+NR69: Bioinformatics. 2002 Nov;18(11):1462-9. 
+
+Methods for assessing reproducibility of clustering patterns observed in
+analyses of microarray data.
+
+McShane LM, Radmacher MD, Freidlin B, Yu R, Li MC, Simon R.
+
+National Cancer Institute, Biometric Research Branch, DCTD, NIH, Bethesda, MD
+20892-7434, USA. lm5h@nih.gov
+
+MOTIVATION: Recent technological advances such as cDNA microarray technology
+have made it possible to simultaneously interrogate thousands of genes in a
+biological specimen. A cDNA microarray experiment produces a gene expression
+'profile'. Often interest lies in discovering novel subgroupings, or 'clusters',
+of specimens based on their profiles, for example identification of new tumor
+taxonomies. Cluster analysis techniques such as hierarchical clustering and
+self-organizing maps have frequently been used for investigating structure in
+microarray data. However, clustering algorithms always detect clusters, even on
+random data, and it is easy to misinterpret the results without some objective
+measure of the reproducibility of the clusters. RESULTS: We present statistical
+methods for testing for overall clustering of gene expression profiles, and we
+define easily interpretable measures of cluster-specific reproducibility that
+facilitate understanding of the clustering structure. We apply these methods to
+elucidate structure in cDNA microarray gene expression profiles obtained on
+melanoma tumors and on prostate specimens.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12424117 [PubMed - indexed for MEDLINE]
+
+
+
+NR70: Bioinformatics. 2002 Nov;18(11):1438-45. 
+
+Comparison of microarray designs for class comparison and class discovery.
+
+Dobbin K, Simon R.
+
+National Cancer Institute, EPN Mailstop 7434, 6130 Executive Blvd, Bethesda, MD
+20892, USA. dobbinke@mail.nih.gov
+
+MOTIVATION: Two-color microarray experiments in which an aliquot derived from a
+common RNA sample is placed on each array are called reference designs.
+Traditionally, microarray experiments have used reference designs, but designs
+without a reference have recently been proposed as alternatives. RESULTS: We
+develop a statistical model that distinguishes the different levels of variation
+typically present in cancer data, including biological variation among RNA
+samples, experimental error and variation attributable to phenotype. Within the
+context of this model, we examine the reference design and two designs which do
+not use a reference, the balanced block design and the loop design, focusing
+particularly on efficiency of estimates and the performance of cluster analysis.
+We calculate the relative efficiency of designs when there are a fixed number of
+arrays available, and when there are a fixed number of samples available. Monte
+Carlo simulation is used to compare the designs when the objective is class
+discovery based on cluster analysis of the samples. The number of discrepancies
+between the estimated clusters and the true clusters were significantly smaller
+for the reference design than for the loop design. The efficiency of the
+reference design relative to the loop and block designs depends on the relation
+between inter- and intra-sample variance. These results suggest that if cluster
+analysis is a major goal of the experiment, then a reference design is
+preferable. If identification of differentially expressed genes is the main
+concern, then design selection may involve a consideration of several factors.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12424114 [PubMed - indexed for MEDLINE]
+
+
+
+NR71: Bioinformatics. 2002 Nov;18(11):1432-7. 
+
+PRIMEGENS: robust and efficient design of gene-specific probes for microarray
+analysis.
+
+Xu D, Li G, Wu L, Zhou J, Xu Y.
+
+Protein Informatics Group, Life Sciences Division Environmental Sciences
+Division, Oak Ridge, TN 37831, USA. xud@ornl.gov
+
+MOTIVATION: DNA microarray is a powerful high-throughput tool for studying gene
+function and regulatory networks. Due to the problem of potential cross
+hybridization, using full-length genes for microarray construction is not
+appropriate in some situations. A bioinformatic tool, PRIMEGENS, has recently
+been developed for the automatic design of PCR primers using DNA fragments that
+are specific to individual open reading frames (ORFs). RESULTS: PRIMEGENS first
+carries out a BLAST search for each target ORF against all other ORFs of the
+genome to quickly identify possible homologous sequences. Then it performs
+optimal sequence alignment between the target ORF and each of its homologous
+ORFs using dynamic programming. PRIMEGENS uses the sequence alignments to select
+gene- specific fragments, and then feeds the fragments to the Primer3 program to
+design primer pairs for PCR amplification. PRIMEGENS can be run from the command
+line on Unix/Linux platforms as a stand-alone package or it can be used from a
+Web interface. The program runs efficiently, and it takes a few seconds per
+sequence on a typical workstation. PCR primers specific to individual ORFs from
+Shewanella oneidensis MR-1 and Deinococcus radiodurans R1 have been designed.
+The PCR amplification results indicate that this method is very efficient and
+reliable for designing specific probes for microarray analysis.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12424113 [PubMed - indexed for MEDLINE]
+
+
+
+NR72: Nucleic Acids Res. 2002 Nov 1;30(21):e116. 
+
+A common reference for cDNA microarray hybridizations.
+
+Sterrenburg E, Turk R, Boer JM, van Ommen GB, den Dunnen JT.
+
+Center for Human and Clinical Genetics, Leiden University Medical Center,
+Wassenaarseweg 72, 2333AL Leiden, Nederland.
+
+Comparisons of expression levels across different cDNA microarray experiments
+are easier when a common reference is co-hybridized to every microarray. Often
+this reference consists of one experimental control sample, a pool of cell lines
+or a mix of all samples to be analyzed. We have developed an alternative common
+reference consisting of a mix of the products that are spotted on the array.
+Pooling part of the cDNA PCR products before they are printed and their
+subsequent amplification towards either sense or antisense cRNA provides an
+excellent common reference. Our results show that this reference yields a
+reproducible hybridization signal in 99.5% of the cDNA probes spotted on the
+array. Accordingly, a ratio can be calculated for every spot, and expression
+levels across different hybridizations can be compared. In dye-swap experiments
+this reference shows no significant ratio differences, with 95% of the spots
+within an interval of +/-0.2-fold change. The described method can be used in
+hybridizations with both amplified and non-amplified targets, is time saving and
+provides a constant batch of common reference that lasts for thousands of
+hybridizations.
+
+PMID: 12409475 [PubMed - indexed for MEDLINE]
+
+
+
+NR73: Biotechnol Prog. 2002 Sep-Oct;18(5):1126-9. 
+
+Picoliter-scale protein microarrays by laser direct write.
+
+Ringeisen BR, Wu PK, Kim H, Pique A, Auyeung RY, Young HD, Chrisey DB, Krizman
+DB.
+
+Naval Research Laboratory, Washington DC 20375, USA. ringeisn@ccs.nrl.navy.mil
+
+We demonstrate the accurate picoliter-scale dispensing of active proteins using
+a novel laser transfer technique. Droplets of protein solution are dispensed
+onto functionalized glass slides and into plastic microwells, activating as
+small as 50-microm diameter areas on these surfaces. Protein microarrays
+fabricated by laser transfer were assayed using standard fluorescent labeling
+techniques to demonstrate successful protein and antigen binding. These results
+indicate that laser transfer does not damage the active site of the dispensed
+protein and that this technique can be used to successfully fabricate a
+functioning protein microarray. Also, as a result of the efficient nature of the
+process, material usage is reduced by two to four orders of magnitude compared
+to conventional pin dispensing methods for protein spotting.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 12363367 [PubMed - indexed for MEDLINE]
+
+
+
+DR74: J Biochem Mol Biol. 2002 Sep 30;35(5):532-5. 
+
+A method for evaluation of the quality of DNA microarray spots.
+
+Boa Z, Ma WL, Hu ZY, Rong S, Shi YB, Zheng WL.
+
+Department of Biochemistry, First Military Medical University, Guangzhou 510515,
+PR China.
+
+To establish a method to evaluate the quality of the printed microarray and DNA
+fragments' immobilization. The target gene fragments that were made with the
+restriction display PCR (RD-PCR) technique were printed on a superamine modified
+glass slide, then immobilized with UV cross-linking and heat. This chip was
+hybridized with universal primers that were labeled with cy3-dUTP, as well as
+cDNA that was labeled with cy3-dCTP, as the conventional protocol. Most of the
+target gene fragments on the chip showed positive signals, but the negative
+control showed no signal, and vice versa. We established a method that enables
+an effective evaluation of the quality of the microarrays.
+
+PMID: 12359098 [PubMed - indexed for MEDLINE]
+
+
+
+NR75: Virology. 2002 Sep 1;300(2):171-9. 
+
+Sequence diversity of Jeryl Lynn strain of mumps virus: quantitative mutant
+analysis for vaccine quality control.
+
+Amexis G, Rubin S, Chizhikov V, Pelloquin F, Carbone K, Chumakov K.
+
+Center for Biologics Evaluation and Research, FDA Rockville, Maryland 20852,
+USA.
+
+The Jeryl Lynn strain of mumps vaccine live (MVL) was developed in 1966 by Merck
+Co. and has been widely used in the U.S. and other countries since the early
+1970s. Partial sequencing has recently shown that the vaccine contains a mixture
+of two substrains with substantially different nucleotide sequences. We have
+determined the complete genomic sequences of both substrains and identified 414
+nucleotide differences (2.69%), leading to 87 amino acid substitutions (1.67%).
+We used this information to develop methods for quantification of the substrain
+components in vaccine samples based on PCR and restriction enzyme cleavage and
+oligonucleotide microarray hybridization and monitored their dynamics in viral
+populations propagated in different conditions. Passaging Jeryl Lynn strain in
+Vero or CEF cell cultures resulted in rapid selection of the major component
+JL1, while growth in embryonated chicken eggs (ECE) favored accumulation of the
+minor component JL2. Based on the findings presented here, it is proposed that
+the substrain composition of Jeryl Lynn vaccine can be monitored as a part of
+its quality control to ensure consistency of the vaccine.
+
+PMID: 12350348 [PubMed - indexed for MEDLINE]
+
+
+
+NR76: BMC Microbiol. 2002 Sep 20;2(1):27. 
+
+Bacterial discrimination by means of a universal array approach mediated by LDR
+(ligase detection reaction).
+
+Busti E, Bordoni R, Castiglioni B, Monciardini P, Sosio M, Donadio S, Consolandi
+C, Rossi Bernardi L, Battaglia C, De Bellis G.
+
+1Dipartimento di Scienze e Tecnologie Biomediche, Universita' di Milano, via
+F.lli Cervi, 93 20090 Segrate (MI), Italy. ebusti@biosearch.it
+
+BACKGROUND: PCR amplification of bacterial 16S rRNA genes provides the most
+comprehensive and flexible means of sampling bacterial communities. Sequence
+analysis of these cloned fragments can provide a qualitative and quantitative
+insight of the microbial population under scrutiny although this approach is not
+suited to large-scale screenings. Other methods, such as denaturing gradient gel
+electrophoresis, heteroduplex or terminal restriction fragment analysis are
+rapid and therefore amenable to field-scale experiments. A very recent addition
+to these analytical tools is represented by microarray technology. RESULTS: Here
+we present our results using a Universal DNA Microarray approach as an
+analytical tool for bacterial discrimination. The proposed procedure is based on
+the properties of the DNA ligation reaction and requires the design of two
+probes specific for each target sequence. One oligo carries a fluorescent label
+and the other a unique sequence (cZipCode or complementary ZipCode) which
+identifies a ligation product. Ligated fragments, obtained in presence of a
+proper template (a PCR amplified fragment of the 16s rRNA gene) contain either
+the fluorescent label or the unique sequence and therefore are addressed to the
+location on the microarray where the ZipCode sequence has been spotted. Such an
+array is therefore "Universal" being unrelated to a specific molecular analysis.
+Here we present the design of probes specific for some groups of bacteria and
+their application to bacterial diagnostics. CONCLUSIONS: The combined use of
+selective probes, ligation reaction and the Universal Array approach yielded an
+analytical procedure with a good power of discrimination among bacteria.
+
+PMID: 12243651 [PubMed - indexed for MEDLINE]
+
+
+
+NR77: Biotechniques. 2002 Sep;33(3):564, 566-70. 
+
+Linear amplification of catalyzed reporter deposition technology on nylon
+membrane microarray.
+
+Lau WK, Chiu SK, Ma JT, Tzeng CM.
+
+U-Vision Biotech, Taipei, Taiwan.
+
+The application of microarray analysis to gene expression from limited tissue
+samples has not been very successful because of the poor signal qualityfrom the
+genes expressed at low levels. Here we discussed the use of catalyzed reporter
+deposition (CARD) technology to amplify signals from limited RNA samples on
+nylon membrane cDNA microarray. When the input RNA level was greater than 10
+microg, the genes expressed at high levels did not amplify in proportion to
+those expressed at low levels. Compared to conventional colorimetric detection,
+the CARD method requires less than 10% of the total RNA used for amplification
+of signal displayed onto a nylon membrane cDNA microarray. Total RNA (5-10
+microg), as one can extract from a limited amount of specimen, was determined to
+produce a linear correlation between the colorimetric detection and CARD
+methods. Beyond this range, it can cause a nonlinear amplification of highly
+expressed and low-abundance genes. These results suggest that when amplification
+is needed for any applications using the CARD method, including DNA microarray
+experiments, precaution has to be taken in the amount of RNA used to avoid skew
+amplification and thus misleading conclusions.
+
+Publication Types:
+    Evaluation Studies
+    Technical Report
+
+PMID: 12238767 [PubMed - indexed for MEDLINE]
+
+
+
+NR78: Adv Biochem Eng Biotechnol. 2002;77:113-39. 
+
+Microarray data representation, annotation and storage.
+
+Brazma A, Sarkans U, Robinson A, Vilo J, Vingron M, Hoheisel J, Fellenberg K.
+
+EMBL Outstation-Hinxton, European Bioinformatics Institute, Cambridge, UK.
+brazma@ebi.ac.uk
+
+Management and analysis of the huge amounts of data produced by microarray
+experiments is becoming one of the major bottlenecks in the utilization of this
+high-throughput technology. We describe the basic design of a microarray gene
+expression database to help microarray users and their informatics teams to set
+up their information services. We describe two data models--a simpler one called
+ArrayExpressB and the complete model ArrayExpressC, and discuss some
+implementation issues. For latest developments see http:
+wwwebi.ac.uk/arrayexpress
+
+PMID: 12227734 [PubMed - indexed for MEDLINE]
+
+
+
+NR79: Genome Biol. 2002 Jul 25;3(8):RESEARCH0041. Epub 2002 Jul 25. 
+
+Identification of Schistosoma mansoni gender-associated gene transcripts by cDNA
+microarray profiling.
+
+Hoffmann KF, Johnston DA, Dunne DW.
+
+Department of Pathology, University of Cambridge, Tennis Court Road, Cambridge
+CB2 1QP, UK. kfh24@cam.ac.uk
+
+BACKGROUND: Parasitic helminths of the genus Schistosoma mate, achieve sexual
+maturity and produce eggs in the bloodstream of their definitive hosts, and the
+most important pathological consequences of the infection are associated with
+this process. We have used cDNA microarray technology to initiate genome-wide
+gene-expression studies of sex and sexual development in mature Schistosoma
+mansoni parasites. RESULTS: An S. mansoni-specific cDNA microarray was
+fabricated using 576 expressed sequence tags selected from three cDNA libraries
+and originating from two different parasite developmental stages. Five
+independent cDNA microarray hybridizations were analyzed using stringent
+filtering criteria and careful quality control, leading to the identification of
+12 new female-associated and 4 new male-associated gene transcripts in the
+mature adult schistosome. Statistical analysis of variation demonstrated high
+levels of agreement within a cDNA microarray (correlation coefficient 0.91;
+median coefficient of variation 11.1%) and between cDNA microarrays (correlation
+coefficient 0.90; median coefficient of variation 14.4%). RT-PCR analysis
+confirmed the cDNA microarray results, thereby supporting the reliability of the
+system. CONCLUSIONS: Our study expands the list of S. mansoni gender-associated
+gene transcripts from all previous studies by a factor of two. Among the new
+associations identified, a tyrosinase ortholog was preferentially expressed in
+the adult female, and a dynein light-chain ortholog was highly induced in the
+adult male. cDNA microarrays offer the potential for exponential leaps in the
+understanding of parasite biology and this study shows how molecules involved in
+sexual biology can be rapidly identified.
+
+Publication Types:
+    Validation Studies
+
+PMID: 12186648 [PubMed - indexed for MEDLINE]
+
+
+
+NR80: Curr Opin Biotechnol. 2002 Jun;13(3):204-7. 
+
+Challenges in applying microarrays to environmental studies.
+
+Zhou J, Thompson DK.
+
+Environmental Sciences Division, Oak Ridge National Laboratory, PO Box 2008, Oak
+Ridge, TN 37831, USA. zhouj@ornl.gov
+
+Although DNA microarray technology has been used successfully to analyze global
+gene expression in pure cultures, it has not been rigorously tested and
+evaluated within the context of complex environmental samples. Adapting
+microarray hybridization for use in environmental studies faces several
+challenges associated with specificity, sensitivity and quantitation.
+
+PMID: 12180093 [PubMed - indexed for MEDLINE]
+
+
+
+DR81: Bioinformatics. 2002 Aug;18(8):1139-40. 
+
+MArray: analysing single, replicated or reversed microarray experiments.
+
+Wang J, Nygaard V, Smith-Sorensen B, Hovig E, Myklebost O.
+
+Department of Tumour Biology, Norwegian Radium Hospital, N0310 Oslo, Norway.
+junbaiw@radium.uio.no
+
+MArray is a Matlab toolbox with a graphical user interface that allows the user
+to analyse single or paired microarray datasets by direct input of the raw data
+output file from image analysis packages, such as QuantArray or GenePiX. The
+application provides simple procedures to manually evaluate the quality of each
+measurement, multiple approaches to both ratio normalization (simple
+normalization, intensity dependent normalization) and evaluation of the
+reproducibility of paired experiments (using the techniques 'simple statistical
+method' and 'quality control ellipse' and 'significance analysis of
+microarrays'). Specifically, interactive spot evaluation functions are available
+in MArray and an online gene information database (NCBI UniGene) is linked. The
+application may provide a valuable aid in selecting and optimizing experimental
+procedures, as well as serving as an analytical tool for two-state biological
+comparisons, such as a study of single-dose activation. It is entirely platform
+independent, and only requires Matlab installed. AVAILABILITY:
+http://matrise.uio.no/marray/marray.html
+
+PMID: 12176840 [PubMed - indexed for MEDLINE]
+
+
+
+NR82: Bioinformatics. 2002 Aug;18(8):1054-63. 
+
+Mapping physiological states from microarray expression measurements.
+
+Stephanopoulos G, Hwang D, Schmitt WA, Misra J, Stephanopoulos G.
+
+Department of Chemical Engineering, Massachusetts Institute of Technology, Room
+56-469, Cambridge 02139, USA. gregstep@mit.edu
+
+MOTIVATION: The increasing use of DNA microarrays to probe cell physiology
+requires methods for visualizing different expression phenotypes and explicitly
+connecting individual genes to discriminating expression features. Such methods
+should be robust and maintain biological interpretability. RESULTS: We propose a
+method for the mapping of the physiological state of cells and tissues from
+multidimensional expression data such as those obtained with DNA microarrays.
+The method uses Fisher discriminant analysis to create a linear projection of
+gene expression measurements that maximizes the separation of different sample
+classes. Relative to other typical classification methods, this method provides
+insights into the discriminating characteristics of expression measurements in
+terms of the contribution of individual genes to the definition of distinct
+physiological states. This projection method also facilitates visualization of
+classification results in a reduced dimensional space. Examples from four
+different cases demonstrate the ability of the method to produce well-separated
+groups in the projection space and to identify important genes for defining
+physiological states. The method can be augmented to also include data from the
+proteomic and metabolic phenotypes and can be useful in disease diagnosis, drug
+screening and bioprocessing applications.
+
+PMID: 12176828 [PubMed - indexed for MEDLINE]
+
+
+
+NR83: Nat Biotechnol. 2002 Sep;20(9):940-3. Epub 2002 Aug 12. 
+
+Representation is faithfully preserved in global cDNA amplified exponentially
+from sub-picogram quantities of mRNA.
+
+Iscove NN, Barbara M, Gu M, Gibson M, Modi C, Winegarden N.
+
+Department of Cell and Molecular Biology, The Ontario Cancer Institute, 610
+University Avenue, Toronto, ON, Canada M5G 2M9. iscove@uhnres.utoronto.ca
+
+Analysis of transcript representation on gene microarrays requires microgram
+amounts of total RNA or DNA. Without amplification, such amounts are obtainable
+only from millions of cells. However, it may be desirable to determine
+transcript representation in few or even single cells in aspiration biopsies,
+rare population subsets isolated by cell sorting or laser capture, or
+micromanipulated single cells. Nucleic-acid amplification methods could be used
+in these cases, but it is difficult to amplify different transcripts in a sample
+without distorting quantitative relationships between them. Linear isothermal
+RNA amplification has been used to amplify as little as 10 ng of total cellular
+RNA, corresponding to the amount obtainable from thousands of cells, while still
+preserving the original abundance relationships. However, the available
+procedures require multiple steps, are labor intensive and time consuming, and
+have not been shown to preserve abundance information from smaller starting
+amounts. Exponential amplification, on the other hand, is a relatively simple
+technology, but is generally considered to bias abundance relationships
+unacceptably. These constraints have placed beyond current reach the secure and
+routine application of microarray analysis to single or small numbers of cells.
+Here we describe results obtained with a rapid and highly optimized global
+reverse transcription#150;PCR (RT-PCR) procedure. Contrary to prevalent
+expectations, the exponential approach preserves abundance relationships through
+amplification as high as 3 x 10(11)-fold. Further, it reduces by a million-fold
+the input amount of RNA needed for microarray analysis, and yields reproducible
+results from the picogram range of total RNA obtainable from single cells.
+
+Publication Types:
+    Technical Report
+
+PMID: 12172558 [PubMed - indexed for MEDLINE]
+
+
+
+DR84: Bioinformatics. 2002;18 Suppl 1:S155-63. 
+
+Statistical process control for large scale microarray experiments.
+
+Model F, Konig T, Piepenbrock C, Adorjan P.
+
+Epigenomics AG, Kastanienallee 24, Berlin, D-10435, Germany.
+Fabian.Model@epigenomics.com
+
+MOTIVATION: Maintaining and controlling data quality is a key problem in large
+scale microarray studies. In particular systematic changes in experimental
+conditions across multiple chips can seriously affect quality and even lead to
+false biological conclusions. Traditionally the influence of these effects can
+be minimized only by expensive repeated measurements, because a detailed
+understanding of all process relevant parameters seems impossible. RESULTS: We
+introduce a novel method for microarray process control that estimates quality
+based solely on the distribution of the actual measurements without requiring
+repeated experiments. A robust version of principle component analysis detects
+single outlier microarrays and thereby enables the use of techniques from
+multivariate statistical process control. In particular, the T(2) control chart
+reliably tracks undesired changes in process relevant parameters. This can be
+used to improve the microarray process itself, limits necessary repetitions to
+only affected samples and therefore maintains quality in a cost effective way.
+We prove the power of the approach on 3 large sets of DNA methylation microarray
+data.
+
+Publication Types:
+    Evaluation Studies
+    Validation Studies
+
+PMID: 12169543 [PubMed - indexed for MEDLINE]
+
+
+
+PR85: J Clin Pathol. 2002 Aug;55(8):613-5. 
+
+Comment in:
+    J Clin Pathol. 2002 Aug;55(8):575-6.
+
+Tissue microarrays: a new approach for quality control in immunohistochemistry.
+
+Packeisen J, Buerger H, Krech R, Boecker W.
+
+Department of Pathology, Klinikum Osnabrueck, Am Finkenhuegel 1, 49076
+Osnabrueck, Germany. jpackeisen@pathoweb.de
+
+AIMS: To improve the interpretation of immunohistochemistry (IHC) staining
+results the use of a tissue microarray technique was established in a routine
+setting. METHODS: A tissue microarray was constructed by harvesting 600 microm
+tissue cores from paraffin wax embedded samples available in a routine pathology
+department. The punches originating from non-tumorous tissue were placed on host
+paraffin wax blocks. The microarray contained 12 different tissue samples, with
+a wide antigen profile and a dimension of 3.5 x 3 mm. One section of the
+multitissue array was placed as an "internal" positive control on each slide of
+the patient tissue to undergo identical immunohistochemical procedures. RESULTS:
+Using the tissue microarray technique as a tool for internal quality control,
+the interpretation of immunohistochemical staining of more than 20 different
+antigens in routine IHC was improved. The tissue microarray did not influence
+the staining results in conventional IHC or in different automated IHC settings.
+CONCLUSION: The regular use of an institution adapted tissue microarray would be
+useful for internal positive control in IHC to enable different laboratory
+demands. Furthermore, this technique improves the evaluation of staining results
+in IHC.
+
+PMID: 12147657 [PubMed - indexed for MEDLINE]
+
+
+
+NR86: Biotechniques. 2002 Jul;33(1):176-9. 
+
+High-quality RNA from cells isolated by laser capture microdissection.
+
+Mikulowska-Mennis A, Taylor TB, Vishnu P, Michie SA, Raja R, Horner N, Kunitake
+ST.
+
+Arcturus, Mountain View, CA 94043, USA. amennis@arctur.com
+
+Laser capture microdissection (LCM) provides a rapid and simple method for
+procuring homogeneous populations of cells. However, reproducible isolation of
+intact RNAfrom these cells can be problematic; the sample may deteriorate before
+or during sectioning, RNA may degrade during slide staining and LCM, and
+inadequate extraction and isolation methods may lead to poor recovery. Our
+report describes an optimized protocol for preparation of frozen sections for
+LCM using the HistoGene Frozen Section Staining Kit. This slide preparation
+method is combined with the PicoPure RNA Isolation Kitfor extraction and
+isolation of RNA from low numbers of microdissected cells. The procedure is easy
+to perform, rapid, and reproducible. Our results show that the RNA isolated from
+the LCM samples prepared according to our protocol is of high quality. The RNA
+maintains its integrity as shown by RT-PCR detection of genes of different
+abundance levels and by electrophoretic analysis of ribosomal RNA. RNA obtained
+by this method has also been used to synthesize probes for interrogating cDNA
+microarray analyses to study expression levels of thousands of genes from LCM
+samples.
+
+PMID: 12139243 [PubMed - indexed for MEDLINE]
+
+
+
+DR87: BMC Genomics. 2002 Jul 17;3(1):19. Epub 2002 Jul 17. 
+
+Defining signal thresholds in DNA microarrays: exemplary application for
+invasive cancer.
+
+Bilban M, Buehler LK, Head S, Desoye G, Quaranta V.
+
+The Scripps Research Institute, Department of Cell Biology, 10550 North Torrey
+Pines Road, La Jolla, CA, USA. mbilban@scripps.edu
+
+BACKGROUND: Genome-wide or application-targeted microarrays containing a subset
+of genes of interest have become widely used as a research tool with the
+prospect of diagnostic application. Intrinsic variability of microarray
+measurements poses a major problem in defining signal thresholds for
+absent/present or differentially expressed genes. Most strategies have used
+fold-change threshold values, but variability at low signal intensities may
+invalidate this approach and it does not provide information about
+false-positives and false negatives. RESULTS: We introduce a method to filter
+false-positives and false-negatives from DNA microarray experiments. This is
+achieved by evaluating a set of positive and negative controls by receiver
+operating characteristic (ROC) analysis. As an advantage of this approach, users
+may define thresholds on the basis of sensitivity and specificity
+considerations. The area under the ROC curve allows quality control of
+microarray hybridizations. This method has been applied to custom made
+microarrays developed for the analysis of invasive melanoma derived tumor cells.
+It demonstrated that ROC analysis yields a threshold with reduced missclassified
+genes in microarray experiments. CONCLUSIONS: Provided that a set of appropriate
+positive and negative controls is included on the microarray, ROC analysis
+obviates the inherent problem of arbitrarily selecting threshold levels in
+microarray experiments. The proposed method is applicable to both custom made
+and commercially available DNA microarrays and will help to improve the
+reliability of predictions from DNA microarray experiments.
+
+PMID: 12123529 [PubMed]
+
+
+
+NR88: Bioinformatics. 2002 Jul;18(7):953-60. 
+
+Quantitative assessment of filter-based cDNA microarrays: gene expression
+profiles of human T-lymphoma cell lines.
+
+Dodson JM, Charles PT, Stenger DA, Pancrazio JJ.
+
+Center for Bio/Molecular Science & Engineering, Code 6900, Naval Research
+Laboratory, Washington, DC 20375, USA.
+
+MOTIVATION: While the use of cDNA microarrays for functional genomic analysis
+has become commonplace, relatively little attention has been placed on false
+positives, i.e. the likelihood that a change in measured radioactive or
+fluorescence intensity may reflect a change in gene expression when, in fact,
+there is none. Since cDNA arrays are being increasingly used to rapidly
+distinguish biomarkers for disease detection and subsequent assay development
+(Wellman et al., Blood, 96, 398-404, 2000), the impact of false positives can be
+significant. For the use of this technology, it is necessary to develop
+quantitative criteria for reduction of false positives with
+radioactively-labeled cDNA arrays. RESULTS: We used a single source of RNA
+(HuT78 T lymphoma cells) to eliminate sample variation and quantitatively
+examined intensity ratios using radioactively labeled cDNA microarrays.
+Variation in intensity ratios was reduced by processing microarrays in
+side-by-side (parallel mode) rather than by using the same microarray for two
+hybridizations (sequential mode). Based on statistical independence, calculation
+of the expected number of false positives as a function of threshold showed that
+a detection limit of [log(2)R] >0.65 with agreement from three replicates could
+be used to identify up- or down-modulated genes. Using this quantitative
+criteria, gene expression differences between two related T lymphoma cell lines,
+HuT78 and H9, were identified. The relevance of these findings to the known
+functional differences between these cell types is discussed.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 12117793 [PubMed - indexed for MEDLINE]
+
+
+
+PR89: Biotechniques. 2002 Jun;32(6):1316-20. 
+
+Local mean normalization of microarray element signal intensities across an
+array surface: quality control and correction of spatially systematic artifacts.
+
+Colantuoni C, Henry G, Zeger S, Pevsner J.
+
+Kennedy Krieger Institute, Johns Hopkins University, School of Medicine,
+Baltimore, MD 21205, USA.
+
+Here we present a methodology for the normalization of element signal
+intensities to a mean intensity calculated locally across the surface of a DNA
+microarray. These methods allow the detection and/or correction of spatially
+systematic artifacts in microarray data. These include artifacts that can be
+introduced during the robotic printing, hybridization, washing, or imaging of
+microarrays. Using array element signal intensities alone, this local mean
+normalization process can correct for such artifacts because they vary across
+the surface of the array. The local mean normalization can be usedfor quality
+control and data correction purposes in the analysis of microarray data. These
+algorithms assume that array elements are not spatially ordered with regard to
+sequence or biological function and require that this spatial mapping is
+identical between the two sets of intensities to be compared. The tool described
+in this report was developed in the R statistical language and is freely
+available on the Internet as part of a larger gene expression analysis package.
+This Web implementation is interactive and user-friendly and allows the easy use
+of the local mean normalization tool described here, without programming
+expertise or downloading of additional software.
+
+PMID: 12074162 [PubMed - indexed for MEDLINE]
+
+
+
+NR90: J Ind Microbiol Biotechnol. 2002 Mar;28(3):180-5. 
+
+Microarray technology GEM microarrays and drug discovery.
+
+Reynolds MA.
+
+Incyte Genomics, Fremont, CA 94555, USA.
+
+Incyte Genomics' GEM Gene Expression Microarray is a proven genomics tool used
+by a large number of pharmaceutical companies to speed up the drug discovery and
+development process. The development and integration of this technology,
+together with Incyte's sequence databases and clone resources, have resulted in
+GEM microarrays that span approximately 60,000 human genes as well as
+approximately 60,000 plant, rat, mouse, yeast, and bacterial genes. The
+technology underlying the use of these arrays and their application to the drug
+discovery process is highlighted.
+
+PMID: 12074093 [PubMed - indexed for MEDLINE]
+
+
+
+PR91: Nucleic Acids Res. 2002 Jun 15;30(12):e54. 
+
+Microarray optimizations: increasing spot accuracy and automated identification
+of true microarray signals.
+
+Tran PH, Peiffer DA, Shin Y, Meek LM, Brody JP, Cho KW.
+
+Department of Developmental and Cell Biology, University of California at
+Irvine, Irvine, CA 92697, USA.
+
+In this paper, fluorescent microarray images and various analysis techniques are
+described to improve the microarray data acquisition processes. Signal
+intensities produced by rarely expressed genes are initially correctly detected,
+but they are often lost in corrections for background, log or ratio. Our
+analyses indicate that a simple correlation between the mean and median signal
+intensities may be the best way to eliminate inaccurate microarray signals.
+Unlike traditional quality control methods, the low intensity signals are
+retained and inaccurate signals are eliminated in this mean and median
+correlation. With larger amounts of microarray data being generated, it becomes
+increasingly more difficult to analyze data on a visual basis. Our method allows
+for the automatic quantitative determination of accurate and reliable signals,
+which can then be used for normalization. We found that a mean to median
+correlation of 85% or higher not only retains more data than current methods,
+but the retained data is more accurate than traditional thresholds or common
+spot flagging algorithms. We have also found that by using pin microtapping and
+microvibrations, we can control spot quality independent from initial PCR
+volume.
+
+PMID: 12060692 [PubMed - indexed for MEDLINE]
+
+
+
+DR92: Trends Genet. 2002 May;18(5):265-71. 
+
+Statistical issues with microarrays: processing and analysis.
+
+Nadon R, Shoemaker J.
+
+Imaging Research Inc., Brock University, 500 Glenridge Ave, St Catharines,
+Ontario, Canada L2S 3A1. Robert.Nadon@imagingresearch.com
+
+The study of gene expression with printed arrays and prefabricated chips is
+evolving from a qualitative to a quantitative science. Statistical procedures
+for determining quality control, differential expression, and reproducibility of
+findings are a natural consequence of this evolution. However, problems inherent
+to the technologies have raised important issues of how to apply adequate
+statistical tests. As a consequence, statistical approaches to microarray
+research are not yet as routine as they are in other sciences. Statistical
+methods, tailored to microarrays, continue to be adapted and developed. We
+present an overview of these methods and of outstanding issues in their use and
+validation.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 12047952 [PubMed - indexed for MEDLINE]
+
+
+
+DR93: Biotechniques. 2002 May;32(5):1051-2, 1054, 1056-7. 
+
+Nondestructive quality control for microarray production.
+
+Shearstone JR, Allaire NE, Getman ME, Perrin S.
+
+Transcriptional Profiling Group, Biogen Inc., Cambridge, MA 02142, USA.
+jeff_shearstone@biogen.com
+
+The use of microarrays to monitor gene expression has become a standard research
+tool at both academic and industrial research institutions. Quality control of
+common printing defects during DNA deposition onto glass substrates is critical
+to maintaining data integrity and preventing the needless consumption of
+precious RNA, labeling reagents, and time. Here we demonstrate a nondestructive
+method for monitoring the quality of every spot on every chip of a microarray
+production run. We have identified many common manufacturing defects, while not
+perturbing the attachment of our oligonucleotide target to the substrate or
+altering further hybridization. This protocol is simple, fast, and inexpensive.
+
+Publication Types:
+    Technical Report
+
+PMID: 12019778 [PubMed - indexed for MEDLINE]
+
+
+
+NR94: Bioinformatics. 2002 Mar;18(3):423-33. 
+
+Microarray data warehouse allowing for inclusion of experiment annotations in
+statistical analysis.
+
+Fellenberg K, Hauser NC, Brors B, Hoheisel JD, Vingron M.
+
+Department of Theoretical Bioinformatics, German Cancer Research Center, PO Box
+101949, D-69009 Heidelberg, Germany. k.fellenberg@dkfz.de
+
+MOTIVATION: Microarray technology provides access to expression levels of
+thousands of genes at once, producing large amounts of data. These datasets are
+valuable only if they are annotated by sufficiently detailed experiment
+descriptions. However, in many databases a substantial number of these
+annotations is in free-text format and not readily accessible to computer-aided
+analysis. RESULTS: The Multi-Conditional Hybridization Intensity Processing
+System (M-CHIPS), a data warehousing concept, focuses on providing both
+structure and algorithms suitable for statistical analysis of a microarray
+database's entire contents including the experiment annotations. It addresses
+the rapid growth of the amount of hybridization data, more detailed experimental
+descriptions, and new kinds of experiments in the future. We have developed a
+storage concept, a particular instance of which is an organism-specific
+database. Although these databases may contain different ontologies of
+experiment annotations, they share the same structure and therefore can be
+accessed by the very same statistical algorithms. Experiment ontologies have not
+yet reached their final shape, and standards are reduced to minimal conventions
+that do not yet warrant extensive description. An ontology-independent structure
+enables updates of annotation hierarchies during normal database operation
+without altering the structure. AVAILABILITY AND SUPPLEMENTARY INFORMATION:
+http://www.dkfz.de/tbi/services/mchips
+
+PMID: 11934741 [PubMed - indexed for MEDLINE]
+
+
+
+DR95: J Comput Biol. 2002;9(1):1-22. 
+
+Quality control in manufacturing oligo arrays: a combinatorial design approach.
+
+Sengupta R, Tompa M.
+
+Department of Computer Science and Engineering, University of Washington,
+Seattle, WA 98195-2350, USA. rimli@cs.washington.edu
+
+The advent of the DNA microarray technology has brought with it the exciting
+possibility of simultaneously observing the expression levels of all genes in an
+organism. One such microarray technology, called "oligo arrays," manufactures
+short single strands of DNA (called probes) onto a glass surface using
+photolithography. An altered or missed step in such a manufacturing protocol can
+adversely affect all probes using this failed step and is in general impossible
+to disentangle from experimental variation when using such a defective array.
+The idea of designing special quality control probes to detect a failed step was
+first formulated by Hubbell and Pevzner (1999). We consider an alternative
+formulation of this problem and use a combinatorial design approach to solve it.
+Our results improve over prior work in guaranteeing coverage of all protocol
+steps and in being able to tolerate a greater number of unreliable probe
+intensities.
+
+PMID: 11911792 [PubMed - indexed for MEDLINE]
+
+
+
+NR96: Clin Cancer Res. 2002 Mar;8(3):794-801. 
+
+The feasibility of using fine needle aspiration from primary breast cancers for
+cDNA microarray analyses.
+
+Assersohn L, Gangi L, Zhao Y, Dowsett M, Simon R, Powles TJ, Liu ET.
+
+Royal Marsden Hospital, Surrey SM2 5PT, United Kingdom.
+
+PURPOSE: Our aims in this pilot study were to determine whether fine needle
+aspirates (FNAs) provide a sufficient quantity of mRNA for cDNA microarray
+analysis, produce a set of quality control criteria to accept individual arrays,
+and determine whether gene expression profiles obtained from FNAs were
+representative of the source tumor. EXPERIMENTAL DESIGN: Twenty-seven women with
+breast cancer for treatment with primary surgery had a FNA before and at the
+time of surgery, and a portion of excised tumor was taken for array analysis.
+Control experiments were performed using two Ewing's sarcoma xenograft models.
+mRNA was extracted from the samples and hybridized with the reference (MCF7 cell
+line) on cDNA microarrays. Statistical methods were applied to identify
+acceptability criteria for the arrays. RESULTS: Statistical analyses
+demonstrated that an adequate array could be identified by calculating the SD of
+the log of fluorescence intensities from the arrays. Using this criterion, only
+4 of the 27 patients (15%) had FNA samples suitable for array analysis. Gene
+expression profiles from the FNAs closely resembled that of the corresponding
+source tumors and were clearly distinguished from FNAs derived from the
+xenografts. CONCLUSIONS: SD is a useful quality index for the clinical
+application of cDNA microarrays. This "proof of principle" study demonstrates
+that FNAs from primary breast cancers can be used for microarray analysis,
+although without amplification, it is feasible in only a small proportion of
+patients. For this to be clinically useful, validated amplification techniques
+for FNA samples are probably required.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 11895911 [PubMed - indexed for MEDLINE]
+
+
+
+NR97: Eur J Cancer. 2001 Oct;37 Suppl 7:S5-17. 
+
+What the clinician needs from the pathologist: evidence-based reporting in
+breast cancer.
+
+Going JJ, Mallon EA, Leake RE, Bartlett JM, Gusterson BA.
+
+Department of Pathology, University of Glasgow, Scotland, UK.
+
+Histopathology has a vital role in determining breast cancer management and
+pathologists must be part of the clinical team. Carcinoma size, grade, and
+especially lymph node status remain the best available prognostic factors.
+Metastatic carcinoma in axillary nodes is more important than any other
+prognostic factor presently available. ER status is an important predictor of
+response to endocrine manipulation, but its independent prognostic significance,
+and that of micrometastatic disease, circulating carcinoma cells and other
+molecular factors, even well-studied ones such as HER2 status, are less clear.
+Pathology is the first clinical speciality to subject its practice to rigorous
+scientific analysis, and it has stood up well. However, workers without
+appropriate experience in Pathology or scientific design have created
+difficulties by undertaking poorly planned studies with ill-defined end-points,
+lacking appropriate quality control. New analytical techniques and therapeutic
+targets make it essential that we learn from past mistakes and integrate
+pathologists into the research teams pursing clinical trials and the assessment
+of new bio-markers. Without this, input resource will be wasted on false leads
+that could have been curtailed. Morphology alone will not be enough to select
+patients likely to benefit in trials of new therapies, but selection 'tests'
+must be appropriate. The confusion of tests for selection of patients to receive
+Herceptin shows what happens when this process fails. Much of the microarray
+data being put into data-bases has no quality control, and meta-analysis of this
+data will produce even more conflict than the clinical trials. This can be
+avoided, as the ability to standardise is available.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 11888005 [PubMed - indexed for MEDLINE]
+
+
+
+PR98: Biotechniques. 2002 Feb;32(2):330-2, 334, 336. 
+
+Correcting for signal saturation errors in the analysis of microarray data.
+
+Hsiao LL, Jensen RV, Yoshida T, Clark KE, Blumenstock JE, Gullans SR.
+
+Brigham and Women's Hosppital, Harvard Medical School, Boston, MA, USA.
+
+A variety of technical errors have arisen in data analysis when using cDNA or
+oligonucleotide microarrays. One of the most insidious problems is the
+saturation of the hybridization signal of high-abundant transcripts. This
+problem arises from the truncation of the laser fluorescence signal. When the
+hybridization signal on the microarray is very strong, this truncation can
+result in serious consequences that may not be readily apparent to the user. As
+an illustration of this problem, two subclasses of normal human tissue samples
+(six liver and six lung samples) were analyzed with GeneChip probe arrays to
+evaluate the patterns of expression for approximately 7000 human genes. Five of
+these data sets were found to suffer from signal truncation. This caused several
+tissues to be incorrectly classified using hierarchical clustering. To rectify
+this problem so that the gene expression data could be properly compared and
+clustered, we developed a "filtering" procedure that identifies a subset of
+genes least affected by the signal saturation. This filtering procedure can be
+obtained at www.hugeindex.org.
+
+PMID: 11848410 [PubMed - indexed for MEDLINE]
+
+
+
+NR99: Biotechniques. 2002 Feb;32(2):312-4. 
+
+Microgel assessment of nucleic acid integrity and labeling quality in microarray
+experiments.
+
+Lage JM, Hamann S, Gribanov O, Leamon JH, Pejovic T, Lizardi PM.
+
+Yale University School of Medicine, New Haven, CT, USA.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 11848407 [PubMed - indexed for MEDLINE]
+
+
+
+NR100: Genome Biol. 2001;2(11):RESEARCH0047. Epub 2001 Oct 18. 
+
+Sources of nonlinearity in cDNA microarray expression measurements.
+
+Ramdas L, Coombes KR, Baggerly K, Abruzzo L, Highsmith WE, Krogmann T, Hamilton
+SR, Zhang W.
+
+Department of Pathology, University of Texas M D Anderson Cancer Center,
+Houston, TX 77030, USA. wzhang@mdanderson.org
+
+BACKGROUND: A key assumption in the analysis of microarray data is that the
+quantified signal intensities are linearly related to the expression levels of
+the corresponding genes. To test this assumption, we experimentally examined the
+relationship between signal and expression for the two types of microarrays we
+most commonly encounter: radioactively labeled cDNAs on nylon membranes and
+fluorescently labeled cDNAs on glass slides. RESULTS: We uncovered two sources
+of nonlinearity. The first, which led to discrepancies in analysis affecting the
+fluorescent signals, was signal quenching associated with excessive dye
+concentrations. The second, affecting the radioactive signals, was a nonlinear
+transformation of the raw data introduced by the scanner. Correction for this
+transformation was made by some, but not all, image-quantification software
+packages. CONCLUSIONS: The second type of nonlinearity is more troublesome,
+because it could not have been predicted a priori. Both types of nonlinearities
+were detected by simple dilution series, which we recommend as a quality-control
+step.
+
+PMID: 11737946 [PubMed - indexed for MEDLINE]
+
+
+
+PR101: J Bacteriol. 2001 Dec;183(24):7371-80. 
+
+RNA expression analysis using an antisense Bacillus subtilis genome array.
+
+Lee JM, Zhang S, Saha S, Santa Anna S, Jiang C, Perkins J.
+
+Roche Vitamins Inc., Nutley, New Jersey 07110, USA.
+
+We have developed an antisense oligonucleotide microarray for the study of gene
+expression and regulation in Bacillus subtilis by using Affymetrix technology.
+Quality control tests of the B. subtilis GeneChip were performed to ascertain
+the quality of the array. These tests included optimization of the labeling and
+hybridization conditions, determination of the linear dynamic range of gene
+expression levels, and assessment of differential gene expression patterns of
+known vitamin biosynthetic genes. In minimal medium, we detected transcripts for
+approximately 70% of the known open reading frames (ORFs). In addition, we were
+able to monitor the transcript level of known biosynthetic genes regulated by
+riboflavin, biotin, or thiamine. Moreover, novel transcripts were also detected
+within intergenic regions and on the opposite coding strand of known ORFs.
+Several of these novel transcripts were subsequently correlated to new coding
+regions.
+
+PMID: 11717296 [PubMed - indexed for MEDLINE]
+
+
+
+NR102: Biotechniques. 2001 Sep;31(3):546, 548, 550, passim. 
+
+Comparative evaluation of laser-based microarray scanners.
+
+Ramdas L, Wang J, Hu L, Cogdell D, Taylor E, Zhang W.
+
+The University of Texas M.D. Anderson Cancer Center, Houston 77030, USA.
+
+Laboratories use different laser-based scanners to scan microarray images. To
+assess whether results from different scanners are comparable, and thus whether
+data from different laboratories can be compared, we scanned the same microarray
+slide with three commercial scanners that use different imaging techniques.
+After the acquisition of the microarray images produced by the three scanners,
+the images were quantified using a single imaging software package and protocol.
+The results were compared, and we found that the data obtained from the three
+scanners were comparable and that the variations caused by the use of different
+instruments were negligible, in spite of the fact that the scanners were based
+on different optical imaging techniques.
+
+Publication Types:
+    Technical Report
+
+PMID: 11570499 [PubMed - indexed for MEDLINE]
+
+
+
+NR103: J Pathol. 2001 Sep;195(1):72-9. 
+
+Tissue microarray (TMA) technology: miniaturized pathology archives for
+high-throughput in situ studies.
+
+Bubendorf L, Nocito A, Moch H, Sauter G.
+
+Institute of Pathology, University of Basel, 4003 Basel, Switzerland.
+
+Tissue microarray (TMA) technology allows a massive acceleration of studies
+correlating molecular in situ findings with clinico-pathological information. In
+this technique, cylindrical tissue samples are taken from up to 1000 different
+archival tissue blocks and subsequently placed into one empty 'recipient'
+paraffin block. Sections from TMA blocks can be used for all different types of
+in situ tissue analyses including immunohistochemistry and in situ
+hybridization. Multiple studies have demonstrated that findings obtained on TMAs
+are highly representative of their donor tissues, despite the small size of the
+individual specimens (diameter 0.6 mm). It is anticipated that TMAs will soon
+become a widely used tool for all types of tissue-based research. The
+availability of TMAs containing highly characterized tissues will enable every
+researcher to perform studies involving thousands of tumours rapidly. Therefore,
+TMAs will lead to a significant acceleration of the transition of basic research
+findings into clinical applications. Copyright 2001 John Wiley & Sons, Ltd.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 11568893 [PubMed - indexed for MEDLINE]
+
+
+
+DR104: Nucleic Acids Res. 2001 Aug 1;29(15):E75-5. 
+
+Quantitative quality control in microarray image processing and data
+acquisition.
+
+Wang X, Ghosh S, Guo SW.
+
+Max McGee National Research Center for Juvenile Diabetes, Medical College and
+Children's Hospital of Wisconsin, 8701 Watertown Plank Road, Milwaukee, WI
+53226, USA. xujing@mcw.edu
+
+A new integrated image analysis package with quantitative quality control
+schemes is described for cDNA microarray technology. The package employs an
+iterative algorithm that utilizes both intensity characteristics and spatial
+information of the spots on a microarray image for signal-background
+segmentation and defines five quality scores for each spot to record
+irregularities in spot intensity, size and background noise levels. A composite
+score q(com) is defined based on these individual scores to give an overall
+assessment of spot quality. Using q(com) we demonstrate that the inherent
+variability in intensity ratio measurements is closely correlated with spot
+quality, namely spots with higher quality give less variable measurements and
+vice versa. In addition, gauging data by q(com) can improve data reliability
+dramatically and efficiently. We further show that the variability in ratio
+measurements drops exponentially with increasing q(com) and, for the majority of
+spots at the high quality end, this improvement is mainly due to an improvement
+in correlation between the two dyes. Based on these studies, we discuss the
+potential of quantitative quality control for microarray data and the
+possibility of filtering and normalizing microarray data using a quality
+metrics-dependent scheme.
+
+PMID: 11470890 [PubMed - indexed for MEDLINE]
+
+
+
+PR105: Biotechniques. 2001 Jul;31(1):62-5. 
+
+Sequence verification as quality-control step for production of cDNA
+microarrays.
+
+Taylor E, Cogdell D, Coombes K, Hu L, Ramdas L, Tabor A, Hamilton S, Zhang W.
+
+University of Texas, M.D. Anderson Cancer Center, Houston, TX, USA.
+
+To generate cDNA arrays in our core laboratory, we amplified about 2300 PCR
+products from a human, sequence-verified cDNA clone library. As a
+quality-control step, we sequenced the PCR products immediately before printing.
+The sequence information was used to search the GenBank database to confirm the
+identities. Although these clones were previously sequence verified by the
+company, we found that only 79% of the clones matched the original database
+after handling. Our experience strongly indicates the necessity to sequence
+verify the clones at the final stage before printing on microarray slides and to
+modify the gene list accordingly.
+
+Publication Types:
+    Technical Report
+
+PMID: 11464521 [PubMed - indexed for MEDLINE]
+
+
+
+DR106: Exp Mol Med. 2001 Jun 30;33(2):83-8. 
+
+A novel method using edge detection for signal extraction from cDNA microarray
+image analysis.
+
+Kim JH, Kim HY, Lee YS.
+
+Institute of Mental Health, Hanyang University, Seoul, Korea.
+jhkim1@hanyang.ac.kr
+
+Gene expression analyses by probes of hybridization from mRNA to cDNA targets
+arrayed on membranes or activated glass surfaces have revolutionized the way of
+profiling mega level gene expression. The main remaining problems however are
+sensitivity of detection, reproducibility and data processing. During processing
+of microarray images, especially irregularities of spot position and shape could
+generate significant errors: small regions of signal spots can be mis-included
+into background area and vice versa. Here we report a novel method to eliminate
+such obstacles by sensing their edges. Application of edge detection technology
+on separating spots from the background decreases the probability of the errors
+and gives more accurate information about the states of spots such as the pixel
+number, degree of fragmentation, width and height of spot, and circumference of
+spot. Such information can be used for the quality control of cDNA microarray
+experiments and filtering of low quality spots. We analyzed the cDNA microarray
+image that contains 10,368 genes using edge detection and compared the result
+with that of conventional method which draws circle around the spot.
+
+PMID: 11460886 [PubMed - indexed for MEDLINE]
+
+
+
+NR107: Onkologie. 2001 Feb;24 Suppl 1:24-34. 
+
+[Clinical trials: prerequisite of evidence-based oncology: reality, perspectives
+and a new tool recruited--the Internet]
+
+[Article in German]
+
+Mross K, Marz W.
+
+Klinik fur Tumorbiologie an der Albert-Ludwigs-Universitat, Freiburg i.Br.
+mross@tumorbio.uni-freiburg.de
+
+Scientifically sound clinical research is an undispensable prerequisite to
+establish innovative therapeutic principles, to support applications for
+marketing authorization of proprietary new drugs, to advance therapeutic results
+in cancer therapy, and the only route towards an evidence-based clinical
+oncology at the advent of the 21st century. Treatment of cancer patients based
+on scientific evidence derived from clinical studies outperforms compassionate
+individual therapeutic decisions with a lack of evidence, whenever such evidence
+is available or whenever a clinical trial is addressing the clinical situation
+that must be addressed for an individual patient. A stable trend towards
+improved survival of cancer patients was first observed in 1999. The advent of
+new technologies of drug design, the integration of pharmacology, genomics and
+DNA microarray chip technologies will produce a myriad of new anticancer drugs
+with promising potential for cancer therapy that need to be tested in the
+clinical setting without delay. To match that challenge, clinical oncology must
+streamline the laborious process of conducting clinical trials. The process of
+planning, multicenter coordinating, recruiting, treatment, analyzing, and
+reporting of clinical trial results must be further optimized. The best possible
+quality control of all steps of that process is a prerequisite to motivate
+patients to participate in clinical trials of cancer therapy - always one of the
+most promising treatment options for patients seeking the best possible cancer
+care. At the same time as the internet goes mainstream and cancer care
+information is ubiquitously laymanized and dispersed via cancer cybermedicine,
+clinical researchers may employ the internet to exchange information, facilitate
+conduction of clinical trials, and facilitate recruitment to clinical studies
+via web-based trial registries. This will be more than an incremental step
+forward to deliver the best possible clinical care towards the ultimate goal: to
+deliver evidence-based medicine en route to a cure for more cancer patients than
+ever. Copyright 2001 S. Karger GmbH, Freiburg
+
+PMID: 11441309 [PubMed - indexed for MEDLINE]
+
+
+
+NR108: Nucleic Acids Res. 2001 Jun 15;29(12):2549-57. 
+
+Issues in cDNA microarray analysis: quality filtering, channel normalization,
+models of variations and assessment of gene effects.
+
+Tseng GC, Oh MK, Rohlin L, Liao JC, Wong WH.
+
+Department of Biostatistics, Harvard School of Public Health, 655 Huntington
+Avenue, Boston, MA 02115, USA.
+
+We consider the problem of comparing the gene expression levels of cells grown
+under two different conditions using cDNA microarray data. We use a quality
+index, computed from duplicate spots on the same slide, to filter out outlying
+spots, poor quality genes and problematical slides. We also perform calibration
+experiments to show that normalization between fluorescent labels is needed and
+that the normalization is slide dependent and non-linear. A rank invariant
+method is suggested to select non-differentially expressed genes and to
+construct normalization curves in comparative experiments. After normalization
+the residuals from the calibration data are used to provide prior information on
+variance components in the analysis of comparative experiments. Based on a
+hierarchical model that incorporates several levels of variations, a method for
+assessing the significance of gene effects in comparative experiments is
+presented. The analysis is demonstrated via two groups of experiments with 125
+and 4129 genes, respectively, in Escherichia coli grown in glucose and acetate.
+
+PMID: 11410663 [PubMed - indexed for MEDLINE]
+
+
+
+NR109: Rinsho Byori. 2001 Feb;49(2):139-49. 
+
+[The present status and future prospect of the molecular diagnostic tests]
+
+[Article in Japanese]
+
+Miyachi H.
+
+Department of Laboratory Medicine, Tokai University School of Medicine, Isehara
+259-1193.
+
+Assays for DNA or RNA sequences to diagnose infectious, neoplastic and genetic
+diseases have been widely used through recent progress in the molecular biology
+and biotechnology, and are now essential in care of patients under the advanced
+medicine through earlier and more accurate diagnosis. Automated systems have
+been developed for amplification and detection of nucleic acid sequence for
+infectious agents, using various nucleic acid amplification technology such as
+PCR. A fully automated PCR system and automated extraction of specific sequence
+for infectious agents such as hepatitis C virus RNA has been developed. These
+automated systems have provided improvement of not only assay efficiency but
+also quality control of the tests and have contributed to the standardization of
+them. Importance of development of systems for quality assessment and laboratory
+accreditation has been emphasized, particularly in those that still have been
+performed with manual methods. Based on the information on the genome sequence
+as the outcome of the human genome project, functions of genes and proteins have
+been studied by post-genomics such as expression profiling using DNA microarray,
+proteomics, single nucleotide polymorphisms analysis, coupled with
+bioinformatics. Along with advances in pharmacogenomics, these studies have
+raised the prospect of the development of tests for individualized medicine
+based on genetic information such as those predicting individual susceptibility
+to diseases for prevention and responsiveness to drugs for choice of treatment.
+For practice of such medicine, each genetic information and tests for it must be
+carefully evaluated and determined whether it is appropriate for cost-effective
+medicine through contributions to efficient process of decision-makings on
+patient care for prevention or avoidance of diseases and thus to cost savings.
+
+Publication Types:
+    Review
+
+PMID: 11307306 [PubMed - indexed for MEDLINE]
+
+
+
+NR110: Nucleic Acids Res. 2001 Apr 15;29(8):E41-1. 
+
+An evaluation of the performance of cDNA microarrays for detecting changes in
+global mRNA expression.
+
+Yue H, Eastman PS, Wang BB, Minor J, Doctolero MH, Nuttall RL, Stack R, Becker
+JW, Montgomery JR, Vainer M, Johnston R.
+
+Advanced Research Group, Incyte Genomics, 6519 Dumbarton Circle, Fremont, CA
+94555, USA.
+
+The cDNA microarray is one technological approach that has the potential to
+accurately measure changes in global mRNA expression levels. We report an
+assessment of an optimized cDNA microarray platform to generate accurate,
+precise and reliable data consistent with the objective of using microarrays as
+an acquisition platform to populate gene expression databases. The study design
+consisted of two independent evaluations with 70 arrays from two different
+manufactured lots and used three human tissue sources as samples: placenta,
+brain and heart. Overall signal response was linear over three orders of
+magnitude and the sensitivity for any element was estimated to be 2 pg mRNA. The
+calculated coefficient of variation for differential expression for all
+non-differentiated elements was 12-14% across the entire signal range and did
+not vary with array batch or tissue source. The minimum detectable fold change
+for differential expression was 1.4. Accuracy, in terms of bias (observed minus
+expected differential expression ratio), was less than 1 part in 10 000 for all
+non-differentiated elements. The results presented in this report demonstrate
+the reproducible performance of the cDNA microarray technology platform and the
+methods provide a useful framework for evaluating other technologies that
+monitor changes in global mRNA expression.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 11292855 [PubMed - indexed for MEDLINE]
+
+
+
+DR111: Pac Symp Biocomput. 2001;:348-59. 
+
+Quality control in manufacturing oligo arrays: a combinatorial design approach.
+
+Sengupta R, Tompa M.
+
+Department of Computer Science and Engineering, University of Washington, Box
+352350, Seattle, WA 98195-2350, USA. rimli@cs.washington.edu
+
+The advent of the DNA microarray technology has brought with it the exciting
+possibility of simultaneously observing the expression levels of all genes in an
+organism. One such microarray technology, called "oligo arrays", manufactures
+short single strands of DNA (called probes) onto a glass surface using
+photolithography. An altered or missed step in such a manufacturing protocol can
+adversely affect all probes using this failed step, and is in general impossible
+to disentangle from experimental variation when using such a defective array.
+The idea of designing special quality control probes to detect a failed step was
+first formulated by Hubbell and Pevzner. We consider an alternative formulation
+of this problem and use a combinatorial design approach to solve it. Our results
+improve over prior work in guaranteeing coverage of all protocol steps and in
+being able to tolerate a greater number of unreliable probe intensities.
+
+PMID: 11262954 [PubMed - indexed for MEDLINE]
+
+
+
+NR112: Pharmacogenomics. 2000 Aug;1(3):289-307. 
+
+Applications of biochip and microarray systems in pharmacogenomics.
+
+Jain KK.
+
+Jain PharmaBiotech, Basel, Switzerland. jain@pharmabiotech.ch
+
+A DNA microarray system is usually comprised of DNA probes formatted on a
+microscale on a glass surface (chip), plus the instruments needed to handle
+samples (automated robotics), to read the reporter molecules (scanners) and
+analyse the data (bioinformatic tools). Biochips are formed by in situ (on chip)
+synthesis of oligonucleotides or peptide nucleic acids (PNAs) or spotting of DNA
+fragments. Hybridisation of RNA- or DNA-derived samples on chips allows the
+monitoring of expression of mRNAs or the occurrence of polymorphisms in genomic
+DNA. Basic types of DNA chips are the sequencing chip, the expression chip and
+chips for comparative genomic hybridisation. Advanced technologies used in
+automated microarray production are photolithography, mechanical microspotting
+and ink jets. Bioelectronic microchips contain numerous electronically active
+microelectrodes with specific DNA capture probes linked to the electrodes
+through molecular wires. Several biosensors have been used in combination with
+biochips. PNA biosensors commonly rely on the immobilisation of a
+single-stranded DNA sequence (the 'probe') onto a transducer surface for
+hybridisation with the complementary ('target') strand to give a suitable
+electrical signal. Other sensors are cell-based immunobiosensors with engineered
+molecular recognition, integrated biosensors based on phototransistor integrated
+circuits and sensors based on surface plasmon resonance. Microarray technologies
+offer enormous savings in time and labour as compared to standard gel-based
+microsatellite methods. Reading of the information and its management by
+bioinformatics is necessary because of the enormous amount of data generated by
+the various technologies using microarrays. Standardised procedures are
+essential for compatible data production, quality control and analysis.
+Expression monitoring is the most biologically informative application of this
+technology at present. Microarray technology has important applications in
+pharmacogenomics: drug discovery and development, drug safety and molecular
+diagnostics. DNA chips will facilitate the integration of diagnosis and
+therapeutics, as well as the introduction of personalised medicines.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 11256580 [PubMed - indexed for MEDLINE]
+
+
+
+PR113: Adv Anat Pathol. 2001 Jan;8(1):14-20. 
+
+Tissue microarrays: what will they bring to molecular and anatomic pathology?
+
+Moch H, Kononen T, Kallioniemi OP, Sauter G.
+
+Institute for Pathology, University Basel, Switzerland. hmoch@uhbs.ch
+
+The analysis of a large number of tumor tissues with conventional techniques of
+molecular pathology is tedious and slow. The authors recently developed the
+tissue microarray technology that makes it possible to sample up to 1,000 tumors
+on one glass slide, which then can be analyzed by fluorescence in situ
+hybridization, RNA in situ hybridization, or immunohistochemistry. The tissue
+microarray technology has the potential to significantly accelerate molecular
+studies that seek associations between molecular changes and clinicopathologic
+features of the cancer. Examples of potential applications for tissue
+microarrays include testing and optimization of probes and antibodies, the
+organization of large tissue repositories, and the facilitation of multicenter
+studies. Further, tissue microarrays can be used for educational purposes as
+well as to improve quality control and standardization of staining methods and
+interpretation. Tissue microarrays have become one of the most promising tools
+for the molecular and anatomic pathologist and will have many applications in
+cancer research, as well as in other fields of pathology. This review article
+gives an overview of current applications of tissue microarrays as well as
+possible future development of the technology.
+
+PMID: 11152090 [PubMed - indexed for MEDLINE]
+
+
+
+DR114: Biotechniques. 2000 Jul;29(1):78-81. 
+
+Analysis of DNA microarrays by non-destructive fluorescent staining using SYBR
+green II.
+
+Battaglia C, Salani G, Consolandi C, Bernardi LR, De Bellis G.
+
+Consiglio Nazionale delle Ricerche Istituto di Tecnologie Biomediche Avanzate
+Segrate, Italy.
+
+A simple, non-destructive procedure is described to determine the quality of DNA
+arrays before they are used. It consists of a preliminary staining step of the
+DNA microarray by using SYBR green II, a fluorophore with specific affinity for
+ssDNA, followed by a laser scan analysis. The surface quality, integrity and
+homogeneity of each DNA spot of the array can thus be assessed. After this
+preliminary control, which may avoid further analytical steps that lead to the
+waste of precious biological samples, a fully reversible staining procedure is
+performed that produces an array ready for subsequent use.
+
+Publication Types:
+    Technical Report
+
+PMID: 10907080 [PubMed - indexed for MEDLINE]
+
+
+
+NR115: Rapid Commun Mass Spectrom. 2000;14(4):243-9. 
+
+Electrospray ionization mass spectrometry of synthetic oligonucleotides using
+2-propanol and spermidine
+
+De Bellis G, Salani G, Battaglia C, Pietta P, Rosti E, Mauri P.
+
+Istituto di Tecnologie Biomediche Avanzate, Consiglio Nazionale delle Ricerche
+L.I.T.A., Via Fratelli Cervi 93, 20090 Segrate, Italy.
+
+Oligonucleotides have become widely used tools in molecular biology and
+molecular diagnostics. Their parallel synthesis in large numbers and the
+increasing interest in microarray technology has raised the requirement for fast
+and informative analytical tools for their quality control. A direct injection
+electrospray ionization mass spectrometry (ESI-MS) technique based on the use of
+aqueous 2-propanol as running eluent, and spermidine (or triethylamine) as DNA
+modifiers, has been applied to analyze a large set of samples (about 200
+synthetic oligonucleotides) ranging from 5 to 15 kDa (17-51mers) with good
+results in terms of sensitivity, suppression of sodium adduct formation, and
+speed of analysis. Copyright 2000 John Wiley & Sons, Ltd.
+
+PMID: 0010669883 [PubMed - as supplied by publisher]
+
+

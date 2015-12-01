@@ -1,0 +1,1551 @@
+Search (autoimmun* OR arthritis OR lupus OR asthma OR psoria*) AND ((trif OR ticam-1 OR ticam1) OR (tirp OR tram OR ticam2 OR ticam-2) OR (myd-88 OR myd88)) Limits: Publication Date from 1994/01/01 to 2003/12/31
+
+Entrez pubmed Results 
+
+Items 1 - 16 of 16 1: Liu B et al. Cell surface expression of an...[PMID: 14668429]  Related Articles, Gene, HomoloGene, UniGene, Nucleotide, Protein, GEO Profiles, Free in PMC, Cited in PMC, Books, LinkOut 
+
+PMID- 14668429
+OWN - NLM
+STAT- MEDLINE
+DA  - 20031224
+DCOM- 20040420
+LR  - 20041117
+PUBM- Print-Electronic
+IS  - 0027-8424
+VI  - 100
+IP  - 26
+DP  - 2003 Dec 23
+TI  - Cell surface expression of an endoplasmic reticulum resident heat shock
+     protein gp96 triggers MyD88-dependent systemic autoimmune diseases.
+PG  - 15824-9
+AB  - Heat shock proteins have been implicated as endogenous activators for
+     dendritic cells (DCs). Without tissue distress or death, these
+     intracellular molecules are inaccessible to surface receptor(s) on DCs,
+     possibly to avoid uncontrolled DC activation and breakdown of immunologic
+     tolerance. We herein addressed this hypothesis in transgenic mice by
+     enforcing cell surface expression of gp96, a ubiquitous heat shock protein
+     of the endoplasmic reticulum. Although a pan-specific promoter is used for
+     transgene expression, neither the expression level nor the tissue
+     distribution of the endogenous gp96 was altered by this maneuver. However,
+     cell surface gp96 induced significant DC activations and spontaneous
+     lupus-like autoimmune diseases, even though the development/functions of
+     lymphocytic compartments were unaltered. Using a bone marrow chimera
+     approach, we further demonstrated that both DC activation and autoimmunity
+     elicited by cell surface gp96 are dependent on the downstream adaptor
+     protein MyD88 for signaling by Toll/IL-1 receptor family. Our study not
+     only established the proinflammatory property of cell surface gp96 in
+     vivo, but also suggested a chronic stimulation of DCs by gp96 as a pathway
+     to initiate spontaneous autoimmune diseases.
+AD  - Center for Immunotherapy of Cancer and Infectious Diseases, University of
+     Connecticut School of Medicine, 263 Farmington Avenue, Farmington, CT
+     06030-1601, USA.
+FAU - Liu, Bei
+AU  - Liu B
+FAU - Dai, Jie
+AU  - Dai J
+FAU - Zheng, Hong
+AU  - Zheng H
+FAU - Stoilova, Diliana
+AU  - Stoilova D
+FAU - Sun, Shaoli
+AU  - Sun S
+FAU - Li, Zihai
+AU  - Li Z
+LA  - eng
+GR  - CA100191/CA/NCI
+GR  - CA90337/CA/NCI
+PT  - Journal Article
+DEP - 20031210
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JID - 7505876
+RN  - 0 (Antibodies, Antinuclear)
+RN  - 0 (Antigens, Differentiation)
+RN  - 0 (Antigens, Neoplasm)
+RN  - 0 (Heat-Shock Proteins)
+RN  - 0 (MyD88 protein)
+RN  - 0 (Receptors, Immunologic)
+RN  - 0 (sarcoma glycoprotein gp96 rejection antigens)
+SB  - IM
+MH  - Animals
+MH  - Antibodies, Antinuclear/analysis
+MH  - Antigens, Differentiation/*immunology
+MH  - Antigens, Neoplasm/*genetics
+MH  - Autoimmune Diseases/*immunology
+MH  - B-Lymphocytes/immunology
+MH  - Bone Marrow Cells/immunology
+MH  - Bone Marrow Transplantation/immunology
+MH  - Dendritic Cells/immunology
+MH  - Endoplasmic Reticulum/immunology
+MH  - Genotype
+MH  - Heat-Shock Proteins/*genetics
+MH  - Lupus Erythematosus, Systemic/immunology
+MH  - Lymphocyte Culture Test, Mixed
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Knockout
+MH  - Mice, Transgenic
+MH  - Receptors, Immunologic/deficiency/*immunology
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - T-Lymphocytes/immunology
+EDAT- 2003/12/12 05:00
+MHDA- 2004/04/21 05:00
+PHST- 2003/12/10 [aheadofprint]
+AID - 10.1073/pnas.2635458100 [doi]
+AID - 2635458100 [pii]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A 2003 Dec 23;100(26):15824-9. Epub 2003 Dec 10.
+
+DR 
+
+
+
+--------------------------------------------------------------------------------
+2: Joosten LA et al. Toll-like receptor 2 pathway ...[PMID: 14634130]  Related Articles, Gene, GENSAT, HomoloGene, Compound via MeSH, Substance via MeSH, UniGene, Nucleotide, Protein, GEO Profiles, Books, LinkOut 
+
+PMID- 14634130
+OWN - NLM
+STAT- MEDLINE
+DA  - 20031124
+DCOM- 20040301
+LR  - 20041117
+PUBM- Print
+IS  - 0022-1767
+VI  - 171
+IP  - 11
+DP  - 2003 Dec 1
+TI  - Toll-like receptor 2 pathway drives streptococcal cell wall-induced joint
+     inflammation: critical role of myeloid differentiation factor 88.
+PG  - 6145-53
+AB  - The IL-1R/Toll-like receptor (TLR) superfamily of receptors has a key role
+     in innate immunity and inflammation. In this study, we report that
+     streptococcal cell wall (SCW)-induced joint inflammation is predominantly
+     dependent on TLR-2 signaling, since TLR-2-deficient mice were unable to
+     develop either joint swelling or inhibition of cartilage matrix synthesis.
+     Myeloid differentiation factor 88 (MyD88) is a Toll/IL-1R domain
+     containing adaptor molecule known to have a central role in both
+     IL-1R/IL-18R and TLR signaling. Mice deficient for MyD88 did not develop
+     SCW-induced arthritis; both joint swelling and disturbance of cartilage
+     chondrocyte anabolic function was completely abolished. Local levels of
+     proinflammatory cytokines and chemokines in synovial tissue washouts were
+     strongly reduced in MyD88-deficient mice. Histology confirmed the pivotal
+     role of MyD88 in acute joint inflammation. TLR-2-deficient mice still
+     allow influx of inflammatory cells into the joint cavity, although the
+     number of cells was markedly reduced. No influx of inflammatory cells was
+     seen in joints of MyD88-deficient mice. In addition, cartilage matrix
+     proteoglycan loss was completely absent in MyD88 knockout mice. These
+     findings clearly demonstrated that MyD88 is a key component in SCW-induced
+     joint inflammation. Since agonists of the Toll-like pathway are abundantly
+     involved in both septic and rheumatoid arthritis, targeting of MyD88 may
+     be a novel therapy in inflammatory joint diseases.
+AD  - Rheumatology Research Laboratory and Advanced Therapeutics, University
+     Medical Center Nijmegen, Nijmegen, The Netherlands.
+     l.joosten@reuma.umcn.nl
+FAU - Joosten, Leo A B
+AU  - Joosten LA
+FAU - Koenders, Marije I
+AU  - Koenders MI
+FAU - Smeets, Ruben L
+AU  - Smeets RL
+FAU - Heuvelmans-Jacobs, Marleen
+AU  - Heuvelmans-Jacobs M
+FAU - Helsen, Monique M A
+AU  - Helsen MM
+FAU - Takeda, Kiyoshi
+AU  - Takeda K
+FAU - Akira, Shizuo
+AU  - Akira S
+FAU - Lubberts, Erik
+AU  - Lubberts E
+FAU - van de Loo, Fons A J
+AU  - van de Loo FA
+FAU - van den Berg, Wim B
+AU  - van den Berg WB
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Immunol
+JID - 2985117R
+RN  - 0 (Antigens, Differentiation)
+RN  - 0 (Inflammation Mediators)
+RN  - 0 (Interleukin-1)
+RN  - 0 (Interleukin-18)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (MyD88 protein)
+RN  - 0 (Proteoglycans)
+RN  - 0 (Receptors, Cell Surface)
+RN  - 0 (Receptors, Immunologic)
+RN  - 0 (Receptors, Interleukin-1)
+RN  - 0 (Toll-like receptors)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+SB  - AIM
+SB  - IM
+MH  - Animals
+MH  - Antigens, Differentiation/genetics/*physiology
+MH  - Arthritis, Experimental/genetics/*immunology/metabolism/pathology
+MH  - Cartilage, Articular/immunology/metabolism
+MH  - Cell Wall/immunology
+MH  - Down-Regulation/genetics/immunology
+MH  - Inflammation Mediators/antagonists & inhibitors/metabolism
+MH  - Interleukin-1/physiology
+MH  - Interleukin-18/physiology
+MH  - Male
+MH  - Membrane Glycoproteins/biosynthesis/deficiency/genetics/*physiology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Knockout
+MH  - Multigene Family/immunology
+MH  - Neutrophil Infiltration/genetics/immunology
+MH  - Proteoglycans/immunology/metabolism
+MH  - Receptors, Cell Surface/biosynthesis/deficiency/genetics/*physiology
+MH  - Receptors, Immunologic/deficiency/genetics/*physiology
+MH  - Receptors, Interleukin-1/antagonists & inhibitors/biosynthesis/physiology
+MH  - Signal Transduction/genetics/immunology
+MH  - Streptococcus pyogenes/*immunology
+MH  - Tumor Necrosis Factor-alpha/physiology
+EDAT- 2003/11/25 05:00
+MHDA- 2004/03/03 05:00
+PST - ppublish
+SO  - J Immunol 2003 Dec 1;171(11):6145-53.
+
+PR 
+
+--------------------------------------------------------------------------------
+3: Akdis CA et al. Inhibition of T helper 2-type...[PMID: 14515255]  Related Articles, Substance via MeSH, Cited in PMC, Books, LinkOut 
+
+PMID- 14515255
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030929
+DCOM- 20031107
+LR  - 20041117
+PUBM- Print
+IS  - 0014-2980
+VI  - 33
+IP  - 10
+DP  - 2003 Oct
+TI  - Inhibition of T helper 2-type responses, IgE production and eosinophilia
+     by synthetic lipopeptides.
+PG  - 2717-26
+AB  - In allergy and asthma, the fine balance between the T helper (Th) 1, Th2
+     and T regulatory cytokine responses appears to be shifted towards Th2.
+     Here, we report that synthetic lipopeptides which contain the typical
+     lipid part of the lipoprotein of gram-negative bacteria stimulate a
+     distinct regulatory cytokine pattern and inhibit several Th2 cell-related
+     phenomena. The most potent analogue of synthetic lipopeptides, lipopeptide
+     CGP 40774 (LP40) was not active in MyD88-deficient mice and stimulated
+     Toll-like receptor (TLR)-2, but not TLR-4. LP40 potentiated the production
+     of IFN-gamma and IL-10, but not IL-4 and IL-5 by human T cells. In
+     addition, triggering of TLR-2 by lipopeptides promoted the in vitro
+     differentiation of naive T cells towards IL-10- and IFN-gamma-producing T
+     cells and suppressed IL-4 production by Th2 cells. Accordingly, LP40
+     inhibited IgE production induced by allergen, anti-IgD antibody,
+     Nippostrongylus brasiliensis or murine acquired immunodeficiency virus.
+     Furthermore, ovalbumin-induced lung eosinophilic inflammation was
+     abolished and Schistosoma mansoni egg-induced granuloma size and
+     eosinophil counts were suppressed in mice by LP40. These results
+     demonstrate that stimulation of TLR-2 by lipopeptides represents a novel
+     way for possible treatment of allergy and asthma by regulating the
+     disrupted cytokine balance.
+AD  - Swiss Institute of Allergy and Asthma Research, Davos, Switzerland.
+FAU - Akdis, Cezmi A
+AU  - Akdis CA
+FAU - Kussebi, Fatimah
+AU  - Kussebi F
+FAU - Pulendran, Bali
+AU  - Pulendran B
+FAU - Akdis, Mubeccel
+AU  - Akdis M
+FAU - Lauener, Roger P
+AU  - Lauener RP
+FAU - Schmidt-Weber, Carsten B
+AU  - Schmidt-Weber CB
+FAU - Klunker, Sven
+AU  - Klunker S
+FAU - Isitmangil, Gulbu
+AU  - Isitmangil G
+FAU - Hansjee, Natasha
+AU  - Hansjee N
+FAU - Wynn, Thomas A
+AU  - Wynn TA
+FAU - Dillon, Stephanie
+AU  - Dillon S
+FAU - Erb, Peter
+AU  - Erb P
+FAU - Baschang, Gerhard
+AU  - Baschang G
+FAU - Blaser, Kurt
+AU  - Blaser K
+FAU - Alkan, Sefik S
+AU  - Alkan SS
+LA  - eng
+GR  - AI48638-01/AI/NIAID
+GR  - DK57665-01/DK/NIDDK
+PT  - Journal Article
+PL  - Germany
+TA  - Eur J Immunol
+JID - 1273201
+RN  - 0 (Allergens)
+RN  - 0 (Anti-Allergic Agents)
+RN  - 0 (Lipoproteins)
+RN  - 130068-27-8 (Interleukin-10)
+RN  - 187348-17-0 (Interleukin-12)
+RN  - 37341-29-0 (Immunoglobulin E)
+RN  - 82115-62-6 (Interferon Type II)
+SB  - IM
+MH  - Allergens/immunology
+MH  - Animals
+MH  - Anti-Allergic Agents/*pharmacology
+MH  - Eosinophilia/*prevention & control
+MH  - Female
+MH  - Humans
+MH  - Immunoglobulin E/*biosynthesis
+MH  - Interferon Type II/biosynthesis
+MH  - Interleukin-10/biosynthesis
+MH  - Interleukin-12/biosynthesis
+MH  - Lipoproteins/*pharmacology
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Mice, Inbred C57BL
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Schistosoma mansoni/immunology
+MH  - Th2 Cells/*drug effects/immunology
+EDAT- 2003/09/30 05:00
+MHDA- 2003/11/08 05:00
+AID - 10.1002/eji.200323329 [doi]
+PST - ppublish
+SO  - Eur J Immunol 2003 Oct;33(10):2717-26.
+
+NR 
+
+--------------------------------------------------------------------------------
+4: O'Neill LA. Therapeutic targeting of Toll...[PMID: 12901949]  Related Articles, Books, LinkOut 
+
+PMID- 12901949
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030806
+DCOM- 20040106
+LR  - 20041117
+PUBM- Print
+IS  - 1471-4892
+VI  - 3
+IP  - 4
+DP  - 2003 Aug
+TI  - Therapeutic targeting of Toll-like receptors for inflammatory and
+     infectious diseases.
+PG  - 396-403
+AB  - Roles for Toll-like receptors (TLRs) are emerging in conditions such as
+     sepsis syndrome, systemic lupus erythromatosis, rheumatoid arthritis and
+     asthma, suggesting that the selective targeting of TLRs might be useful
+     therapeutically. TLRs are defined by the presence of extracellular
+     leucine-rich repeats and an intracellular Toll/interleukin-1 receptor
+     domain, and play a role in host defence and inflammation. Signalling
+     pathways activated by TLRs show remarkable similarity to those activated
+     by the pro-inflammatory cytokine interleukin-1 (the receptor for which
+     also has a Toll/interleukin-1 receptor domain), although adaptor proteins
+     specific for certain TLRs are starting to emerge (e.g. Mal and Trif). The
+     common signalling pathways used by all members of the TLR superfamily are
+     being targeted, with drugs that block nuclear factor-kappaB and p38
+     mitogen-activated protein kinase in clinical development for diseases such
+     as rheumatoid arthritis and psoriasis. As we learn more about TLR signal
+     transduction, more options are presenting themselves for pharmacological
+     targeting.
+AD  - Cytokine Research Group, Department of Biochemistry, Trinity College
+     Dublin, Ireland. laoneill@tcd.ie
+FAU - O'Neill, Luke A J
+AU  - O'Neill LA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Review, Tutorial
+PL  - England
+TA  - Curr Opin Pharmacol
+JID - 100966133
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (Receptors, Cell Surface)
+RN  - 0 (Receptors, Interleukin-1)
+RN  - 0 (Toll-like receptors)
+RN  - 0 (interleukin-1 receptor type I)
+SB  - IM
+MH  - Animals
+MH  - Communicable Diseases/drug therapy/*immunology/metabolism
+MH  - Drug Delivery Systems
+MH  - Humans
+MH  - Inflammation/drug therapy/*immunology/metabolism
+MH  - Membrane Glycoproteins/chemistry/*metabolism
+MH  - Protein Structure, Tertiary
+MH  - Receptors, Cell Surface/chemistry/*metabolism
+MH  - Receptors, Interleukin-1/chemistry/metabolism
+MH  - Research Support, Non-U.S. Gov't
+MH  - Signal Transduction
+RF  - 52
+EDAT- 2003/08/07 05:00
+MHDA- 2004/01/07 05:00
+AID - S1471489203000808 [pii]
+PST - ppublish
+SO  - Curr Opin Pharmacol 2003 Aug;3(4):396-403.
+
+DR 
+
+--------------------------------------------------------------------------------
+5: Cattan P et al. Destruction of conditional in...[PMID: 12739022]  Related Articles, Substance via MeSH, Books, LinkOut 
+
+PMID- 12739022
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030509
+DCOM- 20040122
+LR  - 20041117
+PUBM- Print-Electronic
+IS  - 0012-186X
+VI  - 46
+IP  - 4
+DP  - 2003 Apr
+TI  - Destruction of conditional insulinoma cell lines in NOD mice: a role for
+     autoimmunity.
+PG  - 504-10
+AB  - AIMS/HYPOTHESIS: betaTC-tet (H2(k)) is a conditional insulinoma cell line
+     derived from transgenic mice expressing a tetracycline-regulated oncogene.
+     Transgenic expression of several proteins implicated in the apoptotic
+     pathways increase the resistance of betaTC-tet cells in vitro. We tested
+     in vivo the sensitivity of the cells to rejection and the protective
+     effect of genetic alterations in NOD mice. METHODS: betaTC-tet cells and
+     genetically engineered lines expressing Bcl-2 (CDM3D), a dominant negative
+     mutant of MyD88 or SOCS-1 were transplanted in diabetic female NOD mice or
+     in male NOD mice with diabetes induced by high-dose streptozotocin.
+     Survival of functional cell grafts in NOD-scid mice was also analyzed
+     after transfer of splenocytes from diabetic NOD mice. Autoreactive T-cell
+     hybridomas and splenocytes from diabetic NOD mice were stimulated by
+     betaTC-tet cells. RESULTS: betaTC-tet cells and genetically engineered
+     cell lines were all similarly rejected in diabetic NOD mice and in
+     NOD-scid mice after splenocyte transfer. In 3- to 6-week-old male NOD mice
+     treated with high-dose streptozotocin, the cells temporarily survived, in
+     contrast with C57BL/6 mice treated with high-dose streptozotocin
+     (indefinite survival) and untreated 3- to 6-week-old male NOD mice
+     (rejection). The protective effect of high-dose streptozotocin was lost in
+     older male NOD mice. betaTC-tet cells did not stimulate autoreactive
+     T-cell hybridomas, but induced IL-2 secretion by splenocytes from diabetic
+     NOD mice. CONCLUSION/INTERPRETATION: The autoimmune process seems to play
+     an important role in the destruction of betaTC-tet cells in NOD mice.
+     Genetic manipulations intended at increasing the resistance of beta cells
+     were inefficient. Similar approaches should be tested in vivo as well as
+     in vitro. High dose streptozotocin influences immune rejection and should
+     be used with caution.
+AD  - INSERM U561, Groupe hospitalier Cochin-Saint Vincent de Paul, Paris,
+     France.
+FAU - Cattan, P
+AU  - Cattan P
+FAU - Rottembourg, D
+AU  - Rottembourg D
+FAU - Cottet, S
+AU  - Cottet S
+FAU - Tardivel, I
+AU  - Tardivel I
+FAU - Dupraz, P
+AU  - Dupraz P
+FAU - Thorens, B
+AU  - Thorens B
+FAU - Boitard, C
+AU  - Boitard C
+FAU - Carel, J C
+AU  - Carel JC
+LA  - eng
+PT  - Journal Article
+DEP - 20030325
+PL  - Germany
+TA  - Diabetologia
+JID - 0006777
+RN  - 0 (Interleukin-2)
+SB  - IM
+MH  - Animals
+MH  - Autoimmunity/*immunology
+MH  - *Cell Line, Tumor
+MH  - Diabetes Mellitus, Experimental/immunology/metabolism
+MH  - Female
+MH  - Graft Rejection/immunology
+MH  - Graft Survival/immunology
+MH  - Hybridomas/metabolism
+MH  - Insulinoma/*immunology/metabolism
+MH  - Interleukin-2/pharmacokinetics
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Inbred NOD/*immunology
+MH  - Research Support, Non-U.S. Gov't
+MH  - Spleen/metabolism/secretion
+MH  - Transplants
+EDAT- 2003/05/10 05:00
+MHDA- 2004/01/24 05:00
+PHST- 2002/08/06 [received]
+PHST- 2002/12/04 [revised]
+PHST- 2003/03/25 [aheadofprint]
+AID - 10.1007/s00125-003-1062-3 [doi]
+PST - ppublish
+SO  - Diabetologia 2003 Apr;46(4):504-10. Epub 2003 Mar 25.
+
+DR 
+
+--------------------------------------------------------------------------------
+6: Choe JY et al. Interleukin 1 receptor depend...[PMID: 12591910]  Related Articles, Substance via MeSH, Cited in PMC, Books, LinkOut 
+
+PMID- 12591910
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030219
+DCOM- 20030320
+LR  - 20041117
+PUBM- Print
+IS  - 0022-1007
+VI  - 197
+IP  - 4
+DP  - 2003 Feb 17
+TI  - Interleukin 1 receptor dependence of serum transferred arthritis can be
+     circumvented by toll-like receptor 4 signaling.
+PG  - 537-42
+AB  - Inflammatory arthritis is associated with the release of a network of key
+     cytokines. In T cell receptor transgenic K/BxN mice interleukin (IL)-1
+     plays a key role in joint swelling and destruction, as suggested by the
+     ability of anti-IL-1receptor (IL-1R) antibody treatment to delay the onset
+     and slow the progression of this disease. This mechanism is dependent on
+     the signaling pathway intermediary myeloid differentiation factor 88
+     (MyD88), such that neither IL-1R nor MyD88-deficient mice developed
+     visually detectable synovitis after transfer of arthritogenic sera. The
+     Toll-like receptors (TLRs) share the same signaling pathway through MyD88
+     as the IL-1R. The administration of a TLR-4 ligand, lipopolysaccharide,
+     concomitant with arthritogenic serum in IL-1 receptor-deficient mice
+     resulted in acute paw swelling, but not in MyD88-deficient mice. Also,
+     serum transferred arthritis was not sustained in TLR-4 mutant mice
+     compared with controls. These results suggest that innate immune functions
+     via TLR-4 might perpetuate inflammatory mechanisms and bypass the need for
+     IL-1 in chronic joint inflammation.
+AD  - Division of Rheumatology, Allergy, and Immunology, and The Sam and Rose
+     Stein Institute for Research on Aging, University of California, San
+     Diego, La Jolla, CA 92093, USA.
+FAU - Choe, Jung-Yoon
+AU  - Choe JY
+FAU - Crain, Brian
+AU  - Crain B
+FAU - Wu, Sarah R
+AU  - Wu SR
+FAU - Corr, Maripat
+AU  - Corr M
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Exp Med
+JID - 2985109R
+RN  - 0 (Antigens, Differentiation)
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Interleukin-1)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (MyD88 protein)
+RN  - 0 (Receptors, Antigen, T-Cell)
+RN  - 0 (Receptors, Cell Surface)
+RN  - 0 (Receptors, Immunologic)
+RN  - 0 (Receptors, Interleukin-1)
+RN  - 0 (Toll-like receptors)
+SB  - IM
+MH  - Animals
+MH  - Antigens, Differentiation/physiology
+MH  - Arthritis, Rheumatoid/blood/*etiology
+MH  - Disease Models, Animal
+MH  - *Drosophila Proteins
+MH  - Interleukin-1/physiology
+MH  - Membrane Glycoproteins/*physiology
+MH  - Mice
+MH  - Mice, Inbred C3H
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Receptors, Antigen, T-Cell/genetics/physiology
+MH  - Receptors, Cell Surface/*physiology
+MH  - Receptors, Immunologic/physiology
+MH  - Receptors, Interleukin-1/*physiology
+MH  - Research Support, U.S. Gov't, P.H.S.
+EDAT- 2003/02/20 04:00
+MHDA- 2003/03/21 04:00
+PST - ppublish
+SO  - J Exp Med 2003 Feb 17;197(4):537-42.
+
+DR 
+
+--------------------------------------------------------------------------------
+7: Raschi E et al. Role of the MyD88 transductio...[PMID: 12531807]  Related Articles, Gene, HomoloGene, Compound via MeSH, Substance via MeSH, UniGene, Nucleotide, Protein, GEO Profiles, Cited in PMC, Books, LinkOut 
+
+PMID- 12531807
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030422
+DCOM- 20030620
+LR  - 20041117
+PUBM- Print-Electronic
+IS  - 0006-4971
+VI  - 101
+IP  - 9
+DP  - 2003 May 1
+TI  - Role of the MyD88 transduction signaling pathway in endothelial activation
+     by antiphospholipid antibodies.
+PG  - 3495-500
+AB  - Antiphospholipid syndrome (APS) is an autoimmune disease characterized by
+     the persistent presence of antiphospholipid antibodies (aPLs) and
+     recurrent thrombosis or fetal loss. The thrombophilic state has been
+     partially related to the induction of a proinflammatory and procoagulant
+     endothelial cell (EC) phenotype induced by anti-beta(2)-glycoprotein I
+     (beta(2)-GPI) antibodies that bind beta(2)-GPI expressed on the EC
+     surface. Anti-beta(2)-GPI antibody binding has been shown to induce
+     nuclear factor-kappa B (NF-kappa B) translocation leading to a
+     proinflammatory EC phenotype similar to that elicited by interaction with
+     microbial products (lipopolysaccharide [LPS]) and proinflammatory
+     cytokines (interleukin 1 beta [IL-1 beta], tumor necrosis factor alpha
+     [TNF-alpha]). However, the upstream signaling events are not characterized
+     yet. To investigate the endothelial signaling cascade activated by
+     anti-beta(2)-GPI antibodies, we transiently cotransfected immortalized
+     human microvascular endothelial cells (HMEC-1) with dominant-negative
+     constructs of different components of the pathway (Delta TRAF2, Delta
+     TRAF6, Delta MyD88) together with reporter genes (NF-kappa B luciferase
+     and pCMV-beta-galactosidase). Results showed that both human
+     anti-beta(2)-GPI IgM monoclonal antibodies as well as polyclonal
+     affinity-purified anti-beta(2)-GPI IgG display a signaling cascade
+     comparable to that activated by LPS or IL-1. Delta TRAF6 and Delta MyD88
+     significantly abrogate antibody-induced as well as IL-1- or LPS-induced
+     NF-kappa B activation, whereas Delta TRAF2 (involved in NF-kappa B
+     activation by TNF) does not affect it. Moreover, anti- beta(2)-GPI
+     antibodies and LPS followed the same time kinetic of IL-1
+     receptor-activated kinase (IRAK) phosphorylation, suggesting an
+     involvement of the toll-like receptor (TLR) family. Our findings
+     demonstrate that anti-beta(2)-GPI antibodies react with their antigen
+     likely associated to a member of the TLR/IL-1 receptor family on the EC
+     surface and directly induce activation.
+AD  - Istituto di Ricovero e Aura a Carattere Scientifico Istituto Auxologico
+     Italiano, Allergy and Clinical Immunology Unit, Department of Internal
+     Medicine, University of Milan, Italy.
+FAU - Raschi, Elena
+AU  - Raschi E
+FAU - Testoni, Cinzia
+AU  - Testoni C
+FAU - Bosisio, Daniela
+AU  - Bosisio D
+FAU - Borghi, Maria O
+AU  - Borghi MO
+FAU - Koike, Takao
+AU  - Koike T
+FAU - Mantovani, Alberto
+AU  - Mantovani A
+FAU - Meroni, Pier Luigi
+AU  - Meroni PL
+LA  - eng
+PT  - Journal Article
+DEP - 20030116
+PL  - United States
+TA  - Blood
+JID - 7603509
+RN  - 0 (Antibodies, Antiphospholipid)
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antigens, Differentiation)
+RN  - 0 (E-Selectin)
+RN  - 0 (Glycoproteins)
+RN  - 0 (Lipopolysaccharides)
+RN  - 0 (MyD88 protein)
+RN  - 0 (NF-kappa B)
+RN  - 0 (Proteins)
+RN  - 0 (Receptors, Immunologic)
+RN  - 0 (Recombinant Fusion Proteins)
+RN  - 0 (TNF Receptor-Associated Factor 2)
+RN  - 0 (TNF Receptor-Associated Factor 6)
+RN  - 0 (beta 2-glycoprotein I)
+RN  - EC 2.7.1.- (interleukin-1 receptor-associated kinase)
+RN  - EC 2.7.1.37 (Protein Kinases)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Antibodies, Antiphospholipid/immunology/*pharmacology
+MH  - Antibodies, Monoclonal/immunology/*pharmacology
+MH  - Antigens, Differentiation/genetics/*physiology
+MH  - Antiphospholipid Syndrome/complications/immunology
+MH  - Cell Line, Transformed
+MH  - E-Selectin/biosynthesis/genetics
+MH  - Endothelium, Vascular/*immunology
+MH  - Female
+MH  - Gene Deletion
+MH  - Gene Expression Regulation/drug effects
+MH  - Genes, Reporter
+MH  - Glycoproteins/*immunology
+MH  - Humans
+MH  - Lipopolysaccharides/pharmacology
+MH  - NF-kappa B/metabolism
+MH  - Phosphorylation
+MH  - Protein Kinases/metabolism
+MH  - Protein Processing, Post-Translational
+MH  - Proteins/genetics/physiology
+MH  - Receptors, Immunologic/genetics/*physiology
+MH  - Recombinant Fusion Proteins/physiology
+MH  - Research Support, Non-U.S. Gov't
+MH  - Signal Transduction/*physiology
+MH  - TNF Receptor-Associated Factor 2
+MH  - TNF Receptor-Associated Factor 6
+MH  - Thrombophilia/etiology/immunology
+MH  - Transfection
+EDAT- 2003/01/18 04:00
+MHDA- 2003/06/21 05:00
+PHST- 2003/01/16 [aheadofprint]
+AID - 10.1182/blood-2002-08-2349 [doi]
+AID - 2002-08-2349 [pii]
+PST - ppublish
+SO  - Blood 2003 May 1;101(9):3495-500. Epub 2003 Jan 16.
+
+DR 
+
+--------------------------------------------------------------------------------
+8: Jensen BS et al. The Ca2+-activated K+ channel...[PMID: 12472376]  Related Articles, Books, LinkOut 
+
+PMID- 12472376
+OWN - NLM
+STAT- In-Process
+DA  - 20021210
+PUBM- Print
+IS  - 1744-7631
+VI  - 6
+IP  - 6
+DP  - 2002 Dec
+TI  - The Ca2+-activated K+ channel of intermediate conductance:a possible
+     target for immune suppression.
+PG  - 623-36
+AB  - The intermediate conductance Ca2+-activated K+ (IK) channel is
+     distinguished from the functionally related Ca2+-activated K+ channels of
+     smaller and larger unitary conductance by its molecular structure,
+     pharmacology, tissue distribution and physiology. Like many K+ channels,
+     IK is an assembly of four identical subunits each spanning the membrane
+     six times and each contributing equally to the K+ selectivity pore
+     positioned centrally in the complex. The IK channel gains its high
+     sensitivity to intracellular Ca2+ from tightly bound calmodulin, and its
+     activity is independent of the membrane potential. Several toxins
+     including charybdotoxin and the more selective mutant,
+     Glu32-charybdotoxin, maurotoxin and stichodactyla toxin potently block IK
+     channels. Among blockers of the IK channel are also several small organic
+     molecules including the antimycotic clotrimazole and the close analogues
+     TRAM-34 and ICA-17043, as well as the antihypertensive, nitrendipine. The
+     IK channel is distributed in peripheral tissues, including secretory
+     epithelia and blood cells, but it appears absent from neuronal and muscle
+     tissue. An important physiological role of the IK channel is to help
+     maintain large electrical gradients for the sustained transport of ions
+     such as Ca2+ influx that controls T lymphocyte (T cell) proliferation. In
+     this review, special attention is given to an analysis of the use of IK
+     blockers as potential immunosuppressants for the treatment of autoimmune
+     disorders such as rheumatoid arthritis, inflammatory bowel disease and
+     multiple sclerosis.
+AD  - Section of Ion Channel Pharmacology, NeuroSearch A/S, 93 Pederstrupvej,
+     DK-2750 Ballerup, Denmark. bsj@neurosearch.dk
+FAU - Jensen, B S
+AU  - Jensen BS
+FAU - Hertz, M
+AU  - Hertz M
+FAU - Christophersen, P
+AU  - Christophersen P
+FAU - Madsen, L S
+AU  - Madsen LS
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Expert Opin Ther Targets
+JID - 101127833
+SB  - IM
+EDAT- 2002/12/11 04:00
+MHDA- 2002/12/11 04:00
+PST - ppublish
+SO  - Expert Opin Ther Targets 2002 Dec;6(6):623-36.
+
+NR 
+
+--------------------------------------------------------------------------------
+9: Bozinovski S et al. Granulocyte/macrophage-colony...[PMID: 12208854]  Related Articles, Gene, HomoloGene, Compound via MeSH, Substance via MeSH, UniGene, Nucleotide, Protein, GEO Profiles, Cited in PMC, Books, LinkOut 
+
+PMID- 12208854
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021104
+DCOM- 20030206
+LR  - 20050111
+PUBM- Print-Electronic
+IS  - 0021-9258
+VI  - 277
+IP  - 45
+DP  - 2002 Nov 8
+TI  - Granulocyte/macrophage-colony-stimulating factor (GM-CSF) regulates lung
+     innate immunity to lipopolysaccharide through Akt/Erk activation of
+     NFkappa B and AP-1 in vivo.
+PG  - 42808-14
+AB  - The lung innate immune response to lipopolysaccharide (LPS) coordinates
+     cellular inflammation, mediator, and protease release essential for host
+     defense but deleterious in asthma, chronic obstructive pulmonary disease,
+     and cystic fibrosis. In vitro, LPS signals to the transcription factors
+     NFkappaB via TLR4, MyD88, and IL-1R-associated kinase (IRAK), to AP-1 by
+     mitogen-activated protein (MAP) kinases, and via an alternate route in
+     IRAK-deficient mice, but the in vivo lung signaling pathway(s) are not
+     understood. We investigated the role of Akt and Erk1/2 as LPS intensely
+     stimulates granulocyte/macrophage-colony-stimulating factor (GM-CSF)
+     release, and neutralizing GM-CSF profoundly suppressed LPS-induced
+     inflammation, suppressed expression and activity of lung proteases,
+     significantly reduced GM-CSF and tumor necrosis factor alpha (TNFalpha)
+     mRNA expression, and dampened nuclear localization of both NFkappaB
+     (p50/65) and AP-1. LPS markedly activated Akt and Erk1/2, but not p38, in
+     a GM-CSF-dependent manner in direct temporal association with NFkappaB and
+     AP-1 activation. Pharmacological inhibition of Akt or Erk activation in
+     LPS-treated tracheal explants ex vivo inhibited the release of GM-CSF.
+     These data implicate GM-CSF-dependent activation of Akt in the
+     amplification of this response and demonstrate the role of Erks rather
+     than p38 in lung LPS inflammatory responses. Inhibition of GM-CSF may be
+     of therapeutic benefit in inflammatory diseases in which LPS contributes
+     to lung damage.
+AD  - Arthritis and Inflammation Research Center, Department of Medicine,
+     Cooperative Research Center (CRC) for Chronic Inflammatory Diseases, Royal
+     Melbourne Hospital, The University of Melbourne, Parkville, VIC 3010,
+     Australia.
+FAU - Bozinovski, Steven
+AU  - Bozinovski S
+FAU - Jones, Jessica E
+AU  - Jones JE
+FAU - Vlahos, Ross
+AU  - Vlahos R
+FAU - Hamilton, John A
+AU  - Hamilton JA
+FAU - Anderson, Gary P
+AU  - Anderson GP
+LA  - eng
+PT  - Journal Article
+DEP - 20020902
+PL  - United States
+TA  - J Biol Chem
+JID - 2985121R
+RN  - 0 (Androstadienes)
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (DNA Primers)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Lipopolysaccharides)
+RN  - 0 (MAP Kinase Signaling System)
+RN  - 0 (NF-kappa B)
+RN  - 0 (Proto-Oncogene Proteins)
+RN  - 0 (Transcription Factor AP-1)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 19545-26-7 (wortmannin)
+RN  - 83869-56-1 (Granulocyte-Macrophage Colony-Stimulating Factor)
+RN  - EC 2.7.1.112 (Protein-Tyrosine Kinase)
+RN  - EC 2.7.1.37 (Mitogen-Activated Protein Kinases)
+RN  - EC 2.7.1.37 (Protein-Serine-Threonine Kinases)
+RN  - EC 2.7.1.37 (proto-oncogene proteins c-akt)
+RN  - EC 3.4.24.35 (Gelatinase B)
+SB  - IM
+MH  - Administration, Intranasal
+MH  - Androstadienes/pharmacology
+MH  - Animals
+MH  - Antibodies, Monoclonal/pharmacology
+MH  - Base Sequence
+MH  - Bronchoalveolar Lavage Fluid/chemistry
+MH  - Cell Nucleus/drug effects/physiology
+MH  - DNA Primers
+MH  - Enzyme Activation
+MH  - Enzyme Inhibitors/pharmacology
+MH  - Gelatinase B/metabolism
+MH  - Gene Expression Regulation/immunology
+MH  - Granulocyte-Macrophage Colony-Stimulating Factor/immunology/*pharmacology
+MH  - Instillation, Drug
+MH  - Kinetics
+MH  - Lipopolysaccharides/administration & dosage/immunology/*toxicity
+MH  - Lung/drug effects/*immunology
+MH  - MAP Kinase Signaling System/drug effects/*physiology
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Mitogen-Activated Protein Kinases/*metabolism
+MH  - NF-kappa B/*genetics
+MH  - *Protein-Serine-Threonine Kinases
+MH  - Protein-Tyrosine Kinase/metabolism
+MH  - Proto-Oncogene Proteins/*metabolism
+MH  - Research Support, Non-U.S. Gov't
+MH  - Transcription Factor AP-1/*genetics
+MH  - Tumor Necrosis Factor-alpha/metabolism
+EDAT- 2002/09/05 10:00
+MHDA- 2003/02/07 04:00
+PHST- 2002/09/02 [aheadofprint]
+AID - 10.1074/jbc.M207840200 [doi]
+AID - M207840200 [pii]
+PST - ppublish
+SO  - J Biol Chem 2002 Nov 8;277(45):42808-14. Epub 2002 Sep 2.
+
+NR 
+
+--------------------------------------------------------------------------------
+10: Leadbetter EA et al. Chromatin-IgG complexes activ...[PMID: 11948342]  Related Articles, Substance via MeSH, OMIM, Cited in PMC, Cited in Books, Books, LinkOut 
+
+PMID- 11948342
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020411
+DCOM- 20020517
+LR  - 20041117
+PUBM- Print
+IS  - 0028-0836
+VI  - 416
+IP  - 6881
+DP  - 2002 Apr 11
+TI  - Chromatin-IgG complexes activate B cells by dual engagement of IgM and
+     Toll-like receptors.
+PG  - 603-7
+AB  - Autoreactive B cells are present in the lymphoid tissues of healthy
+     individuals, but typically remain quiescent. When this homeostasis is
+     perturbed, the formation of self-reactive antibodies can have serious
+     pathological consequences. B cells expressing an antigen receptor specific
+     for self-immunoglobulin-gamma (IgG) make a class of autoantibodies known
+     as rheumatoid factor (RF). Here we show that effective activation of RF+ B
+     cells is mediated by IgG2a-chromatin immune complexes and requires the
+     synergistic engagement of the antigen receptor and a member of the
+     MyD88-dependent Toll-like receptor (TLR) family. Inhibitor studies
+     implicate TLR9. These data establish a critical link between the innate
+     and adaptive immune systems in the development of systemic autoimmune
+     disease and explain the preponderance of autoantibodies reactive with
+     nucleic acid-protein particles. The unique features of this
+     dual-engagement pathway should facilitate the development of therapies
+     that specifically target autoreactive B cells.
+AD  - Department of Microbiology, Boston University School of Medicine, Boston,
+     Massachusetts 02118, USA.
+FAU - Leadbetter, Elizabeth A
+AU  - Leadbetter EA
+FAU - Rifkin, Ian R
+AU  - Rifkin IR
+FAU - Hohlbaum, Andreas M
+AU  - Hohlbaum AM
+FAU - Beaudette, Britte C
+AU  - Beaudette BC
+FAU - Shlomchik, Mark J
+AU  - Shlomchik MJ
+FAU - Marshak-Rothstein, Ann
+AU  - Marshak-Rothstein A
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Nature
+JID - 0410462
+RN  - 0 (Antigen-Antibody Complex)
+RN  - 0 (Antigens, Differentiation)
+RN  - 0 (Chromatin)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Immunoglobulin G)
+RN  - 0 (Immunoglobulin M)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (MyD88 protein)
+RN  - 0 (Receptors, Cell Surface)
+RN  - 0 (Receptors, Complement 3b)
+RN  - 0 (Receptors, Complement 3d)
+RN  - 0 (Receptors, Immunologic)
+RN  - 0 (Toll-like receptor 9)
+RN  - 0 (Toll-like receptors)
+RN  - 9009-79-4 (Rheumatoid Factor)
+RN  - EC 3.1.21.1 (Deoxyribonuclease I)
+SB  - IM
+CIN - Nature. 2002 Apr 11;416(6881):595-8. PMID: 11948338
+MH  - Animals
+MH  - Antigen-Antibody Complex
+MH  - Antigens, Differentiation/metabolism
+MH  - B-Lymphocytes/*immunology
+MH  - Chromatin/*immunology
+MH  - DNA-Binding Proteins/antagonists & inhibitors/metabolism
+MH  - Deoxyribonuclease I/metabolism
+MH  - *Drosophila Proteins
+MH  - Immunoglobulin G/*immunology
+MH  - Immunoglobulin M/*immunology
+MH  - *Lymphocyte Activation
+MH  - Membrane Glycoproteins/*metabolism
+MH  - Mice
+MH  - Receptors, Cell Surface/antagonists & inhibitors/*metabolism
+MH  - Receptors, Complement 3b/deficiency/immunology
+MH  - Receptors, Complement 3d/deficiency/immunology
+MH  - Receptors, Immunologic/metabolism
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Rheumatoid Factor/*immunology
+MH  - Signal Transduction
+EDAT- 2002/04/12 10:00
+MHDA- 2002/05/23 10:01
+AID - 10.1038/416603a [doi]
+AID - 416603a [pii]
+PST - ppublish
+SO  - Nature 2002 Apr 11;416(6881):603-7.
+
+DR 
+
+--------------------------------------------------------------------------------
+11: Asea A et al. Novel signal transduction pat...[PMID: 11836257]  Related Articles, Gene, UniGene, Nucleotide, Protein, GEO Profiles, Cited in PMC, Books, LinkOut 
+
+PMID- 11836257
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020422
+DCOM- 20020531
+LR  - 20041117
+PUBM- Print-Electronic
+IS  - 0021-9258
+VI  - 277
+IP  - 17
+DP  - 2002 Apr 26
+TI  - Novel signal transduction pathway utilized by extracellular HSP70: role of
+     toll-like receptor (TLR) 2 and TLR4.
+PG  - 15028-34
+AB  - Recent studies have initiated a paradigm shift in the understanding of the
+     function of heat shock proteins (HSP). It is now clear that HSP can and do
+     exit mammalian cells, interact with cells of the immune system, and exert
+     immunoregulatory effects. We recently demonstrated that exogenously added
+     HSP70 possesses potent cytokine activity, with the ability to bind with
+     high affinity to the plasma membrane, elicit a rapid intracellular Ca(2+)
+     flux, activate NF-kappaB, and up-regulate the expression of
+     pro-inflammatory cytokines in human monocytes. Here for the first time, we
+     report that HSP70-induced proinflammatory cytokine production is mediated
+     via the MyD88/IRAK/NF-kappaB signal transduction pathway and that HSP70
+     utilizes both TLR2 (receptor for Gram-positive bacteria) and TLR4
+     (receptor for Gram-negative bacteria) to transduce its proinflammatory
+     signal in a CD14-dependent fashion. These studies now pave the way for the
+     development of highly effective pharmacological or molecular tools that
+     will either up-regulate or suppress HSP70-induced functions in conditions
+     where HSP70 effects are desirable (cancer) or disorders where HSP70
+     effects are undesirable (arthritis and arteriosclerosis).
+AD  - Department of Radiation Oncology, Dana-Farber Cancer Institute, Harvard
+     Medical School, Boston, Massachusetts 02115, USA.
+FAU - Asea, Alexzander
+AU  - Asea A
+FAU - Rehli, Michael
+AU  - Rehli M
+FAU - Kabingu, Edith
+AU  - Kabingu E
+FAU - Boch, Jason A
+AU  - Boch JA
+FAU - Bare, Olivia
+AU  - Bare O
+FAU - Auron, Philip E
+AU  - Auron PE
+FAU - Stevenson, Mary Ann
+AU  - Stevenson MA
+FAU - Calderwood, Stuart K
+AU  - Calderwood SK
+LA  - eng
+GR  - AI44122/AI/NIAID
+GR  - CA31303/CA/NCI
+GR  - CA47404/CA/NCI
+GR  - CA50642/CA/NCI
+GR  - CA68544/CA/NCI
+GR  - CA77465/CA/NCI
+PT  - Journal Article
+DEP - 20020208
+PL  - United States
+TA  - J Biol Chem
+JID - 2985121R
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Heat-Shock Proteins 70)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (NF-kappa B)
+RN  - 0 (Receptors, Cell Surface)
+RN  - 0 (Toll-like receptors)
+SB  - IM
+MH  - Cell Line
+MH  - *Drosophila Proteins
+MH  - Heat-Shock Proteins 70/*metabolism
+MH  - Humans
+MH  - Membrane Glycoproteins/*physiology
+MH  - NF-kappa B/genetics/metabolism
+MH  - Promoter Regions (Genetics)
+MH  - Receptors, Cell Surface/*physiology
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - *Signal Transduction/physiology
+EDAT- 2002/02/12 10:00
+MHDA- 2002/06/01 10:01
+PHST- 2002/02/08 [aheadofprint]
+AID - 10.1074/jbc.M200497200 [doi]
+AID - M200497200 [pii]
+PST - ppublish
+SO  - J Biol Chem 2002 Apr 26;277(17):15028-34. Epub 2002 Feb 8.
+
+DR 
+
+--------------------------------------------------------------------------------
+12: Beeton C et al. Selective blockade of T lymph...[PMID: 11717451]  Related Articles, Compound via MeSH, Substance via MeSH, Free in PMC, Cited in PMC, Books, LinkOut 
+
+PMID- 11717451
+OWN - NLM
+STAT- MEDLINE
+DA  - 20011121
+DCOM- 20020108
+LR  - 20041117
+PUBM- Print
+IS  - 0027-8424
+VI  - 98
+IP  - 24
+DP  - 2001 Nov 20
+TI  - Selective blockade of T lymphocyte K(+) channels ameliorates experimental
+     autoimmune encephalomyelitis, a model for multiple sclerosis.
+PG  - 13942-7
+AB  - Adoptive transfer experimental autoimmune encephalomyelitis (AT-EAE), a
+     disease resembling multiple sclerosis, is induced in rats by myelin basic
+     protein (MBP)-activated CD4(+) T lymphocytes. By patch-clamp analysis,
+     encephalitogenic rat T cells stimulated repeatedly in vitro expressed a
+     unique channel phenotype ("chronically activated") with large numbers of
+     Kv1.3 voltage-gated channels (approximately 1500 per cell) and small
+     numbers of IKCa1 Ca(2+)-activated K(+) channels (approximately 50-120 per
+     cell). In contrast, resting T cells displayed 0-10 Kv1.3 and 10-20 IKCa1
+     channels per cell ("quiescent" phenotype), whereas T cells stimulated once
+     or twice expressed approximately 200 Kv1.3 and approximately 350 IKCa1
+     channels per cell ("acutely activated" phenotype). Consistent with their
+     channel phenotype, [(3)H]thymidine incorporation by MBP-stimulated
+     chronically activated T cells was suppressed by the peptide ShK, a blocker
+     of Kv1.3 and IKCa1, and by an analog (ShK-Dap(22)) engineered to be highly
+     specific for Kv1.3, but not by a selective IKCa1 blocker (TRAM-34). The
+     combination of ShK-Dap(22) and TRAM-34 enhanced the suppression of
+     MBP-stimulated T cell proliferation. Based on these in vitro results, we
+     assessed the efficacy of K(+) channel blockers in AT-EAE. Specific and
+     simultaneous blockade of the T cell channels by ShK or by a combination of
+     ShK-Dap(22) plus TRAM-34 prevented lethal AT-EAE. Blockade of Kv1.3 alone
+     with ShK-Dap(22), but not of IKCa1 with TRAM-34, was also effective. When
+     administered after the onset of symptoms, ShK or the combination of
+     ShK-Dap(22) plus TRAM-34 greatly ameliorated the clinical course of both
+     moderate and severe AT-EAE. We conclude that selective targeting of Kv1.3,
+     alone or with IKCa1, may provide an effective new mode of therapy for
+     multiple sclerosis.
+AD  - Laboratoire d'Immunologie, Faculte de Medecine, 13385 Marseille, France.
+FAU - Beeton, C
+AU  - Beeton C
+FAU - Wulff, H
+AU  - Wulff H
+FAU - Barbaria, J
+AU  - Barbaria J
+FAU - Clot-Faybesse, O
+AU  - Clot-Faybesse O
+FAU - Pennington, M
+AU  - Pennington M
+FAU - Bernard, D
+AU  - Bernard D
+FAU - Cahalan, M D
+AU  - Cahalan MD
+FAU - Chandy, K G
+AU  - Chandy KG
+FAU - Beraud, E
+AU  - Beraud E
+LA  - eng
+GR  - MH59222/MH/NIMH
+GR  - NS14069/NS/NINDS
+PT  - Journal Article
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JID - 7505876
+RN  - 0 (Calcium Channel Blockers)
+RN  - 0 (Cnidarian Venoms)
+RN  - 0 (IKCa1 channel)
+RN  - 0 (Kv1.3 potassium channel)
+RN  - 0 (Potassium Channel Blockers)
+RN  - 0 (Potassium Channels)
+RN  - 0 (Potassium Channels, Voltage-Gated)
+RN  - 0 (Pyrazoles)
+RN  - 0 (ShK neurotoxin)
+RN  - 0 (TRAM 34)
+RN  - 10028-17-8 (Tritium)
+RN  - 50-89-5 (Thymidine)
+SB  - IM
+MH  - Animals
+MH  - CD4-Positive T-Lymphocytes/cytology/drug effects/*metabolism
+MH  - Calcium Channel Blockers/administration &
+     dosage/pharmacokinetics/pharmacology
+MH  - Cells, Cultured
+MH  - Cnidarian Venoms/administration & dosage/pharmacokinetics/pharmacology
+MH  - Disease Models, Animal
+MH  - Encephalomyelitis, Autoimmune, Experimental/metabolism/*prevention &
+     control
+MH  - Female
+MH  - Guinea Pigs
+MH  - Isotope Labeling
+MH  - Multiple Sclerosis/metabolism/*prevention & control
+MH  - Phenotype
+MH  - *Potassium Channel Blockers/administration &
+     dosage/pharmacokinetics/pharmacology
+MH  - Potassium Channels/*metabolism
+MH  - *Potassium Channels, Voltage-Gated
+MH  - Pyrazoles/administration & dosage/pharmacokinetics/pharmacology
+MH  - Rats
+MH  - Rats, Inbred Lew
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Thymidine/metabolism
+MH  - Tritium/metabolism
+EDAT- 2001/11/22 10:00
+MHDA- 2002/01/10 10:01
+AID - 10.1073/pnas.241497298 [doi]
+AID - 98/24/13942 [pii]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A 2001 Nov 20;98(24):13942-7.
+
+NR 
+
+--------------------------------------------------------------------------------
+13: Trif M et al. Liposomes as possible carrier...[PMID: 11395926]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+
+PMID- 11395926
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010608
+DCOM- 20010712
+LR  - 20041117
+PUBM- Print
+IS  - 1535-3702
+VI  - 226
+IP  - 6
+DP  - 2001 Jun
+TI  - Liposomes as possible carriers for lactoferrin in the local treatment of
+     inflammatory diseases.
+PG  - 559-64
+AB  - Liposomes prepared from naturally occurring biodegradable and nontoxic
+     lipids are good candidates for local delivery of therapeutic agents.
+     Treatment of arthritis by intra-articular administration of
+     anti-inflammatory drugs encapsulated in liposomes prolongs the residence
+     time of the drug in the joint. We have previously shown that
+     intra-articular injection of human lactoferrin (hLf), a glycoprotein that
+     possesses anti-inflammatory and antimicrobial activities, into mice with
+     collagen-induced arthritis reduces inflammation. We have now investigated
+     the possibility of using liposome-entrapped hLf as a delivery system to
+     prolong hLf retention at sites of local inflammation such as the
+     rheumatoid joint. Entrapment of hLf in negatively charged liposomes
+     enhanced its accumulation in cultured human synovial fibroblasts from
+     rheumatoid arthritis (RA) patients, compared with positively charged
+     formulations or free protein. However, in the presence of synovial fluid,
+     positively charged liposomes with entrapped hLf were more stable than the
+     negatively charged formulations. In vivo experiments in mice with
+     collagen-induced arthritis showed that the positive liposomes were more
+     efficient in prolonging the residence time of hLf in the inflamed joint as
+     compared with other liposomes. Thus, the amount of hLf retained in the
+     joint after 2 hr was 60% of the injected dose in the case of positive
+     liposomes and only 16% for negative pH-sensitive liposomes. The results
+     suggest that entrapment of hLf in positively charged liposomes may modify
+     its pharmacodynamic profile and be of therapeutic benefit in the treatment
+     of RA and other local inflammatory conditions.
+AD  - Institute of Biochemistry, Spl Independentei 296, 77700 Bucharest,
+     Romania. mtrif@biochim.ro
+FAU - Trif, M
+AU  - Trif M
+FAU - Guillen, C
+AU  - Guillen C
+FAU - Vaughan, D M
+AU  - Vaughan DM
+FAU - Telfer, J M
+AU  - Telfer JM
+FAU - Brewer, J M
+AU  - Brewer JM
+FAU - Roseanu, A
+AU  - Roseanu A
+FAU - Brock, J H
+AU  - Brock JH
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Exp Biol Med (Maywood)
+JID - 100973463
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Lactoferrin)
+RN  - 0 (Liposomes)
+RN  - 9007-34-5 (Collagen)
+SB  - IM
+MH  - Animals
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*administration &
+     dosage/metabolism
+MH  - Arthritis, Rheumatoid/*drug therapy/metabolism
+MH  - Cells, Cultured
+MH  - Collagen/adverse effects
+MH  - *Drug Delivery Systems
+MH  - Drug Stability
+MH  - Electrochemistry
+MH  - Fibroblasts/metabolism
+MH  - Humans
+MH  - Injections
+MH  - Lactoferrin/*administration & dosage/chemistry/metabolism
+MH  - Liposomes
+MH  - Male
+MH  - Mice
+MH  - Research Support, Non-U.S. Gov't
+MH  - Synovial Fluid/metabolism
+MH  - Synovial Membrane/cytology/metabolism
+MH  - Tissue Distribution
+EDAT- 2001/06/09 10:00
+MHDA- 2001/07/13 10:01
+PST - ppublish
+SO  - Exp Biol Med (Maywood) 2001 Jun;226(6):559-64.
+
+NR 
+
+--------------------------------------------------------------------------------
+14: Dupraz P et al. Dominant negative MyD88 prote...[PMID: 10967106]  Related Articles, Substance via MeSH, Books, LinkOut 
+
+PMID- 10967106
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001218
+DCOM- 20010111
+LR  - 20050216
+PUBM- Print
+IS  - 0021-9258
+VI  - 275
+IP  - 48
+DP  - 2000 Dec 1
+TI  - Dominant negative MyD88 proteins inhibit interleukin-1beta
+     /interferon-gamma -mediated induction of nuclear factor kappa B-dependent
+     nitrite production and apoptosis in beta cells.
+PG  - 37672-8
+AB  - Insulin-dependent diabetes mellitus is an autoimmune disease in which
+     pancreatic islet beta cells are destroyed by a combination of
+     immunological and inflammatory mechanisms. In particular, cytokine-induced
+     production of nitric oxide has been shown to correlate with beta cell
+     apoptosis and/or inhibition of insulin secretion. In the present study, we
+     investigated whether the interleukin (IL)-1beta intracellular signal
+     transduction pathway could be blocked by overexpression of dominant
+     negative forms of the IL-1 receptor interacting protein MyD88. We show
+     that overexpression of the Toll domain or the lpr mutant of MyD88 in
+     betaTc-Tet cells decreased nuclear factor kappaB (NF-kappaB) activation
+     upon IL-1beta and IL-1beta/interferon (IFN)-gamma stimulation. Inducible
+     nitric oxide synthase mRNA accumulation and nitrite production, which
+     required the simultaneous presence of IL-1beta and IFN-gamma, were also
+     suppressed by approximately 70%, and these cells were more resistant to
+     cytokine-induced apoptosis as compared with parental cells. The decrease
+     in glucose-stimulated insulin secretion induced by IL-1beta and IFN-gamma
+     was however not prevented. This was because these dysfunctions were
+     induced by IFN-gamma alone, which decreased cellular insulin content and
+     stimulated insulin exocytosis. These results demonstrate that IL-1beta is
+     involved in inducible nitric oxide synthase gene expression and induction
+     of apoptosis in mouse beta cells but does not contribute to impaired
+     glucose-stimulated insulin secretion. Furthermore, our data show that
+     IL-1beta cellular actions can be blocked by expression of MyD88 dominant
+     negative proteins and, finally, that cytokine-induced beta cell secretory
+     dysfunctions are due to the action of IFN-gamma.
+AD  - Institute of Pharmacology and Toxicology, University of Lausanne, 27 Rue
+     du Bugnon, 1005 Lausanne, Switzerland.
+FAU - Dupraz, P
+AU  - Dupraz P
+FAU - Cottet, S
+AU  - Cottet S
+FAU - Hamburger, F
+AU  - Hamburger F
+FAU - Dolci, W
+AU  - Dolci W
+FAU - Felley-Bosco, E
+AU  - Felley-Bosco E
+FAU - Thorens, B
+AU  - Thorens B
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - J Biol Chem
+JID - 2985121R
+RN  - 0 (Antigens, Differentiation)
+RN  - 0 (Interleukin-1)
+RN  - 0 (MyD88 protein)
+RN  - 0 (NF-kappa B)
+RN  - 0 (Nitrites)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Receptors, Immunologic)
+RN  - 11061-68-0 (Insulin)
+RN  - 82115-62-6 (Interferon Type II)
+RN  - EC 1.14.13.39 (Nitric-Oxide Synthase)
+RN  - EC 1.14.13.39 (inducible nitric oxide synthase)
+SB  - IM
+MH  - Animals
+MH  - Antigens, Differentiation/genetics/*metabolism
+MH  - *Apoptosis
+MH  - Cell Line
+MH  - Gene Expression Regulation, Enzymologic/genetics
+MH  - Gene Transfer Techniques
+MH  - Genes, Dominant
+MH  - Hela Cells
+MH  - Humans
+MH  - Insulin/secretion
+MH  - Interferon Type II/*pharmacology
+MH  - Interleukin-1/*pharmacology
+MH  - Islets of Langerhans/drug effects/*metabolism/pathology/secretion
+MH  - Lentivirus/genetics
+MH  - Mice
+MH  - NF-kappa B/*metabolism
+MH  - Nitric-Oxide Synthase/genetics
+MH  - Nitrites/*metabolism
+MH  - RNA, Messenger/genetics
+MH  - *Receptors, Immunologic
+MH  - Research Support, Non-U.S. Gov't
+MH  - Signal Transduction
+EDAT- 2000/09/01 11:00
+MHDA- 2001/02/28 10:01
+AID - 10.1074/jbc.M005150200 [doi]
+AID - M005150200 [pii]
+PST - ppublish
+SO  - J Biol Chem 2000 Dec 1;275(48):37672-8.
+
+DR 
+
+--------------------------------------------------------------------------------
+15: Wulff H et al. Design of a potent and select...[PMID: 10884437]  Related Articles, Compound via MeSH, Substance via MeSH, Free in PMC, Cited in PMC, Books, LinkOut 
+
+PMID- 10884437
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000810
+DCOM- 20000810
+LR  - 20041117
+PUBM- Print
+IS  - 0027-8424
+VI  - 97
+IP  - 14
+DP  - 2000 Jul 5
+TI  - Design of a potent and selective inhibitor of the intermediate-conductance
+     Ca2+-activated K+ channel, IKCa1: a potential immunosuppressant.
+PG  - 8151-6
+AB  - The antimycotic clotrimazole, a potent inhibitor of the
+     intermediate-conductance calcium-activated K(+) channel, IKCa1, is in
+     clinical trials for the treatment of sickle cell disease and diarrhea and
+     is effective in ameliorating the symptoms of rheumatoid arthritis.
+     However, inhibition of cytochrome P450 enzymes by clotrimazole limits its
+     therapeutic value. We have used a rational design strategy to develop a
+     clotrimazole analog that selectively inhibits IKCa1 without blocking
+     cytochrome P450 enzymes. A screen of 83 triarylmethanes revealed the
+     pharmacophore for channel block to be different from that required for
+     cytochrome P450 inhibition. The "IKCa1-pharmacophore" consists of a
+     (2-halogenophenyl)diphenylmethane moiety substituted by an unsubstituted
+     polar pi-electron-rich heterocycle (pyrazole or tetrazole) or a -CN group,
+     whereas cytochrome P450 inhibition absolutely requires the imidazole ring.
+     A series of pyrazoles, acetonitriles, and tetrazoles were synthesized and
+     found to selectively block IKCa1. TRAM-34
+     (1-[(2-chlorophenyl)diphenylmethyl]-1H-pyrazole) inhibits the cloned and
+     the native IKCa1 channel in human T lymphocytes with a K(d) of 20-25 nM
+     and is 200- to 1,500-fold selective over other ion channels. Using
+     TRAM-34, we show that blocking IKCa1 in human lymphocytes, in the absence
+     of P450-inhibition, results in suppression of mitogen-stimulated
+     [(3)H]thymidine incorporation of preactivated lymphocytes with
+     EC(50)-values of 100 nM-1 microM depending on the donor. Combinations of
+     TRAM-34 and cyclosporin A are more effective in suppressing lymphocyte
+     mitogenesis than either compound alone. Our studies suggest that TRAM-34
+     and related compounds may hold therapeutic promise as immunosuppressants.
+AD  - Department of Physiology and Biophysics, University of California, Irvine,
+     CA 92697, USA. hwulff@uci.edu
+FAU - Wulff, H
+AU  - Wulff H
+FAU - Miller, M J
+AU  - Miller MJ
+FAU - Hansel, W
+AU  - Hansel W
+FAU - Grissmer, S
+AU  - Grissmer S
+FAU - Cahalan, M D
+AU  - Cahalan MD
+FAU - Chandy, K G
+AU  - Chandy KG
+LA  - eng
+GR  - MH59222/MH/NIMH
+GR  - NS 14069/NS/NINDS
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Proc Natl Acad Sci U S A
+JID - 7505876
+RN  - 0 (Calcium Channel Blockers)
+RN  - 0 (Calcium Channels)
+RN  - 0 (IKCa1 channel)
+RN  - 0 (Immunosuppressive Agents)
+RN  - 0 (Potassium Channels)
+RN  - 0 (Pyrazoles)
+RN  - 0 (TRAM 34)
+RN  - 16561-29-8 (Tetradecanoylphorbol Acetate)
+RN  - 23593-75-1 (Clotrimazole)
+RN  - 56092-81-0 (Ionomycin)
+RN  - 59865-13-3 (Cyclosporine)
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+SB  - IM
+MH  - Calcium Channel Blockers/*pharmacology
+MH  - Calcium Channels/*drug effects
+MH  - Clotrimazole/chemistry
+MH  - Comparative Study
+MH  - Cyclosporine/pharmacology
+MH  - Cytochrome P-450 Enzyme System/drug effects
+MH  - Drug Design
+MH  - Drug Interactions
+MH  - Electric Conductivity
+MH  - Humans
+MH  - Immunosuppressive Agents/*pharmacology
+MH  - Ion Channel Gating
+MH  - Ionomycin/pharmacology
+MH  - Lymphocyte Activation/drug effects
+MH  - *Potassium Channels
+MH  - Pyrazoles/*pharmacology
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Structure-Activity Relationship
+MH  - T-Lymphocytes/drug effects
+MH  - Tetradecanoylphorbol Acetate/pharmacology
+EDAT- 2000/07/08 11:00
+MHDA- 2000/08/12 11:00
+AID - 97/14/8151 [pii]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A 2000 Jul 5;97(14):8151-6.
+
+NR 
+
+--------------------------------------------------------------------------------
+16: Hudson DA. The surgically delayed uniped...[PMID: 8659945]  Related Articles, Books, LinkOut 
+
+PMID- 8659945
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960730
+DCOM- 19960730
+LR  - 20041117
+PUBM- Print
+IS  - 0148-7043
+VI  - 36
+IP  - 3
+DP  - 1996 Mar
+TI  - The surgically delayed unipedicled TRAM flap for breast reconstruction.
+PG  - 238-42; discussion 242-5
+AB  - Surgical delay is one method of enhancing the vascularity of the lower
+     abdominal transverse rectus abdominis musculocutaneous (TRAM) flap. The
+     outcome of 7 patients who underwent surgical delay (by ligating both
+     superficial and deep inferior epigastric vessels bilaterally) a week prior
+     to definitive TRAM flap elevation is described. Three patients were
+     smokers, 3 were obese, and 1 was an asthmatic on medication. A
+     satisfactory aesthetic result was achieved in all patients and the
+     complications that occurred were minor. Two patients developed minor skin
+     necrosis due to inadequate trimming of zone 4 on the contralateral side to
+     the pedicle and there were 3 cases of fat necrosis, which occurred below
+     Scarpa's fascia. Surgical delay is a useful technique of breast
+     reconstruction. It allows the flap to be centered safely in the lower
+     abdomen. In the high-risk patient, delay may prevent the need for
+     microsurgery or the sacrifice of both recti.
+AD  - Department of Plastic and Reconstructive Surgery, Groote Schuur Hospital,
+     Cape Town, South Africa.
+FAU - Hudson, D A
+AU  - Hudson DA
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Ann Plast Surg
+JID - 7805336
+SB  - IM
+CIN - Ann Plast Surg. 1996 Sep;37(3):342-3. PMID: 8883739
+MH  - Adult
+MH  - Asthma/physiopathology
+MH  - Breast Neoplasms/*surgery
+MH  - Female
+MH  - Graft Survival/physiology
+MH  - Humans
+MH  - Mammaplasty/*methods
+MH  - Mastectomy, Modified Radical/*methods
+MH  - Microsurgery/*methods
+MH  - Middle Aged
+MH  - Obesity/physiopathology
+MH  - Regional Blood Flow/physiology
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Smoking/adverse effects/physiopathology
+MH  - Surgical Flaps/*methods/physiology
+MH  - Treatment Outcome
+EDAT- 1996/03/01
+MHDA- 1996/03/01 00:01
+PST - ppublish
+SO  - Ann Plast Surg 1996 Mar;36(3):238-42; discussion 242-5.
+
+NR
+

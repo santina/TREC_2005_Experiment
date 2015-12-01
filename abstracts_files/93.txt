@@ -1,0 +1,4837 @@
+Search (d4dr OR drd4 OR dopamine receptor D4) AND (ethanol OR alcohol OR alcoholic OR alcoholism) Limits: Publication Date from 1994/01/01 to 2003/12/31
+Entrez pubmed Results 
+Items 1 - 59 of 59 1: Lee HJ et al. D2 and D4 dopamine receptor g...[PMID: 12898574]  Related Articles, Books, LinkOut 
+PMID- 12898574
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030804
+DCOM- 20030917
+LR  - 20041215
+PUBM- Print
+IS  - 1552-4841
+VI  - 121
+IP  - 1
+DP  - 2003 Aug 15
+TI  - D2 and D4 dopamine receptor gene polymorphisms and personality traits in a
+     young Korean population.
+PG  - 44-9
+AB  - The correlation between the D4 dopamine receptor gene (DRD4) and the D2
+     dopamine receptor gene (DRD2) polymorphisms was investigated with
+     personality traits. For this study, homogeneous population consisting of
+     243 young alcohol- and drug-naive Koreans who were blood-unrelated with a
+     mean age (+/-SD) of 13.87 (+/-0.30) years old was analyzed for the DRD4
+     and the DRD2 polymorphisms with their personality trait by Temperament and
+     character inventory (TCI). The association between Novelty seeking (NS)
+     score and DRD4 long alleles was only observed among the female subjects (t
+     = 2.11, P = 0.037), but not in the male counter part. Female subjects who
+     carried the DRD2 less frequent alleles (TaqI A1, TaqI B1, and Intron6 1)
+     showed higher RD4 scores (dependence vs. independence) of Reward
+     dependence (RD) than those without these alleles (P < 0.05). There was no
+     interaction between DRD4 and DRD2 on the personality traits. These
+     results, thus, confirmed the previous findings in which the long repeats
+     of the DRD4-exon III polymorphism are related to NS personality trait, and
+     also suggested that the DRD2 less frequent alleles were also associated
+     with the reward-dependent trait.
+CI  - Copyright 2003 Wiley-Liss, Inc.
+AD  - Department of Psychiatry, Korea University College of Medicine, Seoul,
+     Korea. kuhj@netsgo.com
+FAU - Lee, Heon-Jeong
+AU  - Lee HJ
+FAU - Lee, Hong-Seock
+AU  - Lee HS
+FAU - Kim, Yong-Ku
+AU  - Kim YK
+FAU - Kim, Leen
+AU  - Kim L
+FAU - Lee, Min Soo
+AU  - Lee MS
+FAU - Jung, In-Kwa
+AU  - Jung IK
+FAU - Suh, Kwang-Yoon
+AU  - Suh KY
+FAU - Kim, Sangduk
+AU  - Kim S
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Am J Med Genet B Neuropsychiatr Genet
+JID - 101235742
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Adolescent
+MH  - Female
+MH  - Gene Frequency
+MH  - Humans
+MH  - Korea
+MH  - Male
+MH  - Personality/*genetics
+MH  - *Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+EDAT- 2003/08/05 05:00
+MHDA- 2003/09/18 05:00
+AID - 10.1002/ajmg.b.20054 [doi]
+PST - ppublish
+SO  - Am J Med Genet B Neuropsychiatr Genet 2003 Aug 15;121(1):44-9.
+PR 
+
+--------------------------------------------------------------------------------
+2: Hutchison KE et al. Olanzapine reduces craving fo...[PMID: 12888781]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 12888781
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030925
+DCOM- 20031205
+LR  - 20041204
+PUBM- Print
+IS  - 0893-133X
+VI  - 28
+IP  - 10
+DP  - 2003 Oct
+TI  - Olanzapine reduces craving for alcohol: a DRD4 VNTR polymorphism by
+     pharmacotherapy interaction.
+PG  - 1882-8
+AB  - Separate investigations have suggested that olanzapine, a D4 antagonist,
+     decreases craving after a priming dose of alcohol and that the DRD4
+     variable number of tandem repeats (VNTR) polymorphism influences the
+     expression of craving after a priming dose of alcohol. The present study
+     tested the hypothesis that olanzapine may be differentially effective at
+     reducing cue-elicited craving based on individual differences in DRD4 VNTR
+     in a sample of heavy social drinkers. Participants were randomly assigned
+     to receive olanzapine (5 mg) or a control medication (cyproheptadine, 4
+     mg) prior to consuming three alcoholic drinks. Participants completed
+     subjective measures of craving and euphoria after each drink. Participants
+     who were homozygous or heterozygous for the 7 (or longer) repeat allele of
+     the DRD4 VNTR were classified as DRD4 L, while the other participants were
+     classified as DRD4 S. The findings indicated that olanzapine reduces
+     craving for alcohol at baseline for both DRD4 S and DRD4 L individuals,
+     but only reduces craving after exposure to alcohol cues and after a
+     priming dose of alcohol for DRD4 L individuals.
+AD  - Department of Psychology, University of Colorado at Boulder, Boulder, CO
+     80309-0345, USA. KentH@psych.colorado.edu
+FAU - Hutchison, Kent E
+AU  - Hutchison KE
+FAU - Wooden, Angela
+AU  - Wooden A
+FAU - Swift, Robert M
+AU  - Swift RM
+FAU - Smolen, Andrew
+AU  - Smolen A
+FAU - McGeary, John
+AU  - McGeary J
+FAU - Adler, Lawrence
+AU  - Adler L
+FAU - Paris, Lyndee
+AU  - Paris L
+LA  - eng
+GR  - M01-RR00051/RR/NCRR
+GR  - R01AA11473/AA/NIAAA
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Neuropsychopharmacology
+JID - 8904907
+RN  - 0 (Benzodiazepines)
+RN  - 0 (Central Nervous System Depressants)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Serotonin Antagonists)
+RN  - 0 (Serotonin Uptake Inhibitors)
+RN  - 129-03-3 (Cyproheptadine)
+RN  - 132539-06-1 (olanzapine)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 28797-61-7 (Pirenzepine)
+RN  - 64-17-5 (Ethanol)
+SB  - IM
+MH  - Adult
+MH  - Affect/drug effects
+MH  - Alcohol Drinking/*drug therapy/genetics
+MH  - Behavior, Addictive/drug therapy/genetics
+MH  - Benzodiazepines
+MH  - Case-Control Studies
+MH  - Central Nervous System Depressants
+MH  - Chi-Square Distribution
+MH  - Comparative Study
+MH  - Cues
+MH  - Cyproheptadine/therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Drug Interactions
+MH  - Ethanol/adverse effects/pharmacology
+MH  - Female
+MH  - Humans
+MH  - Individuality
+MH  - Male
+MH  - Minisatellite Repeats/*genetics
+MH  - Pirenzepine/*analogs & derivatives/*therapeutic use
+MH  - *Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/genetics
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Serotonin Antagonists/therapeutic use
+MH  - Serotonin Uptake Inhibitors/*therapeutic use
+EDAT- 2003/07/31 05:00
+MHDA- 2003/12/06 05:00
+AID - 10.1038/sj.npp.1300264 [doi]
+AID - 1300264 [pii]
+PST - ppublish
+SO  - Neuropsychopharmacology 2003 Oct;28(10):1882-8.
+DR 
+--------------------------------------------------------------------------------
+3: Olson S. Population genetics. Seeking ...[PMID: 12434033]  Related Articles, Substance via MeSH, Books, LinkOut 
+PMID- 12434033
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021115
+DCOM- 20021212
+LR  - 20041204
+PUBM- Print
+IS  - 1095-9203
+VI  - 298
+IP  - 5597
+DP  - 2002 Nov 15
+TI  - Population genetics. Seeking the signs of selection.
+PG  - 1324-5
+FAU - Olson, Steve
+AU  - Olson S
+LA  - eng
+PT  - News
+PL  - United States
+TA  - Science
+JID - 0404511
+RN  - 0 (Receptors, CCR5)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - EC 1.1.1.1 (Alcohol Dehydrogenase)
+SB  - IM
+MH  - Alcohol Dehydrogenase/genetics
+MH  - Alleles
+MH  - Genetic Predisposition to Disease
+MH  - *Genetics, Medical
+MH  - *Genetics, Population
+MH  - Genome, Human
+MH  - Heterozygote
+MH  - Humans
+MH  - Immunity, Natural
+MH  - Linkage Disequilibrium
+MH  - Mutation
+MH  - Receptors, CCR5/genetics
+MH  - Receptors, Dopamine D2/genetics
+MH  - *Selection (Genetics)
+MH  - Sequence Analysis, DNA
+MH  - *Variation (Genetics)
+EDAT- 2002/11/16 04:00
+MHDA- 2002/12/13 04:00
+AID - 10.1126/science.298.5597.1324 [doi]
+AID - 298/5597/1324 [pii]
+PST - ppublish
+SO  - Science 2002 Nov 15;298(5597):1324-5.
+NR 
+--------------------------------------------------------------------------------
+4: Soyka M et al. Dopamine D 4 receptor gene po...[PMID: 12393313]  Related Articles, Books, LinkOut 
+PMID- 12393313
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021023
+DCOM- 20030321
+LR  - 20041204
+PUBM- Print
+IS  - 0022-3956
+VI  - 36
+IP  - 6
+DP  - 2002 Nov-Dec
+TI  - Dopamine D 4 receptor gene polymorphism and extraversion revisited:
+     results from the Munich gene bank project for alcoholism.
+PG  - 429-35
+AB  - In 1998 a gene bank project for association studies in alcoholism was
+     initiated at the Psychiatric Hospital of Munich. The research instruments
+     used were partly adopted from the US collaborative study of the genetics
+     of alcoholism and include the family history assessment module (FHAM), the
+     semi-structured interview for assessment of genetics in alcoholism (SSAGA)
+     and a number of personality inventories such as the Zuckerman's
+     sensation-seeking scale, the NEO Five factor inventory and the temperament
+     and character inventory. Based on the examination of 181 alcoholic
+     subjects, no association was found between Dopamine D4 receptor gene
+     polymorphism and novelty-seeking or extraversion as assessed by the three
+     personality inventories. These findings are in line with a number of more
+     recent studies questioning the association between novelty-seeking and
+     DRD4 dopamine receptor gene polymorphism. Possible implications of these
+     findings are discussed.
+CI  - Copyright 2002 Elsevier Science Ltd.
+AD  - Psychiatric Hospital of Ludwig-Maximilians-University Munich,
+     Nussbaumstrasse 7, 80336 Munich, Germany.
+     michael.soyka@psy.med.uni-muenchen.de
+FAU - Soyka, M
+AU  - Soyka M
+FAU - Preuss, U W
+AU  - Preuss UW
+FAU - Koller, G
+AU  - Koller G
+FAU - Zill, P
+AU  - Zill P
+FAU - Bondy, B
+AU  - Bondy B
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Psychiatr Res
+JID - 0376331
+RN  - 0 (DNA Primers)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/*genetics
+MH  - Alleles
+MH  - DNA Primers/genetics
+MH  - Exploratory Behavior/physiology
+MH  - *Extraversion (Psychology)
+MH  - Female
+MH  - Genotype
+MH  - Humans
+MH  - Male
+MH  - Personality Inventory
+MH  - Polymorphism, Genetic/*genetics
+MH  - Receptors, Dopamine D2/*genetics
+EDAT- 2002/10/24 04:00
+MHDA- 2003/03/22 04:00
+AID - S0022395602000493 [pii]
+PST - ppublish
+SO  - J Psychiatr Res 2002 Nov-Dec;36(6):429-35.
+DR 
+--------------------------------------------------------------------------------
+5: Hutchison KE et al. The DRD4 VNTR polymorphism mo...[PMID: 11950104]  Related Articles, Gene, HomoloGene, Compound via MeSH, Substance via MeSH, UniGene, GEO Profiles, Books, LinkOut 
+PMID- 11950104
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020412
+DCOM- 20021016
+LR  - 20041204
+PUBM- Print
+IS  - 0278-6133
+VI  - 21
+IP  - 2
+DP  - 2002 Mar
+TI  - The DRD4 VNTR polymorphism moderates craving after alcohol consumption.
+PG  - 139-46
+AB  - Recent research has suggested that alterations in mesolimbic dopamine
+     neurotransmission are central to the development and expression of craving
+     for alcohol. Because the D4 dopamine receptor gene, variable numbers of
+     tandem repeats (DRD4 VNTR) polymorphism putatively expresses functional
+     differences in dopamine receptors, the present study tested whether this
+     polymorphism influences the effects of a priming dose of alcohol on
+     craving. Participants consumed 3 alcoholic drinks or 3 control drinks and
+     completed measures of craving after each drink. Participants who were
+     homozygous or heterozygous for the 7 (or longer) repeat allele were
+     classified as DRD4 L, whereas the other participants were classified as
+     DRD4 S. Results suggested that DRD4 L participants demonstrated
+     significantly higher craving after consumption of alcohol as compared with
+     the control beverage.
+AD  - Department of Psychology, University of Colorado at Boulder, 80309-0345,
+     USA. kenth@psych.colorado.edu
+FAU - Hutchison, Kent E
+AU  - Hutchison KE
+FAU - McGeary, John
+AU  - McGeary J
+FAU - Smolen, Andrew
+AU  - Smolen A
+FAU - Bryan, Angela
+AU  - Bryan A
+FAU - Swift, Robert M
+AU  - Swift RM
+LA  - eng
+GR  - R01AA11473/AA/NIAAA
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Health Psychol
+JID - 8211523
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 64-17-5 (Ethanol)
+SB  - IM
+MH  - Adult
+MH  - Alcohol Drinking/*genetics
+MH  - Alcoholism/*genetics
+MH  - Analysis of Variance
+MH  - Behavior, Addictive/genetics
+MH  - Ethanol/*pharmacology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Minisatellite Repeats
+MH  - *Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+EDAT- 2002/04/13 10:00
+MHDA- 2002/10/17 04:00
+PST - ppublish
+SO  - Health Psychol 2002 Mar;21(2):139-46.
+DR 
+--------------------------------------------------------------------------------
+6: Falzone TL et al. Absence of dopamine D4 recept...[PMID: 11860516]  Related Articles, Gene, GENSAT, Compound via MeSH, Substance via MeSH, UniGene, Nucleotide, Protein, GEO Profiles, Books, LinkOut 
+PMID- 11860516
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020225
+DCOM- 20020425
+LR  - 20041204
+PUBM- Print
+IS  - 0953-816X
+VI  - 15
+IP  - 1
+DP  - 2002 Jan
+TI  - Absence of dopamine D4 receptors results in enhanced reactivity to
+     unconditioned, but not conditioned, fear.
+PG  - 158-64
+AB  - The prefrontal cortex receives a major dopaminergic input from the ventral
+     tegmental area, which plays an important role in the integration of
+     neuronal signals influencing behavioural responses to stressful
+     environmental stimuli. The dopamine D4 receptor (D4R) is expressed at
+     highest levels in the prefrontal cortex and is the predominant D2-like
+     receptor localized in this brain area. To investigate the functional
+     significance of D4Rs in dopamine-mediated responses we have analysed a
+     strain of mice lacking this receptor subtype (Drd4-/-). Wild-type and
+     Drd4-/- mice were challenged in two different approach/avoidance conflict
+     paradigms: the elevated plus maze and the light/dark preference
+     exploration test. By these behavioural measures Drd4-/- mice showed
+     heightened avoidance to the more fear-provoking areas of each maze as
+     demonstrated by reduced exploration of the open arms of the plus maze and
+     longer latencies to explore the illuminated compartment of the light/dark
+     shuttle box. These exaggerated avoidance behaviours were further enhanced
+     by an additional handling stress but completely prevented by anxiolytic
+     agents such as the benzodiazepine midazolam and ethanol. Although Drd4-/-
+     mice displayed heightened anxiety, they exhibited normal ethanol
+     preference and consumption in a two-bottle choice test. Learned fear
+     responses evaluated by contextual, cued and instrumental fear-conditioning
+     tests showed no difference between wild-type and Drd4-/- mice. Taken
+     together these results indicate that the absence of D4Rs increases
+     avoidance behaviour to unconditioned stimuli and does not impair
+     behavioural reactions to Pavlovian fear-conditioning, suggesting that the
+     D4R could play a key role in the dopaminergic modulation of cortical
+     signals triggered by environmental stimuli.
+AD  - Instituto de Investigaciones en Ingenieria Genetica y Biologia Molecular
+     (CONICET) and Departamento de Ciencias Biologicas, Facultad de Ciencias
+     Exactas y Naturales, Universidad de Buenos Aires, Vuelta de Obligado 2490,
+     1428 Buenos Aires, Argentina.
+FAU - Falzone, Tomas L
+AU  - Falzone TL
+FAU - Gelman, Diego M
+AU  - Gelman DM
+FAU - Young, Juan I
+AU  - Young JI
+FAU - Grandy, David K
+AU  - Grandy DK
+FAU - Low, Malcolm J
+AU  - Low MJ
+FAU - Rubinstein, Marcelo
+AU  - Rubinstein M
+LA  - eng
+PT  - Journal Article
+PL  - France
+TA  - Eur J Neurosci
+JID - 8918110
+RN  - 0 (Anti-Anxiety Agents)
+RN  - 0 (Central Nervous System Depressants)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 59467-70-8 (Midazolam)
+RN  - 64-17-5 (Ethanol)
+SB  - IM
+MH  - Animals
+MH  - Anti-Anxiety Agents/pharmacology
+MH  - Anxiety/genetics/psychology
+MH  - Avoidance Learning/physiology
+MH  - Behavior, Animal/physiology
+MH  - Central Nervous System Depressants/pharmacology
+MH  - Conditioning (Psychology)
+MH  - Conflict (Psychology)
+MH  - Ethanol/pharmacology
+MH  - Exploratory Behavior/physiology
+MH  - Fear/*physiology
+MH  - Mice
+MH  - Mice, Knockout
+MH  - Midazolam/pharmacology
+MH  - Receptors, Dopamine D2/genetics/*physiology
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, Non-P.H.S.
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Stress, Psychological/genetics/psychology
+EDAT- 2002/02/28 10:00
+MHDA- 2002/04/26 10:01
+AID - 1842 [pii]
+PST - ppublish
+SO  - Eur J Neurosci 2002 Jan;15(1):158-64.
+DR 
+--------------------------------------------------------------------------------
+7: Pugsley TA et al. The discovery of PD 89211 and...[PMID: 11817497]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 11817497
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020130
+DCOM- 20020722
+LR  - 20041204
+PUBM- Print
+IS  - 0278-5846
+VI  - 26
+IP  - 2
+DP  - 2002 Feb
+TI  - The discovery of PD 89211 and related compounds: selective dopamine D4
+     receptor antagonists.
+PG  - 219-26
+AB  - The dopamine (DA) D2 family of receptors consists of the D2, D3, and D4
+     receptors. The DA D4 receptor is of interest as a target for drugs to
+     treat schizophrenia based upon its high affinity for the atypical
+     antipsychotic clozapine and its localization to the limbic and cortical
+     regions of the brain. As part of a program to identify novel DA D4
+     receptor antagonists, a high-volume screen using the Parke-Davis compound
+     library was initiated. This led to the discovery of PD 89211
+     (benzenemethanol,
+     2-chloro-4-[4-[(1H-benzimidazol-2-yl)methyl]-1-piperzinyl]) that displaced
+     [3H]spiperone binding to hD4.2 with an affinity (Ki) of 3.7 nM. PD 89211
+     exhibited high selectivity for the DA D4.2 receptor (> 800-fold) as
+     compared to other hDA receptor subtypes, rat brain serotonin, and
+     adrenergic receptors. In vitro, PD 89211 had D4 receptor antagonist
+     activity reversing quinpirole-induced [3H]thymidine uptake in CHOpro5
+     cells (IC50 = 2.1 nM). Limited structure-activity relationship (SAR)
+     studies indicated that compounds with a 4-chloro-, 4-methyl-, and
+     3-chloro- substituents on the phenyl ring retained high affinity for D4
+     receptors, while those with a 4-methoxy- and no substituent had less
+     affinity. While all clinically effective antipsychotics increase DA
+     synthesis (DOPA accumulation) in rodents, PD 89211 did not increase DA
+     synthesis in the DA-enriched striatum, indicating no effect on DA turnover
+     and low propensity for exhibiting motor side effects. However, it did
+     increase catecholamine synthesis in rat hippocampus, as did clozapine.
+     Moreover, PD 89211 selectivity increased catecholamine synthesis in the
+     hippocampus of wild type but not in mice lacking D4 receptors, suggesting
+     that one function of D4 receptors may be to modulate DA/norepinephrine
+     (NE) turnover in this brain area known to possess D4 receptors. The
+     discovery of compounds like PD 89211 provides a tool to help in
+     understanding the function of DA D4 receptors in the CNS.
+AD  - CNS Pharmacology and Chemistry, Pfizer Global Research and Development,
+     Ann Arbor, MI 48105, USA. thomas.pugsley@pfizer.com
+FAU - Pugsley, Thomas A
+AU  - Pugsley TA
+FAU - Shih, Yu Hsin
+AU  - Shih YH
+FAU - Whetzel, Steven Z
+AU  - Whetzel SZ
+FAU - Zoski, Kim
+AU  - Zoski K
+FAU - Van Leeuwen, Don
+AU  - Van Leeuwen D
+FAU - Akunne, Hyacinth
+AU  - Akunne H
+FAU - Mackenzie, R
+AU  - Mackenzie R
+FAU - Heffner, Thomas G
+AU  - Heffner TG
+FAU - Wustrow, David
+AU  - Wustrow D
+FAU - Wise, Lawrence D
+AU  - Wise LD
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Prog Neuropsychopharmacol Biol Psychiatry
+JID - 8211617
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Catecholamines)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (PD 89211)
+RN  - 0 (Piperazines)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 100-51-6 (Benzyl Alcohol)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Animals
+MH  - Benzimidazoles/*chemistry/*pharmacology
+MH  - Benzyl Alcohol/*pharmacology
+MH  - CHO Cells
+MH  - Catecholamines/metabolism
+MH  - Dopamine Antagonists/*chemistry/*pharmacology
+MH  - Dose-Response Relationship, Drug
+MH  - Hamsters
+MH  - Hippocampus/drug effects/metabolism
+MH  - Humans
+MH  - Male
+MH  - Mice
+MH  - Mice, Knockout
+MH  - Piperazines/*chemistry/*pharmacology
+MH  - Rats
+MH  - Rats, Long-Evans
+MH  - Receptors, Dopamine D2/*antagonists & inhibitors/metabolism
+EDAT- 2002/01/31 10:00
+MHDA- 2002/07/23 10:01
+PST - ppublish
+SO  - Prog Neuropsychopharmacol Biol Psychiatry 2002 Feb;26(2):219-26.
+PR 
+--------------------------------------------------------------------------------
+8: Milanes MV et al. Effects of morphine withdrawa...[PMID: 11697748]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 11697748
+OWN - NLM
+STAT- MEDLINE
+DA  - 20011107
+DCOM- 20020403
+LR  - 20041117
+PUBM- Print
+IS  - 0008-4212
+VI  - 79
+IP  - 10
+DP  - 2001 Oct
+TI  - Effects of morphine withdrawal on catecholaminergic neurons on heart right
+     ventricle; implication of dopamine receptors.
+PG  - 885-91
+AB  - The purpose of our study was to examine the effects of D1-and D2-dopamine
+     receptors blockade on the changes in the ventricular content of
+     catecholamines in rats withdrawn from morphine. Rats were given morphine
+     by subcutaneous (s.c.) implantation of morphine pellets for 5 days. On the
+     eighth day, morphine withdrawal was induced by s.c. administration of
+     naloxone (1 mg/kg), and rats were killed 30 min later. Pretreatment with
+     SCH 23390 (dopamine D1, D5 receptor antagonist) 15 min prior to naloxone
+     administration suppressed some the behavioural signs of morphine
+     withdrawal, whereas eticlopride (dopamine D2, D3, D4 receptor antagonist)
+     did not. In addition, biochemical analysis indicate that SCH 23390
+     completely abolished the withdrawal-induced increase in noradrenaline and
+     dopamine turnover in the right ventricle. By contrast, eticlopride did not
+     block the hyperactivity of catecholaminergic neurons in the heart during
+     morphine withdrawal. These data suggest that the hyperactivity of
+     catecholaminergic neurons in the heart during morphine withdrawal is
+     dependent upon D1 dopamine receptor activation. In addition, our results
+     exclude the involvement of D2 dopamine receptors.
+AD  - Department of Pharmacology, University School of Medicine, Murcia, Spain.
+FAU - Milanes, M V
+AU  - Milanes MV
+FAU - Marin, M T
+AU  - Marin MT
+FAU - Laorden, M L
+AU  - Laorden ML
+LA  - eng
+PT  - Journal Article
+PL  - Canada
+TA  - Can J Physiol Pharmacol
+JID - 0372712
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Catecholamines)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Receptors, Dopamine)
+RN  - 0 (Salicylamides)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 57-27-2 (Morphine)
+RN  - 84226-12-0 (eticlopride)
+RN  - 87075-17-0
+     ((R)-2,3,4,5-Tetrahydro-8-chloro-3-methyl-5-phenyl-1H-3-benzazepin-7-ol)
+SB  - IM
+MH  - (R)-2,3,4,5-Tetrahydro-8-chloro-3-methyl-5-phenyl-1H-3-benzazepin-7-ol/pha
+     rmacology
+MH  - *Analgesics, Opioid
+MH  - Animals
+MH  - Catecholamines/*physiology
+MH  - Dopamine/metabolism
+MH  - Dopamine Antagonists/pharmacology
+MH  - Heart/drug effects/*innervation
+MH  - Heart Ventricles/drug effects/metabolism/physiology
+MH  - Male
+MH  - *Morphine
+MH  - Neurons/*physiology
+MH  - Norepinephrine/metabolism
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Receptors, Dopamine/*drug effects
+MH  - Research Support, Non-U.S. Gov't
+MH  - Salicylamides/pharmacology
+MH  - Substance Withdrawal Syndrome/*physiopathology
+EDAT- 2001/11/08 10:00
+MHDA- 2002/04/04 10:01
+PST - ppublish
+SO  - Can J Physiol Pharmacol 2001 Oct;79(10):885-91.
+PR 
+--------------------------------------------------------------------------------
+9: Ishige K et al. The activation of dopamine D4...[PMID: 11487630]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 11487630
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010806
+DCOM- 20010830
+LR  - 20041204
+PUBM- Print
+IS  - 1529-2401
+VI  - 21
+IP  - 16
+DP  - 2001 Aug 15
+TI  - The activation of dopamine D4 receptors inhibits oxidative stress-induced
+     nerve cell death.
+PG  - 6069-76
+AB  - Oxidative stress is thought to be the cause of nerve cell death in many
+     CNS pathologies, including ischemia, trauma, and neurodegenerative
+     disease. Glutamate kills nerve cells that lack ionotropic glutamate
+     receptors via the inhibition of the cystine-glutamate antiporter x(c)(-),
+     resulting in the inhibition of cystine uptake, the loss of glutathione,
+     and the initiation of an oxidative stress cell death pathway. A number of
+     catecholamines were found to block this pathway. Specifically, dopamine
+     and related ligands inhibit glutamate-induced cell death in both clonal
+     nerve cell lines and rat cortical neurons. The protective effects of
+     dopamine, apomorphine, and apocodeine, but not epinephrine and
+     norepinephrine, are antagonized by dopamine D4 antagonists. A dopamine D4
+     agonist also protects, and this protective effect is inhibited by U101958,
+     a dopamine D4 antagonist. Although the protective effects of some of the
+     catecholamines are correlated with their antioxidant activities, there is
+     no correlation between the protective and antioxidant activities of
+     several other ligands. Normally, glutamate causes an increase in reactive
+     oxygen species (ROS) and intracellular Ca(2+). Apomorphine partially
+     inhibits glutamate-induced ROS production and blocks the opening of
+     cGMP-operated Ca(2+) channels that lead to Ca(2+) elevation in the late
+     part of the cell death pathway. These data suggest that the protective
+     effects of apomorphine on oxidative stress-induced cell death are, at
+     least in part, mediated by dopamine D4 receptors via the regulation of
+     cGMP-operated Ca(2+) channels.
+AD  - Cellular Neurobiology Laboratory, The Salk Institute for Biological
+     Studies, La Jolla, California 92037, USA.
+FAU - Ishige, K
+AU  - Ishige K
+FAU - Chen, Q
+AU  - Chen Q
+FAU - Sagara, Y
+AU  - Sagara Y
+FAU - Schubert, D
+AU  - Schubert D
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Neurosci
+JID - 8102140
+RN  - 0 (Antioxidants)
+RN  - 0 (Dopamine Agonists)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Neuroprotective Agents)
+RN  - 0 (Reactive Oxygen Species)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-43-4 (Epinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 56-86-0 (Glutamic Acid)
+RN  - 58-00-4 (Apomorphine)
+RN  - 641-36-1 (apocodeine)
+RN  - 7440-70-2 (Calcium)
+RN  - 7665-99-8 (Cyclic GMP)
+SB  - IM
+MH  - Animals
+MH  - Antioxidants/metabolism/pharmacology
+MH  - Apomorphine/*analogs & derivatives/pharmacology
+MH  - Binding, Competitive/drug effects
+MH  - Calcium/metabolism
+MH  - Cell Death/drug effects/*physiology
+MH  - Cell Line
+MH  - Cyclic GMP/metabolism
+MH  - Dopamine/metabolism/pharmacology
+MH  - Dopamine Agonists/pharmacology
+MH  - Dopamine Antagonists/pharmacology
+MH  - Epinephrine/pharmacology
+MH  - Glutamic Acid/metabolism
+MH  - Hippocampus/cytology/drug effects/metabolism
+MH  - Mice
+MH  - Neurons/cytology/drug effects/metabolism
+MH  - Neuroprotective Agents/pharmacology
+MH  - Norepinephrine/pharmacology
+MH  - Oxidative Stress/drug effects
+MH  - Rats
+MH  - Reactive Oxygen Species/metabolism
+MH  - Receptors, Dopamine D2/agonists/antagonists & inhibitors/*metabolism
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, Non-P.H.S.
+MH  - Research Support, U.S. Gov't, P.H.S.
+EDAT- 2001/08/07 10:00
+MHDA- 2001/08/31 10:01
+AID - 21/16/6069 [pii]
+PST - ppublish
+SO  - J Neurosci 2001 Aug 15;21(16):6069-76.
+NR 
+--------------------------------------------------------------------------------
+10: Rothhammer F et al. [Genetics of addictive disord...[PMID: 11347517]  Related Articles, Books, LinkOut 
+PMID- 11347517
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010511
+DCOM- 20010614
+LR  - 20041117
+PUBM- Print
+IS  - 0034-9887
+VI  - 128
+IP  - 11
+DP  - 2000 Nov
+TI  - [Genetics of addictive disorders]
+PG  - 1279-82
+AB  - Given the spectacular advances of genetics during the last five years, it
+     seems appropriate to revisit the important subject of genetics of
+     alcoholism and substance abuse. In recent studies alcohol abuse was shown
+     to have an hereditability of roughly 38%, whereas psychostimulant and
+     opiate use exhibit hereditabilities of 11 to 45%. The hereditability of
+     smoking was found to be around 50%. There is a strong comorbidity between
+     alcoholism and smoking. More than 80% of alcoholics smoke cigarettes in
+     the U.S.A. Other genetic methods such as linkage analysis, allele sharing
+     methods, association studies and analysis of inbred, transgenic and
+     gene-knockout rodents, have partially agreed in showing that the 5HT-1B
+     serotonin receptor and the DRD1, DRD2 and DRD4 dopamine receptors, as well
+     as the dopamine transporter DAT, play an important role in behaviors
+     related to alcoholism and substance abuse. Some neurochemical markers, as
+     for example monoamine oxidase and adenylate cyclase have also been
+     implicated in addictive disorders. The aldehyde dehydrogenase allele
+     ALDH2*2 has a protective effect against alcoholism. Two whole genome
+     linkage studies have shown linkage to chromosomal regions that are in the
+     proximity of the DRD4 dopamine receptor, the GABA receptor gene cluster
+     and the alcohol dehydrogenase gene cluster.
+AD  - Programa de Genetica Humana, Instituto de Ciencias Biomedicas, Facultad de
+     Medicina, Universidad de Chile, Santiago, Chile.
+FAU - Rothhammer, F
+AU  - Rothhammer F
+FAU - Rothhammer, P
+AU  - Rothhammer P
+FAU - Llop, E
+AU  - Llop E
+LA  - spa
+PT  - Journal Article
+PT  - Review
+PT  - Review, Tutorial
+TT  - Genetica de los desordenes adictivos.
+PL  - Chile
+TA  - Rev Med Chil
+JID - 0404312
+RN  - 0 (Biological Markers)
+SB  - IM
+MH  - Alcoholism/genetics
+MH  - Behavior, Addictive/*genetics
+MH  - Biological Markers
+MH  - English Abstract
+MH  - Humans
+MH  - Smoking/genetics
+MH  - Substance-Related Disorders/genetics
+RF  - 21
+EDAT- 2001/05/12 10:00
+MHDA- 2001/06/15 10:01
+PST - ppublish
+SO  - Rev Med Chil 2000 Nov;128(11):1279-82.
+DR 
+--------------------------------------------------------------------------------
+11: Feng J et al. An in-frame deletion in the a...[PMID: 11317218]  Related Articles, Books, LinkOut 
+PMID- 11317218
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010424
+DCOM- 20010628
+LR  - 20041117
+PUBM- Print
+IS  - 1359-4184
+VI  - 6
+IP  - 2
+DP  - 2001 Mar
+TI  - An in-frame deletion in the alpha(2C) adrenergic receptor is common in
+     African--Americans.
+PG  - 168-72
+AB  - alpha(2) adrenergic receptors are activated by adrenaline and
+     noradrenaline, and three subtypes (ie, A, B, C) have differential
+     affinities for antagonists and medications. The alpha(2c) adrenergic
+     receptor (ADRA2C), located on chromosome 4p16.3, is a candidate gene for
+     schizophrenia because it binds clozapine, an atypical neuroleptic useful
+     for treatment-resistant schizophrenia. In addition, ADRA2C binds clonidine
+     which is prescribed for three psychiatric diseases. This report
+     communicates the findings of the genetic scanning of this gene of very
+     tough GC content. The complete coding sequences and splice junctions were
+     scanned with [DOVAM]-S in 104 schizophrenics, and pilot probes of patients
+     with alcoholism (41 patients), cocaine abuse (25 patients), puerperal
+     psychosis (30 patients), attention deficient/hyperactivity disorder (25
+     patients) and autism (25 patients). Six sequence variants were found,
+     including five silent polymorphisms (allele frequencies 0.6--25%) and an
+     in-frame deletion of a homologous repeat at nucleotides 967--978 (ie,
+     TIDRU(1)). Genotyping of the normal two repeat unit of the Third
+     Intracytoplasmic Domain Repeat Unit (TIDRU(2)) and the deleted variant
+     (TIDRU(1)) revealed that TIDRU(1) had allelic frequencies of 39% (11/28)
+     and 3.5% (6/172) in African-American and Caucasian schizophrenics,
+     respectively, and it occurred with equal frequency in controls (44%, 31/70
+     and 3.0%, 6/198). TIDRU(1) occurs at a location similar to the third
+     intracytoplasmic 48-nucleotide repeat unit in the DRD4 that is associated
+     with ADHD. Although these data do not suggest an association of TIDRU(1)
+     with schizophrenia, additional studies are needed to see whether TIDRU(1)
+     confers a clinical phenotype.
+AD  - Department of Molecular Genetics, City of Hope National Medical Center &
+     Beckman Research Institute, 1500 East Duarte Road, Duarte, CA 91010, USA.
+FAU - Feng, J
+AU  - Feng J
+FAU - Zheng, J
+AU  - Zheng J
+FAU - Gelernter, J
+AU  - Gelernter J
+FAU - Kranzler, H
+AU  - Kranzler H
+FAU - Cook, E
+AU  - Cook E
+FAU - Goldman, D
+AU  - Goldman D
+FAU - Jones, I R
+AU  - Jones IR
+FAU - Craddock, N
+AU  - Craddock N
+FAU - Heston, L L
+AU  - Heston LL
+FAU - Delisi, L
+AU  - Delisi L
+FAU - Peltonen, L
+AU  - Peltonen L
+FAU - Bennett, W P
+AU  - Bennett WP
+FAU - Sommer, S S
+AU  - Sommer SS
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Mol Psychiatry
+JID - 9607835
+RN  - 0 (RNA Splice Sites)
+RN  - 0 (Receptors, Adrenergic, alpha-2)
+SB  - IM
+MH  - African Continental Ancestry Group/*genetics
+MH  - Case-Control Studies
+MH  - Female
+MH  - *Gene Deletion
+MH  - Humans
+MH  - Male
+MH  - Polymorphism, Genetic
+MH  - RNA Splice Sites/genetics
+MH  - Receptors, Adrenergic, alpha-2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Schizophrenia/*ethnology/*genetics
+EDAT- 2001/04/24 10:00
+MHDA- 2001/06/29 10:01
+PHST- 1999/11/19 [received]
+PHST- 2000/08/03 [revised]
+PHST- 2000/08/03 [accepted]
+AID - 10.1038/sj/mp/4000817 [doi]
+PST - ppublish
+SO  - Mol Psychiatry 2001 Mar;6(2):168-72.
+NR 
+--------------------------------------------------------------------------------
+12: Bau CH et al. DRD4 and DAT1 as modifying ge...[PMID: 11244477]  Related Articles, Books, LinkOut 
+PMID- 11244477
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010313
+DCOM- 20010510
+LR  - 20050119
+PUBM- Print
+IS  - 1359-4184
+VI  - 6
+IP  - 1
+DP  - 2001 Jan
+TI  - DRD4 and DAT1 as modifying genes in alcoholism: interaction with novelty
+     seeking on level of alcohol consumption.
+PG  - 7-9
+FAU - Bau, C H
+AU  - Bau CH
+FAU - Almeida, S
+AU  - Almeida S
+FAU - Costa, F T
+AU  - Costa FT
+FAU - Garcia, C E
+AU  - Garcia CE
+FAU - Elias, E P
+AU  - Elias EP
+FAU - Ponso, A C
+AU  - Ponso AC
+FAU - Spode, A
+AU  - Spode A
+FAU - Hutz, M H
+AU  - Hutz MH
+LA  - eng
+PT  - Letter
+PL  - England
+TA  - Mol Psychiatry
+JID - 9607835
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (Membrane Transport Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (dopamine transporter proteins)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Alcohol Drinking/*genetics
+MH  - Alcoholism/*genetics
+MH  - Carrier Proteins/*genetics
+MH  - *Exploratory Behavior
+MH  - Gene Frequency
+MH  - Humans
+MH  - *Membrane Glycoproteins
+MH  - *Membrane Transport Proteins
+MH  - *Nerve Tissue Proteins
+MH  - Receptors, Dopamine D2/*genetics
+EDAT- 2001/03/13 10:00
+MHDA- 2001/05/22 10:01
+PST - ppublish
+SO  - Mol Psychiatry 2001 Jan;6(1):7-9.
+DR 
+--------------------------------------------------------------------------------
+13: Ozkaragoz T et al. Extraversion. Interaction bet...[PMID: 11163121]  Related Articles, Books, LinkOut 
+PMID- 11163121
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010222
+DCOM- 20010405
+LR  - 20041117
+PUBM- Print
+IS  - 0741-8329
+VI  - 22
+IP  - 3
+DP  - 2000 Nov
+TI  - Extraversion. Interaction between D2 dopamine receptor polymorphisms and
+     parental alcoholism.
+PG  - 139-46
+AB  - Both molecular genetic factors (the D2 dopamine receptor (DRD2) and the D4
+     dopamine receptor (DRD4) polymorphisms) and environmental influences of
+     living in an alcoholic or nonalcoholic home on the personality traits of
+     Extraversion and Neuroticism were assessed in drug-naive, young adolescent
+     boys. There were no significant main effects of genetic or environmental
+     factors on either Neuroticism or Extraversion as measured by the Junior
+     Eysenck Personality Inventory (JEPI). However, a significant interaction
+     between DRD2 (but not DRD4) alleles and environmental variables was
+     observed on Extraversion. Specifically, children with the minor alleles of
+     the DRD2 gene showed a significantly greater Extraversion score when
+     living in an alcoholic than in a nonalcoholic home. In contrast, children
+     with the major alleles of the DRD2 gene showed a trend in the opposite
+     direction. Although the results are preliminary and pending replication,
+     they nevertheless provide the first report of a specific gene-environment
+     interaction involving a human personality trait.
+AD  - Department of Psychiatry and Biobehavioral, University of California Los
+     Angeles, 760 Westwood Plaza, Los Angeles, CA 90024-1759, USA.
+FAU - Ozkaragoz, T
+AU  - Ozkaragoz T
+FAU - Noble, E P
+AU  - Noble EP
+LA  - eng
+GR  - AA11573/AA/NIAAA
+PT  - Journal Article
+PL  - United States
+TA  - Alcohol
+JID - 8502311
+RN  - 0 (Receptors, Dopamine D2)
+SB  - IM
+MH  - Adolescent
+MH  - Alcoholism/*genetics
+MH  - Alleles
+MH  - Child
+MH  - Environment
+MH  - *Extraversion (Psychology)
+MH  - Humans
+MH  - Male
+MH  - Personality/genetics
+MH  - *Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, U.S. Gov't, P.H.S.
+EDAT- 2001/02/13 11:00
+MHDA- 2001/04/06 10:01
+AID - S0741832900001129 [pii]
+PST - ppublish
+SO  - Alcohol 2000 Nov;22(3):139-46.
+DR 
+--------------------------------------------------------------------------------
+14: Comings DE et al. Reward deficiency syndrome: g...[PMID: 11105655]  Related Articles, OMIM, Cited in PMC, Books, LinkOut 
+PMID- 11105655
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001208
+DCOM- 20010118
+LR  - 20041204
+PUBM- Print
+IS  - 0079-6123
+VI  - 126
+DP  - 2000
+TI  - Reward deficiency syndrome: genetic aspects of behavioral disorders.
+PG  - 325-41
+AB  - The dopaminergic and opioidergic reward pathways of the brain are critical
+     for survival since they provide the pleasure drives for eating, love and
+     reproduction; these are called 'natural rewards' and involve the release
+     of dopamine in the nucleus accumbens and frontal lobes. However, the same
+     release of dopamine and production of sensations of pleasure can be
+     produced by 'unnatural rewards' such as alcohol, cocaine, methamphetamine,
+     heroin, nicotine, marijuana, and other drugs, and by compulsive activities
+     such as gambling, eating, and sex, and by risk taking behaviors. Since
+     only a minority of individuals become addicted to these compounds or
+     behaviors, it is reasonable to ask what factors distinguish those who do
+     become addicted from those who do not. It has usually been assumed that
+     these behaviors are entirely voluntary and that environmental factors play
+     the major role; however, since all of these behaviors have a significant
+     genetic component, the presence of one or more variant genes presumably
+     act as risk factors for these behaviors. Since the primary
+     neurotransmitter of the reward pathway is dopamine, genes for dopamine
+     synthesis, degradation, receptors, and transporters are reasonable
+     candidates. However, serotonin, norepinephrine, GABA, opioid, and
+     cannabinoid neurons all modify dopamine metabolism and dopamine neurons.
+     We have proposed that defects in various combinations of the genes for
+     these neurotransmitters result in a Reward Deficiency Syndrome (RDS) and
+     that such individuals are at risk for abuse of the unnatural rewards.
+     Because of its importance, the gene for the [figure: see text] dopamine D2
+     receptor was a major candidate gene. Studies in the past decade have shown
+     that in various subject groups the Taq I A1 allele of the DRD2 gene is
+     associated with alcoholism, drug abuse, smoking, obesity, compulsive
+     gambling, and several personality traits. A range of other dopamine,
+     opioid, cannabinoid, norepinephrine, and related genes have since been
+     added to the list. Like other behavioral disorders, these are
+     polygenically inherited and each gene accounts for only a small per cent
+     of the variance. Techniques such as the Multivariate Analysis of
+     Associations, which simultaneously examine the contribution of multiple
+     genes, hold promise for understanding the genetic make up of polygenic
+     disorders.
+AD  - Department of Medical Genetics, City of Hope Medical Center, Duarte, CA
+     91010, USA. dcomings@earthlink.net
+FAU - Comings, D E
+AU  - Comings DE
+FAU - Blum, K
+AU  - Blum K
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - NETHERLANDS
+TA  - Prog Brain Res
+JID - 0376441
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Central Nervous System Stimulants)
+RN  - 0 (Neurotransmitters)
+RN  - 0 (Opioid Peptides)
+RN  - 0 (Receptors, Adrenergic)
+RN  - 0 (Receptors, Cannabinoid)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Receptors, Drug)
+RN  - 0 (Receptors, Neurotransmitter)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - EC 1.14.17.1 (Dopamine beta-Hydroxylase)
+RN  - EC 1.4.3.4 (Monoamine Oxidase)
+SB  - IM
+MH  - Attention Deficit Disorder with Hyperactivity/genetics
+MH  - Behavior, Addictive/genetics
+MH  - Carrier Proteins/genetics/physiology
+MH  - Central Nervous System Stimulants/pharmacology
+MH  - Compulsive Behavior/*genetics
+MH  - Dangerous Behavior
+MH  - Dopamine beta-Hydroxylase/genetics
+MH  - Exploratory Behavior
+MH  - Genetic Heterogeneity
+MH  - Genetic Predisposition to Disease
+MH  - Humans
+MH  - Impulsive Behavior/*genetics
+MH  - Models, Neurological
+MH  - Monoamine Oxidase/genetics
+MH  - Neurotransmitters/metabolism/*physiology
+MH  - Nucleus Accumbens/drug effects/physiology
+MH  - Opioid Peptides/genetics/physiology
+MH  - Polymorphism, Restriction Fragment Length
+MH  - Prefrontal Cortex/drug effects/physiology
+MH  - Receptors, Adrenergic/drug effects/genetics
+MH  - Receptors, Cannabinoid
+MH  - Receptors, Dopamine D2/drug effects/genetics/physiology
+MH  - Receptors, Drug/drug effects/genetics
+MH  - Receptors, Neurotransmitter/drug effects/*genetics/physiology
+MH  - *Reward
+MH  - Satiation/physiology
+MH  - Self Stimulation/physiology
+MH  - Stress Disorders, Post-Traumatic/genetics/physiopathology
+MH  - Substance-Related Disorders/genetics
+MH  - Tourette Syndrome/genetics/physiopathology
+RF  - 152
+EDAT- 2000/12/06 11:00
+MHDA- 2001/02/28 10:01
+PST - ppublish
+SO  - Prog Brain Res 2000;126:325-41.
+DR 
+--------------------------------------------------------------------------------
+15: Malhotra AK et al. The dopamine D(4) receptor ge...[PMID: 11058499]  Related Articles, Books, LinkOut 
+PMID- 11058499
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001114
+DCOM- 20001130
+LR  - 20041204
+PUBM- Print
+IS  - 0002-953X
+VI  - 157
+IP  - 11
+DP  - 2000 Nov
+TI  - The dopamine D(4) receptor gene and novelty seeking.
+PG  - 1885-6
+FAU - Malhotra, A K
+AU  - Malhotra AK
+FAU - Goldman, D
+AU  - Goldman D
+LA  - eng
+PT  - Comment
+PT  - Letter
+PL  - UNITED STATES
+TA  - Am J Psychiatry
+JID - 0370512
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - AIM
+SB  - IM
+CON - Am J Psychiatry. 1999 Sep;156(9):1453-5. PMID: 10484963
+MH  - Alcoholism/diagnosis/genetics/psychology
+MH  - Cohort Studies
+MH  - Exploratory Behavior/*physiology
+MH  - Finland
+MH  - Gene Frequency/physiology
+MH  - Humans
+MH  - Personality Disorders/diagnosis/genetics/psychology
+MH  - Polymorphism, Genetic/genetics
+MH  - Receptors, Dopamine D2/*genetics/physiology
+MH  - Substance-Related Disorders/diagnosis/*genetics/psychology
+EDAT- 2000/11/04 11:00
+MHDA- 2001/02/28 10:01
+PST - ppublish
+SO  - Am J Psychiatry 2000 Nov;157(11):1885-6.
+PR 
+--------------------------------------------------------------------------------
+16: Granger NA et al. Pharmacological characterizat...[PMID: 10876119]  Related Articles, Compound via MeSH, Substance via MeSH, Cited in PMC, Books, LinkOut 
+PMID- 10876119
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001107
+DCOM- 20001107
+LR  - 20041117
+PUBM- Print
+IS  - 0965-1748
+VI  - 30
+IP  - 8-9
+DP  - 2000 Aug-Sep
+TI  - Pharmacological characterization of dopamine receptors in the corpus
+     allatum of Manduca sexta larvae.
+PG  - 755-66
+AB  - Dopamine receptors previously identified in corpora allata (CA) of Manduca
+     sexta last instars on the basis of dopamine effects on JH (juvenile
+     hormone)/JH acid biosynthesis and cyclic AMP (cAMP) accumulation, were
+     characterized pharmacologically. For this study, a broad spectrum of
+     agonists or antagonists of D1, D2, D3 or D4 dopamine receptors, together
+     with the dopamine metabolite N-acetyl-dopamine, other neurotransmitters
+     and their agonists/antagonists, were tested for their effects on gland
+     activity and cAMP production. The lack of effect of other
+     neurotransmitters supports the specificity of the effect of dopamine and
+     the dopamine specificity of the receptors. Only the D2 receptor antagonist
+     spiperone had a potent effect on JH biosynthesis and cAMP formation by CA
+     taken on day 0 of the last stadium, when dopamine stimulates both
+     activities and thus appears to be acting via a D1-like receptor. Several
+     other D2 receptor antagonists, and D1, D2/D1 and D4,3/D2 receptor
+     antagonists were less effective. Thus, the D1-like receptor of the Manduca
+     CA appears to be distinct pharmacologically from vertebrate D1 receptors.
+     By contrast, a number of D2 agonists/antagonists had a significant effect
+     on JH acid biosynthesis and cAMP production by the CA from day 6 of the
+     last stadium, when dopamine inhibits both activities and thus appears to
+     be acting via a D2-like receptor. Certain D1-specific agonists/antagonists
+     were equally effective. The Manduca D2-like receptor therefore bears some
+     pharmacological resemblance to vertebrate D2 receptors. N-acetyl dopamine
+     acted as a dopamine agonist with day 6 CA, the first identified function
+     for an N-acetylated biogenic amine in insects. Dopamine was found to have
+     the same differential affect on the formation of cAMP in homogenates of
+     day 0 and day 6 brains as it did with CA, and in the same concentration
+     range. Dopamine receptor agonists/antagonists affecting cAMP formation by
+     day 0 and day 6 CA homogenates had similar effects with brain homogenates.
+     By contrast, dopamine only stimulated cAMP formation by homogenates of day
+     0 and day 6 abdominal or ventral nerve cord. These results suggest that
+     D1- and D2-like dopamine receptors of Manduca are regionally as well as
+     temporally localized.
+AD  - Department of Cell Biology and Anatomy, Campus Box 7090, Taylor Hall,
+     University of North Carolina at Chapel Hill, NC 27599, USA.
+     noelle@med.unc.edu
+FAU - Granger, N A
+AU  - Granger NA
+FAU - Ebersohl, R
+AU  - Ebersohl R
+FAU - Sparks, T C
+AU  - Sparks TC
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - Insect Biochem Mol Biol
+JID - 9207282
+RN  - 0 (Dopamine Agonists)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Juvenile Hormones)
+RN  - 0 (Quinolines)
+RN  - 0 (Receptors, Dopamine)
+RN  - 104-14-3 (Octopamine)
+RN  - 16357-59-8 (EEDQ)
+RN  - 2494-12-4 (N-acetyldopamine)
+RN  - 50-67-9 (Serotonin)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-61-6 (Dopamine)
+SB  - IM
+MH  - Animals
+MH  - Brain/metabolism
+MH  - Corpora Allata/drug effects/*metabolism
+MH  - Dopamine/analogs & derivatives/pharmacology
+MH  - Dopamine Agonists/pharmacology
+MH  - Dopamine Antagonists/pharmacology
+MH  - Juvenile Hormones/biosynthesis
+MH  - Larva
+MH  - Manduca/metabolism
+MH  - Norepinephrine/pharmacology
+MH  - Octopamine/pharmacology
+MH  - Quinolines/pharmacology
+MH  - Receptors, Dopamine/*metabolism
+MH  - Research Support, Non-U.S. Gov't
+MH  - Serotonin/pharmacology
+EDAT- 2000/07/06 11:00
+MHDA- 2001/02/28 10:01
+AID - S0965174800000473 [pii]
+PST - ppublish
+SO  - Insect Biochem Mol Biol 2000 Aug-Sep;30(8-9):755-66.
+NR 
+--------------------------------------------------------------------------------
+17: Gazi L et al. Cloning, expression, function...[PMID: 10832611]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 10832611
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000816
+DCOM- 20000816
+LR  - 20041204
+PUBM- Print
+IS  - 0028-1298
+VI  - 361
+IP  - 5
+DP  - 2000 May
+TI  - Cloning, expression, functional coupling and pharmacological
+     characterization of the rat dopamine D4 receptor.
+PG  - 555-64
+AB  - It has been difficult to observe functional coupling of the D4 receptor to
+     second messenger systems and a robust functional assay system for this
+     receptor is still lacking. In the present study, the rat dopamine D4
+     receptor was cloned from rat retina. Sequence comparison revealed identity
+     with the published sequence of Ashgari and co-workers, including the two
+     amino acid insertions (V-Q) at position 92 which are not present in the
+     published sequence of O'Malley and coworkers. The rat dopamine D4 receptor
+     was stably expressed in Chinese hamster lung fibroblast CCL39 cells.
+     [3H]spiperone saturation binding yielded a Bmax of 2,370+/-546 fmol/mg
+     protein and a pKD of 8.74+/-0.14 (n=4). Forskolin-stimulated cAMP
+     accumulation was inhibited by dopamine (Emax 61+/-1% inhibition of
+     forskolin-stimulated levels, pEC50 7.33+/-0.06, n=23). A similar
+     concentration-dependent inhibition was observed with the dopamine D2-like
+     receptor agonists quinpirole and 7-OH-DPAT which elicited nearly the same
+     Emax as dopamine. By contrast, apomorphine and a number of compounds with
+     reported affinity for human dopamine D4 receptors (PD168077, U-101958, SDZ
+     GLC 756, L-745,870 and NGD 94-1) behaved as partial agonists (Emax ranging
+     between 26% and 56% of that of dopamine). The agonist effect of dopamine
+     was completely blocked by preincubation with pertussis toxin, no further
+     accumulation of cAMP above the forskolin-stimulated levels being observed.
+     Antagonist pKB-values obtained against dopamine in this system were:
+     8.55+/-0.19 (n=3) for the partial agonist L-745,870, 8.38+/-0.23 (n=5) for
+     spiperone, 7.18+/-0.17 (n=4) for haloperidol, 7.04+/-0.13 (n=4) for
+     clozapine and <6 for raclopride. Other functional assays applicable were
+     stimulation of [35S]GTPgammaS binding, extracellular acidification rate
+     and a serum-responsive element using luciferase expression as a reporter
+     gene. However, the receptor did not couple to phosphatidylinositol
+     turnover or to intracellular Ca2+. Thus, expression of the rat dopamine D4
+     receptor in CCL39 cells provided several functional assay systems, of
+     which inhibition of cAMP appeared to be the most robust one. These
+     functional models can be used to evaluate the activity of compounds at the
+     rat dopamine D4 receptor.
+AD  - Nervous System Research, Novartis Pharma AG, Basel, Switzerland.
+FAU - Gazi, L
+AU  - Gazi L
+FAU - Schoeffter, P
+AU  - Schoeffter P
+FAU - Nunn, C
+AU  - Nunn C
+FAU - Croskery, K
+AU  - Croskery K
+FAU - Hoyer, D
+AU  - Hoyer D
+FAU - Feuerbach, D
+AU  - Feuerbach D
+LA  - eng
+PT  - Journal Article
+PL  - GERMANY
+TA  - Naunyn Schmiedebergs Arch Pharmacol
+JID - 0326264
+RN  - 0 (DNA, Complementary)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (Dopamine Agonists)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Inositol Phosphates)
+RN  - 0 (Nuclear Proteins)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Serum Response Factor)
+RN  - 0 (Sulfur Radioisotopes)
+RN  - 0 (Virulence Factors, Bordetella)
+RN  - 10028-17-8 (Tritium)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 37589-80-3 (Guanosine 5'-O-(3-Thiotriphosphate))
+RN  - 51-61-6 (Dopamine)
+RN  - 60-92-4 (Cyclic AMP)
+RN  - 66428-89-5 (Forskolin)
+RN  - 7440-70-2 (Calcium)
+RN  - 749-02-0 (Spiperone)
+RN  - EC 2.4.2.31 (Pertussis Toxin)
+SB  - IM
+MH  - Animals
+MH  - Binding, Competitive
+MH  - Calcium/metabolism
+MH  - Cells, Cultured
+MH  - Cloning, Molecular
+MH  - Cyclic AMP/metabolism
+MH  - DNA, Complementary/analysis
+MH  - DNA-Binding Proteins/metabolism
+MH  - Dopamine/*metabolism
+MH  - Dopamine Agonists/pharmacology
+MH  - Dopamine Antagonists/*pharmacology
+MH  - Drug Interactions
+MH  - Forskolin/pharmacology
+MH  - Guanosine 5'-O-(3-Thiotriphosphate)/metabolism
+MH  - Hamsters
+MH  - Humans
+MH  - Inositol Phosphates/metabolism
+MH  - Nuclear Proteins/metabolism
+MH  - Pertussis Toxin
+MH  - Rats
+MH  - Receptors, Dopamine D2/drug effects/genetics/*metabolism
+MH  - Serum Response Factor
+MH  - Spiperone/pharmacology
+MH  - Sulfur Radioisotopes
+MH  - Transfection
+MH  - Tritium
+MH  - Virulence Factors, Bordetella/pharmacology
+EDAT- 2000/06/01 09:00
+MHDA- 2000/08/19 11:00
+PST - ppublish
+SO  - Naunyn Schmiedebergs Arch Pharmacol 2000 May;361(5):555-64.
+PR 
+--------------------------------------------------------------------------------
+18: Ishiguro H et al. Association study between gen...[PMID: 10776673]  Related Articles, Books, LinkOut 
+PMID- 10776673
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000612
+DCOM- 20000612
+LR  - 20041204
+PUBM- Print
+IS  - 0145-6008
+VI  - 24
+IP  - 3
+DP  - 2000 Mar
+TI  - Association study between genetic polymorphisms in the 14-3-3 eta chain
+     and dopamine D4 receptor genes and alcoholism.
+PG  - 343-7
+AB  - BACKGROUND: The dopaminergic system may be involved in the development of
+     alcoholism. As part of our ongoing studies on the association between
+     alcoholism and dopaminergic genes, we report herein a mutation analysis of
+     the 14-3-3 eta chain gene (YWHAH) and an association study between
+     alcoholism and the YWHAH and dopamine D4 receptor gene (DRD4)
+     polymorphisms. METHODS: Nucleotide mutations were investigated using
+     single-strand conformation polymorphism methods. Associations were
+     analyzed using a case-control design involving 185 Japanese alcoholics and
+     286 Japanese controls. RESULTS: Five polymorphisms, -147G>A,
+     -134(GCCTGCA)2-4, IVS1+31(G)7-8, IVS1+73-74ins(G), and 753A>G, were
+     detected on the YWHAH, and three of them were novel. No significant
+     associations were found between alcoholism and these polymorphisms or two
+     additional polymorphisms on DRD4 exon III and DRD4 -521C/T. CONCLUSIONS:
+     YWHAH and DRD4 do not appear to play a major role in the development of
+     alcoholism.
+AD  - Department of Medical Genetics, Institute of Basic Medical Sciences,
+     University of Tsukuba, Ibaraki, Japan.
+FAU - Ishiguro, H
+AU  - Ishiguro H
+FAU - Saito, T
+AU  - Saito T
+FAU - Shibuya, H
+AU  - Shibuya H
+FAU - Arinami, T
+AU  - Arinami T
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Alcohol Clin Exp Res
+JID - 7707242
+RN  - 0 (14-3-3 Proteins)
+RN  - 0 (Proteins)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (YWHAH protein, human)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - EC 1.14.16.2 (Tyrosine 3-Monooxygenase)
+SB  - IM
+MH  - 14-3-3 Proteins
+MH  - Adult
+MH  - Aged
+MH  - Alcoholism/*genetics
+MH  - Case-Control Studies
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Mutation
+MH  - Polymorphism, Genetic/*genetics
+MH  - Proteins/*genetics
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - *Tyrosine 3-Monooxygenase
+EDAT- 2000/04/25 09:00
+MHDA- 2000/06/17 09:00
+PST - ppublish
+SO  - Alcohol Clin Exp Res 2000 Mar;24(3):343-7.
+DR 
+--------------------------------------------------------------------------------
+19: Jovanovic V et al. Comparative pharmacological a...[PMID: 10591536]  Related Articles, Compound via MeSH, Substance via MeSH, OMIM, Cited in PMC, Books, LinkOut 
+PMID- 10591536
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000106
+DCOM- 20000106
+LR  - 20041204
+PUBM- Print
+IS  - 0960-314X
+VI  - 9
+IP  - 5
+DP  - 1999 Oct
+TI  - Comparative pharmacological and functional analysis of the human dopamine
+     D4.2 and D4.10 receptor variants.
+PG  - 561-8
+AB  - The human dopamine D4 receptor is a D2-like receptor which is a target for
+     most common neuroleptics. Previous investigations have shown that this
+     receptor displays a large polymorphic variation in the third intracellular
+     loop involving a variable number of direct imperfect tandem repeats (VNTR)
+     of 16 amino acids. The shortest and longest repeat variants reported to
+     date contain two and 10 repeat units (D4.2 and D4.10). No major
+     pharmacological differences have been reported for the most common
+     variants of this receptor (D4.2, D4.4 and D4.7), although the D4.7 was
+     reported by us to display a slightly lower potency for dopamine in
+     functional assays. Direct pharmacological and functional comparison of the
+     longest and shortest variants in this study suggest no major discrepancies
+     in pharmacological or functional profile between both receptors. Both
+     receptors display, on average, a 15-fold and 90-fold lower potency for
+     epinephrine and norepinephrine, respectively, compared with dopamine. We
+     observed small increases in functional potency and affinity for dopamine
+     and quinpirole at the D4.10 receptor variant compared with the D4.2
+     receptor. Our data indicate that there is no direct relationship between
+     the length of the polymorphism and changes in pharmacology or functional
+     activity. These findings are a suitable caution against the arbitrary
+     pooling of D4 receptor VNTR genotypes in genetic studies, based on length.
+AD  - Laboratory of Molecular Neurobiology, Centre for Addiction and Mental
+     Health, Clarke Division, and University of Toronto, Ontario, Canada.
+FAU - Jovanovic, V
+AU  - Jovanovic V
+FAU - Guan, H C
+AU  - Guan HC
+FAU - Van Tol, H H
+AU  - Van Tol HH
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - Pharmacogenetics
+JID - 9211735
+RN  - 0 (Antipsychotic Agents)
+RN  - 0 (Dopamine Agonists)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Recombinant Proteins)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-43-4 (Epinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 85760-74-3 (Quinpirole)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Antipsychotic Agents/pharmacology
+MH  - Binding, Competitive
+MH  - CHO Cells
+MH  - Comparative Study
+MH  - Dopamine/metabolism/pharmacology
+MH  - Dopamine Agonists/metabolism
+MH  - Epinephrine/pharmacology
+MH  - Hamsters
+MH  - Humans
+MH  - Minisatellite Repeats
+MH  - Models, Molecular
+MH  - Molecular Sequence Data
+MH  - Norepinephrine/pharmacology
+MH  - Pharmacogenetics
+MH  - Polymorphism, Genetic
+MH  - Quinpirole/metabolism
+MH  - Receptors, Dopamine D2/*drug effects/*genetics/metabolism
+MH  - Recombinant Proteins/chemistry/genetics/metabolism
+MH  - Research Support, Non-U.S. Gov't
+MH  - *Variation (Genetics)
+EDAT- 1999/12/11
+MHDA- 1999/12/11 00:01
+PST - ppublish
+SO  - Pharmacogenetics 1999 Oct;9(5):561-8.
+PR 
+--------------------------------------------------------------------------------
+20: Hill SY et al. Linkage studies of D2 and D4 ...[PMID: 10581489]  Related Articles, Books, LinkOut 
+PMID- 10581489
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000224
+DCOM- 20000224
+LR  - 20041204
+PUBM- Print
+IS  - 0148-7299
+VI  - 88
+IP  - 6
+DP  - 1999 Dec 15
+TI  - Linkage studies of D2 and D4 receptor genes and alcoholism.
+PG  - 676-85
+AB  - The purpose of the present study was to evaluate two polymorphisms near
+     the D2 receptor gene (TaqI A RFLP and C microsatellite) and a VNTR for D4.
+     A nonparametric linkage (NPL) technique, SIBPAL, was used to test for the
+     presence or absence of linkage in 54 multiplex alcoholic families. These
+     families had been ascertained through two alcoholic proband siblings in
+     order to increase the density of alcoholic cases within these pedigrees.
+     Phenotypic definitions of alcoholism were manipulated in an effort to
+     determine the impact of severity (signs of physical dependence, early age
+     of onset, presence of antisocial personality disorder) on the likelihood
+     of finding positive evidence for linkage. A regression analysis that
+     simultaneously evaluated the allele sharing identical by descent for
+     Feighner criteria alcoholism in affected, unaffected, and discordant sib
+     pairs (SIBPAL) for two D2 polymorphisms and the D4 polymorphism gave no
+     evidence for linkage. Phenotypes associated with greater alcoholism
+     severity (presence of physical dependence symptoms, earlier onset, or
+     comorbid antisocial personality disorder) revealed some evidence for
+     linkage. The presence of one or more physical dependence symptoms in
+     combination with Feighner criteria alcoholism provided some evidence
+     favoring linkage (TaqI A and D4). Alcoholics with an earlier onset of
+     alcoholism showed some evidence for linkage especially when the presence
+     of physical dependence was required (e. g., morning drinking, wanted to
+     stop drinking but could not, binges or benders, and evidence of withdrawal
+     symptoms). Finally, alcoholics with antisocial personality disorder
+     differed significantly in their allele sharing from nonalcoholics for both
+     D2 polymorphisms. Am. J. Med. Genet. (Neuropsychiatr. Genet.) 88:676-685,
+     1999.
+CI  - Copyright 1999 Wiley-Liss, Inc.
+AD  - Department of Psychiatry, University of Pittsburgh Medical Center,
+     Pittsburgh, Pennsylvania.
+FAU - Hill, S Y
+AU  - Hill SY
+FAU - Zezza, N
+AU  - Zezza N
+FAU - Wipprecht, G
+AU  - Wipprecht G
+FAU - Xu, J
+AU  - Xu J
+FAU - Neiswanger, K
+AU  - Neiswanger K
+LA  - eng
+GR  - AA05909-15/AA/NIAAA
+GR  - AA0808208/AA/NIAAA
+GR  - AA11304-02/AA/NIAAA
+GR  - etc.
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Med Genet
+JID - 7708900
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Age of Onset
+MH  - Alcohol-Induced Disorders, Nervous System/genetics
+MH  - Alcoholism/diagnosis/*genetics
+MH  - Antisocial Personality Disorder/genetics
+MH  - Female
+MH  - Genetic Predisposition to Disease/*genetics
+MH  - Genotype
+MH  - Humans
+MH  - Linkage (Genetics)/*genetics
+MH  - Male
+MH  - Middle Aged
+MH  - Nuclear Family
+MH  - Phenotype
+MH  - Polymorphism, Genetic/*genetics
+MH  - Quantitative Trait, Heritable
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Sex Factors
+MH  - Statistics
+EDAT- 1999/12/03 09:00
+MHDA- 2000/02/26 09:00
+AID - 10.1002/(SICI)1096-8628(19991215)88:6<676::AID-AJMG18>3.0.CO;2-S [pii]
+PST - ppublish
+SO  - Am J Med Genet 1999 Dec 15;88(6):676-85.
+DR 
+--------------------------------------------------------------------------------
+21: Hill SY et al. Personality traits and dopami...[PMID: 10581482]  Related Articles, Books, LinkOut 
+PMID- 10581482
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000224
+DCOM- 20000224
+LR  - 20050119
+PUBM- Print
+IS  - 0148-7299
+VI  - 88
+IP  - 6
+DP  - 1999 Dec 15
+TI  - Personality traits and dopamine receptors (D2 and D4): linkage studies in
+     families of alcoholics.
+PG  - 634-41
+AB  - Activation of the mesolimbic dopamine pathway appears to promote drug- and
+     alcohol-seeking behavior in laboratory animals. Results for association
+     and linkage analysis between various alcohol dependence phenotypes and the
+     dopamine receptors have been quite mixed. Similarly, both positive and
+     negative results have been presented concerning dopamine receptor genes
+     and temperament. Cloninger has postulated that the novelty seeking factor
+     from the Tridimensional Personality Questionnaire (TPQ) may be related to
+     the dopamine neurotransmitter system. As novelty seeking is a trait of
+     some importance for substance-dependent individuals, our goal was to test
+     this relationship within a sample of families of alcoholics. No evidence
+     favoring linkage between D2, D4, or DAT1 was found for TPQ novelty
+     seeking. However, the harm-avoidance trait from the TPQ showed evidence
+     for linkage to both the D4 and one of the D2 loci (TaqI A). The
+     Multidimensional Personality Questionnaire (MPQ) was used to provide
+     converging evidence for these results. The TPQ harm-avoidance scale loads
+     heavily on introversion (worry, pessimism, shyness), characteristics that
+     may be especially salient in alcoholic families. Thus, planned comparisons
+     were made between selected MPQ traits measuring the affective dimension
+     (negative affectivity, stress reaction, alienation, and well-being). We
+     find evidence favoring linkage between the D2 and D4 receptor loci and
+     these MPQ traits, with stronger evidence being seen for the D2
+     polymorphisms. Am. J. Med. Genet. (Neuropsychiatr. Genet.) 88:634-641,
+     1999.
+CI  - Copyright 1999 Wiley-Liss, Inc.
+AD  - Department of Psychiatry, University of Pittsburgh Medical Center,
+     Pittsburgh, Pennsylvania.
+FAU - Hill, S Y
+AU  - Hill SY
+FAU - Zezza, N
+AU  - Zezza N
+FAU - Wipprecht, G
+AU  - Wipprecht G
+FAU - Locke, J
+AU  - Locke J
+FAU - Neiswanger, K
+AU  - Neiswanger K
+LA  - eng
+GR  - AA05909-15/AA/NIAAA
+GR  - AA0808208/AA/NIAAA
+GR  - AA11304-02/AA/NIAAA
+GR  - etc.
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Med Genet
+JID - 7708900
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (Membrane Transport Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (dopamine transporter proteins)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Adolescent
+MH  - Age of Onset
+MH  - Aggression
+MH  - Alcoholism/*genetics/psychology
+MH  - Anxiety/genetics
+MH  - Avoidance Learning
+MH  - Carrier Proteins/genetics
+MH  - Exploratory Behavior
+MH  - Family Health
+MH  - Female
+MH  - Genetic Predisposition to Disease
+MH  - Humans
+MH  - *Linkage (Genetics)
+MH  - Male
+MH  - *Membrane Glycoproteins
+MH  - *Membrane Transport Proteins
+MH  - *Nerve Tissue Proteins
+MH  - Personality/*genetics
+MH  - Polymorphism, Genetic/genetics
+MH  - *Quantitative Trait, Heritable
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Reward
+MH  - Social Alienation
+MH  - Stress, Psychological/genetics
+EDAT- 1999/12/03 09:00
+MHDA- 2000/02/26 09:00
+AID - 10.1002/(SICI)1096-8628(19991215)88:6<634::AID-AJMG11>3.0.CO;2-M [pii]
+PST - ppublish
+SO  - Am J Med Genet 1999 Dec 15;88(6):634-41.
+DR 
+--------------------------------------------------------------------------------
+22: Bau CH et al. Dopamine D4 receptor gene and...[PMID: 10551544]  Related Articles, Books, LinkOut 
+PMID- 10551544
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991202
+DCOM- 19991202
+LR  - 20041204
+PUBM- Print
+IS  - 0955-8829
+VI  - 9
+IP  - 3
+DP  - 1999 Sep
+TI  - Dopamine D4 receptor gene and personality dimensions in Brazilian male
+     alcoholics.
+PG  - 139-43
+AB  - The presence of the seven-repeat allele of the VNTR in the exon 3 of the
+     dopamine D4 receptor gene (DRD4) has been associated in healthy subjects
+     to the personality trait of novelty seeking. The present study focuses
+     these observations on a sample of Brazilian male alcoholics, evaluated on
+     the temperament dimensions originally described by Cloninger. The
+     genotypes observed are in agreement with those expected under
+     Hardy-Weinberg equilibrium. Subjects with the seven-repeat allele manifest
+     lower harm avoidance scores. No significant differences between subjects
+     with or without the seven-repeat allele in the scores of novelty seeking
+     or reward dependence were observed. The lack of association between
+     novelty seeking and the DRD4 exon 3 polymorphism is further corroborated
+     by the fact that the comorbid antisocial personality disorder is not
+     associated to the presence of the seven-repeat allele. These results could
+     be explained by a biological connection between the personality dimensions
+     of novelty seeking and harm avoidance.
+AD  - Departamento de Genetica, Instituto de Biociencias, Porto Alegre, RS,
+     Brazil. bau@if.ufrgs.br
+FAU - Bau, C H
+AU  - Bau CH
+FAU - Roman, T
+AU  - Roman T
+FAU - Almeida, S
+AU  - Almeida S
+FAU - Hutz, M H
+AU  - Hutz MH
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - Psychiatr Genet
+JID - 9106748
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/*genetics/*psychology
+MH  - Brazil
+MH  - Chi-Square Distribution
+MH  - European Continental Ancestry Group/genetics
+MH  - Exons
+MH  - Genotype
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Minisatellite Repeats
+MH  - Personality/*genetics
+MH  - Polymerase Chain Reaction
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+EDAT- 1999/11/07
+MHDA- 1999/11/07 00:01
+PST - ppublish
+SO  - Psychiatr Genet 1999 Sep;9(3):139-43.
+DR 
+--------------------------------------------------------------------------------
+23: Parsian A et al. Human chromosomes 11p15 and 4...[PMID: 10490712]  Related Articles, Books, LinkOut 
+PMID- 10490712
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991117
+DCOM- 19991117
+LR  - 20041117
+PUBM- Print
+IS  - 0148-7299
+VI  - 88
+IP  - 5
+DP  - 1999 Oct 15
+TI  - Human chromosomes 11p15 and 4p12 and alcohol dependence: possible
+     association with the GABRB1 gene.
+PG  - 533-8
+AB  - To determine the role of genes in the chromosomal regions 11p15 and 4p12
+     in the development of alcohol dependence, a sample of alcoholics (n = 133)
+     and normal controls (n = 89) were screened using polymorphisms in the
+     dopamine D4 receptor (DRD4), tyrosine hydroxylase (TH), and GABA receptor
+     beta1 (GABRbeta1) genes. Comparison of total alcoholics with normal
+     controls for GABRbeta1 gene was highly significant (p = 0.004). The
+     difference between type II alcoholics and normal controls for the same
+     allele frequencies was also significant (p = 0.029). The allele
+     distributions of the polymorphisms in the DRD4 and TH genes in alcoholics
+     and normal controls were similar and their differences were not
+     significant. Our association studies indicate that the GABRbeta1 gene may
+     play a role in the development of alcoholism. Therefore, it is important
+     to screen a sample of well-characterized alcoholics with functional
+     polymorphisms in all of the GABAalpha receptor subunit genes and determine
+     their relationship with alcoholism phenotypes. Results with TH and DRD4
+     genes indicate that these two genes may not play major roles in the
+     development of alcoholism.
+AD  - Department of Psychiatry, Washington University School of Medicine, St.
+     Louis, Missouri 63110, USA.
+FAU - Parsian, A
+AU  - Parsian A
+FAU - Zhang, Z H
+AU  - Zhang ZH
+LA  - eng
+GR  - AA09515/AA/NIAAA
+GR  - MH31302/MH/NIMH
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Med Genet
+JID - 7708900
+RN  - 0 (Receptors, GABA-B)
+SB  - IM
+MH  - Alcoholism/*genetics
+MH  - Alleles
+MH  - Antisocial Personality Disorder/genetics
+MH  - Case-Control Studies
+MH  - *Chromosomes, Human, Pair 11
+MH  - *Chromosomes, Human, Pair 4
+MH  - Female
+MH  - Gene Frequency
+MH  - Haplotypes
+MH  - Humans
+MH  - Introns
+MH  - Linkage Disequilibrium
+MH  - Male
+MH  - Phenotype
+MH  - Polymorphism, Genetic
+MH  - Receptors, GABA-B/*genetics
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Risk Factors
+EDAT- 1999/09/22
+MHDA- 1999/09/22 00:01
+AID - 10.1002/(SICI)1096-8628(19991015)88:5<533::AID-AJMG18>3.0.CO;2-C [pii]
+PST - ppublish
+SO  - Am J Med Genet 1999 Oct 15;88(5):533-8.
+DR 
+--------------------------------------------------------------------------------
+24: Thrasher MJ et al. Clozapine's effects on ethano...[PMID: 10470981]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 10470981
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991026
+DCOM- 19991026
+LR  - 20041204
+PUBM- Print
+IS  - 0145-6008
+VI  - 23
+IP  - 8
+DP  - 1999 Aug
+TI  - Clozapine's effects on ethanol's motivational properties.
+PG  - 1377-85
+AB  - BACKGROUND: Although dopamine D1 and D2 receptors have been implicated in
+     ethanol's motivational effects, little is known about the contribution of
+     dopamine D4 receptors. The present experiments examined the effects of
+     clozapine, a dopamine D4 receptor antagonist, on ethanol's aversive,
+     rewarding, stimulant, and reinforcing properties. METHODS: For taste
+     conditioning, adult male Swiss-Webster mice received five conditioning
+     trials consisting of 1-hr access to 0.2 M NaCl. After NaCl access on
+     trials 1-4, subjects received clozapine (0, 1, or 2 mg/kg) followed 30 min
+     later by 0, 2, or 4 g/kg ethanol. For place conditioning, Swiss-Webster
+     mice received six pairings of a tactile stimulus with ethanol (2 g/kg,
+     intraperitoneally), clozapine (1 mg/kg, intraperitoneally) + ethanol, or
+     clozapine alone. Locomotor activity in a 30-min test was determined in
+     Swiss-Webster mice receiving 0, 0.5, or 1.0 mg/kg clozapine and 0, 1, or 2
+     g/kg ethanol. In a drinking study, separate groups of adult male C57BL/6J
+     mice were allowed 30-min access to either 10% v/v ethanol mixed in 10% w/v
+     sucrose or 10% sucrose without ethanol. During testing, both groups were
+     given 0 or 1 mg/kg clozapine 30 min before fluid access. RESULTS: Ethanol
+     flavor pairings during taste conditioning reduced subsequent flavor
+     intakes, indicating the development of conditioned taste aversion.
+     Clozapine reduced the magnitude of 4 g/kg ethanol-conditioned aversion
+     only on trial 4 at the 2 mg/kg dose. Conditioned place preference for the
+     ethanol-paired stimulus was not altered by clozapine. Clozapine alone did
+     not produce either conditioned preference or aversion. Ethanol-stimulated
+     activity was reduced by clozapine treatment. However, clozapine alone did
+     not alter locomotor activity levels. Clozapine reduced sucrose consumption
+     but did not alter ethanol/sucrose intake. CONCLUSIONS: These data suggest
+     that clozapine influences a limited range of ethanol-motivated behaviors.
+     Specifically, dopamine D4 receptors appear important for ethanol's
+     stimulant effect and possibly ethanol aversion, but not ethanol reward and
+     reinforcement.
+AD  - Department of Behavioral Neuroscience, Portland Alcohol Research Center,
+     Oregon Health Sciences University 97201-3098, USA.
+FAU - Thrasher, M J
+AU  - Thrasher MJ
+FAU - Freeman, P A
+AU  - Freeman PA
+FAU - Risinger, F O
+AU  - Risinger FO
+LA  - eng
+GR  - AA07468/AA/NIAAA
+GR  - AA10520/AA/NIAAA
+GR  - AA10760/AA/NIAAA
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Alcohol Clin Exp Res
+JID - 7707242
+RN  - 0 (Central Nervous System Depressants)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 5786-21-0 (Clozapine)
+RN  - 64-17-5 (Ethanol)
+SB  - IM
+MH  - Alcohol Drinking/psychology
+MH  - Animals
+MH  - Central Nervous System Depressants/*administration & dosage
+MH  - Clozapine/*administration & dosage
+MH  - Conditioning (Psychology)/drug effects
+MH  - Dopamine Antagonists/*administration & dosage
+MH  - Ethanol/*administration & dosage
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Motor Activity/drug effects
+MH  - Receptors, Dopamine D2/antagonists & inhibitors/*drug effects/physiology
+MH  - Research Support, U.S. Gov't, P.H.S.
+EDAT- 1999/09/02
+MHDA- 1999/09/02 00:01
+AID - 00000374-199908000-00012 [pii]
+PST - ppublish
+SO  - Alcohol Clin Exp Res 1999 Aug;23(8):1377-85.
+DR 
+--------------------------------------------------------------------------------
+25: Anokhina IP et al. [Hereditary alcoholism: some ...[PMID: 10432864]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 10432864
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990831
+DCOM- 19990831
+LR  - 20041204
+PUBM- Print
+IS  - 0869-6047
+IP  - 6
+DP  - 1999
+TI  - [Hereditary alcoholism: some neurochemical and genetic mechanisms]
+PG  - 43-7
+FAU - Anokhina, I P
+AU  - Anokhina IP
+FAU - Vertinskaia, A G
+AU  - Vertinskaia AG
+FAU - Vekshina, N L
+AU  - Vekshina NL
+FAU - Nebarakova, T P
+AU  - Nebarakova TP
+FAU - Ovchinnikov, I V
+AU  - Ovchinnikov IV
+FAU - Druzhina, E V
+AU  - Druzhina EV
+FAU - Ovchinnikova, O I
+AU  - Ovchinnikova OI
+LA  - rus
+PT  - Journal Article
+TT  - Nasledstvennyi alkogolizm: nekotorye neirokhimicheskie i geneticheskie
+     mekhanizmy.
+PL  - RUSSIA
+TA  - Vestn Ross Akad Med Nauk
+JID - 9215641
+RN  - 0 (Genetic Markers)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 102-32-9 (3,4-Dihydroxyphenylacetic Acid)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 63-84-3 (Dihydroxyphenylalanine)
+RN  - 9007-49-2 (DNA)
+SB  - IM
+MH  - 3,4-Dihydroxyphenylacetic Acid/blood
+MH  - Alcoholism/blood/*genetics
+MH  - Alleles
+MH  - Brain/*metabolism
+MH  - Comparative Study
+MH  - DNA/*biosynthesis
+MH  - Dihydroxyphenylalanine/blood
+MH  - *Genetic Diseases, Inborn/blood/genetics
+MH  - Genetic Markers
+MH  - Genetic Predisposition to Disease
+MH  - Genotype
+MH  - Humans
+MH  - Male
+MH  - Minisatellite Repeats
+MH  - Norepinephrine/blood
+MH  - Receptors, Dopamine D2/biosynthesis/*genetics
+EDAT- 1999/08/05
+MHDA- 1999/08/05 00:01
+PST - ppublish
+SO  - Vestn Ross Akad Med Nauk 1999;(6):43-7.
+DR 
+--------------------------------------------------------------------------------
+26: Paterson AD et al. Dopamine D4 receptor gene: no...[PMID: 10379515]  Related Articles, Cited in PMC, Books, LinkOut 
+PMID- 10379515
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990901
+DCOM- 19990901
+LR  - 20041204
+PUBM- Print
+IS  - 0893-133X
+VI  - 21
+IP  - 1
+DP  - 1999 Jul
+TI  - Dopamine D4 receptor gene: novelty or nonsense?
+PG  - 3-16
+AB  - Although the role of genetics in personality has been studied extensively
+     at a phenomenological level, only lately has the investigation of specific
+     genes been performed. Recent reports suggest that DNA variants of the
+     dopamine D4 receptor gene (DRD4) are associated with the personality trait
+     of novelty seeking; however, others fail to replicate this finding. Such
+     conflicting results suggest either a weak effect, an association only in
+     certain populations, or a false-positive resulting from population
+     stratification. We provide a critical analysis of genetic studies of DRD4
+     variants with novelty seeking, alcoholism, drug abuse, and attention
+     deficit hyperactivity disorder. Evidence for the role of DRD4 in novelty
+     seeking is inconclusive, with a number of methodological concerns. Use of
+     more conservative statistical criteria for significance, employing gene
+     haplotypes, as well as linkage disequilibrium studies, are recommended.
+     The molecular biology of the D4 gene is also reviewed.
+AD  - Department of Psychiatry, University of Toronto, Ontario, Canada.
+FAU - Paterson, A D
+AU  - Paterson AD
+FAU - Sunohara, G A
+AU  - Sunohara GA
+FAU - Kennedy, J L
+AU  - Kennedy JL
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Review, Tutorial
+PL  - UNITED STATES
+TA  - Neuropsychopharmacology
+JID - 8904907
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Exploratory Behavior/*physiology
+MH  - Humans
+MH  - Personality/*genetics
+MH  - Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics/metabolism
+MH  - Research Support, Non-U.S. Gov't
+RF  - 90
+EDAT- 1999/06/24
+MHDA- 1999/06/24 00:01
+AID - S0893133X98001158 [pii]
+AID - 10.1016/S0893-133X(98)00115-8 [doi]
+PST - ppublish
+SO  - Neuropsychopharmacology 1999 Jul;21(1):3-16.
+DR 
+--------------------------------------------------------------------------------
+27: Giuffrida A et al. Dopamine activation of endoge...[PMID: 10204543]  Related Articles, Compound via MeSH, Substance via MeSH, Cited in PMC, Books, LinkOut 
+PMID- 10204543
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990430
+DCOM- 19990430
+LR  - 20041117
+PUBM- Print
+IS  - 1097-6256
+VI  - 2
+IP  - 4
+DP  - 1999 Apr
+TI  - Dopamine activation of endogenous cannabinoid signaling in dorsal
+     striatum.
+PG  - 358-63
+AB  - We measured endogenous cannabinoid release in dorsal striatum of freely
+     moving rats by microdialysis and gas chromatography/mass spectrometry.
+     Neural activity stimulated the release of anandamide, but not of other
+     endogenous cannabinoids such as 2-arachidonylglycerol. Moreover,
+     anandamide release was increased eightfold over baseline after local
+     administration of the D2-like (D2, D3, D4) dopamine receptor agonist
+     quinpirole, a response that was prevented by the D2-like receptor
+     antagonist raclopride. Administration of the D1-like (D1, D5) receptor
+     agonist SKF38393 had no such effect. These results suggest that functional
+     interactions between endocannabinoid and dopaminergic systems may
+     contribute to striatal signaling. In agreement with this hypothesis,
+     pretreatment with the cannabinoid antagonist SR141716A enhanced the
+     stimulation of motor behavior elicited by systemic administration of
+     quinpirole. The endocannabinoid system therefore may act as an inhibitory
+     feedback mechanism countering dopamine-induced facilitation of motor
+     activity.
+AD  - Department of Pharmacology, University of California at Irvine,
+     92697-4625, USA.
+FAU - Giuffrida, A
+AU  - Giuffrida A
+FAU - Parsons, L H
+AU  - Parsons LH
+FAU - Kerr, T M
+AU  - Kerr TM
+FAU - Rodriguez de Fonseca, F
+AU  - Rodriguez de Fonseca F
+FAU - Navarro, M
+AU  - Navarro M
+FAU - Piomelli, D
+AU  - Piomelli D
+LA  - eng
+GR  - DA12413/DA/NIDA
+GR  - DA12447/DA/NIDA
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Nat Neurosci
+JID - 9809671
+RN  - 0 (Arachidonic Acids)
+RN  - 0 (Dopamine Agonists)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Endocannabinoids)
+RN  - 0 (Ethanolamines)
+RN  - 0 (Glycerides)
+RN  - 0 (Palmitic Acids)
+RN  - 0 (Piperidines)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Receptors, Cannabinoid)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Receptors, Drug)
+RN  - 0 (Salicylamides)
+RN  - 111-58-0 (N-oleoylethanolamine)
+RN  - 158681-13-1 (SR 141716A)
+RN  - 4368-28-9 (Tetrodotoxin)
+RN  - 51-61-6 (Dopamine)
+RN  - 53847-30-6 (2-arachidonylglycerol)
+RN  - 544-31-0 (palmidrol)
+RN  - 67287-49-4 (2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine)
+RN  - 7440-09-7 (Potassium)
+RN  - 7440-23-5 (Sodium)
+RN  - 7440-70-2 (Calcium)
+RN  - 84225-95-6 (Raclopride)
+RN  - 85760-74-3 (Quinpirole)
+RN  - 94421-68-8 (anandamide)
+SB  - IM
+CIN - Nat Neurosci. 1999 Apr;2(4):303-4. PMID: 10204533
+MH  - 2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine/pharmacology
+MH  - Animals
+MH  - Arachidonic Acids/*secretion
+MH  - Calcium/pharmacology
+MH  - Corpus Striatum/*drug effects/physiology/secretion
+MH  - Dopamine/*pharmacology
+MH  - Dopamine Agonists/pharmacology
+MH  - Dopamine Antagonists/pharmacology
+MH  - Endocannabinoids
+MH  - Ethanolamines/pharmacology
+MH  - Glycerides/pharmacology
+MH  - Hyperkinesis/chemically induced
+MH  - Male
+MH  - Mass Fragmentography
+MH  - Microdialysis
+MH  - Motor Activity/drug effects/*physiology
+MH  - Palmitic Acids/pharmacology
+MH  - Piperidines/pharmacology
+MH  - Potassium/*pharmacology
+MH  - Pyrazoles/pharmacology
+MH  - Quinpirole/pharmacology
+MH  - Raclopride
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Receptors, Cannabinoid
+MH  - Receptors, Dopamine D2/*drug effects/physiology
+MH  - Receptors, Drug/*drug effects/physiology
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Salicylamides/pharmacology
+MH  - Signal Transduction/*drug effects/physiology
+MH  - Single-Blind Method
+MH  - Sodium/physiology
+MH  - Tetrodotoxin/pharmacology
+EDAT- 1999/04/16 02:03
+MHDA- 2001/03/23 10:01
+AID - 10.1038/7268 [doi]
+PST - ppublish
+SO  - Nat Neurosci 1999 Apr;2(4):358-63.
+NR 
+--------------------------------------------------------------------------------
+28: Noda-Saita K et al. Dopamine D4-like binding site...[PMID: 10049714]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 10049714
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990311
+DCOM- 19990311
+LR  - 20041204
+PUBM- Print
+IS  - 0006-291X
+VI  - 255
+IP  - 2
+DP  - 1999 Feb 16
+TI  - Dopamine D4-like binding sites labeled by [3H]nemonapride include
+     substantial serotonin 5-HT2A receptors in primate cerebral cortex.
+PG  - 367-70
+AB  - Dopamine D4-like binding sites are abundant in human cerebral cortex as
+     detected by [3H]nemonapride. The extremely low density of D4 mRNA in human
+     cerebral cortex is inconsistent with the high amount of D4-like binding
+     sites. To investigate the nature of the D4-like receptors, [3H]nemonapride
+     binding sites in the nonhuman primate cerebral cortex were characterized.
+     Although [3H]nemonapride binding sites were D4-like, displaceable by
+     clozapine but not raclopride, [3H]nemonapride binding was not displaced by
+     selective D4 antagonists but was displaced by the selective 5-HT2A
+     antagonist MDL100907. Using [3H]ketanserin as a 5-HT2A ligand, nemonapride
+     showed high affinity for monkey (Ki = 10.4 nM) and cloned human (Ki = 9.4
+     nM) 5-HT2A receptors, while its affinity for rat receptors was lower (Ki =
+     140 nM). The present study demonstrates that cerebral cortical D4-like
+     binding sites labeled by [3H]nemonapride in nonhuman primates consist of a
+     very small portion of D4, but a substantial portion of 5-HT2A receptors.
+     The unexpectedly high affinity of nemonapride for primate 5-HT2A receptor
+     suggests reconsidering previous data from other studies using
+     [3H]nemonapride, particularly those on D4-like receptors.
+CI  - Copyright 1999 Academic Press.
+AD  - Pharmacology Laboratories, Institute for Drug Discovery Research,
+     Yamanouchi Pharmaceutical Co., Ltd., Ibaraki, Japan.
+FAU - Noda-Saita, K
+AU  - Noda-Saita K
+FAU - Matsumoto, M
+AU  - Matsumoto M
+FAU - Hidaka, K
+AU  - Hidaka K
+FAU - Hatanaka, K
+AU  - Hatanaka K
+FAU - Ohmori, J
+AU  - Ohmori J
+FAU - Okada, M
+AU  - Okada M
+FAU - Yamaguchi, T
+AU  - Yamaguchi T
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Biochem Biophys Res Commun
+JID - 0372516
+RN  - 0
+     ((R)-5-chloro-4-cyclopropylcarbonylamino-2-methoxy-N-(1-(3-methoxybenzyl)-
+     3-pyrrolidinyl)benzamide monooxalate)
+RN  - 0 (Anisoles)
+RN  - 0 (Benzamides)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Ligands)
+RN  - 0 (Piperazines)
+RN  - 0 (Propylamines)
+RN  - 0 (Receptor, Serotonin, 5-HT2A)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Receptors, Serotonin)
+RN  - 0 (Sulfonamides)
+RN  - 10028-17-8 (Tritium)
+RN  - 13523-86-9 (Pindolol)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 149409-57-4 (N,N-dipropyl-2-(4-methoxy-3-(2-phenylethoxy)phenyl)ethylamine
+     monohydrochloride)
+RN  - 170858-33-0 (U 101387)
+RN  - 70325-83-6 (nemonapride)
+RN  - 74050-98-9 (Ketanserin)
+SB  - IM
+MH  - Animals
+MH  - Anisoles/pharmacology
+MH  - Benzamides/*metabolism/pharmacology
+MH  - Binding Sites/drug effects
+MH  - Cerebral Cortex/drug effects/*metabolism
+MH  - Dopamine Antagonists/metabolism
+MH  - Humans
+MH  - Ketanserin/metabolism/pharmacology
+MH  - Ligands
+MH  - Macaca fascicularis
+MH  - Pindolol/pharmacology
+MH  - Piperazines/pharmacology
+MH  - Propylamines/pharmacology
+MH  - Receptor, Serotonin, 5-HT2A
+MH  - Receptors, Dopamine D2/antagonists & inhibitors/*metabolism
+MH  - Receptors, Serotonin/*metabolism
+MH  - Sulfonamides/pharmacology
+MH  - Tritium
+EDAT- 1999/03/02
+MHDA- 1999/03/02 00:01
+AID - S0006291X99902206 [pii]
+PST - ppublish
+SO  - Biochem Biophys Res Commun 1999 Feb 16;255(2):367-70.
+NR 
+--------------------------------------------------------------------------------
+29: Belliotti TR et al. Isoindolinone enantiomers hav...[PMID: 9873377]  Related Articles, Books, LinkOut 
+PMID- 9873377
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990201
+DCOM- 19990201
+LR  - 20041204
+PUBM- Print
+IS  - 0960-894X
+VI  - 8
+IP  - 12
+DP  - 1998 Jun 16
+TI  - Isoindolinone enantiomers having affinity for the dopamine D4 receptor.
+PG  - 1499-502
+AB  - PD 108635 (1) was identified as a potent dopamine D4 ligand and we wanted
+     to replace the benzylic alcohol with a metabolically more stable moiety.
+     Investigations led to the discovery of a series of isoindolinones having
+     D4 affinity.
+AD  - Parke-Davis Pharmaceutical Research, Division of Warner-Lambert Co., Ann
+     Arbor, MI 48105, USA.
+FAU - Belliotti, T R
+AU  - Belliotti TR
+FAU - Brink, W A
+AU  - Brink WA
+FAU - Kesten, S R
+AU  - Kesten SR
+FAU - Rubin, J R
+AU  - Rubin JR
+FAU - Wustrow, D J
+AU  - Wustrow DJ
+FAU - Zoski, K T
+AU  - Zoski KT
+FAU - Whetzel, S Z
+AU  - Whetzel SZ
+FAU - Corbin, A E
+AU  - Corbin AE
+FAU - Pugsley, T A
+AU  - Pugsley TA
+FAU - Heffner, T G
+AU  - Heffner TG
+FAU - Wise, L D
+AU  - Wise LD
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - Bioorg Med Chem Lett
+JID - 9107377
+RN  - 0 (Indoles)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Receptors, Serotonin)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Animals
+MH  - Indoles/*chemistry/*pharmacology
+MH  - Motor Activity/drug effects
+MH  - Rats
+MH  - Receptors, Dopamine D2/*drug effects
+MH  - Receptors, Serotonin/metabolism
+MH  - Stereoisomerism
+MH  - Structure-Activity Relationship
+MH  - X-Ray Diffraction
+EDAT- 1999/01/05
+MHDA- 1999/01/05 00:01
+AID - S0960894X98002522 [pii]
+PST - ppublish
+SO  - Bioorg Med Chem Lett 1998 Jun 16;8(12):1499-502.
+NR 
+--------------------------------------------------------------------------------
+30: Drago J et al. Dopamine receptors and dopami...[PMID: 9691193]  Related Articles, Cited in PMC, Books, LinkOut 
+PMID- 9691193
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980911
+DCOM- 19980911
+LR  - 20050119
+PUBM- Print
+IS  - 0378-5866
+VI  - 20
+IP  - 2-3
+DP  - 1998
+TI  - Dopamine receptors and dopamine transporter in brain function and
+     addictive behaviors: insights from targeted mouse mutants.
+PG  - 188-203
+AB  - Recent advances in molecular biology have resulted in a number of
+     genetically manipulated mice with defined changes at dopamine receptor and
+     the dopamine transporter (DAT) loci. Mice with targeted mutations at the
+     D1 receptor (D1R) are growth-retarded and show downregulated expression of
+     dynorphin and substance P. Behavioral assessment indicates that mutants
+     have deficiencies in spatial learning and initiating movement, as well as
+     in responding to novel stimuli. D1R mutants do not become locomotor
+     activated with cocaine or show upregulated immediate early gene (IEG)
+     expression, but D2 receptor-dependent IEG changes are intact. Acute
+     cocaine administration increases substance P levels, suggesting that
+     striatal expression of this neuropeptide can be modulated by
+     D1R-independent processes. Failure of locomotor activation is also seen
+     with repeated amphetamine treatment. Surprisingly, D1R-deficient mice
+     retain cocaine-conditioned place preference. In contrast, D2 receptor
+     knockout mice are bradykinetic, show increased striatal enkephalin
+     expression and an absence of opiate rewarding effects. D3 receptor mutants
+     are hyperactive when assessed in an exploratory assay and display reduced
+     anxiety-associated behavior in an elevated plus maze test. The recently
+     described D4 receptor homozygous mutants exhibit a reduction in baseline
+     locomotor activity and were shown to be supersensitive to the locomotor
+     activating effects of alcohol and psychostimulant drugs. As expected, DAT
+     knockout mice are hyperactive and do not respond to cocaine or
+     amphetamine. The observation that D2 and D4 dopamine receptor and DAT
+     mutants show compensatory effects, together with the complicating issue of
+     their hybrid genetic background may temper conclusions regarding the
+     direct effects of the targeted mutation on phenotype.
+AD  - Department of Anatomy, Monash University, Clayton, Australia.
+     John.Drago@med.monash.edu.au
+FAU - Drago, J
+AU  - Drago J
+FAU - Padungchaichot, P
+AU  - Padungchaichot P
+FAU - Accili, D
+AU  - Accili D
+FAU - Fuchs, S
+AU  - Fuchs S
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Review, Tutorial
+PL  - SWITZERLAND
+TA  - Dev Neurosci
+JID - 7809375
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (Membrane Transport Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (Receptors, Dopamine)
+RN  - 0 (dopamine transporter proteins)
+SB  - IM
+MH  - Animals
+MH  - Behavior, Addictive/*physiopathology
+MH  - Brain/*physiology
+MH  - Carrier Proteins/*physiology
+MH  - Gene Targeting
+MH  - *Membrane Glycoproteins
+MH  - *Membrane Transport Proteins
+MH  - Mice
+MH  - Mutation/physiology
+MH  - *Nerve Tissue Proteins
+MH  - Receptors, Dopamine/*physiology
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, Non-P.H.S.
+RF  - 133
+EDAT- 1998/08/06 02:01
+MHDA- 2000/08/16 11:00
+AID - dne20188 [pii]
+PST - ppublish
+SO  - Dev Neurosci 1998;20(2-3):188-203.
+DR 
+--------------------------------------------------------------------------------
+31: Li L et al. Dopamine inhibits vasopressin...[PMID: 9689005]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 9689005
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980827
+DCOM- 19980827
+LR  - 20041204
+PUBM- Print
+IS  - 0002-9513
+VI  - 275
+IP  - 1 Pt 2
+DP  - 1998 Jul
+TI  - Dopamine inhibits vasopressin-dependent cAMP production in the rat
+     cortical collecting duct.
+PG  - F62-7
+AB  - Dopamine inhibits Na+ and water reabsorption in the rat cortical
+     collecting duct (CCD) in the presence of arginine vasopressin (AVP). This
+     inhibition appears to involve the D4 dopamine receptor isoform, which
+     inhibits cAMP production; however, the D1A receptor, which stimulates cAMP
+     production, is also expressed in the CCD. To discriminate between these
+     opposing effects, we measured cAMP production in intact CCD segments. The
+     basal rate of cAMP production ranged from 6.5 to 10 fmol/mm of tubule
+     length over a 7-min incubation period, and it was unaffected by either
+     dopamine or the D1A-specific agonist fenoldopam. AVP increased cAMP
+     production to the range of 85-153 fmol . mm-1 . 7 min-1. Whereas neither
+     0.1 nor 1.0 microM fenoldopam affected AVP-dependent cAMP production,
+     dopamine reduced it in a dose-dependent manner, achieving a maximum
+     inhibition of 50% at 10 microM. This effect was reversed by the D4
+     receptor antagonist clozapine but not by pimozide or spiperone
+     (antagonists of D2 and D3 receptors) or by calphostin C or chelerythrine
+     (inhibitors of protein kinase C). We conclude that dopamine inhibits
+     transepithelial Na+ transport and osmotic water permeability in the
+     presence of AVP by inhibition of cAMP production, which is mediated by the
+     D4 receptor isoform linked via the inhibitory G protein Gi.
+AD  - Department of Physiology, Nephrology Research and Training Center,
+     University of Alabama at Birmingham, Birmingham, Alabama 35294, USA.
+FAU - Li, L
+AU  - Li L
+FAU - Schafer, J A
+AU  - Schafer JA
+LA  - eng
+GR  - DK-45768/DK/NIDDK
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Physiol
+JID - 0370511
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Naphthalenes)
+RN  - 0 (Phenanthridines)
+RN  - 0 (Receptors, Dopamine D1)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (dopamine D1A receptor)
+RN  - 0 (receptors, dopamine D3)
+RN  - 113-79-1 (Argipressin)
+RN  - 121263-19-2 (calphostin C)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 146-48-5 (Yohimbine)
+RN  - 2062-78-4 (Pimozide)
+RN  - 34316-15-9 (chelerythrine)
+RN  - 51-43-4 (Epinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 5786-21-0 (Clozapine)
+RN  - 60-92-4 (Cyclic AMP)
+RN  - 67227-56-9 (Fenoldopam)
+RN  - 749-02-0 (Spiperone)
+RN  - EC 2.7.1.37 (Protein Kinase C)
+RN  - EC 3.6.1.- (GTP-Binding Proteins)
+SB  - IM
+MH  - Animals
+MH  - Argipressin/*pharmacology
+MH  - Clozapine/pharmacology
+MH  - Cyclic AMP/*metabolism
+MH  - Dopamine/*pharmacology
+MH  - Dopamine Antagonists/*pharmacology
+MH  - Enzyme Inhibitors/pharmacology
+MH  - Epinephrine/pharmacology
+MH  - Fenoldopam/pharmacology
+MH  - GTP-Binding Proteins/metabolism
+MH  - In Vitro
+MH  - Kidney Cortex/*metabolism
+MH  - Kidney Tubules, Collecting/*metabolism
+MH  - Kinetics
+MH  - Male
+MH  - Naphthalenes/pharmacology
+MH  - Phenanthridines/pharmacology
+MH  - Pimozide/pharmacology
+MH  - Protein Kinase C/antagonists & inhibitors
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Receptors, Dopamine D1/antagonists & inhibitors
+MH  - Receptors, Dopamine D2/antagonists & inhibitors
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Spiperone/pharmacology
+MH  - Time Factors
+MH  - Yohimbine/pharmacology
+EDAT- 1998/08/05
+MHDA- 1998/08/05 00:01
+PST - ppublish
+SO  - Am J Physiol 1998 Jul;275(1 Pt 2):F62-7.
+NR 
+--------------------------------------------------------------------------------
+32: Noble EP et al. D2 and D4 dopamine receptor p...[PMID: 9603615]  Related Articles, Books, LinkOut 
+PMID- 9603615
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980624
+DCOM- 19980624
+LR  - 20041204
+PUBM- Print
+IS  - 0148-7299
+VI  - 81
+IP  - 3
+DP  - 1998 May 8
+TI  - D2 and D4 dopamine receptor polymorphisms and personality.
+PG  - 257-67
+AB  - The relationship of various dimensions of temperament, measured by the
+     Tridimensional Personality Questionnaire (TPQ), to polymorphisms of the D2
+     dopamine receptor (DRD2) and D4 dopamine receptor (DRD4) genes was
+     determined in 119 healthy Caucasian boys who had not yet begun to consume
+     alcohol and other drugs of abuse. Total Novelty Seeking score of the TPQ
+     was significantly higher in boys having, in common, all three minor (A1,
+     B1, and Intron 6 1) alleles of the DRD2 compared to boys without any of
+     these alleles. Boys with the DRD4 7 repeat (7R) allele also had a
+     significantly higher Novelty Seeking score than those without this allele.
+     However, the greatest difference in Novelty Seeking score was found when
+     boys having all three minor DRD2 alleles and the DRD4 7R allele were
+     contrasted to those without any of these alleles. Neither the DRD2 nor the
+     DRD4 polymorphisms differentiated total Harm Avoidance score. Whereas
+     subjects having all three minor DRD2 alleles had a significantly higher
+     Reward Dependence 2 (Persistence) score than subjects without any of these
+     alleles, no significant difference in this personality score was found
+     between subjects with and without the DRD4 7R allele. In conclusion, DRD2
+     and DRD4 polymorphisms individually associate with Novelty Seeking
+     behavior. However, the combined DRD2 and DRD4 polymorphisms contribute
+     more markedly to this behavior than when these two gene polymorphisms are
+     individually considered.
+AD  - Department of Psychiatry and Biobehavioral Sciences, University of
+     California, Los Angeles 90024-1759, USA. epnoble@ucla.edu
+FAU - Noble, E P
+AU  - Noble EP
+FAU - Ozkaragoz, T Z
+AU  - Ozkaragoz TZ
+FAU - Ritchie, T L
+AU  - Ritchie TL
+FAU - Zhang, X
+AU  - Zhang X
+FAU - Belin, T R
+AU  - Belin TR
+FAU - Sparkes, R S
+AU  - Sparkes RS
+LA  - eng
+GR  - AA-08020/AA/NIAAA
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Med Genet
+JID - 7708900
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Exploratory Behavior
+MH  - Gene Frequency
+MH  - Genotype
+MH  - Humans
+MH  - Male
+MH  - Personality/*genetics
+MH  - *Polymorphism, Restriction Fragment Length
+MH  - Questionnaires
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Reward
+EDAT- 1998/05/29 02:04
+MHDA- 2000/06/20 09:00
+AID - 10.1002/(SICI)1096-8628(19980508)81:3<257::AID-AJMG10>3.0.CO;2-E [pii]
+PST - ppublish
+SO  - Am J Med Genet 1998 May 8;81(3):257-67.
+PR 
+--------------------------------------------------------------------------------
+33: Long JC et al. Evidence for genetic linkage ...[PMID: 9603607]  Related Articles, UniSTS, OMIM, Cited in PMC, Books, LinkOut 
+PMID- 9603607
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980624
+DCOM- 19980624
+LR  - 20041117
+PUBM- Print
+IS  - 0148-7299
+VI  - 81
+IP  - 3
+DP  - 1998 May 8
+TI  - Evidence for genetic linkage to alcohol dependence on chromosomes 4 and 11
+     from an autosome-wide scan in an American Indian population.
+PG  - 216-21
+AB  - To identify specific genes affecting vulnerability or resistance, we
+     performed a whole-autosomal genome scan for genetic linkage to alcohol
+     dependence in a Southwestern American Indian tribe. Genotypes at 517
+     autosomal microsatellite loci and clinical evaluations were available for
+     152 subjects belonging to extended pedigrees and forming 172 sib-pairs.
+     Highly suggestive evidence for linkage emerged for two genomic regions
+     using two- and multipoint sib-pair regression methods; both regions
+     harbored neurogenetic candidate genes. The best evidence is seen with
+     D11S1984 (nominal P = 0.00007, lod approximately equal to 3.1) on
+     chromosome 11p, in close proximity to the DRD4 dopamine receptor and
+     tyrosine hydroxylase (TH) genes. Good evidence is seen with D4S3242
+     (nominal P = 0.0002, lod approximately equal to 2.8) on chromosome 4p,
+     near the beta1 GABA receptor gene. Interestingly, three loci in the
+     alcohol dehydrogenase gene cluster on chromosome 4q showed evidence for
+     linkage with two-point analyses, but not multipoint analysis.
+AD  - Laboratory of Neurogenetics, National Institute on Alcohol Abuse and
+     Alcoholism, National Institutes of Health, Bethesda, Maryland 20892-8110,
+     USA. jeff long@nih.gov
+FAU - Long, J C
+AU  - Long JC
+FAU - Knowler, W C
+AU  - Knowler WC
+FAU - Hanson, R L
+AU  - Hanson RL
+FAU - Robin, R W
+AU  - Robin RW
+FAU - Urbanek, M
+AU  - Urbanek M
+FAU - Moore, E
+AU  - Moore E
+FAU - Bennett, P H
+AU  - Bennett PH
+FAU - Goldman, D
+AU  - Goldman D
+LA  - eng
+GR  - 1 P41 RR03655/RR/NCRR
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Med Genet
+JID - 7708900
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/ethnology/*genetics
+MH  - Chromosomes, Human, Pair 11/*genetics
+MH  - Chromosomes, Human, Pair 4/*genetics
+MH  - Female
+MH  - Genetic Predisposition to Disease
+MH  - Genotype
+MH  - Humans
+MH  - Indians, North American/*genetics
+MH  - *Linkage (Genetics)
+MH  - Male
+MH  - Matched-Pair Analysis
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+EDAT- 1998/05/29 02:04
+MHDA- 2000/06/20 09:00
+AID - 10.1002/(SICI)1096-8628(19980508)81:3<216::AID-AJMG2>3.0.CO;2-U [pii]
+PST - ppublish
+SO  - Am J Med Genet 1998 May 8;81(3):216-21.
+PR 
+--------------------------------------------------------------------------------
+34: Baron M. Mapping genes for personality...[PMID: 9577832]  Related Articles, Books, LinkOut 
+PMID- 9577832
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980716
+DCOM- 19980716
+LR  - 20041204
+PUBM- Print
+IS  - 1359-4184
+VI  - 3
+IP  - 2
+DP  - 1998 Mar
+TI  - Mapping genes for personality: is the saga sagging?
+PG  - 106-8
+FAU - Baron, M
+AU  - Baron M
+LA  - eng
+GR  - K05MH00176/MH/NIMH
+PT  - News
+PL  - ENGLAND
+TA  - Mol Psychiatry
+JID - 9607835
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Alcoholism/epidemiology/genetics
+MH  - Alleles
+MH  - Confounding Factors (Epidemiology)
+MH  - Disease Susceptibility
+MH  - Ethnic Groups/genetics
+MH  - Exploratory Behavior
+MH  - False Positive Reactions
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Minisatellite Repeats
+MH  - Models, Psychological
+MH  - Personality/*genetics
+MH  - Personality Tests
+MH  - Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/genetics/physiology
+MH  - Reproducibility of Results
+MH  - Research Design
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Substance-Related Disorders/epidemiology/genetics
+EDAT- 1998/05/13
+MHDA- 1998/05/13 00:01
+PST - ppublish
+SO  - Mol Psychiatry 1998 Mar;3(2):106-8.
+NR 
+--------------------------------------------------------------------------------
+35: Zenner MT et al. Expression and characterizati...[PMID: 9489994]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 9489994
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980317
+DCOM- 19980317
+LR  - 20041204
+PUBM- Print
+IS  - 0014-5793
+VI  - 422
+IP  - 2
+DP  - 1998 Jan 30
+TI  - Expression and characterization of a dopamine D4R variant associated with
+     delusional disorder.
+PG  - 146-50
+AB  - Multiple genetic polymorphisms of the human dopamine D4 receptor (hD4R)
+     have been identified including a 12 bp repeat in exon 1 associated with a
+     psychotic condition called delusional disorder. Competition binding assays
+     revealed minor pharmacological differences between the recombinant A1
+     (normal) and A2 (delusional) proteins with respect to quinpirole and the
+     antipsychotic clozapine, however no functional differences were detected
+     for receptor activation by dopamine, epinephrine, or norepinephrine. Our
+     results suggest that this polymorphism may only confer susceptibility to
+     delusional disorder in combination with other genetic or environmental
+     factors.
+AD  - Hoffmann-La Roche, Pharmaceutical Research, Preclinical Neuroscience,
+     Basel, Switzerland.
+FAU - Zenner, M T
+AU  - Zenner MT
+FAU - Nobile, M
+AU  - Nobile M
+FAU - Henningsen, R
+AU  - Henningsen R
+FAU - Smeraldi, E
+AU  - Smeraldi E
+FAU - Civelli, O
+AU  - Civelli O
+FAU - Hartman, D S
+AU  - Hartman DS
+FAU - Catalano, M
+AU  - Catalano M
+LA  - eng
+PT  - Journal Article
+PL  - NETHERLANDS
+TA  - FEBS Lett
+JID - 0155157
+RN  - 0 (Antipsychotic Agents)
+RN  - 0 (Dopamine Agonists)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Recombinant Proteins)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 37589-80-3 (Guanosine 5'-O-(3-Thiotriphosphate))
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-43-4 (Epinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 5786-21-0 (Clozapine)
+RN  - 85760-74-3 (Quinpirole)
+SB  - IM
+MH  - Animals
+MH  - Antipsychotic Agents/pharmacology
+MH  - CHO Cells
+MH  - Clozapine/pharmacology
+MH  - Dopamine/pharmacology
+MH  - Dopamine Agonists/pharmacology
+MH  - Dopamine Antagonists/pharmacology
+MH  - Epinephrine/pharmacology
+MH  - Guanosine 5'-O-(3-Thiotriphosphate)/metabolism
+MH  - Hamsters
+MH  - Humans
+MH  - Kinetics
+MH  - Norepinephrine/pharmacology
+MH  - Polymorphism, Genetic
+MH  - Quinpirole/pharmacology
+MH  - Receptors, Dopamine D2/biosynthesis/drug effects/*genetics/physiology
+MH  - Recombinant Proteins/metabolism
+MH  - Schizophrenia, Paranoid/*genetics
+MH  - Transfection
+MH  - Variation (Genetics)
+EDAT- 1998/03/07
+MHDA- 1998/03/07 00:01
+AID - S0014579397016177 [pii]
+PST - ppublish
+SO  - FEBS Lett 1998 Jan 30;422(2):146-50.
+NR 
+--------------------------------------------------------------------------------
+36: Sullivan PF et al. No association between novelt...[PMID: 9433345]  Related Articles, Books, LinkOut 
+PMID- 9433345
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980127
+DCOM- 19980127
+LR  - 20041204
+PUBM- Print
+IS  - 0002-953X
+VI  - 155
+IP  - 1
+DP  - 1998 Jan
+TI  - No association between novelty seeking and the type 4 dopamine receptor
+     gene (DRD4) in two New Zealand samples.
+PG  - 98-101
+AB  - OBJECTIVE: In 1986 and 1987, Cloninger postulated the existence of the
+     heritable behavioral trait of novelty seeking and its putative
+     underpinnings in the dopaminergic systems of the ventral midbrain. Two
+     widely reported studies found significant associations between novelty
+     seeking and the type 4 dopamine receptor gene (DRD4), although a more
+     recent study did not. The authors' objective was to investigate this
+     association in two New Zealand samples. METHOD: The authors studied two
+     nonoverlapping samples: subjects in a depression treatment trial (N = 86)
+     and subjects from 14 pedigrees dense with alcoholism (N = 181). DRD4
+     genotyping was based on a standard protocol. RESULTS: Novelty seeking and
+     DRD4 were not statistically associated. CONCLUSIONS: In these samples,
+     there was no suggestion that the DRD4 polymorphism contributed to
+     individual differences in the behavioral trait of novelty seeking.
+AD  - Virginia Commonwealth University/Medical College of Virginia, Richmond,
+     USA. sullivan@psycho.psi.vcu.edu
+FAU - Sullivan, P F
+AU  - Sullivan PF
+FAU - Fifield, W J
+AU  - Fifield WJ
+FAU - Kennedy, M A
+AU  - Kennedy MA
+FAU - Mulder, R T
+AU  - Mulder RT
+FAU - Sellman, J D
+AU  - Sellman JD
+FAU - Joyce, P R
+AU  - Joyce PR
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Psychiatry
+JID - 0370512
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/diagnosis/genetics/psychology
+MH  - Alleles
+MH  - Depressive Disorder/diagnosis/genetics/psychology
+MH  - Exploratory Behavior/*physiology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mesencephalon/*physiology
+MH  - New Zealand
+MH  - Personality/genetics
+MH  - Personality Inventory
+MH  - Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics/physiology
+MH  - Research Support, Non-U.S. Gov't
+EDAT- 1998/01/20
+MHDA- 1998/01/20 00:01
+PST - ppublish
+SO  - Am J Psychiatry 1998 Jan;155(1):98-101.
+DR 
+--------------------------------------------------------------------------------
+37: Eravci M et al. Dopamine receptor gene expres...[PMID: 9406938]  Related Articles, Books, LinkOut 
+PMID- 9406938
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980219
+DCOM- 19980219
+LR  - 20041117
+PUBM- Print
+IS  - 0169-328X
+VI  - 50
+IP  - 1-2
+DP  - 1997 Oct 15
+TI  - Dopamine receptor gene expression in an animal model of 'behavioral
+     dependence' on ethanol.
+PG  - 221-9
+AB  - The steady-state levels of messenger RNA (mRNA) of five cloned dopamine
+     (D) receptors were measured in five brain regions in rats in a recently
+     developed animal model of 'behavioral dependence' on ethanol. One group of
+     rats was given the choice between ethanol and water over a 9-month period
+     and developed 'behavioral dependence' on ethanol (group a). This group was
+     compared with a group given the choice between ethanol and water for only
+     2 months (not yet behaviorally dependent, group b), a group forced to
+     consume ethanol as sole fluid over a 9-month period (not behaviorally
+     dependent, group c) and ethanol-naive control rats. All groups were
+     sacrificed 1 month after ethanol withdrawal. The concentrations of mRNA of
+     D3-receptors in the limbic forebrain (which included the nucleus
+     accumbens) were significantly lowered in groups a and b, but unchanged in
+     group c. D3 mRNA levels were reduced in the hippocampus of group b and
+     unchanged in the cortex, amygdala and striatum. No significant changes in
+     the mRNA concentrations of D1-, D2-, D4- or D5-receptors were seen in the
+     five brain regions in any group. In conclusion, chronic consumption of
+     ethanol under the 'free-choice condition', which may best induce the
+     drug-rewarding effect, leads to specific changes in the D3-receptor gene
+     expression which were not seen after forced ethanol administration.
+     Changes in D3 mRNA levels were, however, not a specific correlate of
+     'behavioral dependence', as they were also detected in rats not yet
+     'behaviorally dependent' (group b).
+AD  - Department of Radiological Diagnostics and Nuclear Medicine, Klinikum
+     Benjamin Franklin, Free University of Berlin, Germany.
+FAU - Eravci, M
+AU  - Eravci M
+FAU - Grosspietsch, T
+AU  - Grosspietsch T
+FAU - Pinna, G
+AU  - Pinna G
+FAU - Schulz, O
+AU  - Schulz O
+FAU - Kley, S
+AU  - Kley S
+FAU - Bachmann, M
+AU  - Bachmann M
+FAU - Wolffgramm, J
+AU  - Wolffgramm J
+FAU - Gotz, E
+AU  - Gotz E
+FAU - Heyne, A
+AU  - Heyne A
+FAU - Meinhold, H
+AU  - Meinhold H
+FAU - Baumgartner, A
+AU  - Baumgartner A
+LA  - eng
+PT  - Journal Article
+PL  - NETHERLANDS
+TA  - Brain Res Mol Brain Res
+JID - 8908640
+RN  - 0 (Receptors, Dopamine)
+SB  - IM
+MH  - Alcohol Drinking
+MH  - Alcoholism/*metabolism
+MH  - Animals
+MH  - Choice Behavior/*physiology
+MH  - Disease Models, Animal
+MH  - Gene Expression Regulation/*drug effects
+MH  - Male
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Receptors, Dopamine/*genetics
+MH  - Research Support, Non-U.S. Gov't
+EDAT- 1997/12/24
+MHDA- 1997/12/24 00:01
+PST - ppublish
+SO  - Brain Res Mol Brain Res 1997 Oct 15;50(1-2):221-9.
+DR 
+--------------------------------------------------------------------------------
+38: Van Tol HH. Structural and functional cha...[PMID: 9327945]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 9327945
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971125
+DCOM- 19971125
+LR  - 20041204
+PUBM- Print
+IS  - 1054-3589
+VI  - 42
+DP  - 1998
+TI  - Structural and functional characteristics of the dopamine D4 receptor.
+PG  - 486-90
+AD  - Molecular Neurobiology Laboratory, Clarke Institute of Psychiatry,
+     Toronto, Canada.
+FAU - Van Tol, H H
+AU  - Van Tol HH
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Adv Pharmacol
+JID - 9015397
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Recombinant Proteins)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-43-4 (Epinephrine)
+RN  - 51-61-6 (Dopamine)
+SB  - IM
+MH  - Alternative Splicing
+MH  - Animals
+MH  - Binding, Competitive
+MH  - CHO Cells
+MH  - Dopamine/pharmacology
+MH  - Epinephrine/pharmacology
+MH  - Exons
+MH  - Hamsters
+MH  - Humans
+MH  - Mutagenesis, Site-Directed
+MH  - Norepinephrine/pharmacology
+MH  - Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/chemistry/genetics/*physiology
+MH  - Recombinant Proteins/chemistry/metabolism
+MH  - Transfection
+MH  - Variation (Genetics)
+EDAT- 1997/11/05
+MHDA- 1997/11/05 00:01
+PST - ppublish
+SO  - Adv Pharmacol 1998;42:486-90.
+NR 
+--------------------------------------------------------------------------------
+39: Sander T et al. Dopamine D4 receptor exon III...[PMID: 9342196]  Related Articles, Books, LinkOut 
+PMID- 9342196
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971120
+DCOM- 19971120
+LR  - 20041204
+PUBM- Print
+IS  - 0148-7299
+VI  - 74
+IP  - 5
+DP  - 1997 Sep 19
+TI  - Dopamine D4 receptor exon III alleles and variation of novelty seeking in
+     alcoholics.
+PG  - 483-7
+AB  - A dysfunction of dopaminergic neurotansmission has been implicated in
+     alcohol-seeking behavior. Recently, a significant association between the
+     seven-repeat allele (DRD4*7R) of a 16 amino acid motif in the third exon
+     of the dopamine D4 receptor gene (DRD4) and the personality trait of
+     novelty seeking has been reported. Our population-based association study
+     tested the hypothesis that the DRD4*7R variant predisposes to high levels
+     of novelty seeking, which may underlie alcohol-seeking behavior. The
+     genotypes of the expressed DRD4 exon III polymorphism were determined in
+     197 German controls and 252 German alcohol-dependent males, of whom 92
+     alcoholics completed the tridimensional personality questionnaire. We
+     found no significant differences in the DRD4*7R frequencies between
+     controls and alcoholics, including two subgroups (56 alcoholics with
+     dissocial personality disorder according to ICD-10 and 89 alcoholics with
+     severe withdrawal symptoms) with a high level of novelty seeking. The
+     novelty-seeking scores did not differ significantly between alcoholics
+     (including both subgroups) carrying long alleles with six or more repeats
+     compared with those lacking long alleles. The present results do not
+     provide evidence that the DRD4*7R allele contributes a common and relevant
+     effect to alcohol-seeking behavior in our sample of alcoholics.
+AD  - Department of Psychiatry, University Hospital Benjamin Franklin, Berlin,
+     Germany.
+FAU - Sander, T
+AU  - Sander T
+FAU - Harms, H
+AU  - Harms H
+FAU - Dufeu, P
+AU  - Dufeu P
+FAU - Kuhn, S
+AU  - Kuhn S
+FAU - Rommelspacher, H
+AU  - Rommelspacher H
+FAU - Schmidt, L G
+AU  - Schmidt LG
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Med Genet
+JID - 7708900
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Alcoholism/*genetics/*psychology
+MH  - *Alleles
+MH  - *Exons
+MH  - *Exploratory Behavior
+MH  - Humans
+MH  - Male
+MH  - Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Risk
+EDAT- 1997/10/28 22:43
+MHDA- 2000/06/20 09:00
+AID - 10.1002/(SICI)1096-8628(19970919)74:5<483::AID-AJMG5>3.0.CO;2-P [pii]
+PST - ppublish
+SO  - Am J Med Genet 1997 Sep 19;74(5):483-7.
+DR 
+--------------------------------------------------------------------------------
+40: Rubinstein M et al. Mice lacking dopamine D4 rece...[PMID: 9323127]  Related Articles, Compound via MeSH, Substance via MeSH, OMIM, Cited in PMC, Books, LinkOut 
+PMID- 9323127
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971020
+DCOM- 19971020
+LR  - 20041204
+PUBM- Print
+IS  - 0092-8674
+VI  - 90
+IP  - 6
+DP  - 1997 Sep 19
+TI  - Mice lacking dopamine D4 receptors are supersensitive to ethanol, cocaine,
+     and methamphetamine.
+PG  - 991-1001
+AB  - The human dopamine D4 receptor (D4R) has received considerable attention
+     because of its high affinity for the atypical antipsychotic clozapine and
+     the unusually polymorphic nature of its gene. To clarify the in vivo role
+     of the D4R, we produced and analyzed mutant mice (D4R-/-) lacking this
+     protein. Although less active in open field tests, D4R-/- mice
+     outperformed wild-type mice on the rotarod and displayed locomotor
+     supersensitivity to ethanol, cocaine, and methamphetamine. Biochemical
+     analyses revealed that dopamine synthesis and its conversion to DOPAC were
+     elevated in the dorsal striatum from D4R-/- mice. Based on these findings,
+     we propose that the D4R modulates normal, coordinated and drug-stimulated
+     motor behaviors as well as the activity of nigrostriatal dopamine neurons.
+AD  - Instituto de Investigaciones en Ingenieria Genetica y Biologia Molecular,
+     CONICET, and Depto. Quimica Biologica, FCEyN, Universidad de Buenos Aires,
+     Argentina.
+FAU - Rubinstein, M
+AU  - Rubinstein M
+FAU - Phillips, T J
+AU  - Phillips TJ
+FAU - Bunzow, J R
+AU  - Bunzow JR
+FAU - Falzone, T L
+AU  - Falzone TL
+FAU - Dziewczapolski, G
+AU  - Dziewczapolski G
+FAU - Zhang, G
+AU  - Zhang G
+FAU - Fang, Y
+AU  - Fang Y
+FAU - Larson, J L
+AU  - Larson JL
+FAU - McDougall, J A
+AU  - McDougall JA
+FAU - Chester, J A
+AU  - Chester JA
+FAU - Saez, C
+AU  - Saez C
+FAU - Pugsley, T A
+AU  - Pugsley TA
+FAU - Gershanik, O
+AU  - Gershanik O
+FAU - Low, M J
+AU  - Low MJ
+FAU - Grandy, D K
+AU  - Grandy DK
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Cell
+JID - 0413066
+RN  - 0 (Antipsychotic Agents)
+RN  - 0 (Central Nervous System Depressants)
+RN  - 0 (Dopamine Agents)
+RN  - 0 (Levodopa)
+RN  - 0 (Narcotics)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 102-32-9 (3,4-Dihydroxyphenylacetic Acid)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 50-36-2 (Cocaine)
+RN  - 51-61-6 (Dopamine)
+RN  - 537-46-2 (Methamphetamine)
+RN  - 5786-21-0 (Clozapine)
+RN  - 64-17-5 (Ethanol)
+SB  - IM
+MH  - 3,4-Dihydroxyphenylacetic Acid/metabolism
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Antipsychotic Agents/pharmacology
+MH  - Behavior, Animal/drug effects
+MH  - Central Nervous System Depressants/*pharmacology
+MH  - Clozapine/pharmacology
+MH  - Cocaine/*pharmacology
+MH  - Corpus Striatum/anatomy & histology/chemistry/metabolism
+MH  - Dopamine/metabolism
+MH  - Dopamine Agents/*pharmacology
+MH  - Ethanol/*pharmacology
+MH  - Genotype
+MH  - Humans
+MH  - Levodopa/analysis/pharmacokinetics
+MH  - Locomotion/drug effects
+MH  - Maternal Behavior/drug effects
+MH  - Methamphetamine/*pharmacology
+MH  - Mice
+MH  - Mice, Knockout
+MH  - Molecular Sequence Data
+MH  - Motor Activity/drug effects
+MH  - Mutagenesis, Site-Directed/physiology
+MH  - Narcotics/*pharmacology
+MH  - Nucleus Accumbens/chemistry/metabolism
+MH  - Receptors, Dopamine D2/deficiency/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, Non-P.H.S.
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Sensitivity and Specificity
+MH  - Substantia Nigra/anatomy & histology/chemistry/metabolism
+MH  - Transcription, Genetic/genetics
+EDAT- 1997/10/10
+MHDA- 1997/10/10 00:01
+PST - ppublish
+SO  - Cell 1997 Sep 19;90(6):991-1001.
+DR 
+--------------------------------------------------------------------------------
+41: Pascual J et al. [Neurochemistry of Parkinson'...[PMID: 9280680]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 9280680
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970904
+DCOM- 19970904
+LR  - 20041117
+PUBM- Print
+IS  - 0210-0010
+VI  - 25 Suppl 2
+DP  - 1997 Aug
+TI  - [Neurochemistry of Parkinson's disease and parkinsonism plus]
+PG  - S141-6
+AB  - The neurochemistry of Parkinson's disease and other degenerative
+     parkinsonisms is reviewed, emphasizing the changes described in the
+     dopaminergic system. Presynaptic dopaminergic markers are reduced over the
+     striatum in all these degenerative parkinsonisms, dopamine receptor
+     changes being more heterogeneous. While in Parkinson's disease D1 and D2
+     receptors remain preserved as compared to controls, in progressive
+     supranuclear palsy there is a loss of nigral D1 receptors and of striatal
+     D2 receptors. This finding has also been described in striatonigral
+     degeneration. There are no clear data about the status of D3, D4 and D5
+     dopamine receptors in these conditions. The alterations in other
+     neurotransmission systems, cholinegic, adrenergic, serotoninergic and
+     peptidergic are, in general, less dramatic, although they have not been
+     studied in detail. To conclude, further studies are necessary in these
+     field, in these moment, however, the preservation of striatal D2 dopamine
+     receptors is the neurochemical finding with the best correlation with the
+     response to levodopa or other dopaminergic agonists.
+AD  - Departamento de Medicina y Psiquiatria, Hospital Universitario Marques de
+     Valdecilla, Santander, Espana.
+FAU - Pascual, J
+AU  - Pascual J
+FAU - Misiego, M
+AU  - Misiego M
+LA  - spa
+PT  - Journal Article
+PT  - Review
+PT  - Review, Tutorial
+TT  - Neuroquimica de la enfermedad de Parkinson y parkinsonismos plus.
+PL  - SPAIN
+TA  - Rev Neurol
+JID - 7706841
+RN  - 0 (Receptors, Dopamine D1)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 51-84-3 (Acetylcholine)
+SB  - IM
+MH  - Acetylcholine/analysis
+MH  - Autoradiography
+MH  - Comparative Study
+MH  - Dopamine/*analysis
+MH  - English Abstract
+MH  - Humans
+MH  - Norepinephrine/analysis
+MH  - Parkinson Disease/*etiology
+MH  - Receptors, Dopamine D1/chemistry
+MH  - Receptors, Dopamine D2/chemistry
+MH  - Substantia Nigra/chemistry
+RF  - 40
+EDAT- 1997/08/01
+MHDA- 1997/08/01 00:01
+PST - ppublish
+SO  - Rev Neurol 1997 Aug;25 Suppl 2:S141-6.
+NR 
+--------------------------------------------------------------------------------
+42: Watts VJ et al. Activation of type II adenyla...[PMID: 9271339]  Related Articles, Compound via MeSH, Substance via MeSH, Cited in PMC, Books, LinkOut 
+PMID- 9271339
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970905
+DCOM- 19970905
+LR  - 20041204
+PUBM- Print
+IS  - 0026-895X
+VI  - 52
+IP  - 2
+DP  - 1997 Aug
+TI  - Activation of type II adenylate cyclase by D2 and D4 but not D3 dopamine
+     receptors.
+PG  - 181-6
+AB  - The D2-like dopamine receptors couple to a variety of signal transduction
+     pathways, including inhibition of adenylate cyclase, mitogenesis, and
+     activation of potassium channels. Although these effects are mediated via
+     pertussis toxin-sensitive G proteins, G(i/o), it is likely that some of
+     these effects are influenced by the release of G protein betagamma
+     subunits. Type II adenylate cyclase (ACII) is highly regulated by multiple
+     biochemical stimuli, including protein kinase C, forskolin, G protein
+     alpha subunits, and G protein betagamma subunits. The ability of betagamma
+     subunits to activate this enzyme in the presence of activated alpha(s) has
+     been particularly well characterized. Although stimulation by betagamma
+     subunits has been described as conditional on the presence of activated
+     alpha(s), betagamma subunits also potentiate ACII activity after
+     activation of protein kinase C. We created stable cell lines expressing
+     ACII and the D2L receptor, the D3 receptor, or the D4.4 receptor.
+     Activation of D2L or D4.4 receptors, but not D3 receptors, potentiated
+     beta-adrenergic receptor/Gs-stimulated activity of ACII, as measured by
+     the intracellular accumulation of cAMP. Similarly, stimulation of D2L or
+     D4.4 receptors potentiated phorbol ester-stimulated ACII activity in the
+     absence of activated alpha(s), whereas stimulation of D3 receptors did
+     not. The effect of D2-like receptor stimulation was blocked by
+     pretreatment with pertussis toxin and by inhibition of protein kinase C.
+     We propose that activation of both D2L and D4.4 dopamine receptors
+     potentiated phorbol-12-myristate-13-acetate-stimulated ACII activity
+     through the release of betagamma subunits from pertussis toxin-sensitive G
+     proteins. In contrast, the lack of D3 receptor-mediated effects suggests
+     that stimulation of D3 receptors does not result in an appreciable release
+     of betagamma subunits.
+AD  - Veterans Affairs Medical Center and Department of Behavioral Neuroscience,
+     Oregon Health Sciences University, Portland 97201, USA. wattsv@ohsu.edu
+FAU - Watts, V J
+AU  - Watts VJ
+FAU - Neve, K A
+AU  - Neve KA
+LA  - eng
+GR  - T32 DA07262/DA/NIDA
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Mol Pharmacol
+JID - 0035623
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (receptors, dopamine D3)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 16561-29-8 (Tetradecanoylphorbol Acetate)
+RN  - 51-61-6 (Dopamine)
+RN  - 60-92-4 (Cyclic AMP)
+RN  - 7683-59-2 (Isoproterenol)
+RN  - 85760-74-3 (Quinpirole)
+RN  - EC 2.7.1.37 (Protein Kinase C)
+RN  - EC 4.6.1.1 (Adenylate Cyclase)
+SB  - IM
+MH  - Adenylate Cyclase/*metabolism
+MH  - Cell Line
+MH  - Cyclic AMP/metabolism
+MH  - Dopamine/pharmacology
+MH  - Drug Synergism
+MH  - Enzyme Activation
+MH  - Humans
+MH  - Isoproterenol/pharmacology
+MH  - Protein Kinase C/physiology
+MH  - Quinpirole/pharmacology
+MH  - Receptors, Dopamine D2/*physiology
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, Non-P.H.S.
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Tetradecanoylphorbol Acetate/pharmacology
+MH  - Transfection
+EDAT- 1997/08/01
+MHDA- 1997/08/01 00:01
+PST - ppublish
+SO  - Mol Pharmacol 1997 Aug;52(2):181-6.
+NR 
+--------------------------------------------------------------------------------
+43: Dobashi I et al. Alcoholism and gene polymorph...[PMID: 9285967]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 9285967
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971016
+DCOM- 19971016
+LR  - 20050119
+PUBM- Print
+IS  - 0955-8829
+VI  - 7
+IP  - 2
+DP  - 1997 Summer
+TI  - Alcoholism and gene polymorphisms related to central dopaminergic
+     transmission in the Japanese population.
+PG  - 87-91
+AB  - We examined the association between gene polymorphisms related to central
+     dopaminergic transmission and alcoholism in the Japanese population.
+     Polymorphic gene loci examined included those encoding the dopamine D2
+     receptor (NcoI site and Ser-Cys site), the dopamine D3 receptor (BalI
+     site), the dopamine D4 receptor (48 bp tandem repeat) and the dopamine
+     transporter (40 bp tandem repeat). The genotype distribution at the NcoI
+     site in the dopamine D2 receptor gene differed significantly (p < 0.5)
+     between alcoholic patients and control subjects. The frequency of 7
+     repeats at the 40 bp/DAT tended to be higher (p < 0.1), and that of 9
+     repeats tended to be lower (p < 0.1) in alcoholic patients than in control
+     subjects. The possible effects of dopamine-related gene polymorphisms,
+     which might predispose individuals to alcoholism, are discussed.
+AD  - National Institute of Mental Health, National Center of Neurology and
+     Psychiatry, Chiba, Japan.
+FAU - Dobashi, I
+AU  - Dobashi I
+FAU - Inada, T
+AU  - Inada T
+FAU - Hadano, K
+AU  - Hadano K
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - Psychiatr Genet
+JID - 9106748
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Membrane Glycoproteins)
+RN  - 0 (Membrane Transport Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (dopamine transporter proteins)
+RN  - 0 (receptors, dopamine D3)
+RN  - 51-61-6 (Dopamine)
+RN  - 52-90-4 (Cysteine)
+RN  - 56-45-1 (Serine)
+SB  - IM
+MH  - Alcoholism/*genetics
+MH  - Amino Acid Sequence
+MH  - Carrier Proteins/*genetics
+MH  - Cysteine
+MH  - Dopamine/metabolism
+MH  - Genotype
+MH  - Humans
+MH  - Japan
+MH  - *Membrane Glycoproteins
+MH  - *Membrane Transport Proteins
+MH  - *Nerve Tissue Proteins
+MH  - Polymerase Chain Reaction
+MH  - *Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Reference Values
+MH  - Repetitive Sequences, Nucleic Acid
+MH  - Restriction Mapping
+MH  - Serine
+EDAT- 1997/07/01
+MHDA- 1997/07/01 00:01
+PST - ppublish
+SO  - Psychiatr Genet 1997 Summer;7(2):87-91.
+DR 
+--------------------------------------------------------------------------------
+44: Okuyama S et al. In vitro and in vivo characte...[PMID: 9223539]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 9223539
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970807
+DCOM- 19970807
+LR  - 20041204
+PUBM- Print
+IS  - 0022-3565
+VI  - 282
+IP  - 1
+DP  - 1997 Jul
+TI  - In vitro and in vivo characterization of the dopamine D4 receptor,
+     serotonin 5-HT2A receptor and alpha-1 adrenoceptor antagonist
+     (R)-(+)-2-amino-4-(4-fluorophenyl)-5-[1-[4-(4-fluorophenyl)-4-oxobutyl]
+     pyrrolidin-3-yl]thiazole (NRA0045).
+PG  - 56-63
+AB  - (R)-(+)-2-Amino-4-(4-fluorophenyl)-5-[1-[4-(4-fluorophenyl)-4-oxobutyl]+
+     ++pyrrolidin-3-yl]thiazole (NRA0045), a novel thiazole derivative, has
+     high affinities for the human cloned dopamine D4.2, D4.4 and D4.7
+     receptors, with Ki values of 2.54, 0.55 and 0.54 nM, respectively. NRA0045
+     is approximately 91-fold more potent at the dopamine D4.2 receptor,
+     compared with human cloned dopamine D2L receptor. NRA0045 also has high
+     affinities for the serotonin (5-HT)2A receptor (Ki = 1.92 nM) and alpha-1
+     adrenoceptor (Ki = 1.40 nM) but weak affinities (IC50 values are
+     approximately 1 microM) for six other neurotransmitter receptors
+     (adenosine1, 5-HT1A, 5-HT1C, dopamine transporter, alpha2A and alpha2A)
+     and negligible affinities (IC50 values are over 10(-5) M) for 42 other
+     receptors, including neurotransmitters and hormones, ion channels and
+     second messenger systems. Locomotor hyperactivity induced by
+     methamphetamine (1 mg/kg i.p.) in mice was dose-dependently antagonized by
+     NRA0045 (ED50 = 0.5 mg/kg i.p. and 1.9 mg/kg p.o., respectively).
+     Methamphetamine (10 mg/kg i.p.)-induced stereotyped behavior in mice was
+     dose-dependently antagonized by NRA0045, whereas NRA0045 did not exceed
+     50% inhibition even at the highest dose given (30 mg/kg i.p.). Catalepsy
+     was dose-dependently and significantly induced by NRA0045 in rats, whereas
+     NRA0045 did not exceed 50% induction even at the highest dose given (30
+     mg/kg i.p.). Thus NRA0045 blocks behaviors associated with activation of
+     the mesolimbic/mesocortical dopaminergic neurons more selectively than
+     behaviors associated with nigrostriatal dopaminergic neurons. In rats,
+     tryptamine-induced clonic seizure, a 5-HT2 receptor-mediated behavior, was
+     also dose-dependently inhibited by NRA0045 (ED50 = 1.7 mg/kg i.p.).
+     Norepinephrine-induced lethality is regarded as being induced through the
+     alpha-1 adrenoceptor. NRA0045 dose-dependently antagonized
+     norepinephrine-induced lethality in rats (ED50 = 0.2 mg/kg i.p.). Thus
+     NRA0045 may have a unique antipsychotic activity with regard to dopamine
+     D4 and 5-HT2A receptors and alpha-1 adrenoceptor antagonistic activities,
+     without producing the extrapyramidal side effects.
+AD  - 1st Laboratory, Medicinal Research Laboratories, Taisho Pharmaceutical
+     Co., Ltd., Ohmiya, Saitama, Japan.
+FAU - Okuyama, S
+AU  - Okuyama S
+FAU - Chaki, S
+AU  - Chaki S
+FAU - Yoshikawa, R
+AU  - Yoshikawa R
+FAU - Suzuki, Y
+AU  - Suzuki Y
+FAU - Ogawa, S
+AU  - Ogawa S
+FAU - Imagawa, Y
+AU  - Imagawa Y
+FAU - Kawashima, N
+AU  - Kawashima N
+FAU - Ikeda, Y
+AU  - Ikeda Y
+FAU - Kumagai, T
+AU  - Kumagai T
+FAU - Nakazato, A
+AU  - Nakazato A
+FAU - Nagamine, M
+AU  - Nagamine M
+FAU - Tomisawa, K
+AU  - Tomisawa K
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - J Pharmacol Exp Ther
+JID - 0376362
+RN  - 0 (Adrenergic alpha-Antagonists)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (NRA 0045)
+RN  - 0 (Pyrrolidines)
+RN  - 0 (Receptor, Serotonin, 5-HT2A)
+RN  - 0 (Receptors, Adrenergic, alpha-1)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Receptors, Serotonin)
+RN  - 0 (Serotonin Antagonists)
+RN  - 0 (Thiazoles)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 51-41-2 (Norepinephrine)
+SB  - IM
+MH  - Adrenergic alpha-Antagonists/metabolism/*pharmacology
+MH  - Animals
+MH  - COS Cells
+MH  - Catalepsy/chemically induced
+MH  - Dopamine Antagonists/metabolism/*pharmacology
+MH  - Humans
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred ICR
+MH  - Motor Activity/drug effects
+MH  - Norepinephrine/toxicity
+MH  - Pyrrolidines/metabolism/*pharmacology
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Receptor, Serotonin, 5-HT2A
+MH  - Receptors, Adrenergic, alpha-1/*antagonists & inhibitors
+MH  - Receptors, Dopamine D2/*antagonists & inhibitors
+MH  - Receptors, Serotonin/*drug effects
+MH  - Serotonin Antagonists/metabolism/*pharmacology
+MH  - Stereotyped Behavior/drug effects
+MH  - Thiazoles/metabolism/*pharmacology
+EDAT- 1997/07/01
+MHDA- 1997/07/01 00:01
+PST - ppublish
+SO  - J Pharmacol Exp Ther 1997 Jul;282(1):56-63.
+NR 
+--------------------------------------------------------------------------------
+45: Kramer MS et al. The effects of a selective D4...[PMID: 9193198]  Related Articles, Compound via MeSH, Substance via MeSH, Cited in PMC, Books, LinkOut 
+PMID- 9193198
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970627
+DCOM- 19970627
+LR  - 20041204
+PUBM- Print
+IS  - 0003-990X
+VI  - 54
+IP  - 6
+DP  - 1997 Jun
+TI  - The effects of a selective D4 dopamine receptor antagonist (L-745,870) in
+     acutely psychotic inpatients with schizophrenia. D4 Dopamine Antagonist
+     Group.
+PG  - 567-72
+AB  - BACKGROUND: Based mainly on the selective antagonism of clozapine at D4
+     compared with D2 dopamine receptors, hopes have run high that a selective
+     D4 dopamine receptor antagonist might improve the pharmacological
+     treatment of patients with schizophrenia. We report, to our knowledge, the
+     first multicenter study of the antipsychotic potential of a highly
+     specific D4 dopamine receptor antagonist (ie, L-745,870) in patients with
+     acute schizophrenia. METHODS: Thirty-eight acutely psychotic and
+     neuroleptic responsive (by history) newly admitted inpatients with
+     schizophrenia were randomized to 4 weeks of double-blind treatment (2:1)
+     with either L-745,870 (n = 26), 15 mg/d, or placebo (n = 12) after a 3- to
+     5-day placebo run-in period. RESULTS: Overall, a greater percentage of
+     patients receiving L-745,870 compared with patients receiving placebo
+     discontinued the study for insufficient therapeutic response (32% vs 16%).
+     At the end of 4 weeks by last observation carried forward analysis, the
+     mean change from baseline to week 4 on the total Brief Psychiatric Rating
+     Scale favored placebo (i.e., -8 points [-15% change from baseline] vs -1
+     point [-2% change from baseline] for placebo vs L-745,870, P = .09).
+     Similar differences in favor of placebo in changes from baseline mean
+     scores were observed for the not carried forward analysis on the total
+     Brief Psychiatric Rating Scale (P < .03), for not carried forward and last
+     observation carried forward analyses on the sum of selected positive
+     symptom items of the Brief Psychiatric Rating Scale, and for the Clinical
+     Global Impression analysis (P = .03, last observation carried forward). A
+     greater percentage of patients receiving L-745,870 had scores indicative
+     of some level of worsening (compared with baseline) on the total Brief
+     Psychiatric Rating Scale and the Clinical Global Impressions' Severity of
+     Illness Scale as well as positive symptoms compared with those receiving
+     placebo. CONCLUSION: The selective D4 dopamine receptor antagonist
+     L-745,870 was ineffective as an antipsychotic for the treatment of
+     neuroleptic responsive inpatients with acute schizophrenia.
+AD  - Department of Clinical Neuroscience, Merch & Co Inc., West Point, Pa, USA.
+FAU - Kramer, M S
+AU  - Kramer MS
+FAU - Last, B
+AU  - Last B
+FAU - Getson, A
+AU  - Getson A
+FAU - Reines, S A
+AU  - Reines SA
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Arch Gen Psychiatry
+JID - 0372435
+RN  - 0 (Antipsychotic Agents)
+RN  - 0 (Dopamine Antagonists)
+RN  - 0 (Placebos)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 302-17-0 (Chloral Hydrate)
+RN  - 846-49-1 (Lorazepam)
+SB  - AIM
+SB  - IM
+EIN - Arch Gen Psychiatry 1997 Dec;54(12):1080
+MH  - Acute Disease
+MH  - Adult
+MH  - Antipsychotic Agents/pharmacology/*therapeutic use
+MH  - Chloral Hydrate/therapeutic use
+MH  - Dopamine Antagonists/*therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - *Hospitalization
+MH  - Humans
+MH  - Lorazepam/therapeutic use
+MH  - Male
+MH  - Placebos
+MH  - Psychiatric Status Rating Scales
+MH  - Receptors, Dopamine D2/drug effects
+MH  - Schizophrenia/diagnosis/*drug therapy
+MH  - Schizophrenic Psychology
+MH  - Severity of Illness Index
+MH  - Treatment Outcome
+EDAT- 1997/06/01
+MHDA- 1997/06/01 00:01
+PST - ppublish
+SO  - Arch Gen Psychiatry 1997 Jun;54(6):567-72.
+NR 
+--------------------------------------------------------------------------------
+46: Parsian A et al. No association between polymo...[PMID: 9184311]  Related Articles, Books, LinkOut 
+PMID- 9184311
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970801
+DCOM- 19970801
+LR  - 20041204
+PUBM- Print
+IS  - 0148-7299
+VI  - 74
+IP  - 3
+DP  - 1997 May 31
+TI  - No association between polymorphisms in the human dopamine D3 and D4
+     receptors genes and alcoholism.
+PG  - 281-5
+AB  - The human dopamine D2 receptor gene (DRD2) has received considerable
+     attention for the past several years as a potential candidate that may
+     affect susceptibility to alcoholism. The association studies that compared
+     the frequencies of alleles of DRD2 gene between alcoholics and control
+     groups have produced equivocal results. Dopamine D3 and D4 receptor genes
+     (DRD3 and DRD4) are in the same class as DRD2 but with different
+     pharmacological properties. We have used relative risk and haplotype
+     relative risk approaches to test associations between alleles of DRD3 and
+     DRD4 genes and alcoholism. For relative risk studies 162 probands from
+     multiple incidence alcoholic families have been compared to 89
+     psychiatrically normal controls. Haplotype relative risk approaches have
+     used 29 alcoholic probands in which both parents were available for
+     genotyping. The Bal I restriction enzyme site in DRD3 and tandem repeat
+     (VNTR) in DRD4 genes polymorphisms were used to genotype the above
+     samples. The results of relative risk approaches for both DRD3 and DRD4
+     genes were negative for comparisons of alcoholics and subtypes of
+     alcoholics with normal controls. Haplotype relative risk approaches also
+     were negative for both genes. These results suggest that any role played
+     by these receptors may account for only part of the variation in
+     susceptibility to alcoholism.
+AD  - Department of Psychiatry, Washington University School of Medicine, St.
+     Louis, Missouri 63110, USA.
+FAU - Parsian, A
+AU  - Parsian A
+FAU - Chakraverty, S
+AU  - Chakraverty S
+FAU - Fisher, L
+AU  - Fisher L
+FAU - Cloninger, C R
+AU  - Cloninger CR
+LA  - eng
+GR  - AA09515/AA/NIAAA
+GR  - MH31302/MH/NIMH
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Med Genet
+JID - 7708900
+RN  - 0 (Genetic Markers)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (receptors, dopamine D3)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - EC 3.1.21- (endodeoxyribonuclease BalI)
+RN  - EC 3.1.21.4 (Deoxyribonucleases, Type II Site-Specific)
+SB  - IM
+MH  - Alcoholism/*genetics/psychology
+MH  - Alleles
+MH  - Deoxyribonucleases, Type II Site-Specific/metabolism
+MH  - Family
+MH  - Female
+MH  - Genetic Markers
+MH  - Haplotypes/genetics
+MH  - Humans
+MH  - Male
+MH  - Minisatellite Repeats/genetics
+MH  - Monte Carlo Method
+MH  - Polymorphism, Genetic/*genetics
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Risk Assessment
+EDAT- 1997/05/31
+MHDA- 2000/06/20 09:00
+AID - 10.1002/(SICI)1096-8628(19970531)74:3<281::AID-AJMG8>3.0.CO;2-T [pii]
+PST - ppublish
+SO  - Am J Med Genet 1997 May 31;74(3):281-5.
+DR 
+--------------------------------------------------------------------------------
+47: Kotler M et al. Excess dopamine D4 receptor (...[PMID: 9152990]  Related Articles, Books, LinkOut 
+PMID- 9152990
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970730
+DCOM- 19970730
+LR  - 20041204
+PUBM- Print
+IS  - 1359-4184
+VI  - 2
+IP  - 3
+DP  - 1997 May
+TI  - Excess dopamine D4 receptor (D4DR) exon III seven repeat allele in
+     opioid-dependent subjects.
+PG  - 251-4
+AB  - Only in the past decade has a role of heredity in substance abuse been
+     established as a result of extensive twin and family studies. More
+     recently, several candidate genes have been investigated for their
+     possible role in alcoholism and cocaine abuse. Specific genetic factors in
+     opioid substance abuse have not been investigated in man, although animal
+     studies suggest that quantitative trait loci (QTLs) can be identified that
+     predispose mice both to morphine and alcohol preference. Central
+     dopaminergic pathways figure prominently in drug-mediated reinforcement
+     suggesting that dopamine receptors are likely candiadates for association
+     with substance abuse in man. In addition, we recently reported an
+     association between a human personality trait, Novelty Seeking and the
+     long alleles (represented chiefly by the 7-repeat) of the D4 dopamine
+     receptor (D4DR) exon III polymorphism. The personality trait of Novelty
+     Seeking is also more pronounced in substance abusers, who score higher in
+     this dimension than control subjects. The twin role of dopamine receptors
+     in mediating Novelty Seeking and drugreinforcement prompted us to examine
+     a group of Israeli heroin addicts for prevalence of the D4DR repeat
+     polymorphism. We now show that the 7-repeat allele is significantly
+     over-represented in the opioid-dependent cohort and confers a relative
+     risk of 2.46. To our knowledge this is the first report of an association
+     between a specific genetic polymorphism and opioid addiction.
+AD  - Beersheva Mental Health Center, Faculty of Health Sciences, Ben-Gurion
+     University of the Negev, Israel.
+FAU - Kotler, M
+AU  - Kotler M
+FAU - Cohen, H
+AU  - Cohen H
+FAU - Segman, R
+AU  - Segman R
+FAU - Gritsenko, I
+AU  - Gritsenko I
+FAU - Nemanov, L
+AU  - Nemanov L
+FAU - Lerer, B
+AU  - Lerer B
+FAU - Kramer, I
+AU  - Kramer I
+FAU - Zer-Zion, M
+AU  - Zer-Zion M
+FAU - Kletz, I
+AU  - Kletz I
+FAU - Ebstein, R P
+AU  - Ebstein RP
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - Mol Psychiatry
+JID - 9607835
+RN  - 0 (Narcotics)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+MH  - Adult
+MH  - Alleles
+MH  - Animals
+MH  - Exons/*genetics
+MH  - Humans
+MH  - Male
+MH  - Mice
+MH  - Narcotics/*pharmacology
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Substance-Related Disorders/*genetics
+EDAT- 1997/05/01
+MHDA- 1997/05/01 00:01
+PST - ppublish
+SO  - Mol Psychiatry 1997 May;2(3):251-4.
+PR 
+--------------------------------------------------------------------------------
+48: Chang FM et al. The dopamine D4 receptor gene...[PMID: 9034534]  Related Articles, Books, LinkOut 
+PMID- 9034534
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970430
+DCOM- 19970430
+LR  - 20041117
+PUBM- Print
+IS  - 0006-3223
+VI  - 41
+IP  - 4
+DP  - 1997 Feb 15
+TI  - The dopamine D4 receptor gene (DRD4) is not associated with alcoholism in
+     three Taiwanese populations: six polymorphisms tested separately and as
+     haplotypes.
+PG  - 394-405
+AB  - The dopaminergic system has been implicated in alcoholism but studies at
+     the dopamine D2 receptor gene (DRD2), one of the five dopamine receptors,
+     have not given a consistent picture of an association with alcoholism. We
+     have now studied the dopamine D4 receptor gene (DRD4) using six
+     polymorphisms, both separately and as haplotypes. Three groups of
+     alcoholics from Taiwan (Atayal, Ami, and Han) diagnosed as having severe
+     alcohol dependence using DSM-III-R criteria, together with nonalcoholics
+     matched for gender, ethnic group, and geographic origin, were typed by
+     polymerase chain reaction (PCR) and/or PCR-restriction fragment length
+     polymorphism (RFLP) for all six polymorphisms. Three out of six markers
+     are polymorphic in all three Taiwanese populations. Although the
+     prevalence rates of alcoholism are remarkably different, no highly
+     significant association of this locus with alcoholism was observed in any
+     of the three groups whether the analysis considered genotype distributions
+     or allele frequencies at the three polymorphic markers considered
+     individually and as haplotypes. Neither is there any obvious pattern in
+     the data that covaries with or hints at a relationship with the very
+     different prevalences of alcoholism in the groups studied. Especially
+     because the powerful, multi-site haplotype analysis was not statistically
+     significant in any of the population samples, we conclude that there is no
+     association of the DRD4 locus with alcoholism in Taiwanese populations.
+AD  - Department of Genetics, Yale University School of Medicine, New Haven,
+     Connecticut 06520-8005, USA.
+FAU - Chang, F M
+AU  - Chang FM
+FAU - Ko, H C
+AU  - Ko HC
+FAU - Lu, R B
+AU  - Lu RB
+FAU - Pakstis, A J
+AU  - Pakstis AJ
+FAU - Kidd, K K
+AU  - Kidd KK
+LA  - eng
+GR  - AA09379/AA/NIAAA
+GR  - MH30929/MH/NIMH
+GR  - MH39239/MH/NIMH
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Biol Psychiatry
+JID - 0213264
+RN  - 0 (Receptors, Dopamine)
+SB  - IM
+MH  - Alcoholism/*diagnosis/*genetics
+MH  - Alleles
+MH  - Comparative Study
+MH  - Exons
+MH  - Genotype
+MH  - *Haplotypes
+MH  - Humans
+MH  - Molecular Biology
+MH  - *Polymorphism, Genetic
+MH  - Psychiatric Status Rating Scales
+MH  - Receptors, Dopamine/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Taiwan
+EDAT- 1997/02/15
+MHDA- 1997/02/15 00:01
+AID - S000632239600248X [pii]
+PST - ppublish
+SO  - Biol Psychiatry 1997 Feb 15;41(4):394-405.
+DR 
+--------------------------------------------------------------------------------
+49: Geijer T et al. Tyrosine hydroxylase and dopa...[PMID: 9046370]  Related Articles, Books, LinkOut 
+PMID- 9046370
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970521
+DCOM- 19970521
+LR  - 20041204
+PUBM- Print
+IS  - 0145-6008
+VI  - 21
+IP  - 1
+DP  - 1997 Feb
+TI  - Tyrosine hydroxylase and dopamine D4 receptor allelic distribution in
+     Scandinavian chronic alcoholics.
+PG  - 35-9
+AB  - Associations of polymorphic genetic markers at the tyrosine hydroxylase
+     (TH) and dopamine D4 receptor (DRD4) loci were examined in Scandinavian
+     chronic alcoholics (n = 72) and control subjects (n = 67). Patients were
+     divided into subgroups with regard to the presence of parental alcoholism
+     and age of onset. Neither the TH nor the DRD4 allele distributions were
+     significantly different when alcoholic samples were compared with control
+     subjects. However, a tendency to high prevalence for 1 of the 5 TH alleles
+     assayed (TH-K3) was observed in a subsample of 44 alcoholics characterized
+     by late onset when compared with control subjects (27.3% vs. 10.6%, p =
+     0.041). Results suggest that no major influence on alcoholism is exerted
+     through genes associated with the DRD4 or TH allelic markers examined.
+AD  - Department of Clinical Neuroscience, Huddinge University Hospital,
+     Stockholm, Sweden.
+FAU - Geijer, T
+AU  - Geijer T
+FAU - Jonsson, E
+AU  - Jonsson E
+FAU - Neiman, J
+AU  - Neiman J
+FAU - Persson, M L
+AU  - Persson ML
+FAU - Brene, S
+AU  - Brene S
+FAU - Gyllander, A
+AU  - Gyllander A
+FAU - Sedvall, G
+AU  - Sedvall G
+FAU - Rydberg, U
+AU  - Rydberg U
+FAU - Wasserman, D
+AU  - Wasserman D
+FAU - Terenius, L
+AU  - Terenius L
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Alcohol Clin Exp Res
+JID - 7707242
+RN  - 0 (Genetic Markers)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - EC 1.14.16.2 (Tyrosine 3-Monooxygenase)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Alcoholism/classification/*genetics
+MH  - *Alleles
+MH  - Female
+MH  - Genetic Markers/*genetics
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Sweden
+MH  - Tyrosine 3-Monooxygenase/*genetics
+EDAT- 1997/02/01
+MHDA- 1997/02/01 00:01
+AID - 00000374-199702000-00005 [pii]
+PST - ppublish
+SO  - Alcohol Clin Exp Res 1997 Feb;21(1):35-9.
+DR 
+--------------------------------------------------------------------------------
+50: Lanau F et al. Epinephrine and norepinephrin...[PMID: 9003072]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 9003072
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970221
+DCOM- 19970221
+LR  - 20041204
+PUBM- Print
+IS  - 0022-3042
+VI  - 68
+IP  - 2
+DP  - 1997 Feb
+TI  - Epinephrine and norepinephrine act as potent agonists at the recombinant
+     human dopamine D4 receptor.
+PG  - 804-12
+AB  - The catecholamines dopamine (DA), epinephrine (EP), and norepinephrine
+     (NE) play important roles in learning and memory, emotional states, and
+     control of voluntary movement, as well as cardiovascular and kidney
+     function. They activate distinct but overlapping neuronal pathways through
+     five distinct DA receptors (D1R-D5R) and at least 10 different adrenergic
+     receptors (alpha 1a/b/c, alpha 2a/b/c-1/c-2, and beta 1/beta 2/beta 3).
+     The D4R, which is localized to mesolimbic areas of the brain implicated in
+     affective and emotional behavior, has a deduced amino acid sequence with
+     homology to both adrenergic and dopaminergic receptor subtypes. We report
+     here that DA, EP, and NE all show binding in the nanomolar range to three
+     isoforms of the recombinant human D4R (hD4R): D4.2, D4.4, and D4.7.
+     Submicromolar concentrations of DA, EP, and NE were sufficient to activate
+     hD4R isoforms in two different functional assays: agonist-induced
+     guanosine 5'-O-(3-[35S]thiotriphosphate) binding and modulation of
+     adenylyl cyclase activity. DA was approximately fivefold more potent than
+     EP and NE at the D4R, whereas activation of the human D2R required at
+     least 100-fold higher catecholamine concentrations. Functional activation
+     of the D4R by multiple neurotransmitters may provide a novel mechanism for
+     integration of catecholamine signaling in the brain and periphery.
+AD  - F. Hoffmann-La Roche AG, Basel, Switzerland.
+FAU - Lanau, F
+AU  - Lanau F
+FAU - Zenner, M T
+AU  - Zenner MT
+FAU - Civelli, O
+AU  - Civelli O
+FAU - Hartman, D S
+AU  - Hartman DS
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - J Neurochem
+JID - 2985190R
+RN  - 0 (Adrenergic alpha-Agonists)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Recombinant Proteins)
+RN  - 10028-17-8 (Tritium)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 37589-80-3 (Guanosine 5'-O-(3-Thiotriphosphate))
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-43-4 (Epinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 60-92-4 (Cyclic AMP)
+RN  - 66428-89-5 (Forskolin)
+SB  - IM
+MH  - Adrenergic alpha-Agonists/metabolism/*pharmacology
+MH  - Animals
+MH  - Binding, Competitive/physiology
+MH  - CHO Cells/chemistry/physiology
+MH  - Cyclic AMP/metabolism
+MH  - Dopamine/metabolism/pharmacology
+MH  - Epinephrine/metabolism/*pharmacology
+MH  - Forskolin/pharmacology
+MH  - Guanosine 5'-O-(3-Thiotriphosphate)/metabolism/pharmacology
+MH  - Hamsters
+MH  - Humans
+MH  - Membrane Proteins/metabolism
+MH  - Norepinephrine/metabolism/*pharmacology
+MH  - Receptors, Dopamine D2/*agonists/metabolism
+MH  - Recombinant Proteins/drug effects/metabolism
+MH  - Signal Transduction/drug effects
+MH  - Tritium/diagnostic use
+EDAT- 1997/02/01
+MHDA- 1997/02/01 00:01
+PST - ppublish
+SO  - J Neurochem 1997 Feb;68(2):804-12.
+NR 
+--------------------------------------------------------------------------------
+51: Newman-Tancredi A et al. Noradrenaline and adrenaline ...[PMID: 9042615]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 9042615
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970922
+DCOM- 19970922
+LR  - 20041204
+PUBM- Print
+IS  - 0014-2999
+VI  - 319
+IP  - 2-3
+DP  - 1997 Jan 29
+TI  - Noradrenaline and adrenaline are high affinity agonists at dopamine D4
+     receptors.
+PG  - 379-83
+AB  - The activity of monoamine neurotransmitters was examined at dopamine D4
+     receptors. In competition binding with [3H]spiperone, noradrenaline and
+     adrenaline exhibited a high affinity binding component (KH = 12.1 nM and
+     5.0 nM, respectively), similar to that of dopamine (KH = 2.6 nM), whereas
+     serotonin (5-hydroxytryptamine, 5-HT) and histamine had low affinity (Ki >
+     1000 nM). Noradrenaline and adrenaline acted as agonists at dopamine D4
+     receptors, stimulating receptor-mediated
+     [35S]guanylyl-gamma-thiotriphosphate ([35S]GTP gamma S) binding (EC50 =
+     7.8 and 5.8 microM, respectively, versus 0.1 microM for dopamine). The
+     dopamine D4 receptor-selective ligand,
+     3-(4-[4-chlorophenyl]piperazin-1-yl)methyl-1H-pyrrolo[2,3b]-pyridi ne (L
+     745,870) and the dopaminergic antagonists, spiperone, haloperidol and
+     clozapine, inhibited noradrenaline-stimulated [35S]GTP gamma S binding
+     whereas alpha 1-, alpha 2- and beta-adrenoceptor antagonists did not.
+     These results indicate that dopamine D4 receptors are activated by
+     noradrenaline and adrenaline, although at 50-100-fold higher
+     concentrations than dopamine.
+AD  - Department of Psychopharmacology, Institut de Recherches Servier,
+     Croissy-sur-Seine, Paris, France. 101511,274@compuserve.com
+FAU - Newman-Tancredi, A
+AU  - Newman-Tancredi A
+FAU - Audinot-Bouchez, V
+AU  - Audinot-Bouchez V
+FAU - Gobert, A
+AU  - Gobert A
+FAU - Millan, M J
+AU  - Millan MJ
+LA  - eng
+PT  - Journal Article
+PL  - NETHERLANDS
+TA  - Eur J Pharmacol
+JID - 1254354
+RN  - 0 (3-((4-(4-chlorophenyl)piperazin-1-yl)methyl)-1H-pyrrolo(2,3-b)pyridine)
+RN  - 0 (Dopamine Agonists)
+RN  - 0 (Ligands)
+RN  - 0 (Pyridines)
+RN  - 0 (Pyrroles)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 0 (Sulfur Radioisotopes)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 37589-80-3 (Guanosine 5'-O-(3-Thiotriphosphate))
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-43-4 (Epinephrine)
+SB  - IM
+MH  - Animals
+MH  - Binding, Competitive/drug effects
+MH  - CHO Cells
+MH  - Cell Membrane/drug effects/metabolism
+MH  - Dopamine Agonists/*pharmacology
+MH  - Epinephrine/*pharmacology
+MH  - Guanosine 5'-O-(3-Thiotriphosphate)/pharmacology
+MH  - Hamsters
+MH  - Humans
+MH  - Ligands
+MH  - Norepinephrine/*pharmacology
+MH  - Pyridines/pharmacology
+MH  - Pyrroles/pharmacology
+MH  - Receptors, Dopamine D2/*agonists
+MH  - Sulfur Radioisotopes/diagnostic use
+MH  - Thermodynamics
+EDAT- 1997/01/29
+MHDA- 1997/01/29 00:01
+PST - ppublish
+SO  - Eur J Pharmacol 1997 Jan 29;319(2-3):379-83.
+NR 
+--------------------------------------------------------------------------------
+52: Jonsson E et al. Dopamine-related genes and th...[PMID: 8915563]  Related Articles, Compound via MeSH, Substance via MeSH, Cited in PMC, Books, LinkOut 
+PMID- 8915563
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970513
+DCOM- 19970513
+LR  - 20041117
+PUBM- Print
+IS  - 0006-3223
+VI  - 40
+IP  - 10
+DP  - 1996 Nov 15
+TI  - Dopamine-related genes and their relationships to monoamine metabolites in
+     CSF.
+PG  - 1032-43
+AB  - Monoamine metabolite (MM) levels in lumbar cerebrospinal fluid (CSF) are
+     extensively used as indirect estimates of monoamine turnover in the brain.
+     In this study we investigated genotypes for DNA polymorphisms in the D2
+     (DRD2), D3 (DRD3), and D4 (DRD4) dopamine receptor and tyrosine
+     hydroxylase (TH) genes and their relationships to CSF MM in healthy
+     volunteers (n = 66). Concentrations of homovanillic acid (HVA),
+     3-methoxy-4-hydroxyphenylglycol (MHPG), and 5-hydroxyindoleacetic acid
+     (5-HIAA) were corrected for back length, a confounding variable. Corrected
+     MM levels were not related to age, gender, height, weight heredity, season
+     or atmospheric pressure at sampling. Individuals with specific DRD2 and TH
+     allele and genotype configurations significantly differed in HVA and MHPG
+     concentrations. DRD3 homo- and heterozygotic genotypes had significantly
+     different CSF 5-HIAA levels. DRD4 genotypes were not related to MM
+     concentrations. The results suggest that specific DRD2, DRD3, and TH
+     genotypes participate in the regulation of monoamine turnover in the
+     central nervous system. Accordingly monoamine receptors and synthesizing
+     enzyme genotypes appear to be variance factors influencing MM
+     concentrations in CSF. The relationships found in this study support MM
+     concentrations as markers for monoamine transmission in the human brain.
+AD  - Department of Clinical Neuroscience, Karolinska Institute, Stockholm,
+     Sweden.
+FAU - Jonsson, E
+AU  - Jonsson E
+FAU - Sedvall, G
+AU  - Sedvall G
+FAU - Brene, S
+AU  - Brene S
+FAU - Gustavsson, J P
+AU  - Gustavsson JP
+FAU - Geijer, T
+AU  - Geijer T
+FAU - Terenius, L
+AU  - Terenius L
+FAU - Crocq, M A
+AU  - Crocq MA
+FAU - Lannfelt, L
+AU  - Lannfelt L
+FAU - Tylec, A
+AU  - Tylec A
+FAU - Sokoloff, P
+AU  - Sokoloff P
+FAU - Schwartz, J C
+AU  - Schwartz JC
+FAU - Wiesel, F A
+AU  - Wiesel FA
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Biol Psychiatry
+JID - 0213264
+RN  - 0 (Biogenic Monoamines)
+RN  - 0 (Receptors, Dopamine)
+RN  - 306-08-1 (Homovanillic Acid)
+RN  - 51-61-6 (Dopamine)
+RN  - 534-82-7 (Methoxyhydroxyphenylglycol)
+RN  - 54-16-0 (Hydroxyindoleacetic Acid)
+RN  - EC 1.14.16.2 (Tyrosine 3-Monooxygenase)
+SB  - IM
+MH  - Adult
+MH  - Biogenic Monoamines/*cerebrospinal fluid/metabolism
+MH  - Cerebrospinal Fluid/*metabolism
+MH  - Dopamine/*genetics
+MH  - Female
+MH  - Genotype
+MH  - Homovanillic Acid/cerebrospinal fluid
+MH  - Humans
+MH  - Hydroxyindoleacetic Acid/cerebrospinal fluid
+MH  - Male
+MH  - Mental Disorders/genetics
+MH  - Methoxyhydroxyphenylglycol/cerebrospinal fluid
+MH  - Middle Aged
+MH  - Polymorphism, Genetic
+MH  - Receptors, Dopamine/*genetics
+MH  - Research Support, Non-U.S. Gov't
+MH  - Seasons
+MH  - Tyrosine 3-Monooxygenase/*genetics
+EDAT- 1996/11/15
+MHDA- 1996/11/15 00:01
+AID - 0006322395005811 [pii]
+PST - ppublish
+SO  - Biol Psychiatry 1996 Nov 15;40(10):1032-43.
+NR 
+--------------------------------------------------------------------------------
+53: Malhotra AK et al. The association between the d...[PMID: 9154232]  Related Articles, Books, LinkOut 
+PMID- 9154232
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970609
+DCOM- 19970609
+LR  - 20041204
+PUBM- Print
+IS  - 1359-4184
+VI  - 1
+IP  - 5
+DP  - 1996 Nov
+TI  - The association between the dopamine D4 receptor (D4DR) 16 amino acid
+     repeat polymorphism and novelty seeking.
+PG  - 388-91
+AB  - Ebstein and colleagues have recently reported a significant association
+     between the 7-repeat allele of the dopamine D4 receptor (D4DR) 16 amino
+     acid repeat polymorphism and the personality trait of Novelty Seeking (NS)
+     in 124 Israeli subjects. This study, and another study conducted in the US
+     (although with a different personality measure) that observed a similar
+     association, have generated wide interest in the identification of the
+     genes involved in personality variation. We have determined D4DR genotypes
+     in two groups of Finnish subjects; 193 psychiatrically screened normal
+     controls and 138 alcoholic offenders and assessed NS with the
+     Tridimensional Personality Questionnaire (TPQ). In normals, we find no
+     significant association between NS and the 7-repeat allele despite similar
+     allele frequencies and the use of the same personality measure as Ebstein
+     et al. The group of alcoholic offenders have significantly higher NS than
+     normals, however we fail to replicate the previous association in this
+     group and, in fact, find a significant association in the opposite
+     direction as previously observed. These data suggest that D4DR may require
+     re-evaluation as a candidate gene for personality variation.
+AD  - Experimental Therapeutics Branch, NIMH, Bethesda, MD 20892, USA.
+FAU - Malhotra, A K
+AU  - Malhotra AK
+FAU - Virkkunen, M
+AU  - Virkkunen M
+FAU - Rooney, W
+AU  - Rooney W
+FAU - Eggert, M
+AU  - Eggert M
+FAU - Linnoila, M
+AU  - Linnoila M
+FAU - Goldman, D
+AU  - Goldman D
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - Mol Psychiatry
+JID - 9607835
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+SB  - IM
+CIN - Mol Psychiatry. 2001 Nov;6(6):618-9. PMID: 11673788
+MH  - Adult
+MH  - Alleles
+MH  - Exploratory Behavior/*physiology
+MH  - Finland
+MH  - Genotype
+MH  - Humans
+MH  - Linkage (Genetics)
+MH  - Male
+MH  - Personality/genetics
+MH  - Personality Tests
+MH  - *Polymorphism, Genetic
+MH  - Receptors, Dopamine D2/*genetics
+EDAT- 1996/11/01
+MHDA- 1996/11/01 00:01
+PST - ppublish
+SO  - Mol Psychiatry 1996 Nov;1(5):388-91.
+DR 
+--------------------------------------------------------------------------------
+54: Muramatsu T et al. Association between alcoholis...[PMID: 8929946]  Related Articles, OMIM, Books, LinkOut 
+PMID- 8929946
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970512
+DCOM- 19970512
+LR  - 20041204
+PUBM- Print
+IS  - 0022-2593
+VI  - 33
+IP  - 2
+DP  - 1996 Feb
+TI  - Association between alcoholism and the dopamine D4 receptor gene.
+PG  - 113-5
+AB  - A point mutation in the aldehyde dehydrogenase 2 gene (ALDH2(2) allele) is
+     considered to be a genetic deterrent for alcoholism; however, 80 of 655
+     Japanese alcoholics had the mutant allele. Genotype factors that might
+     increase susceptibility by overriding the deterrent showed a higher
+     frequency of a five repeat allele of the dopamine D4 receptor 48 bp repeat
+     polymorphism in alcoholics with ALDH2(2) than in 100 other alcoholics and
+     144 controls. Alcoholics with the five repeat allele also abused other
+     drugs more often. These data suggest the involvement of the dopamine
+     system in the development of alcoholism and other addictive behaviour.
+AD  - National Institute on Alcoholism, Kurihama National Hospital, Japan.
+FAU - Muramatsu, T
+AU  - Muramatsu T
+FAU - Higuchi, S
+AU  - Higuchi S
+FAU - Murayama, M
+AU  - Murayama M
+FAU - Matsushita, S
+AU  - Matsushita S
+FAU - Hayashida, M
+AU  - Hayashida M
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - J Med Genet
+JID - 2985087R
+RN  - 0 (Isoenzymes)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - EC 1.2.1.3 (Aldehyde Dehydrogenase)
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/ethnology/*genetics
+MH  - Aldehyde Dehydrogenase/deficiency/genetics
+MH  - Alleles
+MH  - Base Sequence
+MH  - Female
+MH  - Genes, Structural
+MH  - Genetic Heterogeneity
+MH  - Genetic Predisposition to Disease
+MH  - Genotype
+MH  - Humans
+MH  - Isoenzymes/deficiency/genetics
+MH  - Japan/epidemiology
+MH  - Male
+MH  - Middle Aged
+MH  - Molecular Sequence Data
+MH  - *Point Mutation
+MH  - Receptors, Dopamine D2/deficiency/*genetics
+MH  - Repetitive Sequences, Nucleic Acid
+MH  - Substance-Related Disorders/genetics
+EDAT- 1996/02/01
+MHDA- 1996/02/01 00:01
+PST - ppublish
+SO  - J Med Genet 1996 Feb;33(2):113-5.
+DR 
+--------------------------------------------------------------------------------
+55: Adamson MD et al. DRD4 dopamine receptor genoty...[PMID: 7573171]  Related Articles, Compound via MeSH, Substance via MeSH, Cited in PMC, Books, LinkOut 
+PMID- 7573171
+OWN - NLM
+STAT- MEDLINE
+DA  - 19951107
+DCOM- 19951107
+LR  - 20041204
+PUBM- Print
+IS  - 0148-7299
+VI  - 60
+IP  - 3
+DP  - 1995 Jun 19
+TI  - DRD4 dopamine receptor genotype and CSF monoamine metabolites in Finnish
+     alcoholics and controls.
+PG  - 199-205
+AB  - The DRD4 dopamine receptor is thus far unique among neurotransmitter
+     receptors in having a highly polymorphic gene structure that has been
+     reported to produce altered receptor functioning. These allelic variations
+     are caused by a 48-bp segment in exon III of the coding region which may
+     be repeated from 2-10 times. Varying the numbers of repeated segments
+     changes the length, structure, and, possibly, the functional efficiency of
+     the receptor, which makes this gene an intriguing candidate for variations
+     in dopamine-related behaviors, such as alcoholism and drug abuse. Thus
+     far, these DRD4 alleles have been investigated for association with
+     schizophrenia, bipolar disorder, Parkinson's disease, and chronic
+     alcoholism, and all have been largely negative for a direct association.
+     We evaluated the DRD4 genotype in 226 Finish adult males, 113 of whom were
+     alcoholics, many of the early onset type with features of impulsivity and
+     antisocial traits. Genotype frequencies were compared to 113 Finnish
+     controls who were free of alcohol abuse, substance abuse, and major mental
+     illness. In 70 alcoholics and 20 controls, we measured CSF homovanillic
+     acid (HVA), the major metabolite of dopamine, and 5-hydroxyindoleacetic
+     acid (5-HIAA). No association was found between a particular DRD4 dopamine
+     receptor allele and alcoholism. CSF concentrations of the monoamine
+     metabolites showed no significant difference among the DRD4 genotypes.
+     This study of the DRD4 dopamine receptor in alcoholics is the first to be
+     conducted in a clinically and ethnically homogeneous population and to
+     relate the DRD4 genotype to CSF monoamine concentrations. The results
+     indicate that there is no association of the DRD4 receptor with
+     alcoholism.
+AD  - Laboratory of Neurogenetics, National Institute on Alcohol Abuse and
+     Alcoholism, DICBR, Rockville, MD 20852, USA.
+FAU - Adamson, M D
+AU  - Adamson MD
+FAU - Kennedy, J
+AU  - Kennedy J
+FAU - Petronis, A
+AU  - Petronis A
+FAU - Dean, M
+AU  - Dean M
+FAU - Virkkunen, M
+AU  - Virkkunen M
+FAU - Linnoila, M
+AU  - Linnoila M
+FAU - Goldman, D
+AU  - Goldman D
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Am J Med Genet
+JID - 7708900
+RN  - 0 (Amines)
+RN  - 0 (Receptors, Dopamine)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 306-08-1 (Homovanillic Acid)
+SB  - IM
+MH  - Adult
+MH  - Alcoholism/genetics/*metabolism
+MH  - Alleles
+MH  - Amines/*metabolism
+MH  - Base Sequence
+MH  - Finland
+MH  - Homovanillic Acid/*cerebrospinal fluid
+MH  - Humans
+MH  - Male
+MH  - Molecular Sequence Data
+MH  - Polymerase Chain Reaction
+MH  - Polymorphism, Genetic
+MH  - Receptors, Dopamine/*genetics
+MH  - *Receptors, Dopamine D2
+EDAT- 1995/06/19
+MHDA- 1995/06/19 00:01
+PST - ppublish
+SO  - Am J Med Genet 1995 Jun 19;60(3):199-205.
+DR 
+--------------------------------------------------------------------------------
+56: Guo N et al. Receptor mechanisms mediating...[PMID: 7609873]  Related Articles, Compound via MeSH, Substance via MeSH, Cited in PMC, Books, LinkOut 
+PMID- 7609873
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950817
+DCOM- 19950817
+LR  - 20041117
+PUBM- Print
+IS  - 0306-4522
+VI  - 65
+IP  - 3
+DP  - 1995 Apr
+TI  - Receptor mechanisms mediating clozapine-induced c-fos expression in the
+     forebrain.
+PG  - 747-56
+AB  - The atypical antipsychotic clozapine produces distinctly different
+     regional patterns of c-fos expression in rat forebrain than does the
+     prototypical neuroleptic haloperidol. While haloperidol-induced c-fos
+     expression appears to be mediated by its D2 dopamine receptor antagonist
+     properties, the mechanisms by which clozapine increases c-fos expression
+     remain uncertain. Using a combination of brain lesion, pharmacological and
+     immunohistochemical techniques, the present study sought to determine the
+     receptor mechanisms by which clozapine increases the number of Fos-like
+     immunoreactive neurons in various regions of the forebrain. To test
+     whether serotonergic and/or noradrenergic systems are involved in
+     clozapine-induced c-fos expression, rats received either
+     5,7-dihydroxytryptamine lesions of the medial forebrain bundle or
+     6-hydroxydopamine lesions of the dorsal noradrenergic bundle two weeks
+     prior to clozapine (20 mg/kg) injections. Neither type of lesion affected
+     clozapine-induced c-fos expression in the rat forebrain, suggesting that
+     neither serotonergic nor noradrenergic mechanisms are involved in this
+     action of clozapine. In another experiment, the 5-hydroxytryptamine2
+     receptor antagonist ritanserin (5 mg/kg), either alone or in combination
+     with haloperidol (1 mg/kg), failed to mimic the pattern of c-fos
+     expression produced by clozapine. This suggests that clozapine's
+     antagonist actions at 5-hydroxytryptamine2 receptors cannot explain the
+     unique pattern of regional c-fos expression produced by this compound. To
+     determine whether the blockade of subtypes of the D2 dopamine receptor
+     family may contribute to clozapine's effects, the dopamine receptor
+     agonists quinpirole and 7-hydroxy-N,N-di-n-propyl-2-aminotetralin
+     (7-OH-DPAT) were injected 15 min prior to clozapine. Quinpirole produced a
+     small but significant decrease in clozapine-induced c-fos expression in
+     the medial prefrontal cortex, had larger effects in the lateral septum,
+     and blocked clozapine's actions in the nucleus accumbens and major island
+     of Calleja. Pretreatment with 7-OH-DPAT attenuated clozapine-induced c-fos
+     expression in the nucleus accumbens and lateral septum, completely blocked
+     the expression in the major island of Calleja, but was without effect in
+     the medial prefrontal cortex. Given the different affinities of quinpirole
+     and 7-OH-DPAT for D2, D3 and D4 receptors, these data suggest that
+     clozapine-induced increases in c-fos expression in the nucleus accumbens,
+     major island of Cajella and lateral septal nucleus are due to antagonist
+     actions of this antipsychotic at D3 dopamine receptors. They also indicate
+     that while antagonist actions at D4 receptors may contribute, the primary
+     mechanisms by which clozapine increases c-fos expression in the medial
+     prefrontal cortex remain to be determined.
+AD  - Department of Psychiatry, University of British Columbia, Vancouver,
+     Canada.
+FAU - Guo, N
+AU  - Guo N
+FAU - Klitenick, M A
+AU  - Klitenick MA
+FAU - Tham, C S
+AU  - Tham CS
+FAU - Fibiger, H C
+AU  - Fibiger HC
+LA  - eng
+PT  - Journal Article
+PL  - ENGLAND
+TA  - Neuroscience
+JID - 7605074
+RN  - 0 (Proto-Oncogene Proteins c-fos)
+RN  - 0 (Receptors, Dopamine)
+RN  - 50-67-9 (Serotonin)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 5786-21-0 (Clozapine)
+RN  - 87051-43-2 (Ritanserin)
+SB  - IM
+MH  - Animals
+MH  - Clozapine/*pharmacology
+MH  - Dopamine/pharmacology
+MH  - Immunohistochemistry
+MH  - Male
+MH  - Norepinephrine/pharmacology
+MH  - Prosencephalon/*physiology
+MH  - Proto-Oncogene Proteins c-fos/*genetics
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Receptors, Dopamine/*physiology
+MH  - Research Support, Non-U.S. Gov't
+MH  - Ritanserin/pharmacology
+MH  - Serotonin/pharmacology
+EDAT- 1995/04/01
+MHDA- 1995/04/01 00:01
+AID - 030645229400552G [pii]
+PST - ppublish
+SO  - Neuroscience 1995 Apr;65(3):747-56.
+NR 
+--------------------------------------------------------------------------------
+57: Goldman D. Candidate genes in alcoholism...[PMID: 8612062]  Related Articles, Books, LinkOut 
+PMID- 8612062
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960604
+DCOM- 19960604
+LR  - 20041117
+PUBM- Print
+IS  - 1065-6766
+VI  - 3
+IP  - 3
+DP  - 1995
+TI  - Candidate genes in alcoholism.
+PG  - 174-81
+AB  - Individual alleles identified by candidate gene analysis have been shown
+     to profoundly influence certain complex behavioral syndromes including
+     vulnerability to alcoholism. The alcohol and aldehyde dehydrogenase
+     polymorphisms, ADH2(2) and ALDH2(2), respectively, are associated with
+     lower vulnerability to alcoholism both in the Orient and also in North
+     America among populations of Taiwanese and Koreans who have immigrated
+     there. Protein structural variants have recently been identified for a
+     series of genes involved in dopamine and serotonin function. Three
+     dopamine receptors exhibit such structural variants, and these include the
+     DRD2 dopamine receptor, which has three relatively rare amino acid
+     substitutions. Structural polymorphisms were detected in five serotonin
+     receptors (5HT1A, 5HT1Db, 5HT2A, 5HT2C, and 5HT7). Association studies
+     between neurotransmitter gene variants and alcoholism are at an earlier
+     stage than with ADH2(2)/ALDH2(2), but results are thus far negative
+     (dopamine DRD4 receptor), equivocal (dopamine DRD2 receptor), or
+     preliminary (tryptophan hydroxylase, 5HT2C and 5HT1Db).
+AD  - Laboratory of Neurogenetics, NIAAA, NIH, Rockville, MD 20852, USA.
+FAU - Goldman, D
+AU  - Goldman D
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Review, Tutorial
+PL  - UNITED STATES
+TA  - Clin Neurosci
+JID - 9315128
+SB  - IM
+MH  - Alcoholism/*genetics
+MH  - Alleles
+MH  - Genes/*genetics
+MH  - Humans
+RF  - 76
+EDAT- 1995/01/01
+MHDA- 1995/01/01 00:01
+PST - ppublish
+SO  - Clin Neurosci 1995;3(3):174-81.
+NR 
+--------------------------------------------------------------------------------
+58: Tang L et al. Pharmacological and functiona...[PMID: 8301592]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 8301592
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940310
+DCOM- 19940310
+LR  - 20041117
+PUBM- Print
+IS  - 0022-3565
+VI  - 268
+IP  - 1
+DP  - 1994 Jan
+TI  - Pharmacological and functional characterization of D2, D3 and D4 dopamine
+     receptors in fibroblast and dopaminergic cell lines.
+PG  - 495-502
+AB  - In order to study the properties of the D2-like dopamine receptors, D2, D3
+     and D4 clones were transfected into mouse Ltk- fibroblasts, CCL1.3, and a
+     neuronal mesencephalic cell line, MN9D. Most of the derived antagonist and
+     agonist inhibition constants were the same for a given receptor in either
+     cell line as determined by saturation and competition binding experiments.
+     The rank order potencies for antagonists are: eticlopride, D2 > D3 > D4;
+     YM-09151-2, D2 = D4 > D3; spiperone, D2 = D3 > D4; (+)-butaclamol, D2 > D3
+     > D4; clozapine, D4 > D2 > D3; and for agonists, quinpirole, D3 = D4 > D2;
+     7-hydroxy-2-(di-n-propyl)-aminotetralin, D3 > D2 = D4. Functionally, D2
+     stimulation increases inositol phosphate levels in CCL1.3 cells but not in
+     MN9D, whereas D2 activation inhibits forskolin-stimulated cyclic AMP
+     levels in both cell lines. D4 stimulation has no effect on inositol
+     phosphate metabolism in either cell type, but inhibits adenylate cyclase
+     in MN9D cells. Both the D2 and D4 mediated decreases in cyclic AMP can be
+     blocked by preincubation with pertussis toxin. D3 does not couple to these
+     pathways in either cell line. Reverse transcription/polymerase chain
+     reaction techniques were used to determine the availability of cellular
+     signalling systems. Both CCL1.3 and MN9D cells have high levels of G alpha
+     i2 expression, whereas neither cell expresses G alpha i1 or G alpha i3.
+     These data imply that the D2 receptor couples to the G alpha i2 subtype in
+     both cell lines, whereas D4 does not.(ABSTRACT TRUNCATED AT 250 WORDS)
+AD  - Department of Anatomy and Neurobiology, Washington University School of
+     Medicine, St. Louis, Missouri.
+FAU - Tang, L
+AU  - Tang L
+FAU - Todd, R D
+AU  - Todd RD
+FAU - Heller, A
+AU  - Heller A
+FAU - O'Malley, K L
+AU  - O'Malley KL
+LA  - eng
+GR  - MH28942/MH/NIMH
+GR  - MH31302/MH/NIMH
+GR  - MH45019/MH/NIMH
+GR  - etc.
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - J Pharmacol Exp Ther
+JID - 0376362
+RN  - 0 (DNA Primers)
+RN  - 0 (Inositol Phosphates)
+RN  - 0 (Receptors, Dopamine)
+RN  - 51-61-6 (Dopamine)
+RN  - EC 3.6.1.- (GTP-Binding Proteins)
+RN  - EC 4.6.1.1 (Adenylate Cyclase)
+SB  - IM
+EIN - J Pharmacol Exp Ther 1994 Sep;270(3):1397
+MH  - Adenylate Cyclase/antagonists & inhibitors
+MH  - Animals
+MH  - Base Sequence
+MH  - Cells, Cultured
+MH  - DNA Primers
+MH  - Dopamine/metabolism
+MH  - Fibroblasts/*metabolism
+MH  - GTP-Binding Proteins/metabolism
+MH  - Inositol Phosphates/metabolism
+MH  - Mice
+MH  - Molecular Sequence Data
+MH  - Neurons/*metabolism
+MH  - Receptors, Dopamine/*drug effects/genetics/metabolism
+MH  - Research Support, Non-U.S. Gov't
+MH  - Research Support, U.S. Gov't, P.H.S.
+MH  - Transfection
+MH  - Tumor Cells, Cultured
+EDAT- 1994/01/01
+MHDA- 1994/01/01 00:01
+PST - ppublish
+SO  - J Pharmacol Exp Ther 1994 Jan;268(1):495-502.
+NR 
+--------------------------------------------------------------------------------
+59: Zawilska JB. The role of dopamine in the r...[PMID: 7801792]  Related Articles, Compound via MeSH, Substance via MeSH, Books, LinkOut 
+PMID- 7801792
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950125
+DCOM- 19950125
+LR  - 20041204
+PUBM- Print
+IS  - 0065-1400
+VI  - 54 Suppl
+DP  - 1994
+TI  - The role of dopamine in the regulation of melatonin biosynthesis in
+     vertebrate retina.
+PG  - 47-56
+AB  - The vertebrate retina rhythmically synthesizes melatonin, a hormone
+     involved in the regulation of several intraocular processes cued by
+     environmental lighting conditions. The rhythm of retinal melatonin
+     production, with maximal synthesis at night in darkness, is driven by the
+     photoperiodic environment to which animals are exposed, and is generated
+     by an endogenous circadian clock(s). This article reviews data on the role
+     of dopamine, an established retinal neurotransmitter and paracrine factor,
+     as a mediator of acute suppressive and entrainment action of light on the
+     melatonin generating system in the retina. Special emphasis is given to
+     the characterization of dopamine receptor types involved in the control of
+     retinal melatonin formation.
+AD  - Department of Pharmacodynamics, Medical University of Lodz, Poland.
+FAU - Zawilska, J B
+AU  - Zawilska JB
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Review, Tutorial
+PL  - POLAND
+TA  - Acta Neurobiol Exp (Wars)
+JID - 1246675
+RN  - 0 (Receptors, Dopamine)
+RN  - 0 (Receptors, Dopamine D2)
+RN  - 137750-34-6 (receptors, dopamine D4)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-61-6 (Dopamine)
+RN  - 73-31-4 (Melatonin)
+SB  - IM
+MH  - Animals
+MH  - *Circadian Rhythm
+MH  - Dopamine/*physiology
+MH  - Homeostasis
+MH  - Humans
+MH  - Melatonin/*biosynthesis
+MH  - Norepinephrine/physiology
+MH  - Pineal Gland/*metabolism
+MH  - Receptors, Dopamine/physiology
+MH  - *Receptors, Dopamine D2
+MH  - Research Support, Non-U.S. Gov't
+MH  - Retina/*metabolism
+MH  - Vertebrates
+RF  - 70
+EDAT- 1994/01/01
+MHDA- 1994/01/01 00:01
+PST - ppublish
+SO  - Acta Neurobiol Exp (Wars) 1994;54 Suppl:47-56.
+NR 
+--------------------------------------------------------------------------------

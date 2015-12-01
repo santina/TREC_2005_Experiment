@@ -1,0 +1,3870 @@
+DR1: Mol Cell Biol. 2003 Dec;23(23):8902-12. 
+
+Ribosomal protein L11 negatively regulates oncoprotein MDM2 and mediates a
+p53-dependent ribosomal-stress checkpoint pathway.
+
+Zhang Y, Wolf GW, Bhat K, Jin A, Allio T, Burkhart WA, Xiong Y.
+
+Department of Molecular and Cellular Oncology, The University of Texas M. D.
+Anderson Cancer Center, Houston, Texas 77030, USA. ypzhang@mdanderson.org
+
+The gene encoding p53 mediates a major tumor suppression pathway that is
+frequently altered in human cancers. p53 function is kept at a low level during
+normal cell growth and is activated in response to various cellular stresses.
+The MDM2 oncoprotein plays a key role in negatively regulating p53 activity by
+either direct repression of p53 transactivation activity in the nucleus or
+promotion of p53 degradation in the cytoplasm. DNA damage and oncogenic insults,
+the two best-characterized p53-dependent checkpoint pathways, both activate p53
+through inhibition of MDM2. Here we report that the human homologue of MDM2,
+HDM2, binds to ribosomal protein L11. L11 binds a central region in HDM2 that is
+distinct from the ARF binding site. We show that the functional consequence of
+L11-HDM2 association, like that with ARF, results in the prevention of
+HDM2-mediated p53 ubiquitination and degradation, subsequently restoring
+p53-mediated transactivation, accumulating p21 protein levels, and inducing a
+p53-dependent cell cycle arrest by canceling the inhibitory function of HDM2.
+Interference with ribosomal biogenesis by a low concentration of actinomycin D
+is associated with an increased L11-HDM2 interaction and subsequent p53
+stabilization. We suggest that L11 functions as a negative regulator of HDM2 and
+that there might exist in vivo an L11-HDM2-p53 pathway for monitoring ribosomal
+integrity.
+
+PMID: 14612427 [PubMed - indexed for MEDLINE]
+
+
+
+NR2: Exp Parasitol. 2003 Jul-Aug;104(3-4):113-21. 
+
+Ascaris suum: cDNA microarray analysis of 4th stage larvae (L4) during self-cure
+from the intestine.
+
+Morimoto M, Zarlenga D, Beard H, Alkharouf N, Matthews BF, Urban JF Jr.
+
+United States Department of Agriculture, Agricultural Research Service, Nutrient
+Requirements and Functions Laboratory, Beltsville Human Nutrition Research
+Center, Beltsville, MD 20705, USA.
+
+There is spontaneous cure of a large portion of Ascaris suum 4th-stage larvae
+(L4) from the jejunum of infected pigs between 14 and 21 days after inoculation
+(DAI). Those L4 that remain in the jejunum continue to develop while those that
+have moved to the ileum are eventually expelled from the intestines. Although
+increases in intestinal mucosal mast cells and changes in local host immunity
+are coincidental with spontaneous cure, the population of L4 that continue to
+develop in the jejunum may counteract host protective mechanisms by the
+differential production of factors related to parasitism. To this end, a cDNA
+library was constructed from L4 isolated from pig jejunum at 21 DAI, and 93% of
+1920 original clones containing a single amplicon in the range 400-1500 bp were
+verified by gel electrophoresis and printed onto glass slides for microarray
+analysis. Fluorescent probes were prepared from total RNA isolated from: (1) 3rd
+stage-larvae from lung at 7 DAI, (L3); (2) L4 from jejunum at 14 DAI (L4-14-J);
+(3) L4 from jejunum at 21 DAI (L4-21-J); (4) L4 from ileum at 21 DAI (L4-21-I,
+and; (5) adults (L5). Cy3-labeled L3, L4-14-J, L4-21-I and L5 cDNA, and
+Cy5-labeled L4-21-J cDNA were simultaneously used to screen the printed arrays
+containing the L4-21-J-derived cDNA library. Several clones showed consistent
+differential gene expression over two separate experiments and were grouped into
+3 distinct transcription patterns. The data showed that sequences from muscle
+actin and myosin, ribosomal protein L11, glyceraldehyde-3-phosphate
+dehydrogenase and the flavoprotein subunit of succinate dehydrogenase were
+highly expressed in L4-21-J, but not in L4-21-I; as were a collection of
+un-annotated genes derived from a worm body wall-hypodermis library, and a
+testes germinal zone tissue library. These results suggest that only actively
+developing A. suum L4 are destined to parasitize the host and successfully
+neutralize host protective responses.
+
+PMID: 14552858 [PubMed - indexed for MEDLINE]
+
+
+
+NR3: J Protein Chem. 2003 Apr;22(3):249-58. 
+
+Characterization and analysis of posttranslational modifications of the human
+large cytoplasmic ribosomal subunit proteins by mass spectrometry and Edman
+sequencing.
+
+Odintsova TI, Muller EC, Ivanov AV, Egorov TA, Bienert R, Vladimirov SN, Kostka
+S, Otto A, Wittmann-Liebold B, Karpova GG.
+
+Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow,
+Russian Federation.
+
+The 60S ribosomal proteins were isolated from ribosomes of human placenta and
+separated by reversed phase HPLC. The fractions obtained were subjected to
+trypsin and Glu-C digestion and analyzed by mass fingerprinting (MALDI-TOF),
+MS/MS (ESI), and Edman sequencing. Forty-six large subunit proteins were found,
+22 of which showed masses in accordance with the SwissProt database (June 2002)
+masses (proteins L6, L7, L9, L13, L15, L17, L18, L21, L22, L24, L26, L27, L30,
+L32, L34, L35, L36, L37, L37A, L38, L39, L41). Eleven (proteins L7, L10A, L11,
+L12, L13A, L23, L23A, L27A, L28, L29, and P0) resulted in mass changes that are
+consistent with N-terminal loss of methionine, acetylation, internal
+methylation, or hydroxylation. A loss of methionine without acetylation was
+found for protein L8 and L17. For nine proteins (L3, L4, L5, L7A, L10, L14, L19,
+L31, and L40), the molecular masses could not be determined. Proteins P1 and
+protein L3-like were not identified by the methods applied.
+
+PMID: 12962325 [PubMed - indexed for MEDLINE]
+
+
+
+NR4: Chem Biol. 2003 Aug;10(8):769-78. 
+
+Structural basis for contrasting activities of ribosome binding thiazole
+antibiotics.
+
+Lentzen G, Klinck R, Matassova N, Aboul-ela F, Murchie AI.
+
+RiboTargets, Ltd., Granta Park, Abington, CB1 6GB, Cambridge, United Kingdom.
+
+Thiostrepton and micrococcin inhibit protein synthesis by binding to the L11
+binding domain (L11BD) of 23S ribosomal RNA. The two compounds are structurally
+related, yet they produce different effects on ribosomal RNA in footprinting
+experiments and on elongation factor-G (EF-G)-dependent GTP hydrolysis. Using
+NMR and an assay based on A1067 methylation by thiostrepton-resistance
+methyltransferase, we show that the related thiazoles, nosiheptide and siomycin,
+also bind to this region. The effect of all four antibiotics on EF-G-dependent
+GTP hydrolysis and EF-G-GDP-ribosome complex formation was studied. Our NMR and
+biochemical data demonstrate that thiostrepton, nosiheptide, and siomycin share
+a common profile, which differs from that of micrococcin. We have generated a
+three-dimensional (3D) model for the interaction of thiostrepton with L11BD RNA.
+The model rationalizes the differences between micrococcin and the
+thiostrepton-like antibiotics interacting with L11BD.
+
+PMID: 12954336 [PubMed - indexed for MEDLINE]
+
+
+
+NR5: Bioorg Med Chem Lett. 2003 Aug 4;13(15):2455-8. 
+
+Structure-based design of agents targeting the bacterial ribosome.
+
+Bower J, Drysdale M, Hebdon R, Jordan A, Lentzen G, Matassova N, Murchie A,
+Powles J, Roughley S.
+
+Department of Medicinal Chemistry, RiboTargets Ltd., Granta Park, Abington,
+Cambridge CB1 6GB, UK.
+
+Rational structure-based drug design has been applied to the antibiotic
+thiostrepton, in an attempt to overcome some of its' limitations. The
+identification of a proposed binding fragment allowed construction of a number
+of key fragments, which were derivatised to generate a library of potential
+antibiotics. These were then evaluated to determine their ability to bind to the
+L11 binding domain of the prokaryotic ribosome and inhibit bacterial protein
+translation.
+
+PMID: 12852942 [PubMed - indexed for MEDLINE]
+
+
+
+DR6: Cancer Cell. 2003 Jun;3(6):577-87. 
+
+Regulation of HDM2 activity by the ribosomal protein L11.
+
+Lohrum MA, Ludwig RL, Kubbutat MH, Hanlon M, Vousden KH.
+
+Regulation of Cell Growth Laboratory, NCI-FRCDC, Frederick, MD 21702, USA.
+
+The HDM2 protein plays an important role in regulating the stability and
+function of the p53 tumor suppressor protein. In this report, we show that the
+ribosomal protein L11 can interact with HDM2 and inhibit HDM2 function, thus
+leading to the stabilization and activation of p53. The inhibition of HDM2
+activity by L11 shows some similarity to the previously described activity of
+ARF, and expression of either ARF or L11 can induce a p53 response. Enhancement
+of the interaction between endogenous L11 and HDM2 following treatment of cells
+with low levels of actinomycin-D suggests that the HDM2/L11 interaction
+represents a novel pathway for p53 stabilization in response to perturbations in
+ribosome biogenesis.
+
+PMID: 12842086 [PubMed - indexed for MEDLINE]
+
+
+
+NR7: Mol Biol Rep. 2003 Jun;30(2):113-9. 
+
+Specific binding of ribosome recycling factor (RRF) with the Escherichia coli
+ribosomes by BIACORE.
+
+Todorova RT, Saihara Y.
+
+Institute of Biophysics, Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria.
+todorova@obzor.bio21.bas.bg
+
+The direct assays on Biacore with immobilised RRF and purified L11 from E. coli
+in the flow trough have shown unspecific binding between the both proteins. The
+interaction of RRF with GTPase domain of E. coli ribosomes, a functionally
+active complex of L11 with 23S r RNA and L10.(L7/L12)4 was studied by Biacore.
+In the experiments of binding of RRF with 30S, 50S and 70S ribosomes from E.
+coli were used the antibiotics thiostrepton, tetracycline and neomycin and
+factors, influencing the 70S dissociation Mg2+, NH4Cl, EDTA. The binding is
+strongly dependent from the concentrations of RRF, Mg2+, NH4Cl, EDTA and is
+inhibited by thiostrepton. The effect is most specific for 50S subunits and
+indicates that the GTPase centre can be considered as a possible site of
+interaction of RRF with the ribosome. We can consider an electrostatic character
+of the interactions with most probable candidate 16S and 23S r RNA at the
+interface of 30S and 50S ribosomal subunits.
+
+PMID: 12841582 [PubMed - indexed for MEDLINE]
+
+
+
+NR8: J Mol Biol. 2003 Jun 27;330(1):9-13. 
+
+Site of functional interaction of release factor 1 with the ribosome.
+
+Van Dyke N, Murgola EJ.
+
+Department of Molecular Genetics, The University of Texas M. D. Anderson Cancer
+Center, Box 11, 1515 Holcombe Boulevard, Houston 77030-4009, USA.
+
+Ribosomal protein L11 consists of a C-terminal and an N-terminal domain. To
+determine the importance of each domain for interaction with release factor 1,
+which works specifically at the UAG termination codon, we constructed
+Escherichia coli strains lacking either the entire L11 protein or just the
+N-terminal portion. Strains lacking L11 exhibited UAG suppression, defective
+growth, and high-temperature lethality, phenotypes that were reversed by
+expression of L11 protein from a plasmid. Strains lacking only the N-terminal
+portion of L11 grew well at physiological temperatures and survived at high
+temperature, but they were defective in UAG-dependent termination. Our results
+show for the first time that it is precisely the N-terminal part of ribosomal
+protein L11 that is required for the functional interaction of release factor 1
+with the ribosome in the cell.
+
+PMID: 12818198 [PubMed - indexed for MEDLINE]
+
+
+
+NR9: Mol Biol (Mosk). 2003 May-Jun;37(3):425-35. 
+
+[Structural and functional analysis of the human ribosomal protein L11 gene]
+
+[Article in Russian]
+
+Voronina EN, Kolokol'tsova TD, Nechaeva EA, Filipenko ML.
+
+Novosibirsk Institute of Bioorganic Chemistry, Siberian Division, Russian
+Academy of Sciences, Novosibirsk, 630090 Russia. voronina_l@yahoo.com
+
+The nucleotide sequence was established for the human ribosomal protein L11 gene
+(HRPL11). The gene (4583 bp) proved to consist of six exons and five introns.
+The structure of the HRPL11 promoter was shown to be typical for ribosomal
+protein genes of higher eukaryotes: the promoter lacks TATA or CAAT boxes and
+has a TATA-like element (ATAA, -24 ... -27) surrounded by GC-rich regions, the
+transcription start point is within an oligopyrimidine tract, and the
+5'-untranslater region is short (26 bp). Proteins interacting with the HRPL11
+promoter were identified by the electrophoretic mobility shift assay with
+oligonucleotide competitors containing known transcription factor-binding sites.
+The promoter regions were compared for the human genes for ribosomal proteins
+L11, L32, and S26.
+
+PMID: 12815950 [PubMed - indexed for MEDLINE]
+
+
+
+NR10: Acta Crystallogr D Biol Crystallogr. 2003 May;59(Pt 5):930-2. Epub 2003 Apr
+25. 
+
+Crystallization and preliminary X-ray diffraction analysis of ribosomal protein
+L11 methyltransferase from Thermus thermophilus HB8.
+
+Kaminishi T, Sakai H, Takemoto-Hori C, Terada T, Nakagawa N, Maoka N, Kuramitsu
+S, Shirouzu M, Yokoyama S.
+
+RIKEN Genomic Sciences Center, 1-7-22 Suehiro-cho, Tsurumi, Yokohama 230-0045,
+Japan.
+
+Ribosomal proteins are subjected to a variety of post-translational
+modifications, of which methylation is the most frequently found in all three
+kingdoms of life. PrmA is the only bacterial enzyme identified to date that
+catalyzes the methylation of a ribosomal protein. It is responsible for the
+introduction of nine methyl groups into the N-terminal domain of ribosomal
+protein L11. The PrmA protein from Thermus thermophilus HB8 was crystallized and
+a preliminary X-ray diffraction analysis was performed. A cryocooled crystal
+diffracted X-rays beyond 1.9 A using synchrotron radiation.
+
+PMID: 12777815 [PubMed - indexed for MEDLINE]
+
+
+
+NR11: J Biomol NMR. 2003 Feb;25(2):163-4. 
+
+NMR assignment of the full-length ribosomal protein L11 from Thermotoga
+maritima.
+
+Ilin S, Hoskins A, Schwalbe H, Wohnert J.
+
+Publication Types:
+    Letter
+
+PMID: 12652127 [PubMed - indexed for MEDLINE]
+
+
+
+NR12: EMBO J. 2003 Feb 17;22(4):945-53. 
+
+Mechanism of Tet(O)-mediated tetracycline resistance.
+
+Connell SR, Trieber CA, Dinos GP, Einfeldt E, Taylor DE, Nierhaus KH.
+
+Department of Medical Microbiology and Immunology, University of Alberta,
+Edmonton, AB, T6G 2H7, Canada.
+
+Tet(O) is an elongation factor-like protein which confers resistance to the
+protein synthesis inhibitor tetracycline by promoting the release of the drug
+from its inhibitory site on the ribosome. Here we investigated the interaction
+of Tet(O) with the elongating ribosome and show, using dimethyl sulfate (DMS)
+probing and binding assays, that it interacts preferentially with the
+post-translocational ribosome. Furthermore, using an XTP-dependent mutant of
+Tet(O), we demonstrated that Tet(O) induces conformational rearrangements within
+the ribosome which can be detected by EF-Tu, and manifested as a stimulation in
+the GTPase activity of this elongation factor. As such, these conformational
+changes probably involve the ribosomal GTPase-associated center and,
+accordingly, Tet(O) alters the DMS modification pattern of the L11 region.
+Additionally, tetracycline binding is associated with an E(a) of 58 kJ/mol.
+These results suggest a model where both Tet(O) and tetracycline induce a
+conformational change in functionally opposite directions and the Tet(O)-induced
+conformation persists after it has left the ribosome; this prevents rebinding of
+the drug while allowing productive A-site occupation by a ternary complex in the
+presence of tetracycline.
+
+PMID: 12574130 [PubMed - indexed for MEDLINE]
+
+
+
+NR13: Microbiology. 2002 Nov;148(Pt 11):3365-73. 
+
+Genetic and physiological characterization of rpoB mutations that activate
+antibiotic production in Streptomyces lividans.
+
+Lai C, Xu J, Tozawa Y, Okamoto-Hosoya Y, Yao X, Ochi K.
+
+National Food Research Institute, 2-1-12 Kannondai, Tsukuba, Ibaraki 305-8642,
+Japan.
+
+Antibiotic production in Streptomyces lividans can be activated by introducing
+certain mutations (rif) into the rpoB gene that confer resistance to rifampicin.
+Working with the most typical (rif-17) mutant strain, KO-417, the rif-17
+mutation was characterized. The rif-17 mutation was shown to be responsible for
+activating antibiotic production and for reducing the growth rate of strain
+KO-417, as demonstrated by gene-replacement experiments. Gene-expression
+analysis revealed that introduction of rif into S. lividans elevates expression
+of the pathway-specific regulatory gene actII-ORF4 to nearly the same level seen
+in Streptomyces coelicolor. The rif effect on antibiotic production was still
+evident in the genetic background of relC, indicating that the rif mutation can
+provoke its effect without depending on ppGpp. Accompanying the restoration of
+antibiotic production, rif mutants also exhibited a lower rate of RNA synthesis
+compared to the parental strain when grown in a nutritionally rich medium,
+suggesting that the mutant RNA polymerases may behave like 'stringent' RNA
+polymerases. These results indicate that the rif mutation can alter the
+gene-expression pattern independent of ppGpp. The impaired growth of strain
+KO-417 (rif-17) was largely restored by introducing the second rif mutation
+(rif-18) just adjacent to the rif-17 position. Proteome analysis using
+two-dimensional PAGE revealed that the rif mutant strain KO-418 (rif-17 rif-18)
+displayed a temporal burst of expression especially of two enzymes, glutamine
+synthetase (type II) and oxidoreductase, during the late growth phase.
+
+PMID: 12427928 [PubMed - indexed for MEDLINE]
+
+
+
+NR14: Mol Cell. 2002 Oct;10(4):779-88. 
+
+Dissection of the mechanism for the stringent factor RelA.
+
+Wendrich TM, Blaha G, Wilson DN, Marahiel MA, Nierhaus KH.
+
+Fachbereich Chemie-Biochemie, Philipps-Universitat Marburg,
+Hans-Meerwein-Strasse, D-35032, Marburg, Germany.
+
+During conditions of nutrient deprivation, ribosomes are blocked by uncharged
+tRNA at the A site. The stringent factor RelA binds to blocked ribosomes and
+catalyzes synthesis of (p)ppGpp, a secondary messenger that induces the
+stringent response. We demonstrate that binding of RelA and (p)ppGpp synthesis
+are inversely coupled, i.e., (p)ppGpp synthesis decreases the affinity of RelA
+for the ribosome. RelA binding to ribosomes is governed primarily by mRNA, but
+independently of ribosomal protein L11, while (p)ppGpp synthesis strictly
+requires uncharged tRNA at the A site and the presence of L11. A model is
+proposed whereby RelA hops between blocked ribosomes, providing an explanation
+for how low intracellular concentrations of RelA (1/200 ribosomes) can
+synthesize (p)ppGpp at levels that accurately reflect the starved ribosome
+population.
+
+PMID: 12419222 [PubMed - indexed for MEDLINE]
+
+
+
+NR15: J Biol Chem. 2003 Jan 10;278(2):1259-67. Epub 2002 Oct 29. 
+
+Dissociation of intact Escherichia coli ribosomes in a mass spectrometer.
+Evidence for conformational change in a ribosome elongation factor G complex.
+
+Hanson CL, Fucini P, Ilag LL, Nierhaus KH, Robinson CV.
+
+Department of Chemistry, University of Cambridge, Lensfield Road, United
+Kingdom.
+
+We used mass spectrometry to identify proteins that are released in the gas
+phase from Escherichia coli ribosomes in response to a range of different
+solution conditions and cofactor binding. From solution at neutral pH the
+spectra are dominated by just 4 of the 54 ribosomal proteins (L7/L12, L11, and
+L10). Lowering the pH of the solution leads to the gas phase dissociation of
+four additional proteins as well as the 5 S RNA. Replacement of Mg(2+) by Li(+)
+ions in solutions of ribosomes induced the dissociation of 17 ribosomal
+proteins. Correlation of these results with available structural information for
+ribosomes revealed that a relatively high interaction surface area of the
+protein with RNA was the major force in preventing dissociation. By using the
+proteins that dissociate to probe their interactions with RNA, we examined
+different complexes of the ribosome formed with the elongation factor G and
+inhibited by fusidic acid or thiostrepton. Mass spectra recorded for the fusidic
+acid-inhibited complex reveal subtle changes in peak intensity of the proteins
+that dissociate. By contrast gas phase dissociation from the
+thiostrepton-inhibited complex is markedly different and demonstrates the
+presence of L5 and L18, two proteins that interact exclusively with the 5 S RNA.
+These results allow us to propose that the ribosome elongation factor-G complex
+inhibited by thiostrepton, but not fusidic acid, involves destabilization of 5 S
+RNA-protein interactions.
+
+PMID: 12409297 [PubMed - indexed for MEDLINE]
+
+
+
+NR16: Bioorg Chem. 2002 Jun;30(3):163-87. 
+
+Large-scale motions within ribosomal 50S subunits as demonstrated using
+photolabile oligonucleotides.
+
+Seo HS, Cooperman BS.
+
+Department of Chemistry, University of Pennsylvania, Philadelphia, 19104, USA.
+
+Photolabile oligonucleotides (PHONTs) bind to rRNA sequences to which they are
+complementary and, on photolysis, incorporate into neighboring ribosomal
+components. Here we report on photocrosslinking results obtained with PHONTs
+targeting 23S rRNA nucleotides 1882-1892, in the long lateral arm of the 50S
+subunit (PHONT 1892), and 1085-1093, in the L11 binding domain (PHONT 1093).
+Photolysis of the PHONT 1892.50S and PHONT 1093.50S complexes leads to formation
+of 'long-range' crosslinks from C1892 to U1094/A1095 and G1950, and from G1093
+to U1712/1716 and U1926, that are clearly incompatible with published crystal
+structures of 50S subunits. These results provide strong evidence that within
+the 50S subunit (a) the L11 binding domain can extend in an arm-like fashion,
+accessing large areas of the ribosome, and (b) the lateral arm can bend about
+the noncanonical helix at its center. Such motions may have functional relevance
+in identifying regions that undergo major conformational change as the ribosome
+moves through its catalytic cycle.
+
+PMID: 12406702 [PubMed - indexed for MEDLINE]
+
+
+
+NR17: J Bacteriol. 2002 Nov;184(22):6155-62. 
+
+Proteins released by Helicobacter pylori in vitro.
+
+Kim N, Weeks DL, Shin JM, Scott DR, Young MK, Sachs G.
+
+Department of Physiology and Medicine, UCLA Digestive Research Center,
+University of California, Los Angeles, and VA Greater Los Angeles Health Care
+System, 90073, USA.
+
+Secretion of proteins by Helicobacter pylori may contribute to gastric
+inflammation and epithelial damage. An in vitro analysis was designed to
+identify proteins released by mechanisms other than nonspecific lysis. The
+radioactivity of proteins in the supernatant was compared with that of the
+intact organism by two-dimensional gel phosphorimaging following a 4-h
+pulse-chase. The ratio of the amount of UreB, a known cytoplasmic protein, in
+the supernatant to that in the pellet was found to be 0.25, and this was taken
+as an index of lysis during the experiments (n = 6). Ratios greater than that of
+UreB were used to distinguish proteins that were selectively released into the
+medium. Thus, proteins enriched more than 10-fold in the supernatant compared to
+UreB were identified by mass spectrometry. Sixteen such proteins were present in
+the supernatant: VacA; a conserved secreted protein (HP1286); putative peptidyl
+cis-trans isomerase (HP0175); six proteins encoded by HP0305, HP0231, HP0973,
+HP0721, HP0129, and HP0902; thioredoxin (HP1458); single-stranded-DNA-binding
+12RNP2 precursor (HP0827); histone-like DNA-binding protein HU (HP0835);
+ribosomal protein L11 (HP1202); a putative outer membrane protein (HP1564); and
+outer membrane proteins Omp21 (HP0913) and Omp20 (HP0912). All except HP0902,
+thioredoxin, HP0827, HP0835, and HP1202 had a signal peptide. When nalidixic
+acid, a DNA synthesis inhibitor, was added to inhibit cell division but not
+protein synthesis, to decrease possible contamination due to outer membrane
+shedding, two outer membrane proteins (Omp21 and Omp20) disappeared from the
+supernatant, and the amount of VacA also decreased. Thus, 13 proteins were still
+enriched greater than 10-fold in the medium after nalidixic acid treatment,
+suggesting these were released specifically, possibly by secretion. These
+proteins may be implicated in H. pylori-induced effects on the gastric
+epithelium.
+
+Publication Types:
+    Evaluation Studies
+
+PMID: 12399485 [PubMed - indexed for MEDLINE]
+
+
+
+NR18: Nat Struct Biol. 2002 Nov;9(11):849-54. 
+
+Ribosome interactions of aminoacyl-tRNA and elongation factor Tu in the
+codon-recognition complex.
+
+Stark H, Rodnina MV, Wieden HJ, Zemlin F, Wintermeyer W, van Heel M.
+
+Max-Planck Institute for Biophysical Chemistry, 37077 Gottingen, Germany.
+holger.stark@mpibpc.mpg.de
+
+The mRNA codon in the ribosomal A-site is recognized by aminoacyl-tRNA (aa-tRNA)
+in a ternary complex with elongation factor Tu (EF-Tu) and GTP. Here we report
+the 13 A resolution three-dimensional reconstruction determined by cryo-electron
+microscopy of the kirromycin-stalled codon-recognition complex. The structure of
+the ternary complex is distorted by binding of the tRNA anticodon arm in the
+decoding center. The aa-tRNA interacts with 16S rRNA, helix 69 of 23S rRNA and
+proteins S12 and L11, while the sarcin-ricin loop of 23S rRNA contacts domain 1
+of EF-Tu near the nucleotide-binding pocket. These results provide a detailed
+snapshot view of an important functional state of the ribosome and suggest
+mechanisms of decoding and GTPase activation.
+
+PMID: 12379845 [PubMed - indexed for MEDLINE]
+
+
+
+NR19: Biochemistry. 2002 Oct 15;41(41):12520-8. 
+
+GTPase activation of elongation factors Tu and G on the ribosome.
+
+Mohr D, Wintermeyer W, Rodnina MV.
+
+Institute of Physical Biochemistry, University of Witten/Herdecke, Stockumer
+Strasse 10, D-58448 Witten, Germany.
+
+The GTPase activity of elongation factors Tu and G is stimulated by the
+ribosome. The factor binding site is located on the 50S ribosomal subunit and
+comprises proteins L7/12, L10, L11, the L11-binding region of 23S rRNA, and the
+sarcin-ricin loop of 23S rRNA. The role of these ribosomal elements in factor
+binding, GTPase activation, or functions in tRNA binding and translocation, and
+their relative contributions, is not known. By comparing ribosomes depleted of
+L7/12 and reconstituted ribosomes, we show that, for both factors, interactions
+with L7/12 and with other ribosomal residues contribute about equally and
+additively to GTPase activation, resulting in an overall 10(7)-fold stimulation.
+Removal of L7/12 has little effect on factor binding to the ribosome. Effects on
+other factor-dependent functions, i.e., A-site binding of aminoacyl-tRNA and
+translocation, are fully explained by the inhibition of GTP hydrolysis. Based on
+these results, we propose that L7/12 stimulates the GTPase activity of both
+factors by inducing the catalytically active conformation of the G domain. This
+effect appears to be augmented by interactions of other structural elements of
+the large ribosomal subunit with the switch regions of the factors.
+
+PMID: 12369843 [PubMed - indexed for MEDLINE]
+
+
+
+NR20: Genes Dev. 2002 Oct 1;16(19):2497-508. 
+
+A Drosophila fragile X protein interacts with components of RNAi and ribosomal
+proteins.
+
+Ishizuka A, Siomi MC, Siomi H.
+
+Institute for Genome Research, Graduate School of Nutrition, University of
+Tokushima, Tokushima 770-8503, Japan.
+
+Fragile X syndrome is a common form of inherited mental retardation caused by
+the loss of FMR1 expression. The FMR1 gene encodes an RNA-binding protein that
+associates with translating ribosomes and acts as a negative translational
+regulator. In Drosophila, the fly homolog of the FMR1 protein (dFMR1) binds to
+and represses the translation of an mRNA encoding of the microtuble-associated
+protein Futsch. We have isolated a dFMR1-associated complex that includes two
+ribosomal proteins, L5 and L11, along with 5S RNA. The dFMR1 complex also
+contains Argonaute2 (AGO2) and a Drosophila homolog of p68 RNA helicase (Dmp68).
+AGO2 is an essential component for the RNA-induced silencing complex (RISC), a
+sequence-specific nuclease complex that mediates RNA interference (RNAi) in
+Drosophila. We show that Dmp68 is also required for efficient RNAi. We further
+show that dFMR1 is associated with Dicer, another essential component of the
+RNAi pathway, and microRNAs (miRNAs) in vivo, suggesting that dFMR1 is part of
+the RNAi-related apparatus. Our findings suggest a model in which the RNAi and
+dFMR1-mediated translational control pathways intersect in Drosophila. Our
+findings also raise the possibility that defects in an RNAi-related machinery
+may cause human disease.
+
+PMID: 12368261 [PubMed - indexed for MEDLINE]
+
+
+
+NR21: J Biol Chem. 2002 Nov 1;277(44):41401-9. Epub 2002 Aug 26. 
+
+Ribosomal proteins at the stalk region modulate functional rRNA structures in
+the GTPase center.
+
+Uchiumi T, Honma S, Endo Y, Hachimori A.
+
+Institute of High Polymer Research, Faculty of Textile Science and Technology,
+Shinshu University, Ueda 386-8567, Japan. uchiumi@giptc.shinshu-u.ac.jp
+
+Replacement of the L10.L7/L12 protein complex and L11 in Escherichia coli
+ribosomes with the respective rat counterparts P0.P1/P2 and eukaryotic L12
+causes conversion of ribosomal specificity for elongation factors from
+prokaryotic elongation factor (EF)-Tu/EF-G to eukaryotic EF (eEF)-1alpha/eEF-2.
+Here we have investigated the effects of protein replacement on the structure
+and function of two rRNA domains around positions 1070 and 2660 (sarcin/ricin
+loop) of 23 S rRNA. Protein replacement at the 1070 region in E. coli 50 S
+subunits was demonstrated by chemical probing analysis. Binding of rat proteins
+to the 1070 region caused increased accessibility of the 2660 and 1070 regions
+to ligands for eukaryotic ribosomes: the ribotoxin pepocin for the 2660 region
+(E. coli numbering), anti-28 S autoantibody for the 1070 region, and eEF-2 for
+both regions. Moreover, binding of the E. coli L10.L7/L12 complex and L11 to the
+1070 region was shown to be responsible for E. coli ribosomal accessibility to
+another ribotoxin, gypsophilin. Ribosomal proteins at the 1070 region appear to
+modulate the structures and functions of the 2660 and 1070 RNA regions in
+slightly different modes in prokaryotes and eukaryotes.
+
+PMID: 12198134 [PubMed - indexed for MEDLINE]
+
+
+
+NR22: J Mol Biol. 2002 Aug 9;321(2):215-34. 
+
+Modeling a minimal ribosome based on comparative sequence analysis.
+
+Mears JA, Cannone JJ, Stagg SM, Gutell RR, Agrawal RK, Harvey SC.
+
+Department of Biochemistry and Molecular Genetics, University of Alabama at
+Birmingham, Birmingham, AL 35295-0005, USA.
+
+We have determined the three-dimensional organization of ribosomal RNAs and
+proteins essential for minimal ribosome function. Comparative sequence analysis
+identifies regions of the ribosome that have been evolutionarily conserved, and
+the spatial organization of conserved domains is determined by mapping these
+onto structures of the 30S and 50S subunits determined by X-ray crystallography.
+Several functional domains of the ribosome are conserved in their
+three-dimensional organization in the Archaea, Bacteria, Eucaryotic nuclear,
+mitochondria and chloroplast ribosomes. In contrast, other regions from both
+subunits have shifted their position in three-dimensional space during
+evolution, including the L11 binding domain and the alpha-sarcin-ricin loop
+(SRL). We examined conserved bridge interactions between the two ribosomal
+subunits, giving an indication of which contacts are more significant. The tRNA
+contacts that are conserved were also determined, highlighting functional
+interactions as the tRNA moves through the ribosome during protein synthesis. To
+augment these studies of a large collection of comparative structural models
+sampled from all major branches on the phylogenetic tree, Caenorhabditis elegans
+mitochondrial rRNA is considered individually because it is among the smallest
+rRNA sequences known. The C.elegans model supports the large collection of
+comparative structure models while providing insight into the evolution of
+mitochondrial ribosomes.
+
+PMID: 12144780 [PubMed - indexed for MEDLINE]
+
+
+
+NR23: Nucleic Acids Res. 2002 Jun 15;30(12):2620-7. 
+
+Interaction among silkworm ribosomal proteins P1, P2 and P0 required for
+functional protein binding to the GTPase-associated domain of 28S rRNA.
+
+Shimizu T, Nakagaki M, Nishi Y, Kobayashi Y, Hachimori A, Uchiumi T.
+
+Institute of High Polymer Research and Department of Applied Biological Science,
+Faculty of Textile Science and Technology, Shinshu University, Ueda 386-8567,
+Japan.
+
+Acidic ribosomal phosphoproteins P0, P1 and P2 were isolated in soluble form
+from silkworm ribosomes and tested for their interactions with each other and
+with RNA fragments corresponding to the GTPase-associated domain of residues
+1030-1127 (Escherichia coli numbering) in silkworm 28S rRNA in vitro. Mixing of
+P1 and P2 formed the P1-P2 heterodimer, as demonstrated by gel mobility shift
+and chemical crosslinking. This heterodimer, but neither P1 or P2 alone, tightly
+bound to P0 and formed a pentameric complex, presumably as P0(P1-P2)2, assumed
+from its molecular weight derived from sedimentation analysis. Complex formation
+strongly stimulated binding of P0 to the GTPase-associated RNA domain. The
+protein complex and eL12 (E.coli L11-type), which cross-bound to the E.coli
+equivalent RNA domain, were tested for their function by replacing with the
+E.coli counterparts L10.L7/L12 complex and L11 on the rRNA domain within the 50S
+subunits. Both P1 and P2, together with P0 and eL12, were required to activate
+ribosomes in polyphenylalanine synthesis dependent on eucaryotic elongation
+factors as well as eEF-2-dependent GTPase activity. The results suggest that
+formation of the P1-P2 heterodimer is required for subsequent formation of the
+P0(P1-P2)2 complex and its functional rRNA binding in silkworm ribosomes.
+
+PMID: 12060678 [PubMed - indexed for MEDLINE]
+
+
+
+NR24: J Mol Biol. 2002 May 10;318(4):963-73. 
+
+A compact RNA tertiary structure contains a buried backbone-K+ complex.
+
+Conn GL, Gittis AG, Lattman EE, Misra VK, Draper DE.
+
+Department of Chemistry, The Johns Hopkins University, 3400 North Charles
+Street, Baltimore, MD 21218, USA.
+
+The structure of a 58 nucleotide ribosomal RNA fragment buries several phosphate
+groups of a hairpin loop within a large tertiary core. During refinement of an
+X-ray crystal structure containing this RNA, a potassium ion was found to be
+contacted by six oxygen atoms from the buried phosphate groups; the ion is
+contained completely within the solvent-accessible surface of the RNA. The
+electrostatic potential at the ion chelation site is unusually large, and more
+than compensates for the substantial energetic penalties associated with partial
+dehydration of the ion and displacement of delocalized ions. The very large
+predicted binding free energy, approximately -30 kcal/mol, implies that the site
+must be occupied for the RNA to fold. These findings agree with previous studies
+of the ion-dependent folding of tertiary structure in this RNA, which concluded
+that a monovalent ion was bound in a partially dehydrated environment where Mg2+
+could not easily compete for binding. By compensating the unfavorable free
+energy of buried phosphate groups with a chelated ion, the RNA is able to create
+a larger and more complex tertiary fold than would be possible otherwise. (c)
+2002 Elsevier Science Ltd.
+
+PMID: 12054794 [PubMed - indexed for MEDLINE]
+
+
+
+NR25: J Mol Biol. 2002 May 24;319(1):27-35. 
+
+Initiation factor IF2, thiostrepton and micrococcin prevent the binding of
+elongation factor G to the Escherichia coli ribosome.
+
+Cameron DM, Thompson J, March PE, Dahlberg AE.
+
+School of Microbiology and Immunology, University of New South Wales, Sydney,
+NSW 2052, Australia.
+
+The bacterial translational GTPases (initiation factor IF2, elongation factors
+EF-G and EF-Tu and release factor RF3) are involved in all stages of
+translation, and evidence indicates that they bind to overlapping sites on the
+ribosome, whereupon GTP hydrolysis is triggered. We provide evidence for a
+common ribosomal binding site for EF-G and IF2. IF2 prevents the binding of EF-G
+to the ribosome, as shown by Western blot analysis and fusidic acid-stabilized
+EF-G.GDP.ribosome complex formation. Additionally, IF2 inhibits EF-G-dependent
+GTP hydrolysis on 70 S ribosomes. The antibiotics thiostrepton and micrococcin,
+which bind to part of the EF-G binding site and interfere with the function of
+the factor, also affect the function of IF2. While thiostrepton is a strong
+inhibitor of EF-G-dependent GTP hydrolysis, GTP hydrolysis by IF2 is stimulated
+by the drug. Micrococcin stimulates GTP hydrolysis by both factors. We show
+directly that these drugs act by destabilizing the interaction of EF-G with the
+ribosome, and provide evidence that they have similar effects on IF2.
+
+PMID: 12051934 [PubMed - indexed for MEDLINE]
+
+
+
+NR26: J Mol Biol. 2002 May 31;319(2):329-39. 
+
+Limitation of ribosomal protein L11 availability in vivo affects translation
+termination.
+
+Van Dyke N, Xu W, Murgola EJ.
+
+Department of Molecular Genetics, Box 11, The University of Texas M. D. Anderson
+Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030-4009, USA.
+
+Historically referred to as "the GTPase center", the L11 binding region (L11BR)
+of Escherichia coli 23 S rRNA is a highly conserved structure that has been
+implicated in several essential functions during protein synthesis. Here, in
+vivo expression of an RNA fragment containing that structure was found to affect
+translation termination in a codon-specific manner. The cause of these effects
+appeared to be titration of ribosomal protein L11, since normal phenotypes could
+be restored by simultaneous overproduction of wild-type L11 but not mutant L11.
+Subsequently, altered termination phenotypes were produced when the availability
+of L11 was limited by overexpression of RNA antisense to L11 mRNA and, finally,
+by inactivation of the chromosomal L11 gene, and they too were reversible by
+simultaneous expression of cloned L11. Our results indicate that in the intact
+cell the L11BR is an integral functional unit important for translation
+termination and that the presence of L11 in ribosomes is required for
+UAG-dependent termination and is somewhat inhibitory of UGA-dependent
+termination. Copyright 2002 Elsevier Science Ltd.
+
+PMID: 12051910 [PubMed - indexed for MEDLINE]
+
+
+
+NR27: J Biol Chem. 2002 Aug 9;277(32):28780-6. Epub 2002 Jun 4. 
+
+Rpf2p, an evolutionarily conserved protein, interacts with ribosomal protein L11
+and is essential for the processing of 27 SB Pre-rRNA to 25 S rRNA and the 60 S
+ribosomal subunit assembly in Saccharomyces cerevisiae.
+
+Morita D, Miyoshi K, Matsui Y, Toh-E A, Shinkawa H, Miyakawa T, Mizuta K.
+
+Department of Molecular Biotechnology, Graduate School of Advanced Sciences of
+Matter, Hiroshima University, Kagamiyama 1-4-4, Higashi-Hiroshima 739-8528,
+Japan.
+
+Saccharomyces cerevisiae Rrs1p is a nuclear protein that is essential for the
+maturation of 25 S rRNA and the 60 S ribosomal subunit assembly. In two-hybrid
+screening, using RRS1 as bait, we have cloned YKR081c/RPF2. Rpf2p is essential
+for growth and is mainly localized in the nucleolus. The amino acid sequence of
+Rpf2p is highly conserved in eukaryotes from yeast to human. Similar to Rrs1p,
+Rpf2p shows physical interaction with ribosomal protein L11 and appears to
+associate with preribosomal subunits fairly tightly. Northern, methionine
+pulse-chase, and sucrose density gradient ultracentrifugation analyses reveal
+that the depletion of Rpf2p results in a delayed processing of pre-rRNA, a
+decrease of mature 25 S rRNA, and a shortage of 60 S subunits. An analysis of
+processing intermediates by primer extension shows that the Rpf2p depletion
+leads to an accumulation of 27 SB pre-rRNA, suggesting that Rpf2p is required
+for the processing of 27 SB into 25 S rRNA.
+
+PMID: 12048200 [PubMed - indexed for MEDLINE]
+
+
+
+NR28: J Biol Chem. 2002 May 24;277(21):18334-9. Epub 2002 Mar 13. 
+
+Normal assembly of 60 S ribosomal subunits is required for the signaling in
+response to a secretory defect in Saccharomyces cerevisiae.
+
+Miyoshi K, Tsujii R, Yoshida H, Maki Y, Wada A, Matsui Y, Toh-E A, Mizuta K.
+
+Department of Biological Sciences, Graduate School of Biosphere Sciences,
+Graduate School of Advanced Sciences of Matter, Hiroshima University,
+Kagamiyama, Higashi-Hiroshima 739-8528, Japan.
+
+A secretory defect leads to transcriptional repression of both ribosomal protein
+and rRNA genes in yeast. To elucidate the mechanism of the signaling, we
+previously isolated rrs mutants that were unable to respond to a secretory
+defect, and we cloned RRS1 encoding a nuclear protein that was required for
+ribosome biogenesis (Tsuno, A., Miyoshi, K., Tsujii, R., Miyakawa, T., and
+Mizuta, K. (2000) Mol. Cell. Biol. 20, 2066-2074). We identified duplicated
+genes encoding ribosomal protein L11, RPL11B as a wild-type allele complementing
+the rrs2 mutation, and RPL11A in two-hybrid screening using RRS1 as bait. Rpl11p
+was copurified with Rrs1p in immunoprecipitation analysis. Ultracentrifugation
+analysis revealed that Rrs1p associated fairly tightly with 60 S preribosomal
+subunits. These results suggest that signaling in response to a secretory defect
+requires the normal assembly of 60 S ribosomal subunits including Rrs1p and
+Rpl11p.
+
+PMID: 11893754 [PubMed - indexed for MEDLINE]
+
+
+
+NR29: J Biol Chem. 2002 Feb 8;277(6):3857-62. Epub 2001 Nov 29. 
+
+Translation elongation by a hybrid ribosome in which proteins at the GTPase
+center of the Escherichia coli ribosome are replaced with rat counterparts.
+
+Uchiumi T, Honma S, Nomura T, Dabbs ER, Hachimori A.
+
+Institute of High Polymer Research, Faculty of Textile Science and Technology,
+Shinshu University, Ueda 386-8567, Japan. uchiumi@giptc.shinshu-u.ac.jp
+
+Ribosomal L10-L7/L12 protein complex and L11 bind to a highly conserved RNA
+region around position 1070 in domain II of 23 S rRNA and constitute a part of
+the GTPase-associated center in Escherichia coli ribosomes. We replaced these
+ribosomal proteins in vitro with the rat counterparts P0-P1/P2 complex and RL12,
+and tested them for ribosomal activities. The core 50 S subunit lacking the
+proteins on the 1070 RNA domain was prepared under gentle conditions from a
+mutant deficient in ribosomal protein L11. The rat proteins bound to the core 50
+S subunit through their interactions with the 1070 RNA domain. The resultant
+hybrid ribosome was insensitive to thiostrepton and showed poly(U)-programmed
+polyphenylalanine synthesis dependent on the actions of both eukaryotic
+elongation factors 1alpha (eEF-1alpha) and 2 (eEF-2) but not of the prokaryotic
+equivalent factors EF-Tu and EF-G. The results from replacement of either the
+L10-L7/L12 complex or L11 with rat protein showed that the P0-P1/P2 complex, and
+not RL12, was responsible for the specificity of the eukaryotic ribosomes to
+eukaryotic elongation factors and for the accompanying GTPase activity. The
+presence of either E. coli L11 or rat RL12 considerably stimulated the
+polyphenylalanine synthesis by the hybrid ribosome, suggesting that L11/RL12
+proteins play an important role in post-GTPase events of translation elongation.
+
+PMID: 11729183 [PubMed - indexed for MEDLINE]
+
+
+
+NR30: J Bacteriol. 2001 Nov;183(22):6532-7. 
+
+Involvement of the N terminus of ribosomal protein L11 in regulation of the RelA
+protein of Escherichia coli.
+
+Yang X, Ishiguro EE.
+
+Department of Biochemistry and Microbiology, University of Victoria, British
+Columbia, Canada.
+
+Amino acid-deprived rplK (previously known as relC) mutants of Escherichia coli
+cannot activate (p)ppGpp synthetase I (RelA) and consequently exhibit relaxed
+phenotypes. The rplK gene encodes ribosomal protein L11, suggesting that L11 is
+involved in regulating the activity of RelA. To investigate the role of L11 in
+the stringent response, a derivative of rplK encoding L11 lacking the N-terminal
+36 amino acids (designated 'L11) was constructed. Bacteria overexpressing 'L11
+exhibited a relaxed phenotype, and this was associated with an inhibition of
+RelA-dependent (p)ppGpp synthesis during amino acid deprivation. In contrast,
+bacteria overexpressing normal L11 exhibited a typical stringent response. The
+overexpressed 'L11 was incorporated into ribosomes and had no effect on the
+ribosome-binding activity of RelA. By several methods (yeast two-hybrid,
+affinity blotting, and copurification), no direct interaction was observed
+between the C-terminal ribosome-binding domain of RelA and L11. To determine
+whether the proline-rich helix of L11 was involved in RelA regulation, the
+Pro-22 residue was replaced with Leu by site-directed mutagenesis. The
+overexpression of the Leu-22 mutant derivative of L11 resulted in a relaxed
+phenotype. These results indicate that the proline-rich helix in the N terminus
+of L11 is involved in regulating the activity of RelA.
+
+PMID: 11673421 [PubMed - indexed for MEDLINE]
+
+
+
+NR31: Genome Biol. 2001;2(9):RESEARCH 0033. Epub 2001 Aug 30. 
+
+Two C or not two C: recurrent disruption of Zn-ribbons, gene duplication,
+lineage-specific gene loss, and horizontal gene transfer in evolution of
+bacterial ribosomal proteins.
+
+Makarova KS, Ponomarev VA, Koonin EV.
+
+National Center for Biotechnology Information, National Library of Medicine,
+National Institutes of Health, Bethesda, MD 20894, USA. koonin@ncbi.nlm.nih.gov
+
+BACKGROUND: Ribosomal proteins are encoded in all genomes of cellular life forms
+and are, generally, well conserved during evolution. In prokaryotes, the genes
+for most ribosomal proteins are clustered in several highly conserved operons,
+which ensures efficient co-regulation of their expression. Duplications of
+ribosomal-protein genes are infrequent, and given their coordinated expression
+and functioning, it is generally assumed that ribosomal-protein genes are
+unlikely to undergo horizontal transfer. However, with the accumulation of
+numerous complete genome sequences of prokaryotes, several paralogous pairs of
+ribosomal protein genes have been identified. Here we analyze all such cases and
+attempt to reconstruct the evolutionary history of these ribosomal proteins.
+RESULTS: Complete bacterial genomes were searched for duplications of ribosomal
+proteins. Ribosomal proteins L36, L33, L31, S14 are each duplicated in several
+bacterial genomes and ribosomal proteins L11, L28, L7/L12, S1, S15, S18 are so
+far duplicated in only one genome each. Sequence analysis of the four ribosomal
+proteins, for which paralogs were detected in several genomes, two of the
+ribosomal proteins duplicated in one genome (L28 and S18), and the ribosomal
+protein L32 showed that each of them comes in two distinct versions. One form
+contains a predicted metal-binding Zn-ribbon that consists of four conserved
+cysteines (in some cases replaced by histidines), whereas, in the second form,
+these metal-chelating residues are completely or partially replaced. Typically,
+genomes containing paralogous genes for these ribosomal proteins encode both
+versions, designated C+ and C-, respectively. Analysis of phylogenetic trees for
+these seven ribosomal proteins, combined with comparison of genomic contexts for
+the respective genes, indicates that in most, if not all cases, their evolution
+involved a duplication of the ancestral C+ form early in bacterial evolution,
+with subsequent alternative loss of the C+ and C- forms in different lineages.
+Additionally, evidence was obtained for a role of horizontal gene transfer in
+the evolution of these ribosomal proteins, with multiple cases of gene
+displacement 'in situ', that is, without a change of the gene order in the
+recipient genome. CONCLUSIONS: A more complex picture of evolution of bacterial
+ribosomal proteins than previously suspected is emerging from these results,
+with major contributions of lineage-specific gene loss and horizontal gene
+transfer. The recurrent theme of emergence and disruption of Zn-ribbons in
+bacterial ribosomal proteins awaits a functional interpretation.
+
+PMID: 11574053 [PubMed - indexed for MEDLINE]
+
+
+
+NR32: J Biol Chem. 2001 Nov 23;276(47):43958-69. Epub 2001 Sep 10. 
+
+The large subunit of the mammalian mitochondrial ribosome. Analysis of the
+complement of ribosomal proteins present.
+
+Koc EC, Burkhart W, Blackburn K, Moyer MB, Schlatzer DM, Moseley A, Spremulli
+LL.
+
+Department of Chemistry and Campus Box 3290, University of North Carolina,
+Chapel Hill, North Carolina 27599-3290, USA.
+
+Identification of all the protein components of the large subunit (39 S) of the
+mammalian mitochondrial ribosome has been achieved by carrying out proteolytic
+digestions of whole 39 S subunits followed by analysis of the resultant peptides
+by liquid chromatography and mass spectrometry. Peptide sequence information was
+used to search the human EST data bases and complete coding sequences were
+assembled. The human mitochondrial 39 S subunit has 48 distinct proteins. Twenty
+eight of these are homologs of the Escherichia coli 50 S ribosomal proteins L1,
+L2, L3, L4, L7/L12, L9, L10, L11, L13, L14, L15, L16, L17, L18, L19, L20, L21,
+L22, L23, L24, L27, L28, L30, L32, L33, L34, L35, and L36. Almost all of these
+proteins have homologs in Drosophila melanogaster, Caenorhabditis elegans, and
+Saccharomyces cerevisiae mitochondrial ribosomes. No mitochondrial homologs to
+prokaryotic ribosomal proteins L5, L6, L25, L29, and L31 could be found either
+in the peptides obtained or by analysis of the available data bases. The
+remaining 20 proteins present in the 39 S subunits are specific to mitochondrial
+ribosomes. Proteins in this group have no apparent homologs in bacterial,
+chloroplast, archaebacterial, or cytosolic ribosomes. All but two of the
+proteins has a clear homolog in D. melanogaster while all can be found in the
+genome of C. elegans. Ten of the 20 mitochondrial specific 39 S proteins have
+homologs in S. cerevisiae. Homologs of 2 of these new classes of ribosomal
+proteins could be identified in the Arabidopsis thaliana genome.
+
+PMID: 11551941 [PubMed - indexed for MEDLINE]
+
+
+
+NR33: Plant J. 2001 Aug;27(3):179-89. 
+
+Knock-out of the plastid ribosomal protein L11 in Arabidopsis: effects on mRNA
+translation and photosynthesis.
+
+Pesaresi P, Varotto C, Meurer J, Jahns P, Salamini F, Leister D.
+
+Zentrum zur Identifikation von Genfunktionen durch Insertionsmutagenese bei
+Arabidopsis thaliana (ZIGIA), Max-Planck-Institut fur Zuchtungsforschung,
+Carl-von-Linne-Weg 10, 50829 Koln, Germany.
+
+The prpl11-1 mutant of Arabidopsis thaliana was identified among a collection of
+T-DNA tagged lines on the basis of a decrease in the effective quantum yield of
+photosystem II. The mutation responsible was localized to Prpl11, a single-copy
+nuclear gene that encodes PRPL11, a component of the large subunit of the
+plastid ribosome. The amino acid sequence of Arabidopsis PRPL11 is very similar
+to those of L11 proteins from spinach and prokaryotes. In the prpl11-1 mutant,
+photosensitivity and chlorophyll fluorescence parameters are significantly
+altered owing to changes in the levels of thylakoid protein complexes and
+stromal proteins. The abundance of most plastome transcripts examined, such as
+those of genes coding for the photosystem II core complex and RbcL, is not
+decreased. Plastid ribosomal RNA accumulates in wild-type amounts, and the
+assembly of plastid polysomes on the transcripts of the rbcL, psbA and psbE
+genes remains mainly unchanged in mutant plants, indicating that lack of PRPL11
+affects neither the abundance of plastid ribosomes nor their assembly into
+polysomes. However, in vivo translation assays demonstrate that the rate of
+translation of the large subunit of Rubisco (RbcL) is significantly reduced in
+prpl11-1 plastids. Our data suggest a major role for PRPL11 in plastid ribosome
+activity per se, consistent with its location near the GTPase-binding centre of
+the chloroplast 50S ribosomal subunit. Additional effects of the mutation,
+including the pale green colour of the leaves and a drastic reduction in growth
+rate under greenhouse conditions, are compatible with reduced levels of protein
+synthesis in plastids.
+
+PMID: 11532164 [PubMed - indexed for MEDLINE]
+
+
+
+NR34: J Biomol NMR. 2001 Jul;20(3):293-4. 
+
+1H, 15N, and 13C assignments and secondary structure identification for
+full-length ribosomal protein L11 from Thermus thermophilus.
+
+Markus MA, Triantafillidou D, Choli-Papadopoulou T, Torchia DA.
+
+Publication Types:
+    Letter
+
+PMID: 11519754 [PubMed - indexed for MEDLINE]
+
+
+
+NR35: J Mol Biol. 2001 Aug 24;311(4):777-87. 
+
+Localization of L11 protein on the ribosome and elucidation of its involvement
+in EF-G-dependent translocation.
+
+Agrawal RK, Linde J, Sengupta J, Nierhaus KH, Frank J.
+
+Wadsworth Center, Empire State Plaza, Albany, NY 12201-0509, USA.
+agrawal@wadsworth.org
+
+L11 protein is located at the base of the L7/L12 stalk of the 50 S subunit of
+the Escherichia coli ribosome. Because of the flexible nature of the region,
+recent X-ray crystallographic studies of the 50 S subunit failed to locate the
+N-terminal domain of the protein. We have determined the position of the
+complete L11 protein by comparing a three-dimensional cryo-EM reconstruction of
+the 70 S ribosome, isolated from a mutant lacking ribosomal protein L11, with
+the three-dimensional map of the wild-type ribosome. Fitting of the X-ray
+coordinates of L11-23 S RNA complex and EF-G into the cryo-EM maps combined with
+molecular modeling, reveals that, following EF-G-dependent GTP hydrolysis,
+domain V of EF-G intrudes into the cleft between the 23 S ribosomal RNA and the
+N-terminal domain of L11 (where the antibiotic thiostrepton binds), causing the
+N-terminal domain to move and thereby inducing the formation of the arc-like
+connection with the G' domain of EF-G. The results provide a new insight into
+the mechanism of EF-G-dependent translocation. Copyright 2001 Academic Press.
+
+PMID: 11518530 [PubMed - indexed for MEDLINE]
+
+
+
+NR36: Mol Genet Genomics. 2001 Jun;265(4):569-75. 
+
+Characterization of a wheat cDNA encoding mitochondrial ribosomal protein L11:
+qualitative and quantitative tissue-specific differences in its expression.
+
+Handa H, Kobayashi-Uehara A, Murayama S.
+
+Laboratory of Plant Genecology, Hokkaido National Agricultural Experiment
+Station, Sapporo, Japan. hirokazu@cryo.affrc.go.jp
+
+We have cloned a cDNA for a ribosomal protein of wheat that is similar to the
+bacterial ribosomal protein L11 (RPL11). To determine the subcellular
+localization of the gene product, we fused the whole cDNA sequence to the coding
+sequence for Green Fluorescent Protein, and expressed the fusion product
+transiently in epidermal cells of pea hypocotyls or dayflower leaves. Localized
+fluorescence was detectable in mitochondria, indicating that this nuclear cDNA
+encodes a mitochondrial ribosomal protein L11 (MRPL11). In lower protists,
+mitochondrial RPL11 is encoded by the mitochondrial genome, but higher
+organisms, including animals, fungi and plants, do not have genes for RPL11 in
+their mitochondrial genomes, suggesting that transfer of the genetic information
+for RPL11 from the mitochondrial genome to the nucleus was a very early event in
+evolution. Transcripts of this wheat gene (TaMRPL11) for mitochondrial RPL11
+were found in all tissues examined, although qualitative and quantitative
+differences in expression were noted. The transcript sizes were different in
+different plant tissues: 1.0 kb in flowers and roots, and 1.5 kb in shoots. Cold
+stress transiently increased the steady-state level of TaMRPL11 mRNA in shoots,
+but the transcription of TaMRPL11 was completely inhibited by cold treatment for
+longer periods. However, the transcript level in flowers decreased gradually on
+exposure to low temperature. On the other hand, the accumulation of TaMRPL11
+transcripts in roots was not affected by low temperature. These results suggest
+that the expression of MRPL11 in wheat is regulated precisely, in a
+tissue-specific manner.
+
+PMID: 11459176 [PubMed - indexed for MEDLINE]
+
+
+
+NR37: Mol Microbiol. 2001 May;40(4):909-16. 
+
+Transcription of essential cell division genes is linked to chromosome
+replication in Escherichia coli.
+
+Liu G, Begg K, Geddes A, Donachie WD.
+
+Institute of Cell and Molecular Biology, University of Edinburgh, Darwin
+Building, King's Buildings, Edinburgh EH9 3JR, UK. Guowen.liu@yale.edu
+
+Cell division normally follows the completion of each round of chromosome
+replication in Escherichia coli. Transcription of the essential cell division
+genes clustered at the mra region is shown here to depend on continuing
+chromosomal DNA replication. After chromosome replication was blocked by either
+nalidixic acid treatment or thymine starvation, the transcription of these cell
+division genes was repressed significantly. This suggests a way in which cell
+division is controlled by chromosome replication.
+
+PMID: 11401698 [PubMed - indexed for MEDLINE]
+
+
+
+NR38: J Mol Biol. 2001 May 18;308(5):919-36. 
+
+Quantitative analysis of nucleic acid three-dimensional structures.
+
+Gendron P, Lemieux S, Major F.
+
+Departement d'Informatique et de Recherche Operationnelle, Universite de
+Montreal, C.P. 6128, Succ. Centre-Ville, Montreal, Quebec, H3C 3J7, Canada.
+
+A new computer program to annotate DNA and RNA three-dimensional structures,
+MC-Annotate, is introduced. The goals of annotation are to efficiently extract
+and manipulate structural information, to simplify further structural analyses
+and searches, and to objectively represent structural knowledge. The input of
+MC-Annotate is a PDB formatted DNA or RNA three-dimensional structure. The
+output of MC-Annotate is composed of a structural graph that contains the
+annotations, and a series of HTML documents, one for each nucleotide
+conformation and base-base interaction present in the input structure. The
+atomic coordinates of all nucleotides and the homogeneous transformation
+matrices of all base-base interactions are stored in the structural graph.
+Symbolic classifications of nucleotide conformations, using sugar puckering
+modes and nitrogen base orientations around the glycosyl bond, and base-base
+interactions, using stacking and hydrogen bonding information, are introduced.
+Peculiarity factors of nucleotide conformations and base-base interactions are
+defined to indicate their marginalities with all other examples. The peculiarity
+factors allow us to identify irregular regions and possible stereochemical
+errors in 3-D structures without interactive visualization. The annotations
+attached to each nucleotide conformation include its class, its torsion angles,
+a distribution of the root-mean-square deviations with examples of the same
+class, the list of examples of the same class, and its peculiarity value. The
+annotations attached to each base-base interaction include its class, a
+distribution of distances with examples of the same class, the list of examples
+of the same class, and its peculiarity value. The distance between two
+homogeneous transformation matrices is evaluated using a new metric that
+distinguishes between the rotation and the translation of a transformation
+matrix in the context of nitrogen bases. MC-Annotate was used to build databases
+of nucleotide conformations and base-base interactions. It was applied to the
+ribosomal RNA fragment that binds to protein L11, which annotations revealed
+peculiar nucleotide conformations and base-base interactions in the regions
+where the RNA contacts the protein. The question of whether the current database
+of RNA three-dimensional structures is complete is addressed. Copyright 2001
+Academic Press.
+
+PMID: 11352582 [PubMed - indexed for MEDLINE]
+
+
+
+NR39: Appl Environ Microbiol. 2001 May;67(5):2183-90. 
+
+Organization and transcriptional analysis of a six-gene cluster around the
+rplK-rplA operon of Corynebacterium glutamicum encoding the ribosomal proteins
+L11 and L1.
+
+Barreiro C, Gonzalez-Lavado E, Martin JF.
+
+Instituto de Biotecnologia (INBIOTEC), Parque Cientifico de Leon, Avda. del
+Real, no. 1, 24006 Leon, Spain.
+
+A cluster of six genes, tRNA(Trp)-secE-nusG-rplK-rplA-pkwR, was cloned and
+sequenced from a Corynebacterium glutamicum cosmid library and shown to be
+contiguous in the C. glutamicum genome. These genes encode a tryptophanyl tRNA,
+the protein translocase component SecE, the antiterminator protein NusG, and the
+ribosomal proteins L11 and L1 in addition to PkwR, a putative regulatory protein
+of the LacI-GalR family. S1 nuclease mapping analysis revealed that nusG and
+rplK are expressed as separate transcriptional units and rplK and rplA are
+cotranscribed as a single mRNA. A 19-nucleotide inverted repeat that appears to
+correspond to a transcriptional terminator was located in the 3' region
+downstream from nusG. Northern analysis with different probes confirmed the S1
+mapping results and showed that the secE-rplA four-gene region gives rise to
+four transcripts. secE was transcribed as a 0.5-kb monocistronic mRNA, nusG
+formed two transcripts of 1.4 and 1.0 kb from different initiation sites, and
+the two ribosomal protein genes rplK and rplA were cotranscribed as a single
+mRNA of 1.6 kb. A consensus L1 protein binding sequence was identified in the
+leader region of the rplK-rplA transcript, suggesting that expression of the
+rplK-rplA cluster was regulated by autogenous regulation exerted by the L1
+protein at the translation level. The promoters of the nusG and rplK-rplA genes
+were subcloned in a novel corynebacterial promoter-probe vector and shown to
+confer strong expression of the reporter gene.
+
+PMID: 11319098 [PubMed - indexed for MEDLINE]
+
+
+
+NR40: J Biol Chem. 2001 Apr 27;276(17):14117-23. Epub 2001 Jan 30. 
+
+Cryo-electron microscopic localization of protein L7/L12 within the Escherichia
+coli 70 S ribosome by difference mapping and Nanogold labeling.
+
+Montesano-Roditis L, Glitz DG, Traut RR, Stewart PL.
+
+Department of Biological Chemistry, University of California School of Medicine,
+Los Angeles, California 90095-1737, USA.
+
+The Escherichia coli ribosomal protein L7/L12 is central to the translocation
+step of translation, and it is known to be flexible under some conditions. The
+assignment of electron density to L7/L12 was not possible in the recent 2.4 A
+resolution x-ray crystallographic structure (Ban, N., Nissen, P., Hansen, J.,
+Moore, P. B., and Steitz, T. A. (2000) Science 289, 905-920). We have localized
+the two dimers of L7/L12 within the structure of the 70 S ribosome using two
+reconstitution approaches together with cryo-electron microscopy and single
+particle reconstruction. First, the structures were determined for ribosomal
+cores from which protein L7/L12 had been removed by treatment with NH(4)Cl and
+ethanol and for reconstituted ribosomes in which purified L7/L12 had been
+restored to core particles. Difference mapping revealed that the reconstituted
+ribosomes had additional density within the L7/L12 shoulder next to protein L11.
+Second, ribosomes were reconstituted using an L7/L12 variant in which a single
+cysteine at position 89 in the C-terminal domain was modified with Nanogold
+(Nanoprobes, Inc.), a 14 A gold derivative. The reconstruction from
+cryo-electron microscopy images and difference mapping placed the gold at four
+interfacial positions. The finding of multiple sites for the C-terminal domain
+of L7/L12 suggests that the conformation of this protein may change during the
+steps of elongation and translocation.
+
+PMID: 11278411 [PubMed - indexed for MEDLINE]
+
+
+
+NR41: Nat Struct Biol. 2001 Apr;8(4):339-43. 
+
+A universal mode of helix packing in RNA.
+
+Doherty EA, Batey RT, Masquida B, Doudna JA.
+
+Department of Molecular Biophysics and Biochemistry, Yale University, New Haven,
+Connecticut 06520, USA.
+
+RNA molecules fold into specific three-dimensional shapes to perform structural
+and catalytic functions. Large RNAs can form compact globular structures, but
+the chemical basis for close helical packing within these molecules has been
+unclear. Analysis of transfer, catalysis, in vitro-selected and ribosomal RNAs
+reveal that helical packing predominantly involves the interaction of
+single-stranded adenosines with a helix minor groove. Using the Tetrahymena
+thermophila group I ribozyme, we show here that the near-perfect shape
+complementarity between the adenine base and the minor groove allows for optimal
+van der Waals contacts, extensive hydrogen bonding and hydrophobic surface
+burial, creating a highly energetically favorable interaction. Adenosine is
+recognized in a chemically similar fashion by a combination of protein and RNA
+components in the ribonucleoprotein core of the signal recognition particle.
+These results provide a thermodynamic explanation for the noted abundance of
+conserved adenosines within the unpaired regions of RNA secondary structures.
+
+PMID: 11276255 [PubMed - indexed for MEDLINE]
+
+
+
+PR42: Proc Natl Acad Sci U S A. 2001 Mar 27;98(7):3992-7. 
+
+The immunoprotective MHC II epitope of a chemically induced tumor harbors a
+unique mutation in a ribosomal protein.
+
+Matsutake T, Srivastava PK.
+
+Center for Immunotherapy of Cancer and Infectious Diseases, University of
+Connecticut School of Medicine, Farmington, CT 06030-1601, USA.
+
+CD4(+) T lymphocyte clones, generated from mice immunized with the
+methylcholanthrene-induced fibrosarcoma Meth A (H-2(d)), are restricted by
+I-E(d) and recognize a unique antigen on Meth A. The antigen has been purified
+and characterized as the ribosomal protein L11. The antigenic epitope is
+contained within the sequence EYELRKHNFSDTG and is generated by substitution of
+Asn by His (italic) caused by a single point mutation. The tumor contains the
+wild-type and the mutated alleles. Immunization of BALB/cJ mice with the mutated
+epitope but not with the wild-type epitope protects mice against a subsequent
+challenge with the Meth A sarcoma. Adoptive transfer of CD4(+) clones into
+BALB/c mice renders the mice specifically resistant to Meth A sarcoma. The
+mutated L11 epitope is thus shown to be an immunoprotective epitope in vivo by
+several criteria.
+
+PMID: 11274422 [PubMed - indexed for MEDLINE]
+
+
+
+NR43: J Bacteriol. 2001 Apr;183(7):2316-21. 
+
+Loss of ribosomal protein L11 blocks stress activation of the Bacillus subtilis
+transcription factor sigma(B).
+
+Zhang S, Scott JM, Haldenwang WG.
+
+Department of Microbiology, MC 7758, University of Texas Health Science Center,
+San Antonio, Texas 78229-3900, USA.
+
+sigma(B), the general stress response sigma factor of Bacillus subtilis, is
+activated when the cell's energy levels decline or the bacterium is exposed to
+environmental stress (e.g., heat shock, ethanol). Physical stress activates
+sigma(B) through a collection of regulatory kinases and phosphatases (the Rsb
+proteins) which catalyze the release of sigma(B) from an anti-sigma(B) factor
+inhibitor. The means by which diverse stresses communicate with the Rsb proteins
+is unknown; however, a role for the ribosome in this process was suggested when
+several of the upstream members of the sigma(B) stress activation cascade (RsbR,
+-S, and -T) were found to cofractionate with ribosomes in crude B. subtilis
+extracts. We now present evidence for the involvement of a ribosome-mediated
+process in the stress activation of sigma(B). B. subtilis strains resistant to
+the antibiotic thiostrepton, due to the loss of ribosomal protein L11 (RplK),
+were found to be blocked in the stress activation of sigma(B). Neither the
+energy-responsive activation of sigma(B) nor stress-dependent chaperone gene
+induction (a sigma(B)-independent stress response) was inhibited by the loss of
+L11. The Rsb proteins required for stress activation of sigma(B) are shown to be
+active in the RplK(-) strain but fail to be triggered by stress. The data
+demonstrate that the B. subtilis ribosomes provide an essential input for the
+stress activation of sigma(B) and suggest that the ribosomes may themselves be
+the sensors for stress in this system.
+
+PMID: 11244072 [PubMed - indexed for MEDLINE]
+
+
+NR44: Microbiology. 2001 Mar;147(Pt 3):691-700. 
+
+A Corynebacterium glutamicum mutant with a defined deletion within the rplK gene
+is impaired in (p)ppGpp accumulation upon amino acid starvation.
+
+Wehmeier L, Brockmann-Gretza O, Pisabarro A, Tauch A, Puhler A, Martin JF,
+Kalinowski J.
+
+Lehrstuhl fur Genetik, Fakultat fur Biologie, Universitat Bielefeld, D-33501
+Bielefeld, Germany.
+
+The rplK gene of Corynebacterium glutamicum ATCC13032 comprises 438 nucleotides
+and encodes a protein of 145 amino acids with a molecular mass of 15.3 kDa. The
+amino acid sequence revealed extensive similarities to the large ribosomal
+subunit protein L11 from several Gram-positive and Gram-negative bacteria. The
+C. glutamicum rplK gene is located downstream of secE, representing part of the
+protein export apparatus, and of nusG, encoding a transcription antiterminator
+protein. The rplK gene is followed by an ORF homologous to rplA encoding the 50S
+ribosomal protein L1. Northern analysis revealed that transcription of the
+rplK-rplA cluster resulted in two different transcripts of 1.5 and 0.6 kb. The
+1.5 kb transcript corresponds to the entire rplK-rplA cluster and the short
+transcript originates from the rplK gene. A C. glutamicum rplK mutant strain
+carrying a 12 bp in-frame deletion within rplK, which resulted in the loss of
+the tetrapeptide Pro-Ala-Leu-Gly in the L11 protein, was constructed. The mutant
+failed to accumulate (p)ppGpp in response to amino acid starvation and exhibited
+an increased tolerance to the antibiotic thiostrepton. Evidently, the C.
+glutamicum rplK gene is required for (p)ppGpp accumulation upon nutritional
+starvation.
+
+PMID: 11238976 [PubMed - indexed for MEDLINE]
+
+
+
+NR45: Biol Chem. 2000 Nov;381(11):1079-87. 
+
+Identification of the 50S ribosomal proteins from the Eubacterium Thermus
+thermophilus.
+
+Katsani KR, Tsiboli P, Anagnostopoulos K, Urlaub H, Choli-Papadopoulou T.
+
+Laboratory of Biochemistry, School of Chemistry, Aristotle University of
+Thessaloniki, Greece.
+
+The total protein mixture from the 50S subunit (TP-50) of the eubacterium
+Thermus thermophilus was characterized after blotting onto PVDF membranes from
+two-dimensional polyacrylamide gel electrophoresis (2D-PAGE) and sequencing. The
+proteins were numbered according to their primary structure similarity with
+their counterparts from other species. One of them has been marked with an
+asterisk, namely L*23, because unlike the other known ribosomal proteins it
+shows a very low degree of homology. A highly acidic 5S rRNA binding protein,
+TL5, was characterized and compared with the available primary structure
+information. Proteins L1 and L4 migrate similarly on 2D-PAGE. Protein L4,
+essential for protein biosynthesis, is N-terminally blocked and shows a
+strikingly low homology to other L4 proteins. In addition to L4, two other
+proteins, namely L10 and L11, were found to be N-terminally blocked. In
+conclusion, 33 proteins from the large subunit were identified, including TL5.
+Homologs to rpL25 and rpL26 were not found.
+
+PMID: 11154066 [PubMed - indexed for MEDLINE]
+
+
+
+NR46: Differentiation. 2000 Oct;66(2-3):81-92. 
+
+Down regulation of ribosomal protein mRNAs during neuronal differentiation of
+human NTERA2 cells.
+
+Bevort M, Leffers H.
+
+Department of Growth and Reproduction, Rigshospitalet, Copenhagen, Denmark.
+
+We have analysed the expression of 32 ribosomal protein (RP) mRNAs during
+retinoic acid induced neuronal differentiation of human NTERA2 cells. Except for
+a new S27 variant (S27v), all were down regulated both in selectively replated
+differentiated neurons and the most differentiated continuous cultures, i.e.,
+non-replated cultures. However, the expression profiles of the individual RP
+mRNAs were different, most (L3, L7, L8, L10, L13, L23a, L27a, L36a, L39, P0, S2,
+S3, S3a, S4X, S6, S9, S12, S13, S16, S19, S20, S23, and S27a) exhibited a
+constant down regulation, whereas a few were either initially constant (L11,
+L32, S8, and S11) or up regulated (L6, L15, L17, L31, and S27y) and then down
+regulated. The expression of S27v remained elevated in the most differentiated
+continuous cultures but was down regulated in replated differentiated neurons.
+The down regulation of RP mRNAs was variable: the expression levels in
+differentiated replated neurons were between 10% (S3) and 90% (S11) of the
+levels in undifferentiated cells. The ratio between rRNA and RP mRNA changed
+during the differentiation; in differentiated neurons there were, on average,
+about half the number of RP mRNAs per rRNA as compared to undifferentiated
+cells. The expression profiles of a few translation-related proteins were also
+determined. EF1alpha1, EF1beta1, and EF1delta were down regulated, whereas the
+expression of the neuron and muscle specific EF1alpha2 increased. The reduction
+in the expression of RP mRNAs was coordinated with a reduction in the expression
+level of the proliferation marker PCNA. The expression levels of most RP mRNAs
+were lower in purified differentiated post-mitotic neurons than in the most
+differentiated continuous cultures, despite similar levels of PCNA, suggesting
+that both the differentiation state and the proliferative status of the cells
+affect the expression of RP mRNAs.
+
+PMID: 11100899 [PubMed - indexed for MEDLINE]
+
+
+
+NR47: Nucleic Acids Res. 2000 Nov 15;28(22):4497-505. 
+
+Conformational changes induced in the Saccharomyces cerevisiae GTPase-associated
+rRNA by ribosomal stalk components and a translocation inhibitor.
+
+Briones C, Ballesta JP.
+
+Centro de Biologia Molecular 'Severo Ochoa', Consejo Superior de Investigaciones
+Cientificas y Universidad Autonoma de Madrid, Canto Blanco, 28049 Madrid, Spain.
+
+The yeast ribosomal GTPase associated center is made of parts of the 26S rRNA
+domains II and VI, and a number of proteins including P0, P1alpha, P1beta,
+P2alpha, P2beta and L12. Mapping of the rRNA neighborhood of the proteins was
+performed by footprinting in ribosomes from yeast strains lacking different
+GTPase components. The absence of protein P0 dramatically increases the
+sensitivity of the defective ribosome to degradation hampering the RNA
+footprinting. In ribosomes lacking the P1/P2 complex, protection of a number of
+nucleotides is detected around positions 840, 880, 1100, 1220-1280 and 1350 in
+domain II as well as in several positions in the domain VI alpha-sarcin region.
+The protection pattern resembles the one reported for the interaction of
+elongation factors in bacterial systems. The results exclude a direct
+interaction of these proteins with the rRNA and are compatible with an increase
+in the ribosome affinity for EF-2 in the absence of the acidic P proteins.
+Interestingly, a sordarin derivative inhibitor of EF-2 causes an opposite
+effect, increasing the reactivity in positions protected by the absence of
+P1/P2. Similarly, a deficiency in protein L12 exposes nucleotides G1235, G1242,
+A1262, A1269, A1270 and A1272 to chemical modification, thus situating the
+protein binding site in the most conserved part of the 26S rRNA, equivalent to
+the bacterial protein L11 binding site.
+
+PMID: 11071938 [PubMed - indexed for MEDLINE]
+
+
+
+NR48: Mol Biol Cell. 2000 Nov;11(11):3777-89. 
+
+Factors affecting nuclear export of the 60S ribosomal subunit in vivo.
+
+Stage-Zimmermann T, Schmidt U, Silver PA.
+
+Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical
+School, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, USA.
+
+In Saccharomyces cerevisiae, the 60S ribosomal subunit assembles in the
+nucleolus and then is exported to the cytoplasm, where it joins the 40S subunit
+for translation. Export of the 60S subunit from the nucleus is known to be an
+energy-dependent and factor-mediated process, but very little is known about the
+specifics of its transport. To begin to address this problem, an assay was
+developed to follow the localization of the 60S ribosomal subunit in S.
+cerevisiae. Ribosomal protein L11b (Rpl11b), one of the approximately 45
+ribosomal proteins of the 60S subunit, was tagged at its carboxyl terminus with
+the green fluorescent protein (GFP) to enable visualization of the 60S subunit
+in living cells. A panel of mutant yeast strains was screened for their
+accumulation of Rpl11b-GFP in the nucleus as an indicator of their involvement
+in ribosome synthesis and/or transport. This panel included conditional alleles
+of several rRNA-processing factors, nucleoporins, general transport factors, and
+karyopherins. As predicted, conditional alleles of rRNA-processing factors that
+affect 60S ribosomal subunit assembly accumulated Rpl11b-GFP in the nucleus. In
+addition, several of the nucleoporin mutants as well as a few of the karyopherin
+and transport factor mutants also mislocalized Rpl11b-GFP. In particular,
+deletion of the previously uncharacterized karyopherin KAP120 caused
+accumulation of Rpl11b-GFP in the nucleus, whereas ribosomal protein import was
+not impaired. Together, these data further define the requirements for ribosomal
+subunit export and suggest a biological function for KAP120.
+
+PMID: 11071906 [PubMed - indexed for MEDLINE]
+
+
+
+NR49: Acta Microbiol Pol. 2000;49(1):19-29. 
+
+Sequence, structural, and evolutionary analysis of prokaryotic ribosomal protein
+L11 methyltransferases.
+
+Bujnicki JM.
+
+Henry Ford Health System, Molecular Biology Research Program, Detroit, MI 48202,
+USA. iamb@bioinfo.pl
+
+The Escherichia coli PrmA enzyme catalyzes methylation of the large ribosomal
+subunit protein L11. Database homology searches, multiple sequence alignment,
+and structure prediction allowed to dissect the primary structure of PrmA into
+two domains and assign putative functional or structural roles to invariant or
+highly conserved residues. Evolutionary relationships within the PrmA family
+were also analyzed. The topology of the branching order agrees to a large extent
+with the consensus phylogeny of Eubacteria, with the exception of beta and
+epsilon subdivisions of Proteobacteria, which most probably had their original
+prmA genes replaced by copies acquired via the lateral gene transfer from
+gamma-Proteobacteria and some close relative of the ancestor of gramnegative
+bacteria, respectively.
+
+PMID: 10997488 [PubMed - indexed for MEDLINE]
+
+
+
+NR50: J Biol Chem. 2000 Nov 10;275(45):35116-21. 
+
+A covariant change of the two highly conserved bases in the GTPase-associated
+center of 28 S rRNA in silkworms and other moths.
+
+Uchiumi T, Nomura T, Shimizu T, Katakai Y, Mita K, Koike Y, Nakagaki M, Taira H,
+Hachimori A.
+
+Institute of High Polymer Research and the Department of Applied Biological
+Science, Faculty of Textile Science and Technology, Shinshu University, Ueda
+386-8567, Japan. uchimi@giptc.shinshu-u.ac.jp
+
+The GTPase-associated center in 23/28 S rRNA is one of the most conserved
+functional domains throughout all organisms. We detected a unique sequence of
+this domain in Bombyx mori species in which the bases at positions 1094 and 1098
+(numbering from Escherichia coli 23 S rRNA) are C and G instead of the otherwise
+universally conserved bases U and A, respectively. These changes were also
+observed in four other species of moths, but not in organisms other than the
+moths. Characteristics of the B. mori rRNA domain were investigated by native
+polyacrylamide gel electrophoresis using RNA fragments containing residues
+1030-1128. Although two bands of protein-free RNA appeared on gel, they shifted
+to a single band when bound to Bombyx ribosomal proteins Bm-L12 and Bm-P
+complex, equivalent to E. coli L11 and L8, respectively. Bombyx RNA showed lower
+binding capacity than rat RNA for the ribosomal proteins and anti-28 S
+autoantibody, specific for a folded structure of the eukaryotic
+GTPase-associated domain. When the C(1094)/G(1098) bases in Bombyx RNA were
+replaced by the conserved U/A bases, the protein-free RNA migrated as a single
+band, and the complex formation with Bm-L12, Bm-P complex, and anti-28 S
+autoantibody was comparable to that of rat RNA. The results suggest that the
+GTPase-associated domain of moth-type insects has a labile structural feature
+that is caused by an unusual covariant change of the U(1094)/A(1098) bases to
+C/G.
+
+PMID: 10960474 [PubMed - indexed for MEDLINE]
+
+
+
+NR51: Methods Enzymol. 2000;318:251-68. 
+
+RNA-protein interactions in ribosomes: in vitro selection from randomly
+fragmented rRNA.
+
+Stelzl U, Spahn CM, Nierhaus KH.
+
+Max-Planck-Institut fur Molekulare Genetik, Berlin, Germany.
+
+PMID: 10889993 [PubMed - indexed for MEDLINE]
+
+
+
+NR52: J Biol Chem. 2000 Sep 15;275(37):28466-82. 
+
+The plastid ribosomal proteins. Identification of all the proteins in the 50 S
+subunit of an organelle ribosome (chloroplast).
+
+Yamaguchi K, Subramanian AR.
+
+Department of Biochemistry, The University of Arizona, Tucson, Arizona 85712,
+USA.
+
+We have completed identification of all the ribosomal proteins (RPs) in spinach
+plastid (chloroplast) ribosomal 50 S subunit via a proteomic approach using
+two-dimensional electrophoresis, electroblotting/protein sequencing, high
+performance liquid chromatography purification, polymerase chain reaction-based
+screening of cDNA library/nucleotide sequencing, and mass spectrometry
+(reversed-phase HPLC coupled to electrospray ionization mass spectrometry and
+electrospray ionization mass spectrometry). Spinach plastid 50 S subunit
+comprises 33 proteins, of which 31 are orthologues of Escherichia coli RPs and
+two are plastid-specific RPs (PSRP-5 and PSRP-6) having no homologues in other
+types of ribosomes. Orthologues of E. coli L25 and L30 are absent in spinach
+plastid ribosome. 25 of the plastid 50 S RPs are encoded in the nuclear genome
+and synthesized on cytosolic ribosomes, whereas eight of the plastid RPs are
+encoded in the plastid organelle genome and synthesized on plastid ribosomes.
+Sites for transit peptide cleavages in the cytosolic RP precursors and formyl
+Met processing in the plastid-synthesized RPs were established.
+Post-translational modifications were observed in several mature plastid RPs,
+including multiple forms of L10, L18, L31, and PSRP-5 and N-terminal/internal
+modifications in L2, L11 and L16. Comparison of the RPs in gradient-purified 70
+S ribosome with those in the 30 and 50 S subunits revealed an additional
+protein, in approximately stoichiometric amount, specific to the 70 S ribosome.
+It was identified to be plastid ribosome recycling factor. Combining with our
+recent study of the proteins in plastid 30 S subunit (Yamaguchi, K., von
+Knoblauch, K., and Subramanian, A. R. (2000) J. Biol. Chem. 275, 28455-28465),
+we show that spinach plastid ribosome comprises 59 proteins (33 in 50 S subunit
+and 25 in 30 S subunit and ribosome recycling factor in 70 S), of which 53 are
+E. coli orthologues and 6 are plastid-specific proteins (PSRP-1 to PSRP-6). We
+propose the hypothesis that PSRPs were evolved to perform functions unique to
+plastid translation and its regulation, including protein
+targeting/translocation to thylakoid membrane via plastid 50 S subunit.
+
+PMID: 10874046 [PubMed - indexed for MEDLINE]
+
+
+
+NR53: Structure Fold Des. 2000 May 15;8(5):527-40. 
+
+Crystal structure of the ffh and EF-G binding sites in the conserved domain IV
+of Escherichia coli 4.5S RNA.
+
+Jovine L, Hainzl T, Oubridge C, Scott WG, Li J, Sixma TK, Wonacott A, Skarzynski
+T, Nagai K.
+
+MRC Laboratory of Molecular Biology, Cambridge, England. jovinl02@doc.mssm.edu
+
+BACKGROUND: Bacterial signal recognition particle (SRP), consisting of 4.5S RNA
+and Ffh protein, plays an essential role in targeting signal-peptide-containing
+proteins to the secretory apparatus in the cell membrane. The 4.5S RNA increases
+the affinity of Ffh for signal peptides and is essential for the interaction
+between SRP and its receptor, protein FtsY. The 4.5S RNA also interacts with
+elongation factor G (EF-G) in the ribosome and this interaction is required for
+efficient translation. RESULTS: We have determined by multiple anomalous
+dispersion (MAD) with Lu(3+) the 2.7 A crystal structure of a 4.5S RNA fragment
+containing binding sites for both Ffh and EF-G. This fragment consists of three
+helices connected by a symmetric and an asymmetric internal loop. In contrast to
+NMR-derived structures reported previously, the symmetric loop is entirely
+constituted by non-canonical base pairs. These pairs continuously stack and
+project unusual sets of hydrogen-bond donors and acceptors into the shallow
+minor groove. The structure can therefore be regarded as two double helical rods
+hinged by the asymmetric loop that protrudes from one strand. CONCLUSIONS: Based
+on our crystal structure and results of chemical protection experiments reported
+previously, we predicted that Ffh binds to the minor groove of the symmetric
+loop. An identical decanucleotide sequence is found in the EF-G binding sites of
+both 4.5S RNA and 23S rRNA. The decanucleotide structure in the 4.5S RNA and the
+ribosomal protein L11-RNA complex crystals suggests how 4.5S RNA and 23S rRNA
+might interact with EF-G and function in translating ribosomes.
+
+PMID: 10801497 [PubMed - indexed for MEDLINE]
+
+
+
+NR54: J Mol Biol. 2000 Apr 21;298(1):35-59. 
+
+The 3D arrangement of the 23 S and 5 S rRNA in the Escherichia coli 50 S
+ribosomal subunit based on a cryo-electron microscopic reconstruction at 7.5 A
+resolution.
+
+Mueller F, Sommer I, Baranov P, Matadeen R, Stoldt M, Wohnert J, Gorlach M, van
+Heel M, Brimacombe R.
+
+Max-Planck-Institut fur Molekulare Genetik, Ihnestrasse 73, Berlin, 14195,
+Germany.
+
+The Escherichia coli 23 S and 5 S rRNA molecules have been fitted helix by helix
+to a cryo-electron microscopic (EM) reconstruction of the 50 S ribosomal
+subunit, using an unfiltered version of the recently published 50 S
+reconstruction at 7.5 A resolution. At this resolution, the EM density shows a
+well-defined network of fine structural elements, in which the major and minor
+grooves of the rRNA helices can be discerned at many locations. The 3D folding
+of the rRNA molecules within this EM density is constrained by their
+well-established secondary structures, and further constraints are provided by
+intra and inter-rRNA crosslinking data, as well as by tertiary interactions and
+pseudoknots. RNA-protein cross-link and foot-print sites on the 23 S and 5 S
+rRNA were used to position the rRNA elements concerned in relation to the known
+arrangement of the ribosomal proteins as determined by immuno-electron
+microscopy. The published X-ray or NMR structures of seven 50 S ribosomal
+proteins or RNA-protein complexes were incorporated into the EM density. The 3D
+locations of cross-link and foot-print sites to the 23 S rRNA from tRNA bound to
+the ribosomal A, P or E sites were correlated with the positions of the tRNA
+molecules directly observed in earlier reconstructions of the 70 S ribosome at
+13 A or 20 A. Similarly, the positions of cross-link sites within the peptidyl
+transferase ring of the 23 S rRNA from the aminoacyl residue of tRNA were
+correlated with the locations of the CCA ends of the A and P site tRNA. Sites on
+the 23 S rRNA that are cross-linked to the N termini of peptides of different
+lengths were all found to lie within or close to the internal tunnel connecting
+the peptidyl transferase region with the presumed peptide exit site on the
+solvent side of the 50 S subunit. The post-transcriptionally modified bases in
+the 23 S rRNA form a cluster close to the peptidyl transferase area. The minimum
+conserved core elements of the secondary structure of the 23 S rRNA form a
+compact block within the 3D structure and, conversely, the points corresponding
+to the locations of expansion segments in 28 S rRNA all lie on the outside of
+the structure. Copyright 2000 Academic Press.
+
+PMID: 10756104 [PubMed - indexed for MEDLINE]
+
+
+
+NR55: Nucleic Acids Res. 2000 Apr 15;28(8):1778-84. 
+
+The RNA-binding domain of ribosomal protein L11 recognizes an rRNA tertiary
+structure stabilized by both thiostrepton and magnesium ion.
+
+Blyn LB, Risen LM, Griffey RH, Draper DE.
+
+Ibis Therapeutics, a Division of Isis Pharmaceuticals, 2292 Faraday Avenue,
+Carlsbad, CA 92008, USA. lblyn@isisph.com
+
+Antibiotics that inhibit ribosomal function may do so by one of several
+mechanisms, including the induction of incorrect RNA folding or prevention of
+protein and/or RNA conformational transitions. Thiostrepton, which binds to the
+'GTPase center' of the large subunit, has been postulated to prevent
+conformational changes in either the L11 protein or rRNA to which it binds.
+Scintillation proximity assays designed to look at the binding of the L11
+C-terminal RNA-binding domain to a 23S ribosomal RNA (rRNA) fragment, as well as
+the ability of thiostrepton to induce that binding, were used to demonstrate the
+role of Mg(2+), L11 and thio-strepton in the formation and maintenance of the
+rRNA fragment tertiary structure. Experiments using these assays with both an
+Escherichia coli rRNA fragment and a thermostable variant of that RNA show that
+Mg(2+), L11 and thiostrepton all induce the RNA to fold to an essentially
+identical tertiary structure.
+
+PMID: 10734197 [PubMed - indexed for MEDLINE]
+
+
+
+NR56: J Mol Biol. 2000 Jan 21;295(3):569-80. 
+
+Contributions of basic residues to ribosomal protein L11 recognition of RNA.
+
+GuhaThakurta D, Draper DE.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, MD, 21218, USA.
+
+The C-terminal domain of ribosomal protein L11, L11-C76, binds in the distorted
+minor groove of a helix within a 58 nucleotide domain of 23 S rRNA. To study the
+electrostatic component of RNA recognition in this protein, arginine and lysine
+residues have been individually mutated to alanine or methionine residues at the
+nine sequence positions that are conserved as basic residues among bacterial L11
+homologs. In measurements of the salt dependence of RNA-binding, five of these
+mutants have a reduced value of - partial differentiallog(K(obs))/ partial
+differentiallog[KCl] as compared to the parent L11-C76 sequence, indicating that
+these residues interact with the RNA electrostatic field. These five residues
+are located at the perimeter of the RNA-binding surface of the protein; all five
+of them form salt bridges with phosphates in the crystal structure of the
+complex. A sixth residue, Lys47, was found to make an electrostatic contribution
+to binding when measurements were made at pH 6.0, but not at pH 7.0; its pK in
+the free protein must be <6.5. The unusual behavior of Lys47 is explained by its
+burial in the hydrophobic core of the free protein, and unburial in the
+RNA-bound protein, where it forms a salt bridge with a phosphate. The
+contributions of these six residues to the electrostatic component of binding
+are not additive; thus the magnitude of the salt dependence cannot be used to
+count the number of ionic interactions in this complex. By interacting with
+irregular features of the RNA backbone, including an S-turn, these basic
+residues contribute to the specificity of L11 for its target site. Copyright
+2000 Academic Press.
+
+PMID: 10623547 [PubMed - indexed for MEDLINE]
+
+
+
+NR57: Differentiation. 1999 Oct;65(2):73-88. 
+
+Ribosomal protein gene expression is cell type specific during development in
+Dictyostelium discoideum.
+
+Agarwal AK, Parrish SN, Blumberg DD.
+
+Department of Biological Science, University of Maryland Baltimore County, 1000
+Hilltop Circle, Baltimore, MD 21250, USA.
+
+Starvation for amino acids initiates the developmental cycle in the cellular
+slime mold, Dictyostelium discoideum. Upon starvation one of the earliest
+developmental events is the selective loss of the ribosomal protein mRNAs from
+polysomes. This loss depends upon sequences in the 5' non-translated leader of
+the ribosomal protein (r-protein) mRNAs. Here evidence is presented which
+indicates that those cells which will become prestalk cells express the
+ribosomal protein genes during development under starvation conditions. Cells
+which enter the prespore pathway shut off r-protein synthesis. The promoter and
+5' non-translated leader sequences from two ribosomal protein genes, the rp-L11
+and the rp-S9 genes, are fused to the Escherichia coli beta-galactosidase
+reporter gene. While beta-galactosidase enzyme activity is detected in situ in
+most growing cells, by 15 h of development beta-galactosidase enzyme activity is
+largely lost from the prespore cells although strong beta-galactosidase enzyme
+activity is present in the prestalk cells. These observations suggest the
+possibility that the ribosomal protein mRNAs are excluded from polysomes in a
+cell-type-specific manner.
+
+PMID: 10550541 [PubMed - indexed for MEDLINE]
+
+
+
+NR58: Biofizika. 1999 Jul-Aug;44(4):601-10. 
+
+[Computer analysis of regulatory signals in complete bacterial genomes.
+Translation initiation of ribosomal protein operons]
+
+[Article in Russian]
+
+Vitreshchak A, Bansal AK, Titov II, Gel'fand MS.
+
+Institute of Problems of Data Transmission, Russian Academy of Sciences, Moscow,
+Russia.
+
+Signals of translation initiation of operons of Haemophilus influenzae ribosomal
+proteins were predicted. This process is regulated by the formation of secondary
+RNA structures to which one of the proteins encoded in a particular operon
+binds. In some cases, these structures imitate the region of protein binding to
+rRNA. Predictions are made by comparing with homologous operons of Escherichia
+coli and analogous regions of rRNA and by estimating the energy of secondary
+structure formation. It is shown that this regulatory mechanism occurs: in
+operons L11, S10, S15, spc, and alpha of H.influenzae and, probably, in operon
+S15 of Helicobacter pylori, Bacillus subtilis, and Mycoplasma genitalium.
+
+PMID: 10544808 [PubMed - indexed for MEDLINE]
+
+
+
+NR59: Microb Comp Genomics. 1999;4(1):47-58. 
+
+Molecular cloning of the dnaK gene region from Bacillus sphaericus in the
+context of genomic comparisons.
+
+Ahmad S, Selvapandiyan A, Gasbarri M, Bhatnagar RK.
+
+International Centre for Genetic Engineering and Biotechnology, New Delhi,
+India.
+
+The dnaK gene region of Bacillus sphaericus was cloned as a 3.8 kb HindIII
+fragment and an overlapping 1.7 kb EcoRI fragment by using an internal B.
+sphaericus specific dnaK gene probe generated by polymerase chain reaction
+(PCR). Complete DNA sequencing of the two fragments revealed three complete open
+reading frames (ORFs). These ORFs exhibited a high degree of identity to the
+grpE dnaK, and dnaJ heat shock genes from other gram-positive bacteria. The
+order of the genes was found to be grpE-dnaK-dnaJ. Additionally, the 5'-end and
+3'-end contained amino acid sequences that were homologous to the C-terminal
+sequence of the hrcA gene and the N-terminal sequence of ORF35 (yqeT),
+respectively, from Bacillus subtilis. The entire hrcA gene from B. sphaericus
+was then isolated by high-fidelity PCR and completely sequenced. A transcription
+stop site is located between the dnaK and dnaJ genes but not after the dnaJ
+gene. Consistent with this observation, the dnaJ gene is immediately followed by
+an ORF that shows a high degree of identity to ORF35 from B. subtilis,
+Staphylococcus aureus, and Clostridium acetobutylicum. The presence of ORF35 is
+not indicated in other genera representing the gram-positive bacteria. The amino
+acid sequence of ORF35 exhibited nearly 30% identity with the methyltransferase
+for large subunit ribosomal protein L11 from gram-negative Proteobacteria and
+the related protein from cyanobacteria, other gram-negative bacteria, and
+Archaea, suggesting the presence of the gene for this protein in the common
+ancestor of Bacteria and Archaea. The absence of the ORF35 gene in Mycobacterium
+tuberculosis and other gram-positive bacteria indicates that the loss of this
+gene must have occurred in an ancestor of other gram-positive bacteria following
+their divergence from the ancestor of Bacillus/Clostridium/staphylococcus
+lineage.
+
+PMID: 10518301 [PubMed - indexed for MEDLINE]
+
+
+
+NR60: Nature. 1999 Aug 26;400(6747):841-7. 
+
+Comment in:
+    Nature. 1999 Aug 26;400(6747):811-2.
+
+Placement of protein and RNA structures into a 5 A-resolution map of the 50S
+ribosomal subunit.
+
+Ban N, Nissen P, Hansen J, Capel M, Moore PB, Steitz TA.
+
+Department of Molecular Biophysics & Biochemistry, Yale University, Howard
+Hughes Medical Institute, New Haven, Connecticut 06520-8114, USA.
+
+We have calculated at 5.0 A resolution an electron-density map of the large 50S
+ribosomal subunit from the bacterium Haloarcula marismortui by using phases
+derived from four heavy-atom derivatives, intercrystal density averaging and
+density-modification procedures. More than 300 base pairs of A-form RNA duplex
+have been fitted into this map, as have regions of non-A-form duplex,
+single-stranded segments and tetraloops. The long rods of RNA crisscrossing the
+subunit arise from the stacking of short, separate double helices, not all of
+which are A-form, and in many places proteins crosslink two or more of these
+rods. The polypeptide exit channel was marked by tungsten cluster compounds
+bound in one heavy-atom-derivatized crystal. We have determined the structure of
+the translation-factor-binding centre by fitting the crystal structures of the
+ribosomal proteins L6, L11 and L14, the sarcin-ricin loop RNA, and the RNA
+sequence that binds L11 into the electron density. We can position either
+elongation factor G or elongation factor Tu complexed with an aminoacylated
+transfer RNA and GTP onto the factor-binding centre in a manner that is
+consistent with results from biochemical and electron microscopy studies.
+
+PMID: 10476961 [PubMed - indexed for MEDLINE]
+
+
+
+NR61: Genetics. 1999 Aug;152(4):1363-72. 
+
+Control of ribosomal protein L1 synthesis in mesophilic and thermophilic
+archaea.
+
+Kraft A, Lutz C, Lingenhel A, Grobner P, Piendl W.
+
+Institute of Medical Chemistry and Biochemistry, University of Innsbruck, A-6020
+Innsbruck, Austria.
+
+The mechanisms for the control of ribosomal protein synthesis have been
+characterized in detail in Eukarya and in Bacteria. In Archaea, only the
+regulation of the MvaL1 operon (encoding ribosomal proteins MvaL1, MvaL10, and
+MvaL12) of the mesophilic Methanococcus vannielii has been extensively
+investigated. As in Bacteria, regulation takes place at the level of
+translation. The regulator protein MvaL1 binds preferentially to its binding
+site on the 23S rRNA, and, when in excess, binds to the regulatory target site
+on its mRNA and thus inhibits translation of all three cistrons of the operon.
+The regulatory binding site on the mRNA, a structural mimic of the respective
+binding site on the 23S rRNA, is located within the structural gene about 30
+nucleotides downstream of the ATG start codon. MvaL1 blocks a step before or at
+the formation of the first peptide bond of MvaL1. Here we demonstrate that a
+similar regulatory mechanism exists in the thermophilic M. thermolithotrophicus
+and M. jannaschii. The L1 gene is cotranscribed together with the L10 and L11
+gene, in all genera of the Euryarchaeota branch of the Archaea studied so far. A
+potential regulatory L1 binding site located within the structural gene, as in
+Methanococcus, was found in Methanobacterium thermoautotrophicum and in
+Pyrococcus horikoshii. In contrast, in Archaeoglobus fulgidus a typical L1
+binding site is located in the untranslated leader of the L1 gene as described
+for the halophilic Archaea. In Sulfolobus, a member of the Crenarchaeota, the L1
+gene is part of a long transcript (encoding SecE, NusG, L11, L1, L10, L12). A
+previously suggested regulatory L1 target site located within the L11 structural
+gene could not be confirmed as an L1 binding site.
+
+PMID: 10430567 [PubMed - indexed for MEDLINE]
+
+
+
+NR62: J Virol. 1999 Aug;73(8):7070-6. 
+
+Resistance of ribosomal protein mRNA translation to protein synthesis shutoff
+induced by poliovirus.
+
+Cardinali B, Fiore L, Campioni N, De Dominicis A, Pierandrei-Amaldi P.
+
+Istituto di Biologia Cellulare CNR, Istituto Superiore di Sanita', Rome, Italy.
+
+Poliovirus infection induces an overall inhibition of host protein synthesis,
+although some mRNAs continue to be translated, suggesting different translation
+requirements for cellular mRNAs. It is known that ribosomal protein mRNAs are
+translationally regulated and that the phosphorylation of ribosomal protein S6
+is involved in the regulation. Here, we report that the translation of ribosomal
+protein mRNAs resists poliovirus infection and correlates with an increase in
+p70(s6k) activity and phosphorylation of ribosomal protein S6.
+
+PMID: 10400812 [PubMed - indexed for MEDLINE]
+
+
+
+NR63: J Mol Biol. 1999 Jun 4;289(2):223-33. 
+
+Mapping the ribosomal RNA neighborhood of protein L11 by directed hydroxyl
+radical probing.
+
+Holmberg L, Noller HF.
+
+Center for the Molecular Biology of RNA, Sinsheimer Laboratories, University of
+California, Santa Cruz, CA, 95064, USA.
+
+Ribosomal protein L11 is a highly conserved protein that has been implicated in
+binding of elongation factors to ribosomes and associated GTP hydrolysis. Here,
+we have analyzed the ribosomal RNA neighborhood of Escherichia coli L11 in 50 S
+subunits by directed hydroxyl radical probing from Fe(II) tethered to five
+engineered cysteine residues at positions 19, 84, 85, 92 and 116 via the linker
+1-(p -bromoacetamidobenzyl)-EDTA. Correct assembly of the L11 derivatives was
+analyzed by incorporating the modified proteins into 50 S subunits isolated from
+an E. coli strain that lacks L11 and testing for previously characterized
+L11-dependent footprints in domain II of 23 S rRNA. Hydroxyl radicals were
+generated from Fe(II) tethered to L11 and sites of cleavage in the ribosomal RNA
+were detected by primer extension. Strong cleavages were detected within the
+previously described binding site of L11, in the 1100 region of 23 S rRNA.
+Moreover, Fe(II) tethered to position 19 in L11 targeted the backbone of the
+sarcin loop in domain VI while probing from position 92 cleaved the backbone
+around bases 900 and 2470 in domains II and V, respectively. Fe(II) tethered to
+positions 84, 85 and 92 also generated cleavages in 5 S rRNA around helix II.
+These data provide new information about the positions of specific features of
+23 S rRNA and 5 S rRNA relative to protein L11 in the 50 S subunit and show that
+L11 is near highly conserved elements of the rRNA that have been implicated in
+binding of tRNA and elongation factors to the ribosome. Copyright 1999 Academic
+Press.
+
+PMID: 10366501 [PubMed - indexed for MEDLINE]
+
+
+
+DR64: Biochemistry. 1999 Jun 1;38(22):7111-7. 
+
+Human bleomycin hydrolase binds ribosomal proteins.
+
+Koldamova RP, Lefterov IM, DiSabella MT, Almonte C, Watkins SC, Lazo JS.
+
+Department of Pharmacology, University of Pittsburgh School of Medicine,
+Pennsylvania 15261, USA.
+
+Bleomycin hydrolase (BH) is a cysteine proteinase that inactivates the
+anticancer drug bleomycin. Yeast BH forms a homohexameric structure that
+resembles a 20S proteasome and binds to single-stranded RNA and DNA. We now
+demonstrate that human BH (hBH) interacts and colocalizes with ribosomal
+proteins. Using a yeast two-hybrid system, we found hBH bound to human
+homologues of rat ribosomal proteins L11 and L29. The N-terminus of hBH (amino
+acids 14-175), which contains a catalytic Cys93, was critical for the binding to
+L11 in the two-hybrid environment. hBH precipitated 35S-labeled L11 and L29 in
+vitro, and hBH colocalized with L11 and L29 as determined by immunofluorescence.
+In addition to cytosolic bleomycin hydrolase, we found abundant bleomycin
+hydrolase activity associated with the ribosomal subcellular fraction by
+differential centrifugation. hBH was also detected by Western immunoblotting in
+a high-speed particulate fraction, where the majority of L11 and L29 were found.
+In vitro experiments showed recombinant hBH binds to Chinese hamster ovary cell
+microsomes. Thus, our data strongly suggest that hBH exists as both a free
+cytosolic and ribosome-associated protein.
+
+PMID: 10353821 [PubMed - indexed for MEDLINE]
+
+
+
+NR65: Cytogenet Cell Genet. 1999;84(1-2):97-8. 
+
+Assignment of the L11 ribosomal protein gene (RPL11) to human chromosome
+1p36.1-->p35 by in situ hybridization.
+
+Graphodatsky AS, Vorobieva NV, Filipenko ML, Voronina EV, Frengen E, Prydz H.
+
+Institute of Cytology and Genetics, Russian Academy of Science, Novosibirsk,
+Russia. graf@bionet.nsc.ru
+
+PMID: 10343117 [PubMed - indexed for MEDLINE]
+
+
+
+NR66: Cell. 1999 May 14;97(4):491-502. 
+
+Comment in:
+    Cell. 1999 May 14;97(4):423-6.
+
+A detailed view of a ribosomal active site: the structure of the L11-RNA complex.
+
+Wimberly BT, Guymon R, McCutcheon JP, White SW, Ramakrishnan V.
+
+Department of Biochemistry, University of Utah School of Medicine, Salt Lake
+City 84132, USA.
+
+We report the crystal structure of a 58 nucleotide fragment of 23S ribosomal RNA
+bound to ribosomal protein L11. This highly conserved ribonucleoprotein domain
+is the target for the thiostrepton family of antibiotics that disrupt elongation
+factor function. The highly compact RNA has both familiar and novel structural
+motifs. While the C-terminal domain of L11 binds RNA tightly, the N-terminal
+domain makes only limited contacts with RNA and is proposed to function as a
+switch that reversibly associates with an adjacent region of RNA. The sites of
+mutations conferring resistance to thiostrepton and micrococcin line a narrow
+cleft between the RNA and the N-terminal domain. These antibiotics are proposed
+to bind in this cleft, locking the putative switch and interfering with the
+function of elongation factors.
+
+PMID: 10338213 [PubMed - indexed for MEDLINE]
+
+
+
+NR67: Cell. 1999 May 14;97(4):423-6. 
+
+Comment on:
+    Cell. 1999 May 14;97(4):491-502.
+
+Ribosomal mechanics, antibiotics, and GTP hydrolysis.
+
+Porse BT, Garrett RA.
+
+RNA Regulation Centre, Institute of Molecular Biology, Copenhagen University,
+Copenhagen K, Denmark.
+
+Publication Types:
+    Comment
+    Review
+    Review, Tutorial
+
+PMID: 10338205 [PubMed - indexed for MEDLINE]
+
+
+
+NR68: J Protein Chem. 1999 Feb;18(2):215-23. 
+
+Structural and functional studies on the overproduced L11 protein from Thermus
+thermophilus.
+
+Triantafillidou D, Simitsopoulou M, Franceschi F, Choli-Papadopoulou T.
+
+Laboratory of Biochemistry, School of Chemistry, Aristotle University of
+Thessaloniki, Greece.
+
+The L11 ribosomal protein from Thermus thermophilus (TthL11) has been
+overproduced and purified to homogeneity using a two-step purification protocol.
+The overproduced protein carries a similar methylation pattern at Lys-3 as does
+its homolog from Escherichia coli. Chymotrypsin digested only a small part of
+the TthL11 protein and did not cleave TthL11 into two peptides, as in the case
+of EcoL11, but produced only a single N-terminal peptide. Tryptic digestion of
+TthL11 also produced an N-terminal peptide, in contrast to the C-terminal
+peptide obtained with L11 from Bacillus stearothermophilus. The recombinant
+protein forms a specific complex with a 55-nt 23S rRNA fragment known to
+interact with members of the L11 family from several organisms. Cooperative
+binding of TthL11 and thiostrepton to 23S rRNA leads to an increased protection
+of TthL11 from tryptic digestion. The similar structural and biochemical
+properties as well as the significant homology between L11 from E. coli and B.
+stearothermophilus with the corresponding protein from Thermus thermophilus
+indicate an evolutionarily conserved protein important for ribosome function.
+
+PMID: 10333296 [PubMed - indexed for MEDLINE]
+
+
+
+NR69: Science. 1999 May 14;284(5417):1171-4. 
+
+Crystal structure of a conserved ribosomal protein-RNA complex.
+
+Conn GL, Draper DE, Lattman EE, Gittis AG.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA.
+
+The structure of a highly conserved complex between a 58-nucleotide domain of
+large subunit ribosomal RNA and the RNA-binding domain of ribosomal protein L11
+has been solved at 2.8 angstrom resolution. It reveals a precisely folded RNA
+structure that is stabilized by extensive tertiary contacts and contains an
+unusually large core of stacked bases. A bulge loop base from one hairpin of the
+RNA is intercalated into the distorted major groove of another helix; the
+protein locks this tertiary interaction into place by binding to the
+intercalated base from the minor groove side. This direct interaction with a key
+ribosomal RNA tertiary interaction suggests that part of the role of L11 is to
+stabilize an unusual RNA fold within the ribosome.
+
+PMID: 10325228 [PubMed - indexed for MEDLINE]
+
+
+
+NR70: Biochemistry. 1999 Mar 23;38(12):3633-40. 
+
+Protein-RNA sequence covariation in a ribosomal protein-rRNA complex.
+
+GuhaThakurta D, Draper DE.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, Maryland 21218,
+USA.
+
+Comparative sequence analysis has successfully predicted secondary structure and
+tertiary interactions in ribosomal and other RNAs. Experiments presented here
+ask whether the scope of comparative sequence-based predictions can be extended
+to specific interactions between proteins and RNA, using as a system the
+well-characterized C-terminal RNA binding domain of ribosomal protein L11
+(L11-C76) and its 58 nucleotide binding region in 23S rRNA. The surface of
+L11-C76 alpha-helix 3 is known to contact RNA; position 69 in this helix is
+conserved as serine in most organisms but varies to asparagine (all plastids) or
+glutamine (Mycoplasma). RNA sequence substitutions unique to these groups of
+organisms occur at base pairs 1062/1076 or 1058/1080, respectively. The
+possibility that rRNA base pair substitutions compensate for variants in L11
+alpha-helix 3 has been tested by measuring binding affinities between sets of
+protein and RNA sequence variants. Stability of the RNA tertiary structure, as
+measured by UV melting experiments, was unexpectedly affected by a 1062/1076
+base pair substitution; additional mutations were required to restore a stably
+folded structure to this RNA. The results show that the asparagine variant of
+L11-C76 residue 69 has been compensated by substitution of a 1062/1076 base
+pair, and plausibly suggest a direct contact between the amino acid and base
+pair. For some of the protein and RNA mutations studied, changes in binding
+affinity probably reflect longer-range adjustments of the protein-RNA contact
+surface.
+
+PMID: 10090750 [PubMed - indexed for MEDLINE]
+
+
+
+NR71: J Mol Biol. 1999 Mar 19;287(1):33-45. 
+
+The antibiotic micrococcin acts on protein L11 at the ribosomal GTPase centre.
+
+Porse BT, Cundliffe E, Garrett RA.
+
+RNA Regulation Centre Institute of Molecular Biology, University of Copenhagen,
+Solvgade 83H, Copenhagen K, DK1307, Denmark.
+
+Micrococcin-resistant mutants of Bacillus megaterium that carry mutations
+affecting ribosomal protein L11 have been characterised. The mutants fall into
+two groups. "L11-minus" strains containing an L11 gene with deletions,
+insertions or nonsense mutations which grow 2.5-fold slower than the wild-type
+strain, whereas other mutants carrying single-site substitutions within an 11
+amino acid residue segment of the N-terminal domain of L11 grow normally.
+Protein L11 binds to 23 S rRNA within the ribosomal GTPase centre which
+regulates GTP hydrolysis on ribosomal factors. Micrococcin binding within the
+rRNA component of this centre was probed on wild-type and mutant ribosomes, in
+vivo, using dimethyl sulphate where it generated an rRNA footprint
+indistinguishable from that produced in vitro, even after the cell growth had
+been arrested by treatment with either kirromycin or fusidic acid. No drug-rRNA
+binding was detected in vivo for the L11-minus mutants, while reduced binding
+(approximately 30-fold) was observed for two single-site mutants P23L and P26L.
+For the latter, the reduced drug affinity alone did not account for the
+resistance-phenotype because rapid cell growth occurred even at drug
+concentrations that would saturate the ribosomes. Micrococcin was also bound to
+complexes containing an rRNA fragment and wild-type or mutant L11, expressed as
+fusion proteins, and they were probed with proteinases. The drug produced strong
+protection effects on the wild-type protein and weak effects on the P23L and
+P26L mutant proteins. We infer that inhibition of cell growth by micrococcin, as
+for thiostrepton, results from the imposition of a conformational constraint on
+protein L11 which, in turn, perturbs the function(s) of the ribosomal
+factor-guanosine nucleotide complexes. Copyright 1999 Academic Press.
+
+PMID: 10074405 [PubMed - indexed for MEDLINE]
+
+
+
+NR72: J Antibiot (Tokyo). 1998 Oct;51(10):954-7. 
+
+Sequence analysis of the ribosomal L11 protein gene (rplK=relC) in Streptomyces
+lavendulae using a deletion allele.
+
+Kawamoto S, Zhang D, Ochi K.
+
+National Food Research Institute, Tsukuba, Ibaraki, Japan.
+
+PMID: 9917010 [PubMed - indexed for MEDLINE]
+
+
+
+NR73: Dev Genes Evol. 1999 Jan;209(1):63-8. 
+
+Green fluorescent proteins with short half-lives as reporters in Dictyostelium
+discoideum.
+
+Deichsel H, Friedel S, Detterbeck A, Coyne C, Hamker U, MacWilliams HK.
+
+Zoologisches Institut, Ludwig-Maximilians-Universitat, Luisenstrasse 14, D-80333
+Munchen, Germany.
+
+We describe two modifications of the popular reporter green fluorescent protein
+(GFP) which have short half-lives in our system, the cellular slime mould
+Dictyostelium discoideum. One of these bears an N-terminal ubiquitin; this GFP
+was originally planned to be a substrate of the "N-end-rule" pathway, but
+deubiquitination does not seem to occur, and a degradation by the UFD
+(ubiquitin-fusion-degradation pathway seems more probable. The protein half-life
+is about 3-5 h. The second construct has an N-terminus derived from the L11
+ribosomal protein; it is transported to the nucleus and broken down much more
+rapidly than the ubiquitin fusion (protein half-life about 30 min). We show
+examples of the use of these reporters in the study of gene expression in
+Dictyostelium.
+
+PMID: 9914420 [PubMed - indexed for MEDLINE]
+
+
+
+NR74: Nucleic Acids Res. 1999 Jan 15;27(2):381-8. 
+
+RNA binding strategies of ribosomal proteins.
+
+Draper DE, Reynaldo LP.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA.
+draper@jhunix.hcf.jhu.edu
+
+Structures of a number of ribosomal proteins have now been determined by
+crystallography and NMR, though the complete structure of a ribosomal
+protein-rRNA complex has yet to be solved. However, some ribosomal protein
+structures show strong similarity to well-known families of DNA or RNA binding
+proteins for which structures in complex with cognate nucleic acids are
+available. Comparison of the known nucleic acid binding mechanisms of these
+non-ribosomal proteins with the most highly conserved surfaces of similar
+ribosomal proteins suggests ways in which the ribosomal proteins may be binding
+RNA. Three binding motifs, found in four ribosomal proteins so far, are
+considered here: homeodomain-like alpha-helical proteins (L11), OB fold proteins
+(S1 and S17) and RNP consensus proteins (S6). These comparisons suggest that
+ribosomal proteins combine a small number of fundamental strategies to develop
+highly specific RNA recognition sites.
+
+Publication Types:
+    Review
+
+PMID: 9862955 [PubMed - indexed for MEDLINE]
+
+
+
+NR75: Int J Syst Bacteriol. 1998 Oct;48 Pt 4:1187-96. 
+
+Comment in:
+    Int J Syst Evol Microbiol. 2003 Sep;53(Pt 5):1697-8.
+
+Proposal of a new halobacterial genus Natrinema gen. nov., with two species
+Natrinema pellirubrum nom. nov. and Natrinema pallidum nom. nov.
+
+McGenity TJ, Gemmell RT, Grant WD.
+
+Postgraduate Research Institute for Sedimentology, University of Reading,
+Whiteknights, UK. t.j.mcgenity@reading.ac.uk
+
+A phylogenetic analysis of 69 halobacterial 16S rRNA gene sequences has been
+carried out, integrating data from new isolates, previously described
+halobacteria and cloned sequences from uncultivated halobacteria. Halobacterium
+halobium NCIMB 777, Halobacterium trapanicum NCIMB 784 and Halobacterium
+salinarium NCIMB 786, together with several other strains (strains T5.7, L11 and
+Halobacterium trapanicum NCIMB 767) constitute a distinct lineage with at least
+98.2% sequence similarity. These strains have been incorrectly assigned to the
+genus Halobacterium. Therefore, based on a variety of taxonomic criteria, it is
+proposed that Halobacterium salinarium NCIMB 786 is renamed as Natrinema
+pellirubrum nom. nov., the type species of the new genus Natrinema gen. nov.,
+and that Halobacterium halobium NCIMB 777 and Halobacterium trapanicum NCIMB 784
+are renamed as a single species, Natrinema pallidum nom. nov. It was notable
+that halobacteria closely related to the proposed new genus have been isolated
+from relatively low-salt environments.
+
+PMID: 9828420 [PubMed - indexed for MEDLINE]
+
+
+
+NR76: Int J Syst Bacteriol. 1998 Apr;48 Pt 2:597-600. 
+
+Comparative ribosomal protein (L11 and L30) sequence analyses of several
+Streptomyces spp. commonly used in genetic studies.
+
+Kawamoto S, Ochi K.
+
+National Food Research Institute, Ibaraki, Japan.
+
+The taxonomic relationships among nine strains of Streptomyces, which have been
+commonly used for genetic studies, were examined by sequence analysis of their
+ribosomal L11(= rplK) protein genes. Phylogenetic relationships among these
+organisms derived from similarity sequence analysis of the rplK genes were in
+good agreement with those derived from the analysis of the deduced L11 protein
+amino acid sequence itself, indicating complete sequence homology among
+Streptomyces coelicolor A3(2), 'Streptomyces lividans 66' and Streptomyces
+violaceoruber JCM 4423. S. coelicolor A3(2) related (in the order of closer
+relatedness) to Streptomyces antibioticus ATCC 14888, Streptomyces griseus IFO
+13189, Streptomyces lavendulae MA 406 A-1 and Streptomyces virginiae MAFF 6014.
+Sequence analysis of the 26 N-terminal amino acid residues of ribosomal L30
+proteins also resulted in similar phylogenetic relationships, except that S.
+griseus, S. lavendulae and S. virginiae were not differentiated from each other
+using this method. These findings concerning the phylogenetic relationship
+therefore confirm the previous conclusion that S. coelicolor A3(2), 'S. lividans
+66' and S. violaceoruber should be recognized as a single taxon at the species
+level.
+
+PMID: 9731302 [PubMed - indexed for MEDLINE]
+
+
+
+NR77: J Protein Chem. 1998 Aug;17(6):519-20. 
+
+Thermus thermophilus L11 ribosomal protein: cloning, overproduction, structural,
+and functional studies--in vivo methylation of the overproduced protein.
+
+Triantafillidou D, Simitsopoulou M, Franceschi F, Choli-Papadopoulou T.
+
+Laboratory of Biochemistry, School of Chemistry, Aristotle University of
+Thessaloniki, Greece.
+
+PMID: 9723724 [PubMed - indexed for MEDLINE]
+
+
+
+NR78: Biochemistry. 1998 Aug 25;37(34):11980-8. 
+
+A functional ribosomal RNA tertiary structure involves a base triple
+interaction.
+
+Conn GL, Gutell RR, Draper DE.
+
+Department of Chemistry, The Johns Hopkins University, Baltimore, Maryland
+21218, USA.
+
+Comparative sequence analysis reveals a coordinated set of nucleotide exchanges
+between the base pair 1092/1099 and the unpaired position 1072 [(1092/1099)1072]
+in the L11 binding domain of 23S ribosomal RNA. This set of exchanges has
+occurred at least 4 times during evolution, suggesting that these positions form
+a base triple. The analysis further suggests an important role for positions
+(1065/1073), adjacent to 1072. The covariation at positions (1092/1099)1072 is
+studied here by analysis of RNA variants using UV melting and binding of
+ribosomal protein L11 and thiostrepton to assay for tertiary folding of this
+domain. The tertiary structure of the RNA is eliminated by alteration of the
+unpaired nucleotide (C1072 to U mutation), and binding of L11 and thiostrepton
+are reduced 10-fold compared to the wild type. In contrast, substitution of the
+base pair (CG1092/1099 to UA mutation) allows formation of the tertiary
+structure but dramatically alters the pH dependence of tertiary folding. The
+fully compensated set of mutations, (CG)C to (UA)U, restores the tertiary
+structure of the RNA to a state almost identical to the wild type. The nature of
+this base triple and its implications for the folding of the RNA and ligand
+interactions are discussed.
+
+PMID: 9718323 [PubMed - indexed for MEDLINE]
+
+
+
+NR79: EMBO J. 1998 Aug 17;17(16):4559-71. 
+
+The solution structure of ribosomal protein S4 delta41 reveals two subdomains
+and a positively charged surface that may interact with RNA.
+
+Markus MA, Gerstner RB, Draper DE, Torchia DA.
+
+Molecular Structural Biology Unit, National Institute of Dental Research,
+National Institutes of Health, 30 Convent Drive, Room 132, Bethesda, MD
+20892-4320, USA.
+
+S4 is one of the first proteins to bind to 16S RNA during assembly of the
+prokaryotic ribosome. Residues 43-200 of S4 from Bacillus stearothermophilus (S4
+Delta41) bind specifically to both 16S rRNA and to a pseudoknot within the alpha
+operon mRNA. As a first step toward understanding how S4 recognizes and
+organizes RNA, we have solved the structure of S4 Delta41 in solution by
+multidimensional heteronuclear nuclear magnetic resonance spectroscopy. The fold
+consists of two globular subdomains, one comprised of four helices and the other
+comprised of a five-stranded antiparallel beta-sheet and three helices. Although
+cross-linking studies suggest that residues between helices alpha2 and alpha3
+are close to RNA, the concentration of positive charge along the crevice between
+the two subdomains suggests that this could be an RNA-binding site. In contrast
+to the L11 RNA-binding domain studied previously, S4 Delta41 shows no fast local
+motions, suggesting that it has less capacity for refolding to fit RNA. The
+independently determined crystal structure of S4 Delta41 shows similar features,
+although there is small rotation of the subdomains compared with the solution
+structure. The relative orientation of the subdomains in solution will be
+verified with further study.
+
+PMID: 9707416 [PubMed - indexed for MEDLINE]
+
+
+
+NR80: Biol Chem. 1998 Jul;379(7):857-66. 
+
+Efficient in vitro translational termination in Escherichia coli is constrained
+by the orientations of the release factor, stop signal and peptidyl-tRNA within
+the termination complex.
+
+McCaughan KK, Poole ES, Pel HJ, Mansell JB, Mannering SA, Tate WP.
+
+Department of Biochemistry and Centre for Gene Research, University of Otago,
+Dunedin, New Zealand.
+
+There have been contrasting reports of whether the positioning of a
+translational stop signal immediately after a start codon in a single
+oligonucleotide can act as a model template to support efficient in vitro
+termination. This paradox stimulated this study of what determines the
+constraints on the positioning of the components in the termination complex. The
+mini mRNA, AUGUGAA, was unable to support efficient in vitro termination in
+contrast to separate AUG/UGA(A) codons, unless the ribosomal interaction of the
+stop signal with the decoding factor, release factor 2, was stimulated with
+ethanol or with nucleotide-free release factor 3, or by using (L11-)-ribosomes
+which have a higher affinity for release factor 2, or unless the fMet-tRNA was
+first bound to 30S subunits independently of the mini mRNA. An additional
+triplet stop codon could restore activity of the mini mRNA, indicating that its
+recognition was not sterically restrained by the stop signal already within it.
+This suggests that in an initiation complex an adjoining start/stop signal is
+not positioned to support efficient decoding by release factor unless it is
+separated from the start codon. Site-directed crosslinking from mRNAs to
+components of the termination complex has shown that mRNA elements like the
+Shine-Dalgarno sequence and the codon preceding the stop signal can affect the
+crosslinking to release factor, and presumably the orientation of the signal to
+the factor.
+
+PMID: 9705149 [PubMed - indexed for MEDLINE]
+
+
+
+NR81: Biol Chem. 1998 Jul;379(7):819-29. 
+
+A novel cell-free system for peptide synthesis driven by pyridine.
+
+Nitta I, Nambu H, Okado T, Yoshinari S, Ueda T, Endo Y, Nierhaus KH, Watanabe K.
+
+Department of Chemistry & Biotechnology, Graduate School of Engineering,
+University of Tokyo, Japan.
+
+Previously we demonstrated that ribosomes can synthesize polypeptides in the
+presence of high concentrations (40-60%) of pyridine without any protein
+factors. Here we analyze additional ribosomal parameters in 60% pyridine using
+Escherichia coli ribosomes. Ribosomal subunits once exposed to pyridine failed
+to re-associate to 70S ribosomes in aqueous buffer systems even in the presence
+of 20 mM Mg2+, whereas they formed 70S complexes in the presence of 60%
+pyridine. Two-dimensional gel electrophoresis of ribosomal proteins revealed
+that some proteins located at the protuberances of the large subunit, e. g.
+L7/L12 and L11 forming the elongation factor-binding domain, were released in
+the pyridine system. The aminoglycoside neomycin, a strong inhibitor of the
+ribosomal (factor-independent) translocation reaction, completely blocked
+poly(Phe) synthesis and translocation activities in the pyridine system, whereas
+these activities were not affected at all by gypsophilin, a ribotoxin that
+inhibits factor-dependent translocation. Another inhibitor of the ribosomal
+translocation, thiostrepton, had no effect concerning the two activities, which
+is consistent with the fact that this antibiotic requires L11 for its binding to
+the ribosome. These results suggest that the ribosomes can perform a
+translocation reaction in the pyridine system, but in a factor-independent
+(spontaneous) manner.
+
+PMID: 9705145 [PubMed - indexed for MEDLINE]
+
+
+
+NR82: Curr Opin Struct Biol. 1998 Jun;8(3):294-300. 
+
+Structure and dynamics of ribosomal RNA.
+
+Woodson SA, Leontis NB.
+
+Department of Chemistry and Biochemistry, University of Maryland, College Park
+20742-2021, USA. sw74@umail.umd.edu
+
+Over the past two years, progress in X-ray crystallography, NMR spectroscopy and
+electron microscopy has begun to reveal the complex structure of the RNA within
+the ribosome. The structures of ribosomal proteins L11 and S15, among others,
+show how RNA-protein interactions organize the conformation of the junctions
+between ribosomal RNA helices. Genetic and biochemical methods have also
+identified a three base-pair switch within the 16S rRNA that is linked to mRNA
+decoding.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 9666324 [PubMed - indexed for MEDLINE]
+
+
+
+NR83: Curr Genet. 1998 Apr;33(4):304-10. 
+
+A ribosomal protein gene cluster is encoded in the mitochondrial DNA of
+Dictyostelium discoideum: UGA termination codons and similarity of gene order to
+Acanthamoeba castellanii.
+
+Iwamoto M, Pi M, Kurihara M, Morio T, Tanaka Y.
+
+Institute of Biological Sciences, University of Tsukuba, Japan.
+
+We sequenced a region of about 14.5 kb downstream from the ribosomal protein L11
+gene (rpl11) in the mitochondrial DNA (54+/-2 kb) of the cellular slime mold
+Dictyostelium discoideum. Sequence analysis revealed that eleven ribosomal
+protein genes and six open reading frames (ORFs) formed a cluster arranged in
+the order: rpl11-orf189-rps12-rps7-rpl2-rps19-+
+++orf425-orf1740-rpl16-rpl14-orf188- rps14-rps8-rpl6-rps13-orf127-orf796. This
+order was very similar to that of homologous genes in Acanthamoeba castellanii
+mitochondrial DNA. The N-terminal region of ORF425 and the C-terminal region of
+ORF1740 had partial similarities to the S3 ribosomal protein of other organisms.
+The termination codons of rpl16 and orf188 were UGA, which has not hitherto been
+found in genes encoded in D. discoideum mitochondrial DNA.
+
+PMID: 9560439 [PubMed - indexed for MEDLINE]
+
+
+
+NR84: J Mol Biol. 1998 Feb 20;276(2):391-404. 
+
+The antibiotic thiostrepton inhibits a functional transition within protein L11
+at the ribosomal GTPase centre.
+
+Porse BT, Leviev I, Mankin AS, Garrett RA.
+
+RNA Regulation Centre, University of Copenhagen, Denmark.
+
+A newly identified class of highly thiostrepton-resistant mutants of the
+archaeon Halobacterium halobium carry a missense mutation at codon 18 within the
+gene encoding ribosomal protein L11. In the mutant proteins, a proline,
+conserved in archaea and bacteria, is converted to either serine or threonine.
+The mutations do not impair either the assembly of the mutant L11 into 70 S
+ribosomes in vivo or the binding of thiostrepton to ribosomes in vitro.
+Moreover, the corresponding mutations at proline 22, in a fusion protein of L11
+from Escherichia coli with glutathione-S-transferase, did not reduce the binding
+affinities of the mutated L11 fusion proteins for rRNA of of thiostrepton for
+the mutant L11-rRNA complexes at rRNA concentrations lower than those prevailing
+in vivo. Probing the structure of the fusion protein of wild-type L11, from E.
+coli, using a recently developed protein footprinting technique, demonstrated
+that a general tightening of the C-terminal domain occurred on rRNA binding,
+while thiostrepton produced a footprint centred on tyrosine 62 at the junction
+of the N and C-terminal domains of protein L11 complexed to rRNA. The intensity
+of this protein footprint was strongly reduced for the mutant L11-rRNA
+complexes. These results indicate that although, as shown earlier, thiostrepton
+binds primarily to 23 S rRNA, the drug probably inhibits peptide elongation by
+impeding a conformational change within protein L11 that is important for the
+function of the ribosomal GTPase centre. This putative inhibitory mechanism of
+thiostrepton is critically dependent on proline 18/22. Moreover, the absence of
+this proline from eukaryotic protein L11 sequences would account for the high
+thiostrepton resistance of eukaryotic ribosomes.
+
+PMID: 9512711 [PubMed - indexed for MEDLINE]
+
+
+
+NR85: Mol Gen Genet. 1998 Jan;257(2):219-29. 
+
+Cloning and transcriptional analysis of the rplKA-or f31-rplJL gene cluster of
+Streptomyces griseus.
+
+Kuster C, Piepersberg W, Distler J.
+
+Institut fur Chemische Mikrobiologie, Bergische Universitat GH Wuppertal,
+Germany.
+
+A 5018-bp DNA fragment of the rpl/rpo BC gene cluster (here called the rif
+cluster) of Streptomyces griseus N2-3-11 was analysed by DNA sequencing and
+transcription studies. By sequence comparison of the deduced proteins, five
+genes and part of an open reading frame (orf) were identified. The genes
+encoding the ribosomal (r-) proteins L1 (rplA), L7/12 (rplJ), L10 (rplK) and L11
+(rplL), a protein of known function (orf31), and the N-terminus of the beta
+subunit of RNA polymerase (rpoB), are organized in three operons, rplKA, rplJL
+and rpoB(C), and the monocistronic transcription unit orf31. The promoters of
+these transcription units, rplKp, orf31p, rplJp, and rpoBp, were identified and
+the growth-phase dependence of the transcription of these operons was analysed.
+Binding sites for the ribosomal proteins L1 and L10 were identified by sequence
+comparison, suggesting that the r-proteins RplA and RplJ are involved in
+feedback regulation of their respective operons by binding to specific
+RNA-binding sites present in both the mRNA and the 23S rRNA, as has been
+described for other bacteria. The analyses of the rpoBp promoter by means of
+promoter-probe plasmids suggested a possible attenuator-based regulatory
+mechanism for the transcription of the rpoB(C) operon.
+
+PMID: 9491081 [PubMed - indexed for MEDLINE]
+
+
+
+NR86: Mol Microbiol. 1998 Jan;27(2):455-68. 
+
+MvaL1 autoregulates the synthesis of the three ribosomal proteins encoded on the
+MvaL1 operon of the archaeon Methanococcus vannielii by inhibiting its own
+translation before or at the formation of the first peptide bond.
+
+Mayer C, Kohrer C, Grobner P, Piendl W.
+
+Institut fur Medizinische Chemie und Biochemie, Universitat Innsbruck, Austria.
+
+The control of ribosomal protein synthesis has been investigated extensively in
+Eukarya and Bacteria. In Archaea, only the regulation of the MvaL1 operon
+(encoding ribosomal proteins MvaL1, MvaL10 and MvaL12) of Methanococcus
+vannielii has been studied in some detail. As in Escherichia coil, regulation
+takes place at the level of translation. MvaL1, the homologue of the regulatory
+protein L1 encoded by the L11 operon of E. coli, was shown to be an
+autoregulator of the MvaL1 operon. The regulatory MvaL1 binding site on the mRNA
+is located about 30 nucleotides downstream of the ATG start codon, a sequence
+that is not in direct contact with the initiating ribosome. Here, we demonstrate
+that autoregulation of MvaL1 occurs at or before the formation of the first
+peptide bond of MvaL1. Specific interaction of purified MvaL1 with both 23S RNA
+and its own mRNA is confirmed by filter binding studies. In vivo expression
+experiments reveal that translation of the distal MvaL10 and MvaL12 cistrons is
+coupled to that of the MvaL1 cistron. A mRNA secondary structure resembling a
+canonical L10 binding site and preliminary in vitro regulation experiments had
+suggested a co-regulatory function of MvaL10, the homologue of the regulatory
+protein L10 of the beta-operon of E. coil. However, we show that MvaL10 does not
+have a regulatory function.
+
+PMID: 9484899 [PubMed - indexed for MEDLINE]
+
+
+
+NR87: J Biol Chem. 1998 Jan 16;273(3):1670-6. 
+
+Cross-linking of selected residues in the N- and C-terminal domains of
+Escherichia coli protein L7/L12 to other ribosomal proteins and the effect of
+elongation factor Tu.
+
+Dey D, Bochkariov DE, Jokhadze GG, Traut RR.
+
+Department of Biological Chemistry, School of Medicine, University of
+California, Davis 95616, USA.
+
+Five different variants of protein L7/L12, each with a single cysteine
+substitution at a selected site, were produced, modified with
+125I-N-[4-(p-azidosalicylamido)-butyl]-3-(2'-pyridyldithio)propion amide, a
+radiolabeled, sulfhydryl-specific, heterobifunctional, cleavable
+photocross-linking reagent that transfers radiolabel to the target molecule upon
+reduction of the disulfide bond. The proteins were reconstituted with core
+particles depleted of wild type L7/L12 to yield 70 S ribosomes. Cross-linked
+molecules were identified and quantified by the radiolabel. No cross-linking of
+RNA was detected. Two sites in the dimeric N-terminal domain, Cys-12 and Cys-33,
+cross-linked strongly to L10 and in lower yield to L11 but to no other proteins.
+The three sites in the globular C-terminal domain all cross-linked strongly to
+L11 and, in lower yield, to L10. Weaker cross-linking to 50 S proteins L2 and L5
+occurred from all three C-terminal domain locations. The 30 S ribosomal proteins
+S2, S3, S7, S14, S18 were also cross-linked from all three of these sites.
+Binding of the ternary complex [14C]Phe-tRNA-elongation factor Tu.guanyl-5'-yl
+imidodiphosphate) but not [14C]Phe-tRNA.elongation factor Tu.GDP.kirromycin
+increased labeling of L2, L5, and all of the 30 S proteins. These results imply
+the flexibility of L7/L12 and the transient proximity of three surfaces of the
+C-terminal domain with the base of the stalk, the peptidyl transferase domain,
+and the head of the 30 S subunit.
+
+PMID: 9430711 [PubMed - indexed for MEDLINE]
+
+
+
+NR88: J Mol Biol. 1997 Nov 21;274(1):101-13. 
+
+The RNA binding domain of ribosomal protein L11: three-dimensional structure of
+the RNA-bound form of the protein and its interaction with 23 S rRNA.
+
+Hinck AP, Markus MA, Huang S, Grzesiek S, Kustonovich I, Draper DE, Torchia DA.
+
+National Institute of Dental Research, Bethesda, MD 20892-4326, USA.
+
+The three-dimensional solution structure has been determined by NMR spectroscopy
+of the 75 residue C-terminal domain of ribosomal protein L11 (L11-C76) in its
+RNA-bound state. L11-C76 recognizes and binds tightly to a highly conserved 58
+nucleotide domain of 23 S ribosomal RNA, whose secondary structure consists of
+three helical stems and a central junction loop. The NMR data reveal that the
+conserved structural core of the protein, which consists of a bundle of three
+alpha-helices and a two-stranded parallel beta-sheet four residues in length, is
+nearly the same as the solution structure determined for the non-liganded form
+of the protein. There are however, substantial chemical shift perturbations
+which accompany RNA binding, the largest of which map onto an extended loop
+which bridges the C-terminal end of alpha-helix 1 and the first strand of
+parallel beta-sheet. Substantial shift perturbations are also observed in the
+N-terminal end of alpha-helix 1, the intervening loop that bridges helices 2 and
+3, and alpha-helix 3. The four contact regions identified by the shift
+perturbation data also displayed protein-RNA NOEs, as identified by
+isotope-filtered three-dimensional NOE spectroscopy. The shift perturbation and
+NOE data not only implicate helix 3 as playing an important role in RNA binding,
+but also indicate that regions flanking helix 3 are involved as well. Loop 1 is
+of particular interest as it was found to be flexible and disordered for L11-C76
+free in solution, but not in the RNA-bound form of the protein, where it appears
+rigid and adopts a specific conformation as a result of its direct contact to
+RNA. Copyright 1997 Academic Press Limited.
+
+PMID: 9398519 [PubMed - indexed for MEDLINE]
+
+
+
+NR89: J Mol Biol. 1997 Nov 14;273(5):1020-31. 
+
+Affinities and selectivities of divalent cation binding sites within an RNA
+tertiary structure.
+
+Bukhman YV, Draper DE.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA.
+
+A 58 nucleotide fragment of Escherichia coli large subunit ribosomal RNA,
+nucleotides 1051 to 1108, adopts a specific tertiary structure normally
+requiring both monovalent (NH4+ or K+) and divalent (Mg2+) ions to fold; this
+ion-dependent structure is a prerequisite for recognition by ribosomal protein
+L11. Melting experiments have been used to show that a sequence variant of this
+fragment, GACG RNA, is able to adopt a stable tertiary structure in the presence
+of 1.6 M NH4Cl and absence of divalent ions. The similarity of this high-salt
+structure to the tertiary structure formed under more typical salt conditions
+(0.1 M NH4Cl and several mM MgCl2) was shown by its following properties: (i) an
+unusual ratio of hyperchromicity at 260 nm and 280 nm upon unfolding, (ii)
+selectivity for NH4+ over K+ or Na+, (iii) stabilization by L11 protein, and
+(iv) further stabilization by added Mg2+. Delocalized electrostatic interactions
+of divalent ions with nucleic acids should be very weak in the presence of >1 M
+monovalent salt; thus stabilization of the tertiary structure by low (<1 mM)
+Mg2+ concentrations in these high-salt conditions suggests that Mg2+ binds at
+specific site(s). GACG RNA tertiary structure unfolding in 1.6 M NH4Cl (Tm
+approximately 39 degrees C) is distinct from melting of the secondary structure
+(centered at approximately 72 degrees C), and it has been possible to calculate
+the free energy of tertiary structure stabilization upon addition of various
+divalent cations. From these binding free energies, ion-RNA binding isotherms
+for Mn2+, Mg2+, Ca2+, Sr2+ and Ba2+ have been obtained. All of these ions bind
+at two sites: one site favors Mg2+ and Ba2+ and discriminates against Ca2+,
+while the other site favors binding of smaller ions over larger ones (Mg2+ >Ca2+
+>Sr2+ >Ba2+). Weak cooperative or anticooperative interactions between the
+sites, also dependent on ion radius, may also be taking place. Copyright 1997
+Academic Press Limited.
+
+PMID: 9367788 [PubMed - indexed for MEDLINE]
+
+
+
+NR90: Mol Gen Genet. 1997 Nov;256(5):488-98. 
+
+Molecular and functional analysis of the ribosomal L11 and S12 protein genes
+(rplK and rpsL) of Streptomyces coelicolor A3(2).
+
+Ochi K, Zhang D, Kawamoto S, Hesketh A.
+
+National Food Research Institute, Ibaraki, Japan. kochi@ss.nfri.affrc.go.jp
+
+A RelC deletion mutant, KO-100, of Streptomyces coelicolor A3(2) has been
+isolated from a collection of spontaneous thiostrepton-resistant mutants. KO-100
+grows as vigorously as the parent strain and possesses a 6-bp deletion within
+the rplK, previously termed relC. When the wild-type rplK gene was propagated on
+a low-copy-number vector in mutant KO-100, the ability to produce ppGpp,
+actinorhodin and undecylprodigiosin, which had been lost in the RelC mutant, was
+completely restored. Allele replacement by gene homogenotization demonstrated
+that the RelC mutation is responsible for the resistance to thiostrepton and the
+inactivation of ppGpp, actinorhodin and undecylprodigiosin production. Western
+blotting showed that ribosomes from the RelC mutant KO-100 contain only
+one-eighth the amount of L11 protein found in ribosomes of the parent strain.
+The impairment of antibiotic production in KO-100 could be rescued by the
+introduction of mutations that confer resistance to streptomycin (str), which
+result in alteration of Lys-88 in ribosomal protein S12 to Glu or Arg. No
+accompanying restoration of ppGpp synthesis was detected in these RelC str
+double mutants.
+
+PMID: 9413432 [PubMed - indexed for MEDLINE]
+
+
+
+NR91: Proc Natl Acad Sci U S A. 1997 Nov 25;94(24):12892-7. 
+
+Proteins on ribosome surface: measurements of protein exposure by hot tritium
+bombardment technique.
+
+Agafonov DE, Kolb VA, Spirin AS.
+
+Institute of Protein Research, Russian Academy of Sciences, Pushchino, Moscow
+Region.
+
+The hot tritium bombardment technique [Goldanskii, V. I., Kashirin, I. A.,
+Shishkov, A. V., Baratova, L. A. & Grebenshchikov, N. I. (1988) J. Mol. Biol.
+201,567-574] has been applied to measure the exposure of proteins on the
+ribosomal surface. The technique is based on replacement of hydrogen by high
+energy tritium atoms in thin surface layer of macromolecules. Quantitation of
+tritium radioactivity of each protein has revealed that proteins S1, S4, S5, S7,
+S18, S20, and S21 of the small subunit, and proteins L7/L12, L9, L10, L11, L16,
+L17, L24, and L27 of the large subunit are well exposed on the surface of the
+Escherichia coli 70 S ribosome. Proteins S8, S10, S12, S16, S17, L14, L20, L29,
+L30, L31, L32, L33, and L34 have virtually no groups exposed on the ribosomal
+surface. The remaining proteins are found to be exposed to lesser degree than
+the well exposed ones. No additional ribosomal proteins was exposed upon
+dissociation of ribosomes into subunits, thus indicating the absence of proteins
+on intersubunit contacting surfaces.
+
+PMID: 9371771 [PubMed - indexed for MEDLINE]
+
+
+
+NR92: Mol Gen Genet. 1997 Aug;255(6):549-60. 
+
+Molecular analysis of the ribosomal L11 protein gene (rplK = relC) of
+Streptomyces griseus and identification of a deletion allele.
+
+Kawamoto S, Zhang D, Ochi K.
+
+National Food Research Institute, Ibaraki, Japan.
+
+The rplK (= relC) gene, which codes for ribosomal protein L11, was cloned from
+Streptomyces griseus IFO13189 using a screening procedure based on polymerase
+chain reaction amplification of a gene segment that subsequently allowed the
+isolation of the complete gene from a gene library. rplK lies between the nusG
+gene, encoding a protein involved in antitermination of transcription, and the
+rplA gene, which encodes the ribosomal protein L1. Comparison of the rplK gene
+sequences of the wild-type strain and the presumed relC mutant strain 3-3
+(originally isolated as a thiopeptin-resistant isolate) revealed a 12-bp
+deletion within the rplK gene from the mutant, flanked by a 4-bp repeat sequence
+in the corresponding region in the wild type. When the wild-type rplK gene was
+propagated on a low-copy-number vector in the relC mutant 3-3, the ability to
+produce guanosine 5'-diphosphate 3'-diphosphate, streptomycin, and submerged
+spores was completely restored to parental levels. The impaired ability to form
+aerial mycelium was, however, unaffected. Western blotting analysis showed that
+the ribosomes from the relC mutant 3-3 incorporate the mutant L11 protein
+normally, although the level of incorporation is approximately one-third that of
+the wild-type L11 protein in ribosomes of the parent strain. Propagation of the
+mutant rplK gene in the wild-type strain resulted in marked defects in growth,
+streptomycin production, and aerial mycelium formation, indicating that the
+mutant L11 protein exerts certain negative effects in the cells.
+
+PMID: 9323358 [PubMed - indexed for MEDLINE]
+
+
+
+NR93: J Bacteriol. 1997 Aug;179(15):4676-83. 
+
+Identification and characterization of an operon of Helicobacter pylori that is
+involved in motility and stress adaptation.
+
+Beier D, Spohn G, Rappuoli R, Scarlato V.
+
+Department of Molecular Biology, Immunobiological Research Institute Siena,
+Chiron Vaccines, Italy.
+
+We identified a novel stress-responsive operon (sro) of Helicobacter pylori that
+contains seven genes which are likely to be involved in cellular functions as
+diverse as chemotaxis, heat shock response, ion transport, and posttranslational
+protein modification. The products of three of these genes show amino acid
+homologies to known proteins, such as the flagellar motor switch protein CheY, a
+class of heat shock proteins, and the ribosomal protein L11 methyltransferase,
+and to a phosphatidyltransferase. In addition to containing an open reading
+frame of unknown function, the product of which is predicted to be membrane
+associated, the sro locus contains three open reading frames that have
+previously been described as constituting two separate loci, the ftsH gene and
+the copAP operon of H. pylori. Knockout mutants showed that CheY is essential
+for bacterial motility and that CopA, but not CopP, relieves copper toxicity.
+Transcriptional analyses indicated that this locus is regulated by a single
+promoter and that a positive effect on transcription is exerted by the addition
+of copper to the medium and by temperature upshift from 37 to 45 degrees C. The
+possible role of this locus in H. pylori virulence is discussed.
+
+PMID: 9244252 [PubMed - indexed for MEDLINE]
+
+
+
+NR94: Biochim Biophys Acta. 1997 Jul 18;1340(2):170-7. 
+
+Nucleotide sequence of a gene cluster encoding NusG and the L11-L1-L10-L12
+ribosomal proteins from the thermophilic archaeon Sulfolobus solfataricus.
+
+Geiger M, Grobner P, Piendl W.
+
+Institut fur Medizinische Chemie und Biochemie, Universitat Innsbruck, Austria.
+
+The complete nucleotide sequence of a gene cluster encoding the NusG and the L
+11-L1-L10-L12 ribosomal proteins from the thermophilic crenarchaeon Sulfolobus
+solfataricus has been determined. The genes are arranged in the same order as
+the equivalent genes in the rif region of Escherichia coli. The ribosomal
+proteins exhibit between 66% (L10) and 80% (L12) identity with their respective
+equivalents from Sulfolobus acidocaldarius. The short distance (5 nucleotides)
+between the nusG stop codon and the L11 start codon suggests that nusG and the
+genes for the ribosomal proteins are transcribed as a single unit.
+
+PMID: 9252104 [PubMed - indexed for MEDLINE]
+
+
+
+NR95: Biochem Biophys Res Commun. 1997 Jul 18;236(2):510-6. 
+
+The eukaryotic translation initiation factor 5, eIF-5, a protein from Zea mays,
+containing a zinc-finger structure, binds nucleic acids in a zinc-dependent
+manner.
+
+Lopez Ribera I, Ruiz-Avila L, Puigdomenech P.
+
+Departament de Genetica Molecular, CID-CSIC, Jordi Girona, Barcelona, Spain.
+
+A maize cDNA encoding the eukaryotic translation initiation factor 5 (eIF-5) has
+been isolated from an 8-day-old seedling cDNA library. The 1975 bp cDNA encodes
+a protein of 451 amino acids, with a predicted molecular weight of 49.04 kDa,
+and hybridizes to a single sequence in the maize genome. The deduced sequence
+contains motifs characteristic of proteins belonging to the GPTase superfamily,
+a zinc finger well conserved in all the protein sequences for eIF-5 reported so
+far, and a fragment also present in prokaryotic and chloroplast L11 ribosomal
+protein. Polymer-binding assays have been used to assess the predicted RNA
+binding property of the protein and to characterize its function. It is shown
+that the eIF-5-encoded protein binds to single-stranded DNA and to polyuridylic
+acid and that the binding is dependent on the presence of Zn2+ ions. These
+results suggest that the zinc-finger structure is involved in the binding of the
+eIF-5 protein to RNA.
+
+PMID: 9240471 [PubMed - indexed for MEDLINE]
+
+
+
+NR96: Curr Genet. 1997 May;31(5):396-400. 
+
+The yeast ORF YDL202w codes for the mitochondrial ribosomal protein YmL11.
+
+Bui DM, Jarosch E, Schweyen RJ.
+
+Vienna Biocenter, Institute of Microbiology and Genetics, University of Vienna,
+A-1030 Wien, Austria.
+
+The Saccharomyces cerevisiae open reading frame YDL202w has been characterised
+in the course of the EUROFAN yeast genome analysis program. Disruption of
+YDL202w causes a respiratory deficient phenotype accompanied by a loss of
+mitochondrial DNA. This phenotype is usually found in mutants defective in
+mitochondrial replication or gene expression. YDL202w has the potential to
+encode a soluble protein of 249 amino acids. It shows significant similarities
+to the ribosomal protein L10 from various bacteria and to a previously
+determined amino-terminal peptide sequence of the yeast mitochondrial ribosomal
+protein L11. The predicted amino-acid sequence of YDL202w starts with a stretch
+which has neither any correspondence in the bacterial sequences nor in the
+protein isolated from mitochondrial ribosomes. Furthermore, this stretch matches
+the requirements for a signal sequence for mitochondrial protein import. A
+mitochondrial location of the YDL202w gene product was proven by use of a
+carboxy terminally HA-tagged version. These findings clearly indicate that
+YDL202w encodes this mitochondrial ribosomal protein (YmL11).
+
+PMID: 9162110 [PubMed - indexed for MEDLINE]
+
+
+
+NR97: Microbiol Mol Biol Rev. 1997 Mar;61(1):90-104. 
+
+Evolutionary divergence and salinity-mediated selection in halophilic archaea.
+
+Dennis PP, Shimmin LC.
+
+Department of Biochemistry & Molecular Biology, University of British Columbia,
+Vancouver, Canada. patrick.p.dennis@unixg.ubc.ca
+
+Halophilic (literally salt-loving) archaea are a highly evolved group of
+organisms that are uniquely able to survive in and exploit hypersaline
+environments. In this review, we examine the potential interplay between
+fluctuations in environmental salinity and the primary sequence and tertiary
+structure of halophilic proteins. The proteins of halophilic archaea are highly
+adapted and magnificently engineered to function in an intracellular milieu that
+is in ionic balance with an external environment containing between 2 and 5 M
+inorganic salt. To understand the nature of halophilic adaptation and to
+visualize this interplay, the sequences of genes encoding the L11, L1, L10, and
+L12 proteins of the large ribosome subunit and Mn/Fe superoxide dismutase
+proteins from three genera of halophilic archaea have been aligned and analyzed
+for the presence of synonymous and nonsynonymous nucleotide substitutions.
+Compared to homologous eubacterial genes, these halophilic genes exhibit an
+inordinately high proportion of nonsynonymous nucleotide substitutions that
+result in amino acid replacement in the encoded proteins. More than one-third of
+the replacements involve acidic amino acid residues. We suggest that
+fluctuations in environmental salinity provide the driving force for fixation of
+the excessive number of nonsynonymous substitutions. Tinkering with the number,
+location, and arrangement of acidic and other amino acid residues influences the
+fitness (i.e., hydrophobicity, surface hydration, and structural stability) of
+the halophilic protein. Tinkering is also evident at halophilic protein
+positions monomorphic or polymorphic for serine; more than one-third of these
+positions use both the TCN and the AGY serine codons, indicating that there have
+been multiple nonsynonymous substitutions at these positions. Our model suggests
+that fluctuating environmental salinity prevents optimization of fitness for
+many halophilic proteins and helps to explain the unusual evolutionary
+divergence of their encoding genes.
+
+Publication Types:
+    Review
+
+PMID: 9106366 [PubMed - indexed for MEDLINE]
+
+
+
+NR98: Biochimie. 1997;79(1):7-11. 
+
+Molecular characterization of the prokaryotic efp gene product involved in a
+peptidyltransferase reaction.
+
+Aoki H, Adams SL, Turner MA, Ganoza MC.
+
+Banting and Best Department of Medical Research, University of Toronto, Ontario,
+Canada.
+
+The translation factor EF-P is required for efficient prokaryotic peptide bond
+synthesis on 70S ribosomes from fMet-tRNAfMet. This protein has been purified
+from Escherichia coli cells and the gene, efp, encoding it has been cloned and
+sequenced. We have isolated recombinant clones which overexpress a protein that
+co-migrates with purified EF-P upon SDS-PAGE analysis. Using these clones, we
+report the purification, crystallization and initial characterization of the efp
+gene product. The mechanism by which EF-P stimulates peptide-bond synthesis was
+studied using several antibiotics that inhibit translocation, peptide-bond
+synthesis and decoding. The stimulation of peptidyltransferase by EF-P was not
+inhibited by antibiotics that affect translocation and occupation of the A site
+(in the elongation state), ie thiostrepton, viomycin, neomycin and fusidic acid
+but was inhibited by streptomycin as well as by inhibitors of
+peptidyltransferase, chloramphenicol and lincomycin. This observation and the
+requirement for L16 but not for the L7/L12 nor L6 or L11 r-proteins suggest that
+the binding site for EF-P may overlap the peptidyltransferase center of the
+ribosome.
+
+PMID: 9195040 [PubMed - indexed for MEDLINE]
+
+
+
+NR99: Nat Struct Biol. 1997 Jan;4(1):70-7. 
+
+High resolution solution structure of ribosomal protein L11-C76, a helical
+protein with a flexible loop that becomes structured upon binding to RNA.
+
+Markus MA, Hinck AP, Huang S, Draper DE, Torchia DA.
+
+Molecular Structural Biology Unit, National Institute of Dental Research,
+Bethesda, Maryland 20892-4320, USA.
+
+The structure of the C-terminal RNA recognition domain of ribosomal protein L11
+has been solved by heteronuclear three-dimensional nuclear magnetic resonance
+spectroscopy. Although the structure can be considered high resolution in the
+core, 15 residues between helix alpha 1 and strand beta 1 form an extended,
+unstructured loop. 15N transverse relaxation measurements suggest that the loop
+is moving on a picosecond-to-nanosecond time scale in the free protein but not
+in the protein bound to RNA. Chemical shifts differences between the free
+protein and the bound protein suggest that the loop as well as the C-terminal
+end of helix alpha 3 are involved in RNA binding.
+
+PMID: 8989327 [PubMed - indexed for MEDLINE]
+
+
+
+NR100: Nat Struct Biol. 1997 Jan;4(1):24-7. 
+
+The RNA binding domain of ribosomal protein L11 is structurally similar to
+homeodomains.
+
+Xing Y, Guha Thakurta D, Draper DE.
+
+The RNA binding domain of ribosomal protein L11 is strikingly similar to the
+homeodomain class of eukaryotic DNA binding proteins: it contains three
+alpha-helices that superimpose with homeodomain alpha-helices, and some
+conserved residues required for rRNA recognition align with homeodomain helix
+III residues contacting DNA bases.
+
+Publication Types:
+    Letter
+
+PMID: 8989317 [PubMed - indexed for MEDLINE]
+
+
+
+NR101: Nucleic Acids Res. 1996 Jul 15;24(14):2666-72. 
+
+Structure of a U.U pair within a conserved ribosomal RNA hairpin.
+
+Wang YX, Huang S, Draper DE.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA.
+
+A conserved hairpin corresponding to nt 1057-1081 of large subunit rRNA
+(Escherichia coli numbering) is part of a domain targeted by antibiotics and
+ribosomal protein L11. The stem of the hairpin contains a U.U juxtaposition,
+found as either U.U or U.C in virtually all rRNA sequences. This hairpin has
+been synthesized and most of the aromatic and sugar protons were assigned by
+two-dimensional proton NMR. Distances and sugar puckers deduced from the NMR
+data were combined with restrained molecular dynamics calculations to deduce
+structural features of the hairpin. The two U residues are stacked in the helix,
+form one NH3-O4 hydrogen bond and require an extended backbone conformation
+(trans alpha and gamma) at one of the U nucleotides. The hairpin loop, UAGAAGC
+closed by a U-A pair, is the same size as tRNA anticodon loops, but not as well
+ordered.
+
+PMID: 8758993 [PubMed - indexed for MEDLINE]
+
+
+
+NR102: Gene. 1996 May 24;171(1):95-8. 
+
+The unique organization of the rpoB region of Spiroplasma citri: a restriction
+and modification system gene is adjacent to rpoB.
+
+Laigret F, Gaurivaud P, Bove JM.
+
+Laboratoire de Biologie Cellulaire et Moleculaire, Institut National de la
+Recherche Agronomique et Universite de Bordeaux II, Villenave d'Ornon, France.
+laigret@bordeaux.inra.fr
+
+A 6.5-kb DNA fragment containing the gene (rpoB) encoding the RNA polymerase
+(RNAP) beta subunit, from the mollicute Spiroplasma citri (Sc), was cloned and
+sequenced. The classical eubacterial organization, with the genes (rplK, A, J
+and L) encoding ribosomal proteins L11, L1, L10 and L12 located immediately
+upstream from rpoB, was not found in the Sc DNA. Instead, an open reading frame
+(hsdS) potentially encoding a component of a type I restriction and modification
+system was identified upstream from rpoB, and sequences showing similarities
+with insertion elements were found between hsdS and rpoB.
+
+PMID: 8675039 [PubMed - indexed for MEDLINE]
+
+
+
+NR103: Gene. 1996 May 24;171(1):135-6. 
+
+Gene organization in the ada-rplL region of Streptomyces virginiae.
+
+Katayama M, Sakai Y, Okamoto S, Ihara F, Nihira T, Yamada Y.
+
+Department of Biotechnology, Faculty of Engineering, Osaka University, Japan.
+
+The gene organization of a 7.4-kb region of the Streptomyces virginiae (Sv)
+chromosome was determined. The predicted open reading frames (ORFs) and their
+predicted products, in sequence order, were (i) ada, encoding adenosine
+deaminase [EC 3.5.4.4], (ii) aat, encoding a protein homologous to aspartate
+aminotransferase [EC 2.6.1.1], (iii) secE, encoding a protein involved in
+protein secretion, (iv) vbrA, encoding a NusG-like protein involved in
+antitermination of transcription as described by Okamoto et al. [J. Biol. Chem.
+267 (1992) 1093-1098], and (v) rplKAJL, encoding the large subunits of the
+ribosomal proteins L11, L1, L10 and L12. Six of the ORFs (secE-rplL) were
+oriented in the same direction, but the other two (ada and aat) had the opposite
+orientation. The gene organization of the secE-rplL region in Sv was identical
+to that in Escherichia coli.
+
+PMID: 8675024 [PubMed - indexed for MEDLINE]
+
+
+
+NR104: Biochemistry. 1996 Feb 6;35(5):1581-8. 
+
+Cooperative interactions of RNA and thiostrepton antibiotic with two domains of
+ribosomal protein L11.
+
+Xing Y, Draper DE.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, Maryland 21218,
+USA.
+
+Ribosomal protein L11 interacts with a 58-nucleotide domain of large subunit
+ribosomal RNA; both the protein and its RNA target have been highly conserved.
+The antibiotic thiostrepton recognizes the same RNA domain, and binds to the
+ribosome cooperatively with L11. Experiments presented here show that RNA
+recognition and thiostrepton cooperativity can be attributed to C- and
+N-terminal domains of L11, respectively. Under trypsin digestion conditions that
+degrade Bacillus stearothermophilus L11 to small fragments, the target RNA
+protects the C-terminal 77 residues from digestion, and thiostrepton and RNA in
+combination protect the entire protein. A 76-residue C-terminal fragment of L11
+was overexpressed and shown to fold into a stable structure binding ribosomal
+RNA with essentially the same properties as full-length L11. An
+L11.thiostrepton.RNA complex was 100-200-fold more stable than expected on the
+basis of L11-RNA and thiostrepton-RNA binding affinities; similar measurements
+with the C-terminal fragment detected no cooperativity with thiostrepton. L11
+function is thus more complex than simple interaction with ribosomal RNA; we
+suggest that thiostrepton mimics some ribosomal component or factor that
+normally interacts with the L11 N-terminal domain.
+
+PMID: 8634289 [PubMed - indexed for MEDLINE]
+
+
+
+NR105: Proc Natl Acad Sci U S A. 1995 Dec 19;92(26):12309-13. 
+
+UGA suppression by a mutant RNA of the large ribosomal subunit.
+
+Jemiolo DK, Pagel FT, Murgola EJ.
+
+Department of Molecular Genetics, University of Texas M.D. Anderson Cancer
+Center, Houston 77030, USA.
+
+A role for rRNA in peptide chain termination was indicated several years ago by
+isolation of a 168 rRNA (small subunit) mutant of Escherichia coli that
+suppressed UGA mutations. In this paper, we describe another interesting rRNA
+mutant, selected as a translational suppressor of the chain-terminating mutant
+trpA (UGA211) of E. coli. The finding that it suppresses UGA at two positions in
+trpA and does not suppress the other two termination codons, UAA and UAG, at the
+same codon positions (or several missense mutations, including UGG, available at
+one of the two positions) suggests a defect in UGA-specific termination. The
+suppressor mutation was mapped by plasmid fragment exchanges and in vivo
+suppression to domain II of the 23S rRNA gene of the rrnB operon. Sequence
+analysis revealed a single base change of G to A at residue 1093, an almost
+universally conserved base in a highly conserved region known to have specific
+interactions with ribosomal proteins, elongation factor G, tRNA in the A-site,
+and the peptidyltransferase region of 23S rRNA. Several avenues of action of the
+suppressor mutation are suggested, including altered interactions with release
+factors, ribosomal protein L11, or 16S rRNA. Regardless of the mechanism, the
+results indicate that a particular residue in 23S rRNA affects peptide chain
+termination, specifically in decoding of the UGA termination codon.
+
+PMID: 8618891 [PubMed - indexed for MEDLINE]
+
+
+
+NR106: J Biol Chem. 1995 Dec 15;270(50):29889-93. 
+
+A base substitution within the GTPase-associated domain of mammalian 28 S
+ribosomal RNA causes high thiostrepton accessibility.
+
+Uchiumi T, Wada A, Kominami R.
+
+Department of Biochemistry, Niigata University School of Medicine, Japan.
+
+A molecular basis for the insensitivity of eukaryotic ribosomes to the
+antibiotic thiostrepton was investigated using synthetic 100-nucleotide-long
+fragments covering the GTPase domain of 23/28 S rRNA. Filter binding assay
+showed no detectable binding of the rat RNA to thiostrepton, but the binding
+capacity was markedly increased by base substitution of G1878 to A at the
+position corresponding to 1067 of Escherichia coli 23 S rRNA. The association
+constant (K alpha) for the rat A 1878 mutant was 0.60 x 10(6) M-1, which was
+comparable with that of the E. coli RNA (K alpha = 1.1 x 10(6) M-1). This
+suggests that the eukaryotic G 1878 participates in the resistance for
+thiostrepton. On the other hand, the RNA fragments of the two species had a
+similar binding capacity for E. coli ribosomal protein L11 and its mammalian
+homologue L12. Gel electrophoresis under a high ionic condition, however,
+revealed a difference between the two proteins. E. coli L11 formed stable
+complexes with both the E. coli RNA and the rat A 1878 mutant RNA in the
+presence of thiostrepton, while rat L12 failed to exhibit such complex
+formation. This suggests that the eukaryotic L12 protein may also be an element
+giving the resistance for thiostrepton. These results are discussed in terms of
+preserved three-dimensional conformation of the RNA backbone between prokaryotes
+and higher eukaryotes.
+
+PMID: 8530386 [PubMed - indexed for MEDLINE]
+
+
+
+NR107: Biochem Cell Biol. 1995 Nov-Dec;73(11-12):1179-85. 
+
+Recognition determinants for proteins and antibiotics within 23S rRNA.
+
+Douthwalte S, Voldborg B, Hansen LH, Rosendahl G, Vester B.
+
+Department of Molecular Biology, Odense University, Denmark.
+
+Ribosomal RNAs fold into phylogenetically conserved secondary and tertiary
+structures that determine their function in protein synthesis. We have
+investigated Escherichia coli 23S rRNA to identify structural elements that
+interact with antibiotic and protein ligands. Using a combination of molecular
+genetic and biochemical probing techniques, we have concentrated on regions of
+the rRNA that are connected with specific functions. These are located in
+different domains within the 23S rRNA and include the ribosomal
+GTPase-associated center in domain II, which contains the binding sites for
+r-proteins L10.(L12)4 and L11 and is inhibited by interaction with the
+antibiotic thiostrepton. The peptidyltransferase center within domain V is
+inhibited by macrolide, lincosamide, and streptogramin B antibiotics, which
+interact with the rRNA around nucleotide A2058. Drug resistance is conferred by
+mutations here and by modification of A2058 by ErmE methyltransferase. ErmE
+recognizes a conserved motif displayed in the primary and secondary structure of
+the peptidyl transferase loop. Within domain VI of rRNA, the alpha-sarcin
+stem-loop is associated with elongation factor binding and is the target site
+for ribotoxins including the N-glycosidase ribosome-inactivating proteins ricin
+and pokeweed antiviral protein (PAP). The orientations of the 23S rRNA domains
+are constrained by tetiary interactions, including a pseudoknot in domain II and
+long-range base pairings in the center of the molecule that bring domains II and
+V closer together. The phenotypic effects of mutations in these regions have
+been investigated by expressing 23S rRNA from plasmids. Allele-specific priming
+sites have been introduced close to these structures in the rRNA to enable us to
+study the molecular events there.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 8722035 [PubMed - indexed for MEDLINE]
+
+
+
+NR108: Biochem Cell Biol. 1995 Nov-Dec;73(11-12):959-68. 
+
+Proteins P1, P2, and P0, components of the eukaryotic ribosome stalk. New
+structural and functional aspects.
+
+Remacha M, Jimenez-Diaz A, Santos C, Briones E, Zambrano R, Rodriguez Gabriel
+MA, Guarinos E, Ballesta JP.
+
+Centro de Biologia Molecular, C.S.I.C. and U.A.M., Madrid, Spain.
+
+The eukaryoic ribosomal stalk is thought to consist of the phosphoproteins P1
+and P2, which form a complex with protein PO. This complex interacts at the
+GTPase domain in the large subunit rRNA, overlapping the binding site of the
+protein L11-like eukaryotic counterpart (Saccharomyces cerevisiae protein L15
+and mammalian protein L12). An unusual pool of the dephosphorylated forms of
+proteins P1 and P2 is detected in eukaryotic cytoplasm, and an exchange between
+the proteins in the pool and on the ribosome takes place during translation.
+Quadruply disrupted yeast strains, carrying four inactive acidic protein genes
+and, therefore, containing ribosomes totally depleted of acidic proteins, are
+viable but grow with a doubling time threefold higher than wild-type cells. The
+in vitro translation systems derived from these stains are active but the
+two-dimensional gel electrophoresis pattern of proteins expressed in vivo and in
+vitro is partially different. These results indicate that the P1 and P2 proteins
+are not essential for ribosome activity but are able to affect the translation
+of some specific mRNAs. Protein PO is analogous to bacterial ribosomal protein
+L10 but carries an additional carboxyl domain showing a high sequence homology
+to the acidic proteins P1 and P2, including the terminal peptide DDDMGFGLFD.
+Successive deletions of the PO carboxyl domain show that removal of the last 21
+amino acids from the PO carboxyl domain only slightly affects the ribosome
+activity in a wild-type genetic background; however, the same deletion is lethal
+in a quadruple disruptant deprived of acidic P1/P2 proteins. Additional
+deletions affect the interaction of PO with the P1 and P2 proteins and with the
+rRNA. The experimental data available support the implication of the eukaryotic
+stalk components in some regulatory process that modulates the ribosomal
+activity.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 8722011 [PubMed - indexed for MEDLINE]
+
+
+
+NR109: Biochem Cell Biol. 1995 Nov-Dec;73(11-12):925-31. 
+
+Variety of nonsense suppressor phenotypes associated with mutational changes at
+conserved sites in Escherichia coli ribosomal RNA.
+
+Murgola EJ, Pagel FT, Hijazi KA, Arkov AL, Xu W, Zhao SQ.
+
+Department of Molecular Genetics, University of Texas M.D. Anderson Cancer
+Center, Houston 77030, USA.
+
+To screen for ribosomal RNA mutants defective in peptide chain termination, we
+have been looking for rRNA mutants that exhibit different patterns of
+suppression of nonsense mutations and that do not suppress missense mutations at
+the same positions in the same reporter gene. The rRNA mutations were induced by
+segment-directed randomly mutagenic PCR treatment of a cloned rrnB operon,
+followed by subcloning of the mutagenesis products and transformation of strains
+containing different nonsense mutations in the Escherichia coli trpA gene. To
+date, we have repeatedly obtained only two small sets of mutations, one in the
+3' domain of 16S rRNA, at five nucleotides out of the 610 mutagenized (two in
+helix 34 and three in helix 44), and the other in 23S rRNA at only four
+neighboring nucleotide positions (in a highly conserved hexanucleotide loop)
+within the 1.4 kb mutagenized segment. There is variety, however, in the
+suppression patterns of the mutants, ranging from suppression of UAG or UGA,
+through suppression of UAG and UGA, but not UAA, to suppression of all three
+termination codons. The two helices in 16S rRNA have previously been associated
+both physically and functionally with the decoding center of the ribosome. The
+23S region is part of the binding site for the large subunit protein L11 and the
+antibiotic thiostrepton, both of which have been shown to affect peptide chain
+termination. Finally, we have demonstrated that the 23S mutant A1093, which
+suppresses trpA UGA mutations very efficiently, is lethal at temperatures above
+36 degrees C (when highly expressed). This lethality is overcome by secondary
+23S rRNA mutations in domain V. Our results suggest that specific regions of 16S
+and 23S rRNA are involved in peptide chain termination, that the lethality of
+A1093 is caused by high-level UGA suppression, and that intramolecular
+interaction between domains II and V of 23S rRNA may play a role in peptide
+chain termination at the UGA stop codon.
+
+PMID: 8722008 [PubMed - indexed for MEDLINE]
+
+
+
+NR110: Nucleic Acids Res. 1995 Sep 11;23(17):3426-33. 
+
+On the role of rRNA tertiary structure in recognition of ribosomal protein L11
+and thiostrepton.
+
+Lu M, Draper DE.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA.
+
+Ribosomal protein L11 and an antibiotic, thiostrepton, bind to the same highly
+conserved region of large subunit ribosomal RNA and stabilize a set of
+NH4(+)-dependent tertiary interactions within the domain. In vitro selection
+from partially randomized pools of RNA sequences has been used to ask what
+aspects of RNA structure are recognized by the ligands. L11-selected RNAs showed
+little sequence variation over the entire 70 nucleotide randomized region, while
+thiostrepton required a slightly smaller 58 nucleotide domain. All the selected
+mutations preserved or stabilized the known secondary and tertiary structure of
+the RNA. L11-selected RNAs from a pool mutagenized only around a junction
+structure yielded a very different consensus sequence, in which the RNA tertiary
+structure was substantially destabilized and L11 binding was no longer dependent
+on NH4+. We propose that L11 can bind the RNA in two different 'modes',
+depending on the presence or absence of the NH4(+)-dependent tertiary structure,
+while thiostrepton can only recognize the RNA tertiary structure. The different
+RNA recognition mechanisms for the two ligands may be relevant to their
+different effects on protein synthesis.
+
+PMID: 7567452 [PubMed - indexed for MEDLINE]
+
+
+
+NR111: Nucleic Acids Res. 1995 Jul 11;23(13):2396-403. 
+
+Cooperative assembly of proteins in the ribosomal GTPase centre demonstrated by
+their interactions with mutant 23S rRNAs.
+
+Rosendahl G, Douthwaite S.
+
+Department of Molecular Biology, Odense University, Denmark.
+
+The ribosomal protein L11 binds to the region of 23S rRNA associated with the
+GTPase-dependent steps of protein synthesis. Nucleotides 1054-1107 within this
+region of the Escherichia coli 23S rRNA gene were mutagenized with bisulphite.
+Twenty point mutations (G-->A and C-->T transitions) and numerous multiple
+mutations were generated. Expression of mutant 23S rRNAs in vivo shows that all
+the mutations detectably alter the phenotype, with effects ranging from a slight
+growth rate reduction to lack of viability. Temperature sensitivity is conferred
+by 1071G-->A and 1092C-->U substitutions. These effects are relieved by point
+mutations at other sites, indicating functional interconnections within the
+higher order structure of this 23S rRNA region. Several mutations prevent direct
+binding of r-protein L11 to 23S rRNA in vitro. These mutations are mainly in a
+short irregular stem (1087-1102) and within a hairpin loop (1068-1072), where
+the protein probably makes nucleotide contacts. Some of these mutations also
+interfere with binding of the r-protein complex L10.(L12)4 to an adjacent site
+on the rRNA. When added together to rRNA, proteins L10.(L12)4 and L11 bind
+cooperatively to overcome the effects of mutations at 1091 and 1099. The
+proteins also stimulate each others binding to rRNA mutated at 1087 or 1092,
+although in these cases binding remains clearly substoichiometric. Surprisingly,
+none of the mutations prevents incorporation of L11 into ribosomes in vivo,
+indicating that other, as yet unidentified, factors are involved in the
+cooperative assembly process.
+
+PMID: 7630717 [PubMed - indexed for MEDLINE]
+
+
+
+NR112: DNA Res. 1995 Jun 30;2(3):129-32. 
+
+Mitochondrial ribosomal protein L11 gene of Dictyostelium discoideum resides not
+in the nuclear genome but in the mitochondrial genome.
+
+Iwamoto M, Yanagisawa K, Tanaka Y.
+
+Institute of Biological Sciences, University of Tsukuba, Ibaraki, Japan.
+
+During the course of analysis of the mitochondrial genome of the cellular slime
+mold, Dictyostelium discoideum, we found a gene (rpl11) for mitochondrial
+ribosomal protein (RPL11), having 172 amino acid residues. Southern blot
+analysis revealed that the gene resided in the mitochondrial DNA as a
+single-copy but not in the nuclear DNA. From Northern blot experiments, one
+major mRNA (about 27 kb) and two minor mRNAs (about 4 and 5 kb) for the gene
+were detected in the mitochondria. This is the first report showing that the
+active gene for RPL11 still resides in the mitochondrial genome and has not been
+transferred to the nuclear genome in D. discoideum.
+
+PMID: 8581739 [PubMed - indexed for MEDLINE]
+
+
+
+NR113: J Mol Biol. 1995 Jun 2;249(2):319-31. 
+
+Stabilization of a ribosomal RNA tertiary structure by ribosomal protein L11.
+
+Xing Y, Draper DE.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA.
+
+Interactions between ribosomal protein L11 and a domain of large subunit rRNA
+have been highly conserved and are essential for efficient protein synthesis. To
+study the effects of L11 on rRNA folding, a homolog of the Escherichia coli L11
+gene has been amplified from Bacillus stearothermophilus DNA and cloned into a
+phage T7 polymerase-based expression system. The expressed protein is 93%
+homologous to the L11 homolog from Bacillus subtilis, denatures at temperatures
+above 72 degrees C, and has nearly identical rRNA binding properties as the
+Escherichia coli L11 in terms of RNA affinity constants and their dependences on
+temperature, Mg2+ concentration, monovalent cation, and RNA mutations. Mg2+ and
+NH4+ are specifically bound by the RNA-protein complex, with apparent ion-RNA
+affinities of 1.6 mM-1 and 19 M-1, respectively, at 0 degree C. The effect of
+the thermostable L11 on the unfolding of a 60 nucleotide rRNA fragment
+containing its binding domain has been examined in melting experiments. The
+lowest temperature RNA transition, which is attributed to tertiary structure
+unfolding, is stabilized by approximately 25 degrees C, and the interaction has
+an intrinsic enthalpy of approximately 13 kcal/mol. The thermal stability of the
+protein-RNA complex is enhanced by increasing Mg2+ concentration and by NH4+
+relative to Na+. Thus L11, NH4+, and Mg2+ all bind and stabilize the same rRNA
+tertiary interactions, which are conserved and presumably important for ribosome
+function.
+
+PMID: 7783196 [PubMed - indexed for MEDLINE]
+
+
+
+NR114: Mol Biochem Parasitol. 1995 May;71(2):261-4. 
+
+Cloning and characterization of the ribosomal l11 gene from Leishmania spp.
+
+Love DC, Wilson ME, Mosser DM.
+
+Department of Microbiology and Immunology, Temple University School of Medicine,
+Philadelphia, PA 19140, USA.
+
+PMID: 7477109 [PubMed - indexed for MEDLINE]
+
+
+
+NR115: Mol Gen Genet. 1995 Apr 10;247(1):118-22. 
+
+Cloning, nucleotide sequence, and transcriptional analysis of the nusG gene of
+Streptomyces coelicolor A3(2), which encodes a putative transcriptional
+antiterminator.
+
+Puttikhunt C, Nihira T, Yamada Y.
+
+Department of Biotechnology, Faculty of Engineering, Osaka University, Japan.
+
+A 3 kb genomic fragment containing the nusG gene of Streptomyces coelicolor
+A3(2) was identified, cloned and sequenced. Sequence analysis revealed 3
+complete and 2 truncated open reading frames (ORFs): truncated ORFU (similar to
+a Bacillus gene encoding a thermostable aspartate aminotransferase)-secE (94
+amino acids; 79.0% similarity to Escherichia coli SecE)-nusG (300 amino acids;
+73.3% similarity to E. coli NusG)-rplK (144 amino acids; 88.5% similarity to E.
+coli ribosomal subunit L11)-truncated rplA (similar to E. coli ribosomal subunit
+L1). The gene organization secE-nusG-rplKA exactly matches that in E. coli.
+Transcriptional analyses by the primer extension method revealed one
+transcriptional start site each for secE and nusG, and two sites for rplK. The
+presence of promoters was also confirmed with the aid of a promoter-probe
+vector.
+
+PMID: 7715599 [PubMed - indexed for MEDLINE]
+
+
+
+NR116: Biochim Biophys Acta. 1995 Mar 14;1261(1):147-50. 
+
+Molecular cloning of the Drosophila homologue of the rat ribosomal protein L11
+gene.
+
+Larochelle S, Suter B.
+
+Department of Biology, McGill University, Montreal, Canada.
+
+We report the isolation of the Drosophila melanogaster homologue of the rat
+ribosomal protein L11 gene. The gene is present in the Drosophila genome at
+polytene chromosome location 56D, on the right arm of the second chromosome. The
+Drosophila DL11 gene appears to encode two messages of 0.8 and 0.9 kb which are
+expressed throughout development with variations in their relative abundance.
+DL11 codes for a predicted protein of 184 amino acids with a molecular mass of
+21.1 kDa.
+
+PMID: 7893752 [PubMed - indexed for MEDLINE]
+
+
+
+NR117: Bioorg Khim. 1995 Feb;21(2):158-60. 
+
+[Cloning and determination of the primary structure of DNA complementary to the
+mRNA of human ribosomal protein L11]
+
+[Article in Russian]
+
+Mishin VP, Filipenko ML, Muravlev AI, Karpova GG, Mertvetsov NP.
+
+A polymerase chain reaction strategy was employed to isolate cDNA encoding L11
+human ribosomal protein. Based on the known nucleotide sequence of 5'-region of
+the ribosomal protein L11 mRNA, we have designed primers and used them in
+amplification of corresponding sequence of human cDNA from total placenta cDNA.
+The fragment of RPS26 cDNA was cloned in plasmid vector and sequenced. Sequence
+analysis showed that there is high homology (88%) between coding regions of
+RPS26 mRNAs in rat liver and human placenta. The amino acid exchanges were
+observed at positions: 91 (Asp-->Glu), 217 (Thr-->Ala), 352 (Lys-->Glu).
+
+Publication Types:
+    Letter
+
+PMID: 7748210 [PubMed - indexed for MEDLINE]
+
+
+
+NR118: Nucleic Acids Symp Ser. 1995;(33):70-2. 
+
+Mutations at three sites in the Escherichia coli 23S ribosomal RNA binding
+region for protein L11 cause UGA-specific suppression and conditional lethality.
+
+Murgola EJ, Xu W, Arkov AL.
+
+Department of Molecular Genetics, University of Texas M. D. Anderson Cancer
+Center, Houston 77030, USA.
+
+A single nucleotide change, G to A, at nucleotide position 1093 of E. coli 23S
+ribosomal RNA was found to cause UGA-specific suppression (D.K. Jemiolo, F.T.
+Pagel and E.J. Murgola, Proc. Natl. Acad. Sci. USA, in press). To obtain new
+kinds of UGA-specific suppressors in 23S rRNA, we used segment-directed
+mutagenic PCR, and targeted first the 1405 nucleotide SnaBI/I-CeuI segment,
+which includes position 1093, of the rrnB operon cloned into a multicopy
+plasmid. The mutagenized fragments were subcloned into the plasmid vector and
+used to transform to ampicillin resistance (Ampr) a recipient strain containing
+a UGA mutation in trpA. The Ampr transformants were then screened for
+suppression of UGA. After purification, Trp+ transformants were tested for
+association of the suppressor phenotype first with the plasmid and then
+specifically with the SnaBI/I-CeuI fragment. In one screening, four different
+kinds of mutational change were found, all at three sites within a highly
+conserved hexanucleotide loop in domain II of 23S rRNA. This region is part of
+the site for binding of the large subunit protein L11, which has been shown to
+be involved in peptide chain termination in a specific way. All of the mutants
+(G1093A, G1093 delta, A1095 delta, and U1097 delta) suppress UGA mutations, but
+not UAA or UAG mutations, and all four types exhibit high-temperature
+conditional lethality when highly expressed. Several mechanisms can be suggested
+for the UGA-specific suppression exhibited by these mutants, including altered
+interaction with protein L11, Second-site mutations that overcome the
+conditional lethality of G1093A indicate that intramolecular interactions within
+23S rRNA may play a role in peptide chain termination at the UGA stop codon.
+
+PMID: 8643403 [PubMed - indexed for MEDLINE]
+
+
+
+NR119: Nucleic Acids Symp Ser. 1995;(33):5-7. 
+
+Protein recognition of a ribosomal RNA tertiary structure.
+
+Draper DE, Xing Y.
+
+Department of Chemistry, Johns Hopkins University, Baltimore, MD 21218, USA.
+
+Ribosomal protein L11 recognizes a highly conserved, 58 nucleotide domain of
+large subunit ribosomal RNA. This domain has a set of tertiary interactions that
+are specifically stabilized by Mg2+ and NH4+ ions. The protein recognizes this
+tertiary structure, in the sense that ions stabilizing the tertiary structure
+also promote L11 binding, and a heat stable form of the protein (from Bacillus
+stearothermophilus) prevents RNA unfolding. We also find that these RNA-binding
+properties are confined to a approximately 75 amino acid domain of the protein.
+The larger issue of L11 function within the ribosome is discussed in light of
+these findings.
+
+Publication Types:
+    Review
+    Review, Tutorial
+
+PMID: 8643396 [PubMed - indexed for MEDLINE]
+
+
+
+NR120: Mol Microbiol. 1994 Dec;14(5):947-58. 
+
+Ribosomal protein methylation in Escherichia coli: the gene prmA, encoding the
+ribosomal protein L11 methyltransferase, is dispensable.
+
+Vanet A, Plumbridge JA, Guerin MF, Alix JH.
+
+Institut de Biologie Physico-Chimique, URA1139 CNRS, Paris, France.
+
+The prmA gene, located at 72 min on the Escherichia coli chromosome, is the
+genetic determinant of ribosomal protein L11-methyltransferase activity.
+Mutations at this locus, prmA1 and prmA3, result in a severely undermethylated
+form of L11. No effect, other than the lack of methyl groups on L11, has been
+ascribed to these mutations. DNA sequence analysis of the mutant alleles prmA1
+and prmA3 detected point mutations near the C-terminus of the protein and
+plasmids overproducing the wild-type and the two mutant proteins have been
+constructed. The wild-type PrmA protein could be crosslinked to its
+radiolabelled substrate, S-adenosyl-L-methionine (SAM), by u.v. irradiation
+indicating that it is the gene for the methyltransferase rather than a
+regulatory protein. One of the mutant proteins, PrmA3, was also weakly
+crosslinked to SAM. Both mutant enzymes when expressed from the overproducing
+plasmids were capable of catalysing the incorporation of 3H-labelled methyl
+groups from SAM to L11 in vitro. This confirmed the observation that the mutant
+proteins possess significant residual activity which could account for their
+lack of growth phenotype. However, a strain carrying an in vitro-constructed
+null mutation of the prmA gene, transferred to the E. coli chromosome by
+homologous recombination, was perfectly viable.
+
+PMID: 7715456 [PubMed - indexed for MEDLINE]
+
+
+
+NR121: J Mol Biol. 1994 Nov 25;244(2):242-9. 
+
+Structure and transcription of the L11-L1-L10-L12 ribosomal protein gene operon
+from the extreme thermophilic archaeon Sulfolobus acidocaldarius.
+
+Ramirez C, Shimmin LC, Leggatt P, Matheson AT.
+
+Department of Biochemistry and Microbiology, University of Victoria, B.C.,
+Canada.
+
+We have cloned and sequenced four ribosomal protein genes from the extreme
+thermophilic archaeon Sulfolobus acidocaldarius P1. These genes code for
+proteins equivalent to L11, L1, L10 and L12 from Escherichia coli. The genes for
+the Sulfolobus L11, L1, L10 and L12 proteins are arranged in the same order as
+the equivalent genes in E. coli, i.e. L11-L1-L10-L12, and are transcribed as a
+single unit. Sequences resembling the consensus sequence for archaeal promoters
+have been detected upstream of the transcription initiation site. Transcription
+ends at several sites following a pyrimidine-rich region. The genes for proteins
+L11, L10 and L1 start with unusual initiation codons: GUG in the case of the L1
+and L10 genes; and UUG in the case of L11. There are overlapping stop/start
+codons between the L11 and L1 genes, and between the L1 and L10, suggesting that
+the translation of the four genes might be coupled as in the bacteria.
+
+PMID: 7966335 [PubMed - indexed for MEDLINE]
+
+
+
+NR122: Eur J Biochem. 1994 Sep 1;224(2):431-7. 
+
+Overexpression of the thiostrepton-resistance gene from Streptomyces azureus in
+Escherichia coli and characterization of recognition sites of the 23S rRNA A1067
+2'-methyltransferase in the guanosine triphosphatase center of 23S ribosomal
+RNA.
+
+Bechthold A, Floss HG.
+
+Department of Chemistry, University of Washington, Seattle 98195.
+
+The thiostrepton-resistance gene encoding the 23S rRNA A1067 methyltransferase
+from Streptomyces azureus has been overexpressed in Escherichia coli using a
+T7-RNA-polymerase-dependent expression vector. The protein was efficiently
+expressed at levels up to 20% of total soluble protein and purified to near
+homogeneity. Kinetic parameters for S-adenosyl-L-methionine (Km = 0.1 mM) and an
+RNA fragment containing nucleotides 1029-1122 of the 23S ribosomal RNA from E.
+coli (Km = 0.001 mM) were determined. S-Adenosyl-L-homocysteine showed
+competitive product inhibition (Ki = 0.013 mM). Binding of either thiostrepton
+or protein L11 inhibited methylation. RNA sequence variants of the RNA fragment
+with mutations in nucleotides 1051-1108 were tested as substrates for the
+methylase. The experimental data indicate that methylation is dependent on the
+secondary structure of the hairpin including nucleotide A1067 and the exact
+sequence U(1066)-A(1067)-G(1068)-A(1069)-A(1070) of the single strand.
+
+PMID: 7925357 [PubMed - indexed for MEDLINE]
+
+
+
+NR123: Mol Microbiol. 1994 May;12(3):375-85. 
+
+Synthesis of ribosomal proteins during growth of Streptomyces coelicolor.
+
+Blanco G, Rodicio MR, Puglia AM, Mendez C, Thompson CJ, Salas JA.
+
+Departamento de Biologia Funcional, Universidad de Oviedo, Spain.
+
+Changes in expression of ribosomal protein genes during growth and stationary
+phase of Streptomyces coelicolor A3(2) in liquid medium were studied. Proteins
+being synthesized were pulse-labelled with [35S]-methionine, separated by
+two-dimensional polyacrylamide gel electrophoresis, and quantified using the
+BioImage computer software. Most of the ribosomal proteins were synthesized
+throughout the life cycle. Exceptions were two proteins whose synthesis
+drastically decreased at the approach of stationary phase. These two proteins
+were identified in purified ribosomes as homologues of Escherichia coli
+ribosomal proteins L10 and L7/L12, using antibodies raised against fusion
+proteins between these ribosomal proteins and Escherichia coli
+beta-galactosidase. The genes (rplJ and rplL) encoding the L10 and L7/L12
+proteins were contained in a 1.2 kb BamHI fragment that was cloned and
+sequenced. The linkage and order of the genes coincide with other L10-L7/L12
+operons. However, L11 and L1 genes were not present immediately upstream of the
+L10 gene, as is the case for E. coli and other bacteria. Instead, two open
+reading frames of unknown function were found immediately upstream of the L10
+gene, in an adjacent 1.9 kb BamHI fragment.
+
+PMID: 7545948 [PubMed - indexed for MEDLINE]
+
+
+
+NR124: J Mol Evol. 1994 Apr;38(4):405-19. 
+
+Molecular phylogenies based on ribosomal protein L11, L1, L10, and L12
+sequences.
+
+Liao D, Dennis PP.
+
+Canadian Institute for Advanced Research, University of British Columbia,
+Vancouver.
+
+Available sequences that correspond to the E. coli ribosomal proteins L11, L1,
+L10, and L12 from eubacteria, archaebacteria, and eukaryotes have been aligned.
+The alignments were analyzed qualitatively for shared structural features and
+for conservation of deletions or insertions. The alignments were further
+subjected to quantitative phylogenetic analysis, and the amino acid identity
+between selected pairs of sequences was calculated. In general, eubacteria,
+archaebacteria, and eukaryotes each form coherent and well-resolved
+nonoverlapping phylogenetic domains. The degree of diversity of the four
+proteins between the three groups is not uniform. For L11, the eubacterial and
+archaebacterial proteins are very similar whereas the eukaryotic L11 is clearly
+less similar. In contrast, in the case of the L12 proteins and to a lesser
+extent the L10 proteins, the archaebacterial and eukaryotic proteins are similar
+whereas the eubacterial proteins are different. The eukaryotic L1 equivalent
+protein has yet to be identified. If the root of the universal tree is near or
+within the eubacterial domain, our ribosomal protein-based phylogenies indicate
+that archaebacteria are monophyletic. The eukaryotic lineage appears to
+originate either near or within the archaebacterial domain.
+
+PMID: 8007008 [PubMed - indexed for MEDLINE]
+
+
+
+NR125: J Mol Biol. 1994 Jan 28;235(4):1251-60. 
+
+Location of the streptomycin ribosomal binding site explains its pleiotropic
+effects on protein biosynthesis.
+
+Abad JP, Amils R.
+
+Centro de Biologia Molecular Severo Ochoa Facultad de Ciencias, Universidad
+Autonoma de Madrid, Cantoblanco, Spain.
+
+Photoaffinity-labeling experiments using three nitroguaiacol ether streptomycin
+derivatives with spacers of different lengths between the antibiotic and the
+photoreactive moiety (8, 12 and 17 A) allow us to: (1) unambiguously locate the
+boundaries of the antibiotic binding site; and (2) test the topographical
+consistency of the photolabeling results. The streptomycin binding site is
+located in the interface between the ribosomal subunits, close to proteins S5 in
+the 30 S and to L11 in the 50 S ribosomal subunits. This location explains most
+of the antibiotic's pleiotropic effects on protein biosynthesis, especially
+those related to the tRNA selection mechanism, and it also correlates with the
+location of the ribosomal components involved in the different streptomycin
+phenotypes.
+
+PMID: 7508514 [PubMed - indexed for MEDLINE]
+
+
+
+NR126: J Bacteriol. 1994 Jan;176(2):409-18. 
+
+Autogenous translational regulation of the ribosomal MvaL1 operon in the
+archaebacterium Methanococcus vannielii.
+
+Hanner M, Mayer C, Kohrer C, Golderer G, Grobner P, Piendl W.
+
+Institute of Medical Microbiology, University of Innsbruck, Austria.
+
+The mechanisms for regulation of ribosomal gene expression have been
+characterized in eukaryotes and eubacteria, but not yet in archaebacteria. We
+have studied the regulation of the synthesis of ribosomal proteins MvaL1,
+MvaL10, and MvaL12, encoded by the MvaL1 operon of Methanococcus vannielii, a
+methanogenic archaebacterium. MvaL1, the homolog of the regulatory protein L1
+encoded by the L11 operon of Escherichia coli, was shown to be an autoregulator
+of the MvaL1 operon. As in E. coli, regulation takes place at the level of
+translation. The target site for repression by MvaL1 was localized by
+site-directed mutagenesis to a region within the coding sequence of the MvaL1
+gene commencing about 30 bases downstream of the ATG initiation codon. The MvaL1
+binding site on the mRNA exhibits similarity in both primary sequence and
+secondary structure to the L1 regulatory target site of E. coli and to the
+putative binding site for MvaL1 on the 23S rRNA. In contrast to other regulatory
+systems, the putative MvaL1 binding site is located in a sequence of the mRNA
+which is not in direct contact with the ribosome as part of the initiation
+complex. Furthermore, the untranslated leader sequence is not involved in the
+regulation. Therefore, we suggest that a novel mechanism of translational
+feedback regulation exists in M. vannielii.
+
+PMID: 8288536 [PubMed - indexed for MEDLINE]
+
+
+
+NR127: Mol Biol (Mosk). 1994 Jan-Feb;28(1):82-6. 
+
+[Study of segments of 23S RNA, important for interaction with elongation factors
+Tu and G using complementary DNA-oligonucleotides]
+
+[Article in Russian]
+
+Bubunenko MG, Gudkov AT.
+
+Several oligonucleotides complementary to different 23S RNA regions were tested
+in the elongation factor-dependent reactions of the ribosomes. It was found that
+the 1088-1100 and 1127-1140 sequence parts of the 23S RNA (binding regions for
+the L11 protein) are very important for EF-G function. The EF-Tu function is
+markedly less affected by these nucleotides. The probable role of 23S RNA
+function is discussed.
+
+PMID: 8145758 [PubMed - indexed for MEDLINE]
+
+
