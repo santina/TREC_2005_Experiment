@@ -32,7 +32,7 @@ def getPrecision(papers, hasAbstract, relevanceDict, category):
 	for paperID in papers:
 		if hasAbstract[paperID]:
 			info = relevanceDict[paperID]
-			if info[0] == category: #and info[1] == ('PR' or 'DR'): 
+			if info[0] == category and info[1] == ('PR' or 'DR'): 
 				numCorrects += 1
 			
 		else: 
