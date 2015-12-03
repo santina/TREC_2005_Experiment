@@ -1,0 +1,85 @@
+---
+title: "TREC 2005 training abstracts"
+author: "Santina Lin"
+date: "December 3, 2015"
+output: 
+  html_document:
+    keep_md: yes
+    toc: true
+    toc_depth: 4
+---
+```{r warning=FALSE}
+library(plyr) # mutate()
+```
+
+This markdown is for a quick inspection of the TREC2005 training dataset, using the metadata generated from `../parsing_code/parse_training_data.py`. 
+
+```{r}
+meta <- read.table("../info_data/metaData.txt", sep="\t", quote="")
+```
+
+# Quick inspection and restructuring 
+```{r}
+str(meta)
+```
+There are some columns that should be factors. Let's do some cleaning on this data frame.
+
+```{r}
+colnames(meta) <- c("category", "relevance", "title", "pmid", "journal", "pubYear")
+meta$category <- as.factor(meta$category)
+meta$pubYear <- as.factor(meta$pubYear)
+str(meta)
+```
+
+Much better. We see that we have `r nrow(meta)` entries, but there are `r length(unique(meta$title))` unique titles. That's weird. 
+Perhaps there are repeated papers  
+```{r}
+title_occurrences <- table(meta$title)
+(nrepeats <- length(subset(title_occurrences, title_occurrences>1)))
+```
+So there are `r nrepeats` papers that occur more than once, which help explain why there are less unique titles (or abstracts) than the total number of abstracst in this training dataset. 
+
+See the distribution of publication years
+```{r}
+plot(table(meta$pubYear), xlab="Publication Year", ylab="Number of abstracts")
+```
+
+How many journals are there: 
+```{r}
+(njournals <- length(unique(meta$journal)))
+```
+
+There are also `r njournals` different journals. 
+
+# Category breakdown 
+
+```{r}
+table(meta$category)
+table(meta$category, meta$relevance)
+```
+
+As we can see, some categories have much more abstracts than the others. Some categories have very few abstracts that are relevant relatively to the total number of abstracst in those categories.
+
+In our evaluation of SVD, we group PR (probably relevant) and DR (definitely relevant) together. So let's combine those two together and see the break down between relevant and non-relevant. 
+
+```{r}
+# Function to map NR, PR, DR to another string  
+isRelevant <- function(category){
+  if(category == 'NR'){
+    return('non-relevant');
+  }
+  return('relevant'); # if PR or DR 
+}
+
+# Use the function to add a column to our meta dataframe 
+relevances <- unlist(llply(meta$relevance, isRelevant)) # it cannot be a list, needs to be an array of strings (character) 
+meta <- mutate(meta, class = relevances)
+meta$class <- as.factor(meta$class)
+
+# See the breakdown of relevant and non-relevant abstracts in each category : 
+plot(table(meta$category, meta$class), main="Relevance Breakdown", xlab="Category")
+text(5,5)
+```
+
+The width of each bar represents the number of papers in that category. Some categories have much fewer relevant papers. So we might need to correct for that when evaluate our document clustering prediction. 
+
