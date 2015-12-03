@@ -1,5 +1,6 @@
 import sys
-sys.path.append('/home/slin/Thesis/Jake')
+# TODO: commit the code in there after describing how to download and incorporate geniatagger and lingpipe in a README
+sys.path.append('/home/slin/Thesis/Jake') 
 import textExtractionUtils as utils
 import timeit
 import pickle
@@ -7,6 +8,9 @@ import pickle
 
 
 def getIDs(text, idList):
+	''' use textExtractionUtils to get the term IDs and # of term occurrences for each abstract 
+	and return all the termIDs and term occurrences as a dictionary
+	'''
 	termID = {}
 	for sentence in utils.sentenceSplit(text):
 		# Tokenize each sentence
@@ -20,6 +24,9 @@ def getIDs(text, idList):
 	return termID
 
 def getTermFreq(abstracts_file, idList):
+	''' Read in a file listing all the abstracts and pass each abstract to `getIDs()` 
+	to obtain the termID-frequency pairs as a dictionary 
+	'''
 	with open(abstracts_file) as f: 
 		for line in f:
 			l = line.split('\t')
@@ -56,12 +63,15 @@ def recordTermFreq(abstracts_file, idList, out_file):
 
 
 def main():
+	# TODO: use argparse to get input files and other parameters 
+
 	t = timeit.default_timer()
 	utils.loadParsingTools()
 	print "\nTo load parsing tools: ", timeit.default_timer() - t
 
 	t = timeit.default_timer()
-	binaryTermsFile =  "/home/slin/Thesis/Jake/umlsWordlist.pickle"
+	# TODO: describe how to generate this file by downloading and filtering words from UML 
+	binaryTermsFile =  "/home/slin/Thesis/Jake/umlsWordlist.pickle" 
 	wordlist = pickle.load(open(binaryTermsFile, "rb"))
 	print "\nTo load term file: ", timeit.default_timer() - t
 
