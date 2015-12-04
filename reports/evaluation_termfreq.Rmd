@@ -1,0 +1,137 @@
+---
+title: "Evaluation of SVD on TREC 2005"
+author: "Santina Lin"
+date: "December 3, 2015"
+output: 
+  html_document:
+    keep_md: yes
+    toc: true
+    toc_depth: 4
+---
+
+```{r warning=FALSE}
+library(ggplot2)
+library(plyr) # mutate(), mapvalues()
+```
+
+# Aim 
+
+Evaluate the precision of clustering results using two different matrix (term frequency and binary) in combination with two different distance functions (cosine and Euclidean) 
+
+There are two ways to measuring precision, either how precise they are in retrieving papers in the same category, or retriving **relevant** papers in the same categorie. 
+
+# Consider only category 
+```{r}
+category <- read.table("../closest_neighbors/evaluation_category.result")
+colnames(category) <- c("matrixType", "distFunc", "filename", "nsv", "precision")
+str(category)
+```
+
+## Term Frequcy Matrix 
+```{r}
+category_freq <- category[category$matrixType == "term_freq",]
+str(category_freq)
+```
+
+### Euclidean 
+```{r}
+category_freq_eu <- category_freq[category_freq$distFunc=="euclidean", ]
+plot(category_freq_eu$nsv, category_freq_eu$precision)
+```
+
+### Cosine 
+```{r}
+category_freq_co <- category_freq[category_freq$distFunc=="cosine", ]
+plot(category_freq_co$nsv, category_freq_co$precision)
+```
+
+## Binary Matrix 
+```{r}
+category_bi <- category[category$matrixType == "term_freq_binary",]
+str(category_bi)
+```
+
+### Euclidean 
+```{r}
+category_bi_eu <- category_bi[category_bi$distFunc=="euclidean", ]
+plot(category_bi_eu$nsv, category_bi_eu$precision)
+```
+
+### Cosine 
+```{r}
+category_bi_co <- category_bi[category_bi$distFunc=="cosine", ]
+plot(category_bi_co$nsv, category_bi_co$precision)
+```
+
+
+# Consider relevance and category 
+```{r}
+relevance<- read.table("../closest_neighbors/evaluation_relevance.result")
+colnames(relevance) <- c("matrixType", "distFunc", "filename", "nsv", "precision")
+str(relevance)
+```
+
+## Term Frequcy Matrix 
+```{r}
+relevance_freq <- relevance[relevance$matrixType == "term_freq",]
+str(relevance_freq)
+```
+
+### Euclidean 
+```{r}
+relevance_freq_eu <- relevance_freq[relevance_freq$distFunc=="euclidean", ]
+plot(relevance_freq_eu$nsv, relevance_freq_eu$precision)
+```
+
+### Cosine 
+```{r}
+relevance_freq_co <- relevance_freq[relevance_freq$distFunc=="cosine", ]
+plot(relevance_freq_co$nsv, relevance_freq_co$precision)
+```
+
+## Binary Matrix 
+```{r}
+relevance_bi <- relevance[relevance$matrixType == "term_freq_binary",]
+str(relevance_bi)
+```
+
+### Euclidean 
+```{r}
+relevance_bi_eu <- relevance_bi[relevance_bi$distFunc=="euclidean", ]
+plot(relevance_bi_eu$nsv, relevance_bi_eu$precision)
+```
+
+### Cosine 
+```{r}
+relevance_bi_co <- relevance_bi[relevance_bi$distFunc=="cosine", ]
+plot(relevance_bi_co$nsv, relevance_bi_co$precision)
+```
+
+# Summary
+Easier just to do side by side comparison. 
+
+First, let's combine the two datasets 
+```{r}
+all <- rbind( 
+  mutate(category, sort="category"), 
+  mutate(relevance, sort="category and relevance")
+  )
+all$sort <- as.factor(all$sort)
+all$matrixType <- mapvalues(all$matrixType, from = c("term_freq", "term_freq_binary"), to = c("term frequency", "binary term frequency"))
+str(all)
+```
+
+Then we use ggplot and facet grid to generate one graph 
+```{r}
+p <- ggplot(all, aes(x=nsv, y=precision, colour=distFunc)) + geom_point() + facet_grid(matrixType ~ sort) + theme_bw()
+p
+```
+
+Including relevance judgement definitely drops the precision by a lot. We need to note that though, from [the look of our dataset](abstracts.md), there are many unrelevant papers compared to relevant papers in some categories. So that might have contributed to the much lower frequencies. Just by looking at categories, cosine distance function seems to do fairly well in predicting (with accuracy close to 80% in binary matrix) and as number of singular values increase, the precision doesn't drop as much, unlike using Euclidean distance. 
+
+The number of singular values needed to achieve higher accuracy in each case is surprisingly low. 
+
+# A separate insepction 
+
+Using `../parsing_code/sparsity.py`, I found that out of the ~1 milion words in the word list (1062805 words), there are 4422 unique words from the list that occur in the abstracts. The most occurred word, which occured 1015 in total, is **gene**. 
+
