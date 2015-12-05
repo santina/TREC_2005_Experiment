@@ -12,6 +12,7 @@ output:
 ```{r warning=FALSE}
 library(ggplot2)
 library(plyr) # mutate(), mapvalues()
+library(knitr) # kable()
 ```
 
 # Aim 
@@ -113,25 +114,33 @@ Easier just to do side by side comparison.
 First, let's combine the two datasets 
 ```{r}
 all <- rbind( 
-  mutate(category, sort="category"), 
-  mutate(relevance, sort="category and relevance")
+  mutate(category, evaluation="category"), 
+  mutate(relevance, evaluation="category and relevance")
   )
-all$sort <- as.factor(all$sort)
+all$evaluation <- as.factor(all$evaluation)
 all$matrixType <- mapvalues(all$matrixType, from = c("term_freq", "term_freq_binary"), to = c("term frequency", "binary term frequency"))
 str(all)
 ```
 
 Then we use ggplot and facet grid to generate one graph 
 ```{r}
-p <- ggplot(all, aes(x=nsv, y=precision, colour=distFunc)) + geom_point() + facet_grid(matrixType ~ sort) + theme_bw()
-p
+ggplot(all, aes(x=nsv, y=precision, colour=distFunc)) + geom_point() + 
+  facet_grid(matrixType ~ evaluation) + theme_bw()
 ```
 
-Including relevance judgement definitely drops the precision by a lot. We need to note that though, from [the look of our dataset](abstracts.md), there are many unrelevant papers compared to relevant papers in some categories. So that might have contributed to the much lower frequencies. Just by looking at categories, cosine distance function seems to do fairly well in predicting (with accuracy close to 80% in binary matrix) and as number of singular values increase, the precision doesn't drop as much, unlike using Euclidean distance. 
+```{r}
+maxima <- aggregate(precision ~ evaluation + matrixType + distFunc, max, data=all)  # see maximum of all combinations 
+maxima <- merge(maxima, all[, c("precision", "nsv")], by="precision") # bring in the number of nsv 
+maxima <- arrange(maxima, evaluation, matrixType) # arrange the dataframe
+kable(maxima)
+```
+
+Including relevance judgement definitely drops the precision by a lot. We need to note that though, from [the look of our dataset](abstracts.md), there are many unrelevant papers compared to relevant papers in some categories. So that might have contributed to the much lower frequencies. Just by looking at categories, cosine distance function seems to do fairly well in predicting (with accuracy close to 80% in binary matrix) and as number of singular values increase, the precision doesn't drop as much, unlike using Euclidean distance.
 
 The number of singular values needed to achieve higher accuracy in each case is surprisingly low. 
 
-# A separate insepction 
+
+# A separate inspection 
 
 Using `../parsing_code/sparsity.py`, I found that out of the ~1 milion words in the word list (1062805 words), there are 4422 unique words from the list that occur in the abstracts. The most occurred word, which occured 1015 in total, is **gene**. 
 

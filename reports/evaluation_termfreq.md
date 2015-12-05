@@ -6,6 +6,7 @@ December 3, 2015
 ```r
 library(ggplot2)
 library(plyr) # mutate(), mapvalues()
+library(knitr) # kable()
 ```
 
 # Aim 
@@ -192,10 +193,10 @@ First, let's combine the two datasets
 
 ```r
 all <- rbind( 
-  mutate(category, sort="category"), 
-  mutate(relevance, sort="category and relevance")
+  mutate(category, evaluation="category"), 
+  mutate(relevance, evaluation="category and relevance")
   )
-all$sort <- as.factor(all$sort)
+all$evaluation <- as.factor(all$evaluation)
 all$matrixType <- mapvalues(all$matrixType, from = c("term_freq", "term_freq_binary"), to = c("term frequency", "binary term frequency"))
 str(all)
 ```
@@ -207,23 +208,45 @@ str(all)
 ##  $ filename  : Factor w/ 310 levels "cosine_10.neighbors",..: 156 157 158 159 160 161 162 163 164 165 ...
 ##  $ nsv       : int  10 100 1000 105 110 115 120 125 130 135 ...
 ##  $ precision : num  0.734 0.391 0.315 0.371 0.356 ...
-##  $ sort      : Factor w/ 2 levels "category","category and relevance": 1 1 1 1 1 1 1 1 1 1 ...
+##  $ evaluation: Factor w/ 2 levels "category","category and relevance": 1 1 1 1 1 1 1 1 1 1 ...
 ```
 
 Then we use ggplot and facet grid to generate one graph 
 
 ```r
-p <- ggplot(all, aes(x=nsv, y=precision, colour=distFunc)) + geom_point() + facet_grid(matrixType ~ sort) + theme_bw()
-p
+ggplot(all, aes(x=nsv, y=precision, colour=distFunc)) + geom_point() + 
+  facet_grid(matrixType ~ evaluation) + theme_bw()
 ```
 
 ![](evaluation_termfreq_files/figure-html/unnamed-chunk-17-1.png) 
 
-Including relevance judgement definitely drops the precision by a lot. We need to note that though, from [the look of our dataset](abstracts.md), there are many unrelevant papers compared to relevant papers in some categories. So that might have contributed to the much lower frequencies. Just by looking at categories, cosine distance function seems to do fairly well in predicting (with accuracy close to 80% in binary matrix) and as number of singular values increase, the precision doesn't drop as much, unlike using Euclidean distance. 
+
+```r
+maxima <- aggregate(precision ~ evaluation + matrixType + distFunc, max, data=all)  # see maximum of all combinations 
+maxima <- merge(maxima, all[, c("precision", "nsv")], by="precision") # bring in the number of nsv 
+maxima <- arrange(maxima, evaluation, matrixType) # arrange the dataframe
+kable(maxima)
+```
+
+
+
+ precision  evaluation               matrixType              distFunc     nsv
+----------  -----------------------  ----------------------  ----------  ----
+ 0.6470179  category                 term frequency          euclidean     30
+ 0.7000000  category                 term frequency          cosine        50
+ 0.7418146  category                 binary term frequency   euclidean     15
+ 0.7800980  category                 binary term frequency   cosine        15
+ 0.1334848  category and relevance   term frequency          cosine        50
+ 0.1674107  category and relevance   term frequency          euclidean    730
+ 0.1398352  category and relevance   binary term frequency   cosine        35
+ 0.1782178  category and relevance   binary term frequency   euclidean    850
+
+Including relevance judgement definitely drops the precision by a lot. We need to note that though, from [the look of our dataset](abstracts.md), there are many unrelevant papers compared to relevant papers in some categories. So that might have contributed to the much lower frequencies. Just by looking at categories, cosine distance function seems to do fairly well in predicting (with accuracy close to 80% in binary matrix) and as number of singular values increase, the precision doesn't drop as much, unlike using Euclidean distance.
 
 The number of singular values needed to achieve higher accuracy in each case is surprisingly low. 
 
-# A separate insepction 
+
+# A separate inspection 
 
 Using `../parsing_code/sparsity.py`, I found that out of the ~1 milion words in the word list (1062805 words), there are 4422 unique words from the list that occur in the abstracts. The most occurred word, which occured 1015 in total, is **gene**. 
 
