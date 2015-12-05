@@ -243,7 +243,7 @@ str(all)</code></pre>
 <pre class="r"><code>maxima &lt;- aggregate(precision ~ evaluation + matrixType + distFunc, max, data=all)  # see maximum of all combinations 
 maxima &lt;- merge(maxima, all[, c(&quot;precision&quot;, &quot;nsv&quot;)], by=&quot;precision&quot;) # bring in the number of nsv 
 maxima &lt;- arrange(maxima, evaluation, matrixType) # arrange the dataframe
-kable(maxima)</code></pre>
+kable(maxima, format=&quot;markdown&quot;) # Ensure Github can render the table</code></pre>
 <table>
 <thead>
 <tr class="header">

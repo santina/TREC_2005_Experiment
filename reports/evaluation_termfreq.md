@@ -225,21 +225,21 @@ ggplot(all, aes(x=nsv, y=precision, colour=distFunc)) + geom_point() +
 maxima <- aggregate(precision ~ evaluation + matrixType + distFunc, max, data=all)  # see maximum of all combinations 
 maxima <- merge(maxima, all[, c("precision", "nsv")], by="precision") # bring in the number of nsv 
 maxima <- arrange(maxima, evaluation, matrixType) # arrange the dataframe
-kable(maxima)
+kable(maxima, format="markdown") # Ensure Github can render the table
 ```
 
 
 
- precision  evaluation               matrixType              distFunc     nsv
-----------  -----------------------  ----------------------  ----------  ----
- 0.6470179  category                 term frequency          euclidean     30
- 0.7000000  category                 term frequency          cosine        50
- 0.7418146  category                 binary term frequency   euclidean     15
- 0.7800980  category                 binary term frequency   cosine        15
- 0.1334848  category and relevance   term frequency          cosine        50
- 0.1674107  category and relevance   term frequency          euclidean    730
- 0.1398352  category and relevance   binary term frequency   cosine        35
- 0.1782178  category and relevance   binary term frequency   euclidean    850
+| precision|evaluation             |matrixType            |distFunc  | nsv|
+|---------:|:----------------------|:---------------------|:---------|---:|
+| 0.6470179|category               |term frequency        |euclidean |  30|
+| 0.7000000|category               |term frequency        |cosine    |  50|
+| 0.7418146|category               |binary term frequency |euclidean |  15|
+| 0.7800980|category               |binary term frequency |cosine    |  15|
+| 0.1334848|category and relevance |term frequency        |cosine    |  50|
+| 0.1674107|category and relevance |term frequency        |euclidean | 730|
+| 0.1398352|category and relevance |binary term frequency |cosine    |  35|
+| 0.1782178|category and relevance |binary term frequency |euclidean | 850|
 
 Including relevance judgement definitely drops the precision by a lot. We need to note that though, from [the look of our dataset](abstracts.md), there are many unrelevant papers compared to relevant papers in some categories. So that might have contributed to the much lower frequencies. Just by looking at categories, cosine distance function seems to do fairly well in predicting (with accuracy close to 80% in binary matrix) and as number of singular values increase, the precision doesn't drop as much, unlike using Euclidean distance.
 
