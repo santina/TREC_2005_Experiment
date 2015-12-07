@@ -1,6 +1,4 @@
- 
-# Given a term frequency file, construct the matrix, do svd, and output closets neighbors
-# of specified range, and write the result to a file 
+
 
 import argparse
 import numpy as np
@@ -38,7 +36,7 @@ def countTotalEntries(filename):
 			#nTerms += countOccurrence(line)
 	return nEntries
 
-def buildGlobalHash(filename):
+def buildTermFreqHash(filename):
 	h = {}
 	with open(filename, 'rb') as f:
 		content = f.readlines()
@@ -86,7 +84,7 @@ if __name__ == "__main__":
 	totalWords = 1062805  
 	
 	filename = "../info_data/abstracts_term_freq.txt"
-	h = buildGlobalHash(filename)
+	h = buildTermFreqHash(filename)
 	print countTotalEntries(filename)
 	print
 	print countUnused(h, totalWords)
