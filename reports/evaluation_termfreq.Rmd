@@ -118,7 +118,7 @@ all <- rbind(
   mutate(relevance, evaluation="category and relevance")
   )
 all$evaluation <- as.factor(all$evaluation)
-all$matrixType <- mapvalues(all$matrixType, from = c("term_freq", "term_freq_binary"), to = c("term frequency", "binary term frequency"))
+all$matrixType <- mapvalues(all$matrixType, from = c("tf_idf", "term_freq", "term_freq_binary"), to = c("TF-IDF", "term frequency", "binary term frequency"))
 str(all)
 ```
 
