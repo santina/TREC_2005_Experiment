@@ -11,7 +11,7 @@ def buildAbstractExistDict(metadata):
 	index = 0
 	with open(metadata) as f:
 		for line in f:
-			line = line.split('\t')
+			line = line.strip().split('\t')
 			if line[3] != 'NA':
 				hasAbstract[index] = True
 			else: 
@@ -58,7 +58,7 @@ def getScore(result, hasAbstractDict, relevanceDict, npapers):
 	
 	IDs = [int(i) for i in result.split()]
 	paper = IDs[0]
-	if relevanceDict[paper][1] == 'NR':
+	if relevanceDict[paper][1] == 'NR' or not hasAbstractDict[paper]:
 		return None # if the paper has no abstract 
 	else: 
 		category = relevanceDict[paper][0] 
