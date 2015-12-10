@@ -349,7 +349,7 @@ kable(maxima, format=&quot;markdown&quot;) # Ensure Github can render the table<
 </tr>
 </tbody>
 </table>
-<p>We can see that including title and journal names doesn’t make a big difference.</p>
+<p>We can see that including title and journal names doesn’t make a big difference. However, at least for Euclidean distance, it’s obvious that precision doesn’t dive down as much as number of singular values increases. So it’s safer to use title + journal name + abstract instead of just using abstracts to find similar papers.</p>
 </div>
 <div id="a-separate-inspection" class="section level1">
 <h1>A separate inspection</h1>
@@ -362,6 +362,7 @@ kable(maxima, format=&quot;markdown&quot;) # Ensure Github can render the table<
 <li>Break down and inspect the precision measurement by categories - There are some categories with very few relevant papers, so that could have dragged down the result</li>
 <li><del>Include titles of the abstracts in the text abstraction step - Title text is important too!</del></li>
 <li>Try work “knock-out”, either knocking down a word in an abstract of interest, or all the occurrences of the word in all the abstracts.</li>
+<li>Bench mark using random selection : random select 20 papers for each paper to see how that precision compare to our algorithm.</li>
 </ul>
 </div>
 

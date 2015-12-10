@@ -169,7 +169,7 @@ kable(maxima, format="markdown") # Ensure Github can render the table
 | 0.1662791|category and relevance |TF-IDF                |cosine    |  40|
 
 
-We can see that including title and journal names doesn't make a big difference. 
+We can see that including title and journal names doesn't make a big difference. However, at least for Euclidean distance, it's obvious that precision doesn't dive down as much as number of singular values increases. So it's safer to use title + journal name + abstract instead of just using abstracts to find similar papers. 
 
 # A separate inspection 
 
@@ -182,3 +182,4 @@ There are other things that could be done to further analyze the result:
 - Break down and inspect the precision measurement by categories -  There are some categories with very few relevant papers, so that could have dragged down the result
 -  ~~Include titles of the abstracts in the text abstraction step - Title text is important too!~~ 
 -  Try work "knock-out", either knocking down a word in an abstract of interest, or all the occurrences of the word in all the abstracts. 
+- Bench mark using random selection : random select 20 papers for each paper to see how that precision compare to our algorithm.
