@@ -2,6 +2,7 @@
 from os import listdir
 from os.path import isfile, isdir, join
 import re 
+import timeit
 
 def buildAbstractExistDict(metadata):
 	''' Make and return a hash that records whether a paper has an abstract
@@ -41,9 +42,9 @@ def getPrecision(papers, hasAbstract, relevanceDict, category):
 	npapers = len(papers)
 	numCorrects = 0
 	for paperID in papers:
-		
+
 		info = relevanceDict[paperID]
-		if info[0] == category and info[1] == ('PR' or 'DR'): 
+		if info[0] == category:# and info[1] == ('PR' or 'DR'): 
 			numCorrects += 1
 			
 	return float(numCorrects)/npapers
@@ -71,25 +72,18 @@ def recordScore(out, npapers, totalScore, matrixFolder, distanceFolder, closestP
 
 	out.write('\t'.join([matrixFolder, distanceFolder, closestPapersFile, nsv, avgScore]) + '\n')
 
-def main():
-	# TODO : use argparse to read in input files and other parameters 
 
-	metadata_wAbstracts = "../info_data/abstracts.txt"
-	resultFolder = "/projects/slin_prj/slin_prj_results/closest_papers/TREC2005_train/abstract_only"
+def traverseFile(resultFolder, hasAbstractDict, relevanceDict, evalResultOutFile, nPapers):
+	''' Go through all the folders in the `resultFolder`, extract the name as the type of 
+	matrix or similarity measurement, and calculate precision for each file write 
+	to `evalResultOutFile` 
+	'''
 	# file organization: 
 	# resultFolder 
-	#	> (type of matrix) {term_freq, term_freq_binary, tfidf} 
+	#	> (type of matrix) {term_freq, term_freq_binary, tf_idf} 
 	#		> (type of distance measurement) {euclidean, cosine}
-	evalResultOutFile = resultFolder + "/evaluation_relevance.result"
 	out = open(evalResultOutFile, 'w')
-
-	hasAbstractDict = buildAbstractExistDict(metadata_wAbstracts)
-	relevanceDict = buildRelevanceDict(metadata_wAbstracts)
-	nPapers = 20
-
-	# TODO : wrap this chunk in a separate function 
-
-	# traversing the file 
+	
 	for matrixFolder in [f for f in listdir(resultFolder) if isdir(join(resultFolder, f))]:
 		curDir = join(resultFolder, matrixFolder)
 		
@@ -108,7 +102,21 @@ def main():
 							npapers += 1 
 					recordScore(out, npapers, totalScore, matrixFolder, distanceFolder, closestPapersFile)
 
+def main():
+	# TODO : use argparse to read in input files and other parameters 
 
+	metadata_wAbstracts = "../info_data/abstracts.txt"
+	resultFolder = "/projects/slin_prj/slin_prj_results/closest_papers/TREC2005_train/abstract_only"
+
+	evalResultOutFile = resultFolder + "/evaluation_category.result"
+
+	hasAbstractDict = buildAbstractExistDict(metadata_wAbstracts)
+	relevanceDict = buildRelevanceDict(metadata_wAbstracts)
+	nPapers = 20 # number of papers to look at 
+
+	traverseFile(resultFolder, hasAbstractDict, relevanceDict, evalResultOutFile, nPapers)
 
 if __name__ == '__main__':
+	t = timeit.default_timer()
 	main()
+	print "Evaluation took ", str(timeit.default_timer() - t), " seconds"
