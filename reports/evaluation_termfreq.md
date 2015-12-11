@@ -175,11 +175,92 @@ We can see that including title and journal names doesn't make a big difference.
 
 Using `../parsing_code/sparsity.py`, I found that out of the ~1 milion words in the word list (1062805 words), there are 4422 unique words from the list that occur in the abstracts. The most occurred word, which occured 1015 in total, is **gene**. 
 
+
+# See the breakdown 
+
+## Abstract-only
+
+
+See evaluation looking at the same topics only 
+
+```r
+# Prepare the data 
+category_bytopics <- read.table("../closest_neighbors/abstract_only/evaluation_category_bytopics.result")
+colnames(category_bytopics) <- c("matrixType", "distFunc", "filename", "topic", "nsv", "precision")
+category_bytopics$topic <- as.factor(category_bytopics$topic)
+category_bytopics$matrixType <- mapvalues(category_bytopics$matrixType, from = c("tf_idf", "term_freq", "term_freq_binary"), to = c("TF-IDF", "term frequency", "binary term frequency"))
+
+# Graph the data 
+ggplot(category_bytopics, aes(x=nsv, y=precision, colour=topic)) + geom_point() + geom_line(aes(colour=topic, group=topic)) + 
+  scale_fill_brewer(palette="BrBG") + facet_grid(matrixType ~ distFunc) + theme_bw() 
+```
+
+![](evaluation_termfreq_files/figure-html/unnamed-chunk-10-1.png) 
+
+
+
+Evaluation by looking at both topics and relevance 
+
+```r
+# Prepare the data 
+relevance_bytopics <- read.table("../closest_neighbors/abstract_only/evaluation_relevance_bytopics.result")
+colnames(relevance_bytopics) <- c("matrixType", "distFunc", "filename", "topic", "nsv", "precision")
+relevance_bytopics$topic <- as.factor(relevance_bytopics$topic)
+relevance_bytopics$matrixType <- mapvalues(relevance_bytopics$matrixType, from = c("tf_idf", "term_freq", "term_freq_binary"), to = c("TF-IDF", "term frequency", "binary term frequency"))
+
+# Graph the data 
+ggplot(relevance_bytopics, aes(x=nsv, y=precision, colour=topic)) + geom_point() + geom_line(aes(colour=topic, group=topic)) + 
+  scale_fill_brewer(palette="BrBG") + facet_grid(matrixType ~ distFunc) + theme_bw() 
+```
+
+![](evaluation_termfreq_files/figure-html/unnamed-chunk-11-1.png) 
+
+
+
+## Abstract + journal + title 
+
+See evaluation looking at the same topics only 
+
+```r
+# Prepare the data 
+category_bytopics <- read.table("../closest_neighbors/alltext/evaluation_category_bytopics.result")
+colnames(category_bytopics) <- c("matrixType", "distFunc", "filename", "topic", "nsv", "precision")
+category_bytopics$topic <- as.factor(category_bytopics$topic)
+category_bytopics$matrixType <- mapvalues(category_bytopics$matrixType, from = c("tf_idf", "term_freq", "term_freq_binary"), to = c("TF-IDF", "term frequency", "binary term frequency"))
+
+# Graph the data 
+ggplot(category_bytopics, aes(x=nsv, y=precision, colour=topic)) + geom_point() + geom_line(aes(colour=topic, group=topic)) + 
+  scale_fill_brewer(palette="BrBG") + facet_grid(matrixType ~ distFunc) + theme_bw() 
+```
+
+![](evaluation_termfreq_files/figure-html/unnamed-chunk-12-1.png) 
+
+
+
+Evaluation by looking at both topics and relevance 
+
+```r
+# Prepare the data 
+relevance_bytopics <- read.table("../closest_neighbors/alltext/evaluation_relevance_bytopics.result")
+colnames(relevance_bytopics) <- c("matrixType", "distFunc", "filename", "topic", "nsv", "precision")
+relevance_bytopics$topic <- as.factor(relevance_bytopics$topic)
+relevance_bytopics$matrixType <- mapvalues(relevance_bytopics$matrixType, from = c("tf_idf", "term_freq", "term_freq_binary"), to = c("TF-IDF", "term frequency", "binary term frequency"))
+
+# Graph the data 
+ggplot(relevance_bytopics, aes(x=nsv, y=precision, colour=topic)) + geom_point() + geom_line(aes(colour=topic, group=topic)) + 
+  scale_fill_brewer(palette="BrBG") + facet_grid(matrixType ~ distFunc) + theme_bw() 
+```
+
+![](evaluation_termfreq_files/figure-html/unnamed-chunk-13-1.png) 
+
+
+
+
 # Further inspection (the potential TODOs)
 
 There are other things that could be done to further analyze the result:
 
-- Break down and inspect the precision measurement by categories -  There are some categories with very few relevant papers, so that could have dragged down the result
+- ~~Break down and inspect the precision measurement by categories -  There are some categories with very few relevant papers, so that could have dragged down the result~~ 
 -  ~~Include titles of the abstracts in the text abstraction step - Title text is important too!~~ 
 -  Try work "knock-out", either knocking down a word in an abstract of interest, or all the occurrences of the word in all the abstracts. 
 - Bench mark using random selection : random select 20 papers for each paper to see how that precision compare to our algorithm.
