@@ -41,13 +41,11 @@ def getPrecision(papers, hasAbstract, relevanceDict, category):
 	npapers = len(papers)
 	numCorrects = 0
 	for paperID in papers:
-		if hasAbstract[paperID]:
-			info = relevanceDict[paperID]
-			if info[0] == category and info[1] == ('PR' or 'DR'): 
-				numCorrects += 1
+		
+		info = relevanceDict[paperID]
+		if info[0] == category and info[1] == ('PR' or 'DR'): 
+			numCorrects += 1
 			
-		else: 
-			npapers -= 1
 	return float(numCorrects)/npapers
 
 # TODO: implement different metrics of measuring a score (eg recall, MAP)
@@ -77,12 +75,12 @@ def main():
 	# TODO : use argparse to read in input files and other parameters 
 
 	metadata_wAbstracts = "../info_data/abstracts.txt"
-	resultFolder = "/projects/slin_prj/slin_prj_results/closest_papers/TREC2005_train"
+	resultFolder = "/projects/slin_prj/slin_prj_results/closest_papers/TREC2005_train/abstract_only"
 	# file organization: 
 	# resultFolder 
 	#	> (type of matrix) {term_freq, term_freq_binary, tfidf} 
 	#		> (type of distance measurement) {euclidean, cosine}
-	evalResultOutFile = "/projects/slin_prj/slin_prj_results/closest_papers/TREC2005_train/evaluation_relevance.result"
+	evalResultOutFile = resultFolder + "/evaluation_relevance.result"
 	out = open(evalResultOutFile, 'w')
 
 	hasAbstractDict = buildAbstractExistDict(metadata_wAbstracts)
