@@ -26,10 +26,10 @@ Easier just to do side by side comparison.
 
 First, load the two datasets (two different evaluation standards)
 ```{r}
-category <- read.table("../closest_neighbors/abstract-only/evaluation_category.result")
+category <- read.table("../closest_neighbors/abstract_only/evaluation_category.result")
 colnames(category) <- c("matrixType", "distFunc", "filename", "nsv", "precision")
 str(category)
-relevance<- read.table("../closest_neighbors/abstract-only/evaluation_relevance.result")
+relevance<- read.table("../closest_neighbors/abstract_only/evaluation_relevance.result")
 colnames(relevance) <- c("matrixType", "distFunc", "filename", "nsv", "precision")
 str(relevance)
 ```
