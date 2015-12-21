@@ -1,0 +1,5 @@
+*.pyc
+*.sh
+backtrace*
+._*
+*.DS_Store
